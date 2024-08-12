@@ -1,0 +1,3673 @@
+Season,Player,Salary,Type
+2023-24,Stephen Curry,51915615,Guaranteed
+2024-25,Stephen Curry,55761217,Guaranteed
+2025-26,Stephen Curry,59606817,Guaranteed
+2026-27,Stephen Curry,0,Guaranteed
+2027-28,Stephen Curry,0,Guaranteed
+2028-29,Stephen Curry,0,Guaranteed
+2023-24,Kevin Durant,47649433,Guaranteed
+2024-25,Kevin Durant,51179020,Guaranteed
+2025-26,Kevin Durant,54708608,Guaranteed
+2026-27,Kevin Durant,0,Guaranteed
+2027-28,Kevin Durant,0,Guaranteed
+2028-29,Kevin Durant,0,Guaranteed
+2023-24,Nikola Jokic,47607350,Guaranteed
+2024-25,Nikola Jokic,51415938,Guaranteed
+2025-26,Nikola Jokic,55224526,Guaranteed
+2026-27,Nikola Jokic,59033114,Guaranteed
+2027-28,Nikola Jokic,62841702,Player Option
+2028-29,Nikola Jokic,0,Guaranteed
+2023-24,LeBron James,47607350,Guaranteed
+2024-25,LeBron James,51415938,Player Option
+2025-26,LeBron James,0,Guaranteed
+2026-27,LeBron James,0,Guaranteed
+2027-28,LeBron James,0,Guaranteed
+2028-29,LeBron James,0,Guaranteed
+2023-24,Joel Embiid,47607350,Guaranteed
+2024-25,Joel Embiid,51415938,Guaranteed
+2025-26,Joel Embiid,55224526,Guaranteed
+2026-27,Joel Embiid,59033114,Player Option
+2027-28,Joel Embiid,0,Guaranteed
+2028-29,Joel Embiid,0,Guaranteed
+2023-24,Bradley Beal,46741590,Guaranteed
+2024-25,Bradley Beal,50203930,Guaranteed
+2025-26,Bradley Beal,53666270,Guaranteed
+2026-27,Bradley Beal,57128610,Guaranteed
+2027-28,Bradley Beal,0,Guaranteed
+2028-29,Bradley Beal,0,Guaranteed
+2023-24,Kawhi Leonard,45640084,Guaranteed
+2024-25,Kawhi Leonard,52368085,Guaranteed
+2025-26,Kawhi Leonard,50000000,Guaranteed
+2026-27,Kawhi Leonard,50300000,Guaranteed
+2027-28,Kawhi Leonard,0,Guaranteed
+2028-29,Kawhi Leonard,0,Guaranteed
+2023-24,Paul George,45640084,Guaranteed
+2024-25,Paul George,48787676,Player Option
+2025-26,Paul George,0,Guaranteed
+2026-27,Paul George,0,Guaranteed
+2027-28,Paul George,0,Guaranteed
+2028-29,Paul George,0,Guaranteed
+2023-24,Giannis Antetokounmpo,45640084,Guaranteed
+2024-25,Giannis Antetokounmpo,48787676,Guaranteed
+2025-26,Giannis Antetokounmpo,57604894,Guaranteed
+2026-27,Giannis Antetokounmpo,62213285,Guaranteed
+2027-28,Giannis Antetokounmpo,66821676,Player Option
+2028-29,Giannis Antetokounmpo,0,Guaranteed
+2023-24,Damian Lillard,45640084,Guaranteed
+2024-25,Damian Lillard,48787676,Guaranteed
+2025-26,Damian Lillard,58545211,Guaranteed
+2026-27,Damian Lillard,63228828,Player Option
+2027-28,Damian Lillard,0,Guaranteed
+2028-29,Damian Lillard,0,Guaranteed
+2023-24,Jimmy Butler,45183960,Guaranteed
+2024-25,Jimmy Butler,48798677,Guaranteed
+2025-26,Jimmy Butler,52413394,Player Option
+2026-27,Jimmy Butler,0,Guaranteed
+2027-28,Jimmy Butler,0,Guaranteed
+2028-29,Jimmy Butler,0,Guaranteed
+2023-24,Klay Thompson,43219440,Guaranteed
+2024-25,Klay Thompson,0,Guaranteed
+2025-26,Klay Thompson,0,Guaranteed
+2026-27,Klay Thompson,0,Guaranteed
+2027-28,Klay Thompson,0,Guaranteed
+2028-29,Klay Thompson,0,Guaranteed
+2023-24,Rudy Gobert,41000000,Guaranteed
+2024-25,Rudy Gobert,43827586,Guaranteed
+2025-26,Rudy Gobert,46655173,Player Option
+2026-27,Rudy Gobert,0,Guaranteed
+2027-28,Rudy Gobert,0,Guaranteed
+2028-29,Rudy Gobert,0,Guaranteed
+2023-24,Fred VanVleet,40806300,Guaranteed
+2024-25,Fred VanVleet,42846615,Guaranteed
+2025-26,Fred VanVleet,44886930,Team Option
+2026-27,Fred VanVleet,0,Guaranteed
+2027-28,Fred VanVleet,0,Guaranteed
+2028-29,Fred VanVleet,0,Guaranteed
+2023-24,Anthony Davis,40600080,Guaranteed
+2024-25,Anthony Davis,43219440,Guaranteed
+2025-26,Anthony Davis,57604894,Guaranteed
+2026-27,Anthony Davis,62213285,Guaranteed
+2027-28,Anthony Davis,66821676,Player Option
+2028-29,Anthony Davis,0,Guaranteed
+2023-24,Trae Young,40064220,Guaranteed
+2024-25,Trae Young,43031940,Guaranteed
+2025-26,Trae Young,45999660,Guaranteed
+2026-27,Trae Young,48967380,Player Option
+2027-28,Trae Young,0,Guaranteed
+2028-29,Trae Young,0,Guaranteed
+2023-24,Zach LaVine,40064220,Guaranteed
+2024-25,Zach LaVine,43031940,Guaranteed
+2025-26,Zach LaVine,45999660,Guaranteed
+2026-27,Zach LaVine,48967380,Player Option
+2027-28,Zach LaVine,0,Guaranteed
+2028-29,Zach LaVine,0,Guaranteed
+2023-24,Luka Doncic,40064220,Guaranteed
+2024-25,Luka Doncic,43031940,Guaranteed
+2025-26,Luka Doncic,45999660,Guaranteed
+2026-27,Luka Doncic,48967380,Player Option
+2027-28,Luka Doncic,0,Guaranteed
+2028-29,Luka Doncic,0,Guaranteed
+2023-24,Tobias Harris,39270150,Guaranteed
+2024-25,Tobias Harris,0,Guaranteed
+2025-26,Tobias Harris,0,Guaranteed
+2026-27,Tobias Harris,0,Guaranteed
+2027-28,Tobias Harris,0,Guaranteed
+2028-29,Tobias Harris,0,Guaranteed
+2023-24,Kyrie Irving,38037037,Guaranteed
+2024-25,Kyrie Irving,41000000,Guaranteed
+2025-26,Kyrie Irving,43962963,Player Option
+2026-27,Kyrie Irving,0,Guaranteed
+2027-28,Kyrie Irving,0,Guaranteed
+2028-29,Kyrie Irving,0,Guaranteed
+2023-24,Ben Simmons,37893408,Guaranteed
+2024-25,Ben Simmons,40338144,Guaranteed
+2025-26,Ben Simmons,0,Guaranteed
+2026-27,Ben Simmons,0,Guaranteed
+2027-28,Ben Simmons,0,Guaranteed
+2028-29,Ben Simmons,0,Guaranteed
+2023-24,Pascal Siakam,37893408,Guaranteed
+2024-25,Pascal Siakam,0,Guaranteed
+2025-26,Pascal Siakam,0,Guaranteed
+2026-27,Pascal Siakam,0,Guaranteed
+2027-28,Pascal Siakam,0,Guaranteed
+2028-29,Pascal Siakam,0,Guaranteed
+2023-24,Jrue Holiday,37620347,Guaranteed
+2024-25,Jrue Holiday,30000000,Guaranteed
+2025-26,Jrue Holiday,32400000,Guaranteed
+2026-27,Jrue Holiday,34800000,Guaranteed
+2027-28,Jrue Holiday,37200000,Player Option
+2028-29,Jrue Holiday,0,Guaranteed
+2023-24,Karl-Anthony Towns,36016200,Guaranteed
+2024-25,Karl-Anthony Towns,49350000,Guaranteed
+2025-26,Karl-Anthony Towns,53298000,Guaranteed
+2026-27,Karl-Anthony Towns,57246000,Guaranteed
+2027-28,Karl-Anthony Towns,61194000,Player Option
+2028-29,Karl-Anthony Towns,0,Guaranteed
+2023-24,Devin Booker,36016200,Guaranteed
+2024-25,Devin Booker,49350000,Guaranteed
+2025-26,Devin Booker,53298000,Guaranteed
+2026-27,Devin Booker,57246000,Guaranteed
+2027-28,Devin Booker,61194000,Guaranteed
+2028-29,Devin Booker,0,Guaranteed
+2023-24,Kristaps Porzingis,36016200,Guaranteed
+2024-25,Kristaps Porzingis,29268293,Guaranteed
+2025-26,Kristaps Porzingis,30731707,Guaranteed
+2026-27,Kristaps Porzingis,0,Guaranteed
+2027-28,Kristaps Porzingis,0,Guaranteed
+2028-29,Kristaps Porzingis,0,Guaranteed
+2023-24,CJ McCollum,35802469,Guaranteed
+2024-25,CJ McCollum,33333333,Guaranteed
+2025-26,CJ McCollum,30666666,Guaranteed
+2026-27,CJ McCollum,0,Guaranteed
+2027-28,CJ McCollum,0,Guaranteed
+2028-29,CJ McCollum,0,Guaranteed
+2023-24,James Harden,35680595,Guaranteed
+2024-25,James Harden,0,Guaranteed
+2025-26,James Harden,0,Guaranteed
+2026-27,James Harden,0,Guaranteed
+2027-28,James Harden,0,Guaranteed
+2028-29,James Harden,0,Guaranteed
+2023-24,Darius Garland,34005250,Guaranteed
+2024-25,Darius Garland,36725670,Guaranteed
+2025-26,Darius Garland,39446090,Guaranteed
+2026-27,Darius Garland,42166510,Guaranteed
+2027-28,Darius Garland,44886930,Guaranteed
+2028-29,Darius Garland,0,Guaranteed
+2023-24,Ja Morant,34005250,Guaranteed
+2024-25,Ja Morant,36725670,Guaranteed
+2025-26,Ja Morant,39446090,Guaranteed
+2026-27,Ja Morant,42166510,Guaranteed
+2027-28,Ja Morant,44886930,Guaranteed
+2028-29,Ja Morant,0,Guaranteed
+2023-24,Zion Williamson,34005250,Guaranteed
+2024-25,Zion Williamson,36725670,Guaranteed
+2025-26,Zion Williamson,39446090,Guaranteed
+2026-27,Zion Williamson,42166510,Guaranteed
+2027-28,Zion Williamson,44886930,Guaranteed
+2028-29,Zion Williamson,0,Guaranteed
+2023-24,Jamal Murray,33833400,Guaranteed
+2024-25,Jamal Murray,36016200,Guaranteed
+2025-26,Jamal Murray,0,Guaranteed
+2026-27,Jamal Murray,0,Guaranteed
+2027-28,Jamal Murray,0,Guaranteed
+2028-29,Jamal Murray,0,Guaranteed
+2023-24,Brandon Ingram,33833400,Guaranteed
+2024-25,Brandon Ingram,36016200,Guaranteed
+2025-26,Brandon Ingram,0,Guaranteed
+2026-27,Brandon Ingram,0,Guaranteed
+2027-28,Brandon Ingram,0,Guaranteed
+2028-29,Brandon Ingram,0,Guaranteed
+2023-24,Michael Porter,33386850,Guaranteed
+2024-25,Michael Porter,35859950,Guaranteed
+2025-26,Michael Porter,38333050,Guaranteed
+2026-27,Michael Porter,40806150,Guaranteed
+2027-28,Michael Porter,0,Guaranteed
+2028-29,Michael Porter,0,Guaranteed
+2023-24,Shai Gilgeous-Alexander,33386850,Guaranteed
+2024-25,Shai Gilgeous-Alexander,35859950,Guaranteed
+2025-26,Shai Gilgeous-Alexander,38333050,Guaranteed
+2026-27,Shai Gilgeous-Alexander,40806150,Guaranteed
+2027-28,Shai Gilgeous-Alexander,0,Guaranteed
+2028-29,Shai Gilgeous-Alexander,0,Guaranteed
+2023-24,Donovan Mitchell,33162030,Guaranteed
+2024-25,Donovan Mitchell,35410310,Guaranteed
+2025-26,Donovan Mitchell,37096620,Player Option
+2026-27,Donovan Mitchell,0,Guaranteed
+2027-28,Donovan Mitchell,0,Guaranteed
+2028-29,Donovan Mitchell,0,Guaranteed
+2023-24,Jayson Tatum,32600060,Guaranteed
+2024-25,Jayson Tatum,34848340,Guaranteed
+2025-26,Jayson Tatum,37096620,Player Option
+2026-27,Jayson Tatum,0,Guaranteed
+2027-28,Jayson Tatum,0,Guaranteed
+2028-29,Jayson Tatum,0,Guaranteed
+2023-24,Bam Adebayo,32600060,Guaranteed
+2024-25,Bam Adebayo,34848340,Guaranteed
+2025-26,Bam Adebayo,37096620,Guaranteed
+2026-27,Bam Adebayo,0,Guaranteed
+2027-28,Bam Adebayo,0,Guaranteed
+2028-29,Bam Adebayo,0,Guaranteed
+2023-24,De'Aaron Fox,32600060,Guaranteed
+2024-25,De'Aaron Fox,34848340,Guaranteed
+2025-26,De'Aaron Fox,37096620,Guaranteed
+2026-27,De'Aaron Fox,0,Guaranteed
+2027-28,De'Aaron Fox,0,Guaranteed
+2028-29,De'Aaron Fox,0,Guaranteed
+2023-24,Deandre Ayton,32459438,Guaranteed
+2024-25,Deandre Ayton,34005126,Guaranteed
+2025-26,Deandre Ayton,35550814,Guaranteed
+2026-27,Deandre Ayton,0,Guaranteed
+2027-28,Deandre Ayton,0,Guaranteed
+2028-29,Deandre Ayton,0,Guaranteed
+2023-24,Jaylen Brown,31830357,Guaranteed
+2024-25,Jaylen Brown,49350000,Guaranteed
+2025-26,Jaylen Brown,53298000,Guaranteed
+2026-27,Jaylen Brown,57246000,Guaranteed
+2027-28,Jaylen Brown,61194000,Guaranteed
+2028-29,Jaylen Brown,65142000,Guaranteed
+2023-24,Gordon Hayward,31500000,Guaranteed
+2024-25,Gordon Hayward,0,Guaranteed
+2025-26,Gordon Hayward,0,Guaranteed
+2026-27,Gordon Hayward,0,Guaranteed
+2027-28,Gordon Hayward,0,Guaranteed
+2028-29,Gordon Hayward,0,Guaranteed
+2023-24,Chris Paul,30800000,Guaranteed
+2024-25,Chris Paul,30800000,Guaranteed
+2025-26,Chris Paul,0,Guaranteed
+2026-27,Chris Paul,0,Guaranteed
+2027-28,Chris Paul,0,Guaranteed
+2028-29,Chris Paul,0,Guaranteed
+2023-24,Kyle Lowry,29682540,Guaranteed
+2024-25,Kyle Lowry,0,Guaranteed
+2025-26,Kyle Lowry,0,Guaranteed
+2026-27,Kyle Lowry,0,Guaranteed
+2027-28,Kyle Lowry,0,Guaranteed
+2028-29,Kyle Lowry,0,Guaranteed
+2023-24,Khris Middleton,29320988,Guaranteed
+2024-25,Khris Middleton,31666667,Guaranteed
+2025-26,Khris Middleton,34012345,Player Option
+2026-27,Khris Middleton,0,Guaranteed
+2027-28,Khris Middleton,0,Guaranteed
+2028-29,Khris Middleton,0,Guaranteed
+2023-24,Domantas Sabonis,29300000,Guaranteed
+2024-25,Domantas Sabonis,40500000,Guaranteed
+2025-26,Domantas Sabonis,43636000,Guaranteed
+2026-27,Domantas Sabonis,46772000,Guaranteed
+2027-28,Domantas Sabonis,49908000,Guaranteed
+2028-29,Domantas Sabonis,0,Guaranteed
+2023-24,DeMar DeRozan,28600000,Guaranteed
+2024-25,DeMar DeRozan,0,Guaranteed
+2025-26,DeMar DeRozan,0,Guaranteed
+2026-27,DeMar DeRozan,0,Guaranteed
+2027-28,DeMar DeRozan,0,Guaranteed
+2028-29,DeMar DeRozan,0,Guaranteed
+2023-24,Jordan Poole,27955357,Guaranteed
+2024-25,Jordan Poole,30151786,Guaranteed
+2025-26,Jordan Poole,32348215,Guaranteed
+2026-27,Jordan Poole,34544642,Guaranteed
+2027-28,Jordan Poole,0,Guaranteed
+2028-29,Jordan Poole,0,Guaranteed
+2023-24,Jerami Grant,27586207,Guaranteed
+2024-25,Jerami Grant,29793104,Guaranteed
+2025-26,Jerami Grant,32000001,Guaranteed
+2026-27,Jerami Grant,34206898,Guaranteed
+2027-28,Jerami Grant,36413790,Player Option
+2028-29,Jerami Grant,0,Guaranteed
+2023-24,Jaren Jackson Jr,27102202,Guaranteed
+2024-25,Jaren Jackson Jr,25257798,Guaranteed
+2025-26,Jaren Jackson Jr,23413395,Guaranteed
+2026-27,Jaren Jackson Jr,0,Guaranteed
+2027-28,Jaren Jackson Jr,0,Guaranteed
+2028-29,Jaren Jackson Jr,0,Guaranteed
+2023-24,Tyler Herro,27000000,Guaranteed
+2024-25,Tyler Herro,29000000,Guaranteed
+2025-26,Tyler Herro,31000000,Guaranteed
+2026-27,Tyler Herro,33000000,Guaranteed
+2027-28,Tyler Herro,0,Guaranteed
+2028-29,Tyler Herro,0,Guaranteed
+2023-24,Julius Randle,26943840,Guaranteed
+2024-25,Julius Randle,28939680,Guaranteed
+2025-26,Julius Randle,30935520,Player Option
+2026-27,Julius Randle,0,Guaranteed
+2027-28,Julius Randle,0,Guaranteed
+2028-29,Julius Randle,0,Guaranteed
+2023-24,Jalen Brunson,26346666,Guaranteed
+2024-25,Jalen Brunson,24960001,Guaranteed
+2025-26,Jalen Brunson,24960001,Player Option
+2026-27,Jalen Brunson,0,Guaranteed
+2027-28,Jalen Brunson,0,Guaranteed
+2028-29,Jalen Brunson,0,Guaranteed
+2023-24,Cameron Johnson,25679348,Guaranteed
+2024-25,Cameron Johnson,23625000,Guaranteed
+2025-26,Cameron Johnson,21570652,Guaranteed
+2026-27,Cameron Johnson,23625000,Guaranteed
+2027-28,Cameron Johnson,0,Guaranteed
+2028-29,Cameron Johnson,0,Guaranteed
+2023-24,Kyle Kuzma,25568182,Guaranteed
+2024-25,Kyle Kuzma,23522727,Guaranteed
+2025-26,Kyle Kuzma,21477272,Guaranteed
+2026-27,Kyle Kuzma,19431819,Guaranteed
+2027-28,Kyle Kuzma,0,Guaranteed
+2028-29,Kyle Kuzma,0,Guaranteed
+2023-24,John Collins,25340000,Guaranteed
+2024-25,John Collins,26580000,Guaranteed
+2025-26,John Collins,26580000,Player Option
+2026-27,John Collins,0,Guaranteed
+2027-28,John Collins,0,Guaranteed
+2028-29,John Collins,0,Guaranteed
+2023-24,Brook Lopez,25000000,Guaranteed
+2024-25,Brook Lopez,23000000,Guaranteed
+2025-26,Brook Lopez,0,Guaranteed
+2026-27,Brook Lopez,0,Guaranteed
+2027-28,Brook Lopez,0,Guaranteed
+2028-29,Brook Lopez,0,Guaranteed
+2023-24,Mike Conley,24360000,Guaranteed
+2024-25,Mike Conley,9975962,Guaranteed
+2025-26,Mike Conley,10774038,Guaranteed
+2026-27,Mike Conley,0,Guaranteed
+2027-28,Mike Conley,0,Guaranteed
+2028-29,Mike Conley,0,Guaranteed
+2023-24,Andrew Wiggins,24330357,Guaranteed
+2024-25,Andrew Wiggins,26276786,Guaranteed
+2025-26,Andrew Wiggins,28223215,Guaranteed
+2026-27,Andrew Wiggins,30169644,Player Option
+2027-28,Andrew Wiggins,0,Guaranteed
+2028-29,Andrew Wiggins,0,Guaranteed
+2023-24,Anfernee Simons,24107143,Guaranteed
+2024-25,Anfernee Simons,25892857,Guaranteed
+2025-26,Anfernee Simons,27678571,Guaranteed
+2026-27,Anfernee Simons,0,Guaranteed
+2027-28,Anfernee Simons,0,Guaranteed
+2028-29,Anfernee Simons,0,Guaranteed
+2023-24,RJ Barrett,23883929,Guaranteed
+2024-25,RJ Barrett,25794643,Guaranteed
+2025-26,RJ Barrett,27705357,Guaranteed
+2026-27,RJ Barrett,29616071,Guaranteed
+2027-28,RJ Barrett,0,Guaranteed
+2028-29,RJ Barrett,0,Guaranteed
+2023-24,Jordan Clarkson,23487629,Guaranteed
+2024-25,Jordan Clarkson,14092577,Guaranteed
+2025-26,Jordan Clarkson,14285714,Guaranteed
+2026-27,Jordan Clarkson,0,Guaranteed
+2027-28,Jordan Clarkson,0,Guaranteed
+2028-29,Jordan Clarkson,0,Guaranteed
+2023-24,Terry Rozier,23205221,Guaranteed
+2024-25,Terry Rozier,24924126,Guaranteed
+2025-26,Terry Rozier,26643031,Team Option
+2026-27,Terry Rozier,0,Guaranteed
+2027-28,Terry Rozier,0,Guaranteed
+2028-29,Terry Rozier,0,Guaranteed
+2023-24,Dillon Brooks,22627671,Guaranteed
+2024-25,Dillon Brooks,22255493,Guaranteed
+2025-26,Dillon Brooks,21124110,Guaranteed
+2026-27,Dillon Brooks,19992727,Guaranteed
+2027-28,Dillon Brooks,0,Guaranteed
+2028-29,Dillon Brooks,0,Guaranteed
+2023-24,Malcolm Brogdon,22500000,Guaranteed
+2024-25,Malcolm Brogdon,22500000,Guaranteed
+2025-26,Malcolm Brogdon,0,Guaranteed
+2026-27,Malcolm Brogdon,0,Guaranteed
+2027-28,Malcolm Brogdon,0,Guaranteed
+2028-29,Malcolm Brogdon,0,Guaranteed
+2023-24,Draymond Green,22321429,Guaranteed
+2024-25,Draymond Green,24107143,Guaranteed
+2025-26,Draymond Green,25892857,Guaranteed
+2026-27,Draymond Green,27678571,Player Option
+2027-28,Draymond Green,0,Guaranteed
+2028-29,Draymond Green,0,Guaranteed
+2023-24,Bruce Brown,22000000,Guaranteed
+2024-25,Bruce Brown,23000000,Team Option
+2025-26,Bruce Brown,0,Guaranteed
+2026-27,Bruce Brown,0,Guaranteed
+2027-28,Bruce Brown,0,Guaranteed
+2028-29,Bruce Brown,0,Guaranteed
+2023-24,Spencer Dinwiddie,21911797,Guaranteed
+2024-25,Spencer Dinwiddie,0,Guaranteed
+2025-26,Spencer Dinwiddie,0,Guaranteed
+2026-27,Spencer Dinwiddie,0,Guaranteed
+2027-28,Spencer Dinwiddie,0,Guaranteed
+2028-29,Spencer Dinwiddie,0,Guaranteed
+2023-24,Mikal Bridges,21700000,Guaranteed
+2024-25,Mikal Bridges,23300000,Guaranteed
+2025-26,Mikal Bridges,24900000,Guaranteed
+2026-27,Mikal Bridges,0,Guaranteed
+2027-28,Mikal Bridges,0,Guaranteed
+2028-29,Mikal Bridges,0,Guaranteed
+2023-24,Aaron Gordon,21266182,Guaranteed
+2024-25,Aaron Gordon,22841455,Guaranteed
+2025-26,Aaron Gordon,22841455,Player Option
+2026-27,Aaron Gordon,0,Guaranteed
+2027-28,Aaron Gordon,0,Guaranteed
+2028-29,Aaron Gordon,0,Guaranteed
+2023-24,Myles Turner,20975000,Guaranteed
+2024-25,Myles Turner,19928500,Guaranteed
+2025-26,Myles Turner,0,Guaranteed
+2026-27,Myles Turner,0,Guaranteed
+2027-28,Myles Turner,0,Guaranteed
+2028-29,Myles Turner,0,Guaranteed
+2023-24,Clint Capela,20616000,Guaranteed
+2024-25,Clint Capela,22265280,Guaranteed
+2025-26,Clint Capela,0,Guaranteed
+2026-27,Clint Capela,0,Guaranteed
+2027-28,Clint Capela,0,Guaranteed
+2028-29,Clint Capela,0,Guaranteed
+2023-24,Lonzo Ball,20465117,Guaranteed
+2024-25,Lonzo Ball,21395348,Guaranteed
+2025-26,Lonzo Ball,0,Guaranteed
+2026-27,Lonzo Ball,0,Guaranteed
+2027-28,Lonzo Ball,0,Guaranteed
+2028-29,Lonzo Ball,0,Guaranteed
+2023-24,De'Andre Hunter,20089286,Guaranteed
+2024-25,De'Andre Hunter,21696429,Guaranteed
+2025-26,De'Andre Hunter,23303571,Guaranteed
+2026-27,De'Andre Hunter,24910714,Guaranteed
+2027-28,De'Andre Hunter,0,Guaranteed
+2028-29,De'Andre Hunter,0,Guaranteed
+2023-24,Jarrett Allen,20000000,Guaranteed
+2024-25,Jarrett Allen,20000000,Guaranteed
+2025-26,Jarrett Allen,20000000,Guaranteed
+2026-27,Jarrett Allen,0,Guaranteed
+2027-28,Jarrett Allen,0,Guaranteed
+2028-29,Jarrett Allen,0,Guaranteed
+2023-24,Bojan Bogdanovic,20000000,Guaranteed
+2024-25,Bojan Bogdanovic,19032850,Guaranteed
+2025-26,Bojan Bogdanovic,0,Guaranteed
+2026-27,Bojan Bogdanovic,0,Guaranteed
+2027-28,Bojan Bogdanovic,0,Guaranteed
+2028-29,Bojan Bogdanovic,0,Guaranteed
+2023-24,Keldon Johnson,20000000,Guaranteed
+2024-25,Keldon Johnson,19000000,Guaranteed
+2025-26,Keldon Johnson,17500000,Guaranteed
+2026-27,Keldon Johnson,17500000,Guaranteed
+2027-28,Keldon Johnson,0,Guaranteed
+2028-29,Keldon Johnson,0,Guaranteed
+2023-24,Joe Harris,19928571,Guaranteed
+2024-25,Joe Harris,0,Guaranteed
+2025-26,Joe Harris,0,Guaranteed
+2026-27,Joe Harris,0,Guaranteed
+2027-28,Joe Harris,0,Guaranteed
+2028-29,Joe Harris,0,Guaranteed
+2023-24,Jakob Poeltl,19500000,Guaranteed
+2024-25,Jakob Poeltl,19500000,Guaranteed
+2025-26,Jakob Poeltl,19500000,Guaranteed
+2026-27,Jakob Poeltl,19500000,Player Option
+2027-28,Jakob Poeltl,0,Guaranteed
+2028-29,Jakob Poeltl,0,Guaranteed
+2023-24,Buddy Hield,19321859,Guaranteed
+2024-25,Buddy Hield,0,Guaranteed
+2025-26,Buddy Hield,0,Guaranteed
+2026-27,Buddy Hield,0,Guaranteed
+2027-28,Buddy Hield,0,Guaranteed
+2028-29,Buddy Hield,0,Guaranteed
+2023-24,Derrick White,18857143,Guaranteed
+2024-25,Derrick White,20071429,Guaranteed
+2025-26,Derrick White,0,Guaranteed
+2026-27,Derrick White,0,Guaranteed
+2027-28,Derrick White,0,Guaranteed
+2028-29,Derrick White,0,Guaranteed
+2023-24,Evan Fournier,18857143,Guaranteed
+2024-25,Evan Fournier,19000000,Team Option
+2025-26,Evan Fournier,0,Guaranteed
+2026-27,Evan Fournier,0,Guaranteed
+2027-28,Evan Fournier,0,Guaranteed
+2028-29,Evan Fournier,0,Guaranteed
+2023-24,Bogdan Bogdanovic,18700000,Guaranteed
+2024-25,Bogdan Bogdanovic,17260000,Guaranteed
+2025-26,Bogdan Bogdanovic,16020000,Guaranteed
+2026-27,Bogdan Bogdanovic,16020000,Team Option
+2027-28,Bogdan Bogdanovic,0,Guaranteed
+2028-29,Bogdan Bogdanovic,0,Guaranteed
+2023-24,OG Anunoby,18642857,Guaranteed
+2024-25,OG Anunoby,19928571,Player Option
+2025-26,OG Anunoby,0,Guaranteed
+2026-27,OG Anunoby,0,Guaranteed
+2027-28,OG Anunoby,0,Guaranteed
+2028-29,OG Anunoby,0,Guaranteed
+2023-24,Marcus Smart,18583713,Guaranteed
+2024-25,Marcus Smart,19960285,Guaranteed
+2025-26,Marcus Smart,21336856,Guaranteed
+2026-27,Marcus Smart,0,Guaranteed
+2027-28,Marcus Smart,0,Guaranteed
+2028-29,Marcus Smart,0,Guaranteed
+2023-24,Gary Trent Jr,18560000,Guaranteed
+2024-25,Gary Trent Jr,0,Guaranteed
+2025-26,Gary Trent Jr,0,Guaranteed
+2026-27,Gary Trent Jr,0,Guaranteed
+2027-28,Gary Trent Jr,0,Guaranteed
+2028-29,Gary Trent Jr,0,Guaranteed
+2023-24,Nikola Vucevic,18518519,Guaranteed
+2024-25,Nikola Vucevic,20000000,Guaranteed
+2025-26,Nikola Vucevic,21481481,Guaranteed
+2026-27,Nikola Vucevic,0,Guaranteed
+2027-28,Nikola Vucevic,0,Guaranteed
+2028-29,Nikola Vucevic,0,Guaranteed
+2023-24,Dejounte Murray,18214000,Guaranteed
+2024-25,Dejounte Murray,25266266,Guaranteed
+2025-26,Dejounte Murray,27287600,Guaranteed
+2026-27,Dejounte Murray,29308870,Guaranteed
+2027-28,Dejounte Murray,31330172,Player Option
+2028-29,Dejounte Murray,0,Guaranteed
+2023-24,Duncan Robinson,18154000,Guaranteed
+2024-25,Duncan Robinson,19406000,Guaranteed
+2025-26,Duncan Robinson,19888000,Player Option
+2026-27,Duncan Robinson,0,Guaranteed
+2027-28,Duncan Robinson,0,Guaranteed
+2028-29,Duncan Robinson,0,Guaranteed
+2023-24,Norman Powell,18000000,Guaranteed
+2024-25,Norman Powell,19241379,Guaranteed
+2025-26,Norman Powell,20482758,Guaranteed
+2026-27,Norman Powell,0,Guaranteed
+2027-28,Norman Powell,0,Guaranteed
+2028-29,Norman Powell,0,Guaranteed
+2023-24,Tim Hardaway Jr,17897728,Guaranteed
+2024-25,Tim Hardaway Jr,16193183,Guaranteed
+2025-26,Tim Hardaway Jr,0,Guaranteed
+2026-27,Tim Hardaway Jr,0,Guaranteed
+2027-28,Tim Hardaway Jr,0,Guaranteed
+2028-29,Tim Hardaway Jr,0,Guaranteed
+2023-24,Collin Sexton,17525000,Guaranteed
+2024-25,Collin Sexton,18350000,Guaranteed
+2025-26,Collin Sexton,19175000,Guaranteed
+2026-27,Collin Sexton,0,Guaranteed
+2027-28,Collin Sexton,0,Guaranteed
+2028-29,Collin Sexton,0,Guaranteed
+2023-24,Jonathan Isaac,17400000,Guaranteed
+2024-25,Jonathan Isaac,17400000,Guaranteed
+2025-26,Jonathan Isaac,0,Guaranteed
+2026-27,Jonathan Isaac,0,Guaranteed
+2027-28,Jonathan Isaac,0,Guaranteed
+2028-29,Jonathan Isaac,0,Guaranteed
+2023-24,D'Angelo Russell,17307693,Guaranteed
+2024-25,D'Angelo Russell,18692307,Player Option
+2025-26,D'Angelo Russell,0,Guaranteed
+2026-27,D'Angelo Russell,0,Guaranteed
+2027-28,D'Angelo Russell,0,Guaranteed
+2028-29,D'Angelo Russell,0,Guaranteed
+2023-24,Lauri Markkanen,17259999,Guaranteed
+2024-25,Lauri Markkanen,18044544,Guaranteed
+2025-26,Lauri Markkanen,0,Guaranteed
+2026-27,Lauri Markkanen,0,Guaranteed
+2027-28,Lauri Markkanen,0,Guaranteed
+2028-29,Lauri Markkanen,0,Guaranteed
+2023-24,Harrison Barnes,17000000,Guaranteed
+2024-25,Harrison Barnes,18000000,Guaranteed
+2025-26,Harrison Barnes,19000000,Guaranteed
+2026-27,Harrison Barnes,0,Guaranteed
+2027-28,Harrison Barnes,0,Guaranteed
+2028-29,Harrison Barnes,0,Guaranteed
+2023-24,Davis Bertans,17000000,Guaranteed
+2024-25,Davis Bertans,16000000,Guaranteed
+2025-26,Davis Bertans,0,Guaranteed
+2026-27,Davis Bertans,0,Guaranteed
+2027-28,Davis Bertans,0,Guaranteed
+2028-29,Davis Bertans,0,Guaranteed
+2023-24,Markelle Fultz,17000000,Guaranteed
+2024-25,Markelle Fultz,0,Guaranteed
+2025-26,Markelle Fultz,0,Guaranteed
+2026-27,Markelle Fultz,0,Guaranteed
+2027-28,Markelle Fultz,0,Guaranteed
+2028-29,Markelle Fultz,0,Guaranteed
+2023-24,Jusuf Nurkic,16875000,Guaranteed
+2024-25,Jusuf Nurkic,18125000,Guaranteed
+2025-26,Jusuf Nurkic,19375000,Guaranteed
+2026-27,Jusuf Nurkic,0,Guaranteed
+2027-28,Jusuf Nurkic,0,Guaranteed
+2028-29,Jusuf Nurkic,0,Guaranteed
+2023-24,PJ Washington,16847826,Guaranteed
+2024-25,PJ Washington,15500000,Guaranteed
+2025-26,PJ Washington,14152174,Guaranteed
+2026-27,PJ Washington,0,Guaranteed
+2027-28,PJ Washington,0,Guaranteed
+2028-29,PJ Washington,0,Guaranteed
+2023-24,Marcus Morris,16803983,Guaranteed
+2024-25,Marcus Morris,0,Guaranteed
+2025-26,Marcus Morris,0,Guaranteed
+2026-27,Marcus Morris,0,Guaranteed
+2027-28,Marcus Morris,0,Guaranteed
+2028-29,Marcus Morris,0,Guaranteed
+2023-24,Kevin Porter,15860000,Guaranteed
+2024-25,Kevin Porter,1000000,Guaranteed
+2025-26,Kevin Porter,0,Guaranteed
+2026-27,Kevin Porter,0,Guaranteed
+2027-28,Kevin Porter,0,Guaranteed
+2028-29,Kevin Porter,0,Guaranteed
+2023-24,Rui Hachimura,15740741,Guaranteed
+2024-25,Rui Hachimura,17000000,Guaranteed
+2025-26,Rui Hachimura,18259259,Guaranteed
+2026-27,Rui Hachimura,0,Guaranteed
+2027-28,Rui Hachimura,0,Guaranteed
+2028-29,Rui Hachimura,0,Guaranteed
+2023-24,Mitchell Robinson,15681818,Guaranteed
+2024-25,Mitchell Robinson,14318182,Guaranteed
+2025-26,Mitchell Robinson,12954546,Guaranteed
+2026-27,Mitchell Robinson,0,Guaranteed
+2027-28,Mitchell Robinson,0,Guaranteed
+2028-29,Mitchell Robinson,0,Guaranteed
+2023-24,Kevin Huerter,15669643,Guaranteed
+2024-25,Kevin Huerter,16830357,Guaranteed
+2025-26,Kevin Huerter,17991071,Guaranteed
+2026-27,Kevin Huerter,0,Guaranteed
+2027-28,Kevin Huerter,0,Guaranteed
+2028-29,Kevin Huerter,0,Guaranteed
+2023-24,Jonas Valanciunas,15435000,Guaranteed
+2024-25,Jonas Valanciunas,0,Guaranteed
+2025-26,Jonas Valanciunas,0,Guaranteed
+2026-27,Jonas Valanciunas,0,Guaranteed
+2027-28,Jonas Valanciunas,0,Guaranteed
+2028-29,Jonas Valanciunas,0,Guaranteed
+2023-24,Caris LeVert,15384616,Guaranteed
+2024-25,Caris LeVert,16615384,Guaranteed
+2025-26,Caris LeVert,0,Guaranteed
+2026-27,Caris LeVert,0,Guaranteed
+2027-28,Caris LeVert,0,Guaranteed
+2028-29,Caris LeVert,0,Guaranteed
+2023-24,Luguentz Dort,15277778,Guaranteed
+2024-25,Luguentz Dort,16500000,Guaranteed
+2025-26,Luguentz Dort,17722222,Guaranteed
+2026-27,Luguentz Dort,17722222,Team Option
+2027-28,Luguentz Dort,0,Guaranteed
+2028-29,Luguentz Dort,0,Guaranteed
+2023-24,Luke Kennard,14763636,Guaranteed
+2024-25,Luke Kennard,14763636,Team Option
+2025-26,Luke Kennard,0,Guaranteed
+2026-27,Luke Kennard,0,Guaranteed
+2027-28,Luke Kennard,0,Guaranteed
+2028-29,Luke Kennard,0,Guaranteed
+2023-24,Kentavious Caldwell-Pope,14704938,Guaranteed
+2024-25,Kentavious Caldwell-Pope,15440185,Player Option
+2025-26,Kentavious Caldwell-Pope,0,Guaranteed
+2026-27,Kentavious Caldwell-Pope,0,Guaranteed
+2027-28,Kentavious Caldwell-Pope,0,Guaranteed
+2028-29,Kentavious Caldwell-Pope,0,Guaranteed
+2023-24,Max Strus,14487684,Guaranteed
+2024-25,Max Strus,15212068,Guaranteed
+2025-26,Max Strus,15936452,Guaranteed
+2026-27,Max Strus,16660836,Guaranteed
+2027-28,Max Strus,0,Guaranteed
+2028-29,Max Strus,0,Guaranteed
+2023-24,Reggie Bullock,14210528,Guaranteed
+2024-25,Reggie Bullock,0,Guaranteed
+2025-26,Reggie Bullock,0,Guaranteed
+2026-27,Reggie Bullock,0,Guaranteed
+2027-28,Reggie Bullock,0,Guaranteed
+2028-29,Reggie Bullock,0,Guaranteed
+2023-24,Doug McDermott,14000000,Guaranteed
+2024-25,Doug McDermott,0,Guaranteed
+2025-26,Doug McDermott,0,Guaranteed
+2026-27,Doug McDermott,0,Guaranteed
+2027-28,Doug McDermott,0,Guaranteed
+2028-29,Doug McDermott,0,Guaranteed
+2023-24,Tyus Jones,14000000,Guaranteed
+2024-25,Tyus Jones,0,Guaranteed
+2025-26,Tyus Jones,0,Guaranteed
+2026-27,Tyus Jones,0,Guaranteed
+2027-28,Tyus Jones,0,Guaranteed
+2028-29,Tyus Jones,0,Guaranteed
+2023-24,Dorian Finney-Smith,13932008,Guaranteed
+2024-25,Dorian Finney-Smith,14924167,Guaranteed
+2025-26,Dorian Finney-Smith,15378480,Player Option
+2026-27,Dorian Finney-Smith,0,Guaranteed
+2027-28,Dorian Finney-Smith,0,Guaranteed
+2028-29,Dorian Finney-Smith,0,Guaranteed
+2023-24,Anthony Edwards,13534817,Guaranteed
+2024-25,Anthony Edwards,42300000,Guaranteed
+2025-26,Anthony Edwards,45684000,Guaranteed
+2026-27,Anthony Edwards,49068000,Guaranteed
+2027-28,Anthony Edwards,52452000,Guaranteed
+2028-29,Anthony Edwards,55836000,Guaranteed
+2023-24,Wendell Carter,13050000,Guaranteed
+2024-25,Wendell Carter,11950000,Guaranteed
+2025-26,Wendell Carter,10850000,Guaranteed
+2026-27,Wendell Carter,0,Guaranteed
+2027-28,Wendell Carter,0,Guaranteed
+2028-29,Wendell Carter,0,Guaranteed
+2023-24,Gary Harris,13000000,Guaranteed
+2024-25,Gary Harris,0,Guaranteed
+2025-26,Gary Harris,0,Guaranteed
+2026-27,Gary Harris,0,Guaranteed
+2027-28,Gary Harris,0,Guaranteed
+2028-29,Gary Harris,0,Guaranteed
+2023-24,Josh Hart,12960000,Guaranteed
+2024-25,Josh Hart,18144000,Guaranteed
+2025-26,Josh Hart,19472240,Guaranteed
+2026-27,Josh Hart,20923760,Guaranteed
+2027-28,Josh Hart,22375280,Team Option
+2028-29,Josh Hart,0,Guaranteed
+2023-24,Naz Reid,12950400,Guaranteed
+2024-25,Naz Reid,13986432,Guaranteed
+2025-26,Naz Reid,15022464,Player Option
+2026-27,Naz Reid,0,Guaranteed
+2027-28,Naz Reid,0,Guaranteed
+2028-29,Naz Reid,0,Guaranteed
+2023-24,Steven Adams,12600000,Guaranteed
+2024-25,Steven Adams,12600000,Guaranteed
+2025-26,Steven Adams,0,Guaranteed
+2026-27,Steven Adams,0,Guaranteed
+2027-28,Steven Adams,0,Guaranteed
+2028-29,Steven Adams,0,Guaranteed
+2023-24,Brandon Clarke,12500000,Guaranteed
+2024-25,Brandon Clarke,12500000,Guaranteed
+2025-26,Brandon Clarke,12500000,Guaranteed
+2026-27,Brandon Clarke,12500000,Guaranteed
+2027-28,Brandon Clarke,0,Guaranteed
+2028-29,Brandon Clarke,0,Guaranteed
+2023-24,Marvin Bagley,12500000,Guaranteed
+2024-25,Marvin Bagley,12500000,Guaranteed
+2025-26,Marvin Bagley,0,Guaranteed
+2026-27,Marvin Bagley,0,Guaranteed
+2027-28,Marvin Bagley,0,Guaranteed
+2028-29,Marvin Bagley,0,Guaranteed
+2023-24,Dennis Schroeder,12405000,Guaranteed
+2024-25,Dennis Schroeder,13025250,Guaranteed
+2025-26,Dennis Schroeder,0,Guaranteed
+2026-27,Dennis Schroeder,0,Guaranteed
+2027-28,Dennis Schroeder,0,Guaranteed
+2028-29,Dennis Schroeder,0,Guaranteed
+2023-24,Grant Williams,12405000,Guaranteed
+2024-25,Grant Williams,13025250,Guaranteed
+2025-26,Grant Williams,13645500,Guaranteed
+2026-27,Grant Williams,14265750,Guaranteed
+2027-28,Grant Williams,0,Guaranteed
+2028-29,Grant Williams,0,Guaranteed
+2023-24,Daniel Gafford,12402000,Guaranteed
+2024-25,Daniel Gafford,13394160,Guaranteed
+2025-26,Daniel Gafford,14386320,Guaranteed
+2026-27,Daniel Gafford,0,Guaranteed
+2027-28,Daniel Gafford,0,Guaranteed
+2028-29,Daniel Gafford,0,Guaranteed
+2023-24,Kelly Olynyk,12195122,Guaranteed
+2024-25,Kelly Olynyk,12804878,Guaranteed
+2025-26,Kelly Olynyk,13445122,Guaranteed
+2026-27,Kelly Olynyk,0,Guaranteed
+2027-28,Kelly Olynyk,0,Guaranteed
+2028-29,Kelly Olynyk,0,Guaranteed
+2023-24,Victor Wembanyama,12160632,Guaranteed
+2024-25,Victor Wembanyama,12768664,Guaranteed
+2025-26,Victor Wembanyama,13376695,Team Option
+2026-27,Victor Wembanyama,16868013,Team Option
+2027-28,Victor Wembanyama,23615218,Qualifying Offer
+2028-29,Victor Wembanyama,0,Guaranteed
+2023-24,James Wiseman,12119440,Guaranteed
+2024-25,James Wiseman,15815870,Qualifying Offer
+2025-26,James Wiseman,0,Guaranteed
+2026-27,James Wiseman,0,Guaranteed
+2027-28,James Wiseman,0,Guaranteed
+2028-29,James Wiseman,0,Guaranteed
+2023-24,Devonte Graham,12100000,Guaranteed
+2024-25,Devonte Graham,12650000,Guaranteed
+2025-26,Devonte Graham,0,Guaranteed
+2026-27,Devonte Graham,0,Guaranteed
+2027-28,Devonte Graham,0,Guaranteed
+2028-29,Devonte Graham,0,Guaranteed
+2023-24,Richaun Holmes,12046020,Guaranteed
+2024-25,Richaun Holmes,12876780,Player Option
+2025-26,Richaun Holmes,0,Guaranteed
+2026-27,Richaun Holmes,0,Guaranteed
+2027-28,Richaun Holmes,0,Guaranteed
+2028-29,Richaun Holmes,0,Guaranteed
+2023-24,Austin Reaves,12015150,Guaranteed
+2024-25,Austin Reaves,12976362,Guaranteed
+2025-26,Austin Reaves,13937574,Guaranteed
+2026-27,Austin Reaves,14898786,Player Option
+2027-28,Austin Reaves,0,Guaranteed
+2028-29,Austin Reaves,0,Guaranteed
+2023-24,Herb Jones,12015150,Guaranteed
+2024-25,Herb Jones,12976362,Guaranteed
+2025-26,Herb Jones,13937574,Guaranteed
+2026-27,Herb Jones,14898786,Guaranteed
+2027-28,Herb Jones,0,Guaranteed
+2028-29,Herb Jones,0,Guaranteed
+2023-24,Chris Boucher,11750000,Guaranteed
+2024-25,Chris Boucher,10810000,Guaranteed
+2025-26,Chris Boucher,0,Guaranteed
+2026-27,Chris Boucher,0,Guaranteed
+2027-28,Chris Boucher,0,Guaranteed
+2028-29,Chris Boucher,0,Guaranteed
+2023-24,Bobby Portis,11710818,Guaranteed
+2024-25,Bobby Portis,12578286,Guaranteed
+2025-26,Bobby Portis,13445754,Player Option
+2026-27,Bobby Portis,0,Guaranteed
+2027-28,Bobby Portis,0,Guaranteed
+2028-29,Bobby Portis,0,Guaranteed
+2023-24,Nicolas Batum,11710818,Guaranteed
+2024-25,Nicolas Batum,0,Guaranteed
+2025-26,Nicolas Batum,0,Guaranteed
+2026-27,Nicolas Batum,0,Guaranteed
+2027-28,Nicolas Batum,0,Guaranteed
+2028-29,Nicolas Batum,0,Guaranteed
+2023-24,Robert Covington,11692308,Guaranteed
+2024-25,Robert Covington,0,Guaranteed
+2025-26,Robert Covington,0,Guaranteed
+2026-27,Robert Covington,0,Guaranteed
+2027-28,Robert Covington,0,Guaranteed
+2028-29,Robert Covington,0,Guaranteed
+2023-24,Paolo Banchero,11608080,Guaranteed
+2024-25,Paolo Banchero,12160800,Guaranteed
+2025-26,Paolo Banchero,15334769,Team Option
+2026-27,Paolo Banchero,19935199,Qualifying Offer
+2027-28,Paolo Banchero,0,Guaranteed
+2028-29,Paolo Banchero,0,Guaranteed
+2023-24,Robert Williams,11571429,Guaranteed
+2024-25,Robert Williams,12428571,Guaranteed
+2025-26,Robert Williams,13285713,Guaranteed
+2026-27,Robert Williams,0,Guaranteed
+2027-28,Robert Williams,0,Guaranteed
+2028-29,Robert Williams,0,Guaranteed
+2023-24,Coby White,11111111,Guaranteed
+2024-25,Coby White,12000000,Guaranteed
+2025-26,Coby White,12888889,Guaranteed
+2026-27,Coby White,0,Guaranteed
+2027-28,Coby White,0,Guaranteed
+2028-29,Coby White,0,Guaranteed
+2023-24,Cade Cunningham,11055360,Guaranteed
+2024-25,Cade Cunningham,13940809,Guaranteed
+2025-26,Cade Cunningham,18123052,Qualifying Offer
+2026-27,Cade Cunningham,0,Guaranteed
+2027-28,Cade Cunningham,0,Guaranteed
+2028-29,Cade Cunningham,0,Guaranteed
+2023-24,Talen Horton-Tucker,11020000,Guaranteed
+2024-25,Talen Horton-Tucker,0,Guaranteed
+2025-26,Talen Horton-Tucker,0,Guaranteed
+2026-27,Talen Horton-Tucker,0,Guaranteed
+2027-28,Talen Horton-Tucker,0,Guaranteed
+2028-29,Talen Horton-Tucker,0,Guaranteed
+2023-24,PJ Tucker,11014500,Guaranteed
+2024-25,PJ Tucker,11539000,Player Option
+2025-26,PJ Tucker,0,Guaranteed
+2026-27,PJ Tucker,0,Guaranteed
+2027-28,PJ Tucker,0,Guaranteed
+2028-29,PJ Tucker,0,Guaranteed
+2023-24,Maxi Kleber,11000000,Guaranteed
+2024-25,Maxi Kleber,11000000,Guaranteed
+2025-26,Maxi Kleber,11000000,Guaranteed
+2026-27,Maxi Kleber,0,Guaranteed
+2027-28,Maxi Kleber,0,Guaranteed
+2028-29,Maxi Kleber,0,Guaranteed
+2023-24,Joe Ingles,11000000,Guaranteed
+2024-25,Joe Ingles,11000000,Team Option
+2025-26,Joe Ingles,0,Guaranteed
+2026-27,Joe Ingles,0,Guaranteed
+2027-28,Joe Ingles,0,Guaranteed
+2028-29,Joe Ingles,0,Guaranteed
+2023-24,Ivica Zubac,10933333,Guaranteed
+2024-25,Ivica Zubac,11743210,Guaranteed
+2025-26,Ivica Zubac,0,Guaranteed
+2026-27,Ivica Zubac,0,Guaranteed
+2027-28,Ivica Zubac,0,Guaranteed
+2028-29,Ivica Zubac,0,Guaranteed
+2023-24,LaMelo Ball,10900635,Guaranteed
+2024-25,LaMelo Ball,35250000,Guaranteed
+2025-26,LaMelo Ball,38070000,Guaranteed
+2026-27,LaMelo Ball,40890000,Guaranteed
+2027-28,LaMelo Ball,43710000,Guaranteed
+2028-29,LaMelo Ball,46530000,Guaranteed
+2023-24,Donte DiVincenzo,10900000,Guaranteed
+2024-25,Donte DiVincenzo,11445000,Guaranteed
+2025-26,Donte DiVincenzo,11990000,Guaranteed
+2026-27,Donte DiVincenzo,12535000,Guaranteed
+2027-28,Donte DiVincenzo,0,Guaranteed
+2028-29,Donte DiVincenzo,0,Guaranteed
+2023-24,Brandon Miller,10880364,Guaranteed
+2024-25,Brandon Miller,11424382,Guaranteed
+2025-26,Brandon Miller,11968400,Team Option
+2026-27,Brandon Miller,15104121,Team Option
+2027-28,Brandon Miller,21221290,Qualifying Offer
+2028-29,Brandon Miller,0,Guaranteed
+2023-24,Terance Mann,10576923,Guaranteed
+2024-25,Terance Mann,11423077,Guaranteed
+2025-26,Terance Mann,0,Guaranteed
+2026-27,Terance Mann,0,Guaranteed
+2027-28,Terance Mann,0,Guaranteed
+2028-29,Terance Mann,0,Guaranteed
+2023-24,Matisse Thybulle,10500000,Guaranteed
+2024-25,Matisse Thybulle,11025000,Guaranteed
+2025-26,Matisse Thybulle,11550000,Player Option
+2026-27,Matisse Thybulle,0,Guaranteed
+2027-28,Matisse Thybulle,0,Guaranteed
+2028-29,Matisse Thybulle,0,Guaranteed
+2023-24,Gabe Vincent,10500000,Guaranteed
+2024-25,Gabe Vincent,11000000,Guaranteed
+2025-26,Gabe Vincent,11500000,Guaranteed
+2026-27,Gabe Vincent,0,Guaranteed
+2027-28,Gabe Vincent,0,Guaranteed
+2028-29,Gabe Vincent,0,Guaranteed
+2023-24,Alec Burks,10489600,Guaranteed
+2024-25,Alec Burks,0,Guaranteed
+2025-26,Alec Burks,0,Guaranteed
+2026-27,Alec Burks,0,Guaranteed
+2027-28,Alec Burks,0,Guaranteed
+2028-29,Alec Burks,0,Guaranteed
+2023-24,Chet Holmgren,10386000,Guaranteed
+2024-25,Chet Holmgren,10880640,Guaranteed
+2025-26,Chet Holmgren,13731368,Team Option
+2026-27,Chet Holmgren,17919435,Qualifying Offer
+2027-28,Chet Holmgren,0,Guaranteed
+2028-29,Chet Holmgren,0,Guaranteed
+2023-24,Larry Nance Jr,10375000,Guaranteed
+2024-25,Larry Nance Jr,11205000,Guaranteed
+2025-26,Larry Nance Jr,0,Guaranteed
+2026-27,Larry Nance Jr,0,Guaranteed
+2027-28,Larry Nance Jr,0,Guaranteed
+2028-29,Larry Nance Jr,0,Guaranteed
+2023-24,Landry Shamet,10250000,Guaranteed
+2024-25,Landry Shamet,11000000,Guaranteed
+2025-26,Landry Shamet,11750000,Guaranteed
+2026-27,Landry Shamet,0,Guaranteed
+2027-28,Landry Shamet,0,Guaranteed
+2028-29,Landry Shamet,0,Guaranteed
+2023-24,Al Horford,10000000,Guaranteed
+2024-25,Al Horford,9500000,Guaranteed
+2025-26,Al Horford,0,Guaranteed
+2026-27,Al Horford,0,Guaranteed
+2027-28,Al Horford,0,Guaranteed
+2028-29,Al Horford,0,Guaranteed
+2023-24,Malik Monk,9945830,Guaranteed
+2024-25,Malik Monk,0,Guaranteed
+2025-26,Malik Monk,0,Guaranteed
+2026-27,Malik Monk,0,Guaranteed
+2027-28,Malik Monk,0,Guaranteed
+2028-29,Malik Monk,0,Guaranteed
+2023-24,Tre Jones,9895833,Guaranteed
+2024-25,Tre Jones,9104167,Guaranteed
+2025-26,Tre Jones,0,Guaranteed
+2026-27,Tre Jones,0,Guaranteed
+2027-28,Tre Jones,0,Guaranteed
+2028-29,Tre Jones,0,Guaranteed
+2023-24,Jalen Green,9891480,Guaranteed
+2024-25,Jalen Green,12483048,Guaranteed
+2025-26,Jalen Green,16290377,Qualifying Offer
+2026-27,Jalen Green,0,Guaranteed
+2027-28,Jalen Green,0,Guaranteed
+2028-29,Jalen Green,0,Guaranteed
+2023-24,Patrick Williams,9835881,Guaranteed
+2024-25,Patrick Williams,12973527,Qualifying Offer
+2025-26,Patrick Williams,0,Guaranteed
+2026-27,Patrick Williams,0,Guaranteed
+2027-28,Patrick Williams,0,Guaranteed
+2028-29,Patrick Williams,0,Guaranteed
+2023-24,Monte Morris,9800926,Guaranteed
+2024-25,Monte Morris,0,Guaranteed
+2025-26,Monte Morris,0,Guaranteed
+2026-27,Monte Morris,0,Guaranteed
+2027-28,Monte Morris,0,Guaranteed
+2028-29,Monte Morris,0,Guaranteed
+2023-24,Scoot Henderson,9770904,Guaranteed
+2024-25,Scoot Henderson,10259449,Guaranteed
+2025-26,Scoot Henderson,10747994,Team Option
+2026-27,Scoot Henderson,13585465,Team Option
+2027-28,Scoot Henderson,19182676,Qualifying Offer
+2028-29,Scoot Henderson,0,Guaranteed
+2023-24,Nicolas Claxton,9625000,Guaranteed
+2024-25,Nicolas Claxton,0,Guaranteed
+2025-26,Nicolas Claxton,0,Guaranteed
+2026-27,Nicolas Claxton,0,Guaranteed
+2027-28,Nicolas Claxton,0,Guaranteed
+2028-29,Nicolas Claxton,0,Guaranteed
+2023-24,Royce O'Neale,9500000,Guaranteed
+2024-25,Royce O'Neale,0,Guaranteed
+2025-26,Royce O'Neale,0,Guaranteed
+2026-27,Royce O'Neale,0,Guaranteed
+2027-28,Royce O'Neale,0,Guaranteed
+2028-29,Royce O'Neale,0,Guaranteed
+2023-24,Alex Caruso,9460000,Guaranteed
+2024-25,Alex Caruso,9890000,Guaranteed
+2025-26,Alex Caruso,0,Guaranteed
+2026-27,Alex Caruso,0,Guaranteed
+2027-28,Alex Caruso,0,Guaranteed
+2028-29,Alex Caruso,0,Guaranteed
+2023-24,Victor Oladipo,9450000,Guaranteed
+2024-25,Victor Oladipo,0,Guaranteed
+2025-26,Victor Oladipo,0,Guaranteed
+2026-27,Victor Oladipo,0,Guaranteed
+2027-28,Victor Oladipo,0,Guaranteed
+2028-29,Victor Oladipo,0,Guaranteed
+2023-24,Pat Connaughton,9423869,Guaranteed
+2024-25,Pat Connaughton,9423869,Guaranteed
+2025-26,Pat Connaughton,9423869,Player Option
+2026-27,Pat Connaughton,0,Guaranteed
+2027-28,Pat Connaughton,0,Guaranteed
+2028-29,Pat Connaughton,0,Guaranteed
+2023-24,Cameron Payne,9391467,Guaranteed
+2024-25,Cameron Payne,0,Guaranteed
+2025-26,Cameron Payne,0,Guaranteed
+2026-27,Cameron Payne,0,Guaranteed
+2027-28,Cameron Payne,0,Guaranteed
+2028-29,Cameron Payne,0,Guaranteed
+2023-24,Jabari Smith,9326520,Guaranteed
+2024-25,Jabari Smith,9770880,Guaranteed
+2025-26,Jabari Smith,12350392,Team Option
+2026-27,Jabari Smith,16203715,Qualifying Offer
+2027-28,Jabari Smith,0,Guaranteed
+2028-29,Jabari Smith,0,Guaranteed
+2023-24,Isaiah Hartenstein,9245121,Guaranteed
+2024-25,Isaiah Hartenstein,0,Guaranteed
+2025-26,Isaiah Hartenstein,0,Guaranteed
+2026-27,Isaiah Hartenstein,0,Guaranteed
+2027-28,Isaiah Hartenstein,0,Guaranteed
+2028-29,Isaiah Hartenstein,0,Guaranteed
+2023-24,Kyle Anderson,9219512,Guaranteed
+2024-25,Kyle Anderson,0,Guaranteed
+2025-26,Kyle Anderson,0,Guaranteed
+2026-27,Kyle Anderson,0,Guaranteed
+2027-28,Kyle Anderson,0,Guaranteed
+2028-29,Kyle Anderson,0,Guaranteed
+2023-24,Daniel Theis,9108387,Guaranteed
+2024-25,Daniel Theis,0,Guaranteed
+2025-26,Daniel Theis,0,Guaranteed
+2026-27,Daniel Theis,0,Guaranteed
+2027-28,Daniel Theis,0,Guaranteed
+2028-29,Daniel Theis,0,Guaranteed
+2023-24,Thaddeus Young,9010371,Guaranteed
+2024-25,Thaddeus Young,0,Guaranteed
+2025-26,Thaddeus Young,0,Guaranteed
+2026-27,Thaddeus Young,0,Guaranteed
+2027-28,Thaddeus Young,0,Guaranteed
+2028-29,Thaddeus Young,0,Guaranteed
+2023-24,Grayson Allen,8925000,Guaranteed
+2024-25,Grayson Allen,15625000,Guaranteed
+2025-26,Grayson Allen,16875000,Guaranteed
+2026-27,Grayson Allen,18125000,Guaranteed
+2027-28,Grayson Allen,19375000,Player Option
+2028-29,Grayson Allen,0,Guaranteed
+2023-24,Isaac Okoro,8920794,Guaranteed
+2024-25,Isaac Okoro,11828974,Qualifying Offer
+2025-26,Isaac Okoro,0,Guaranteed
+2026-27,Isaac Okoro,0,Guaranteed
+2027-28,Isaac Okoro,0,Guaranteed
+2028-29,Isaac Okoro,0,Guaranteed
+2023-24,Evan Mobley,8882640,Guaranteed
+2024-25,Evan Mobley,11227657,Guaranteed
+2025-26,Evan Mobley,14730686,Qualifying Offer
+2026-27,Evan Mobley,0,Guaranteed
+2027-28,Evan Mobley,0,Guaranteed
+2028-29,Evan Mobley,0,Guaranteed
+2023-24,Amen Thompson,8809284,Guaranteed
+2024-25,Amen Thompson,9249748,Guaranteed
+2025-26,Amen Thompson,9690212,Team Option
+2026-27,Amen Thompson,12258119,Team Option
+2027-28,Amen Thompson,17394270,Qualifying Offer
+2028-29,Amen Thompson,0,Guaranteed
+2023-24,Georges Niang,8800000,Guaranteed
+2024-25,Georges Niang,8500000,Guaranteed
+2025-26,Georges Niang,8200000,Guaranteed
+2026-27,Georges Niang,0,Guaranteed
+2027-28,Georges Niang,0,Guaranteed
+2028-29,Georges Niang,0,Guaranteed
+2023-24,Gary Payton II,8715000,Guaranteed
+2024-25,Gary Payton II,9130000,Player Option
+2025-26,Gary Payton II,0,Guaranteed
+2026-27,Gary Payton II,0,Guaranteed
+2027-28,Gary Payton II,0,Guaranteed
+2028-29,Gary Payton II,0,Guaranteed
+2023-24,TJ McConnell,8700000,Guaranteed
+2024-25,TJ McConnell,9300000,Guaranteed
+2025-26,TJ McConnell,0,Guaranteed
+2026-27,TJ McConnell,0,Guaranteed
+2027-28,TJ McConnell,0,Guaranteed
+2028-29,TJ McConnell,0,Guaranteed
+2023-24,Keegan Murray,8409000,Guaranteed
+2024-25,Keegan Murray,8809560,Guaranteed
+2025-26,Keegan Murray,11144093,Team Option
+2026-27,Keegan Murray,14699059,Qualifying Offer
+2027-28,Keegan Murray,0,Guaranteed
+2028-29,Keegan Murray,0,Guaranteed
+2023-24,Delon Wright,8195122,Guaranteed
+2024-25,Delon Wright,0,Guaranteed
+2025-26,Delon Wright,0,Guaranteed
+2026-27,Delon Wright,0,Guaranteed
+2027-28,Delon Wright,0,Guaranteed
+2028-29,Delon Wright,0,Guaranteed
+2023-24,Onyeka Okongwu,8109063,Guaranteed
+2024-25,Onyeka Okongwu,14000000,Guaranteed
+2025-26,Onyeka Okongwu,15000000,Guaranteed
+2026-27,Onyeka Okongwu,16120000,Guaranteed
+2027-28,Onyeka Okongwu,16880000,Guaranteed
+2028-29,Onyeka Okongwu,0,Guaranteed
+2023-24,Scottie Barnes,8008680,Guaranteed
+2024-25,Scottie Barnes,10130980,Guaranteed
+2025-26,Scottie Barnes,13362763,Qualifying Offer
+2026-27,Scottie Barnes,0,Guaranteed
+2027-28,Scottie Barnes,0,Guaranteed
+2028-29,Scottie Barnes,0,Guaranteed
+2023-24,Jock Landale,8000000,Guaranteed
+2024-25,Jock Landale,8000000,Guaranteed
+2025-26,Jock Landale,8000000,Guaranteed
+2026-27,Jock Landale,8000000,Team Option
+2027-28,Jock Landale,0,Guaranteed
+2028-29,Jock Landale,0,Guaranteed
+2023-24,Trey Lyles,8000000,Guaranteed
+2024-25,Trey Lyles,8000000,Guaranteed
+2025-26,Trey Lyles,0,Guaranteed
+2026-27,Trey Lyles,0,Guaranteed
+2027-28,Trey Lyles,0,Guaranteed
+2028-29,Trey Lyles,0,Guaranteed
+2023-24,Jeff Green,8000000,Guaranteed
+2024-25,Jeff Green,8000000,Team Option
+2025-26,Jeff Green,0,Guaranteed
+2026-27,Jeff Green,0,Guaranteed
+2027-28,Jeff Green,0,Guaranteed
+2028-29,Jeff Green,0,Guaranteed
+2023-24,Moritz Wagner,8000000,Guaranteed
+2024-25,Moritz Wagner,8000000,Team Option
+2025-26,Moritz Wagner,0,Guaranteed
+2026-27,Moritz Wagner,0,Guaranteed
+2027-28,Moritz Wagner,0,Guaranteed
+2028-29,Moritz Wagner,0,Guaranteed
+2023-24,De'Anthony Melton,8000000,Guaranteed
+2024-25,De'Anthony Melton,0,Guaranteed
+2025-26,De'Anthony Melton,0,Guaranteed
+2026-27,De'Anthony Melton,0,Guaranteed
+2027-28,De'Anthony Melton,0,Guaranteed
+2028-29,De'Anthony Melton,0,Guaranteed
+2023-24,Ausar Thompson,7977420,Guaranteed
+2024-25,Ausar Thompson,8376291,Guaranteed
+2025-26,Ausar Thompson,8775162,Team Option
+2026-27,Ausar Thompson,11118130,Team Option
+2027-28,Ausar Thompson,15854453,Qualifying Offer
+2028-29,Ausar Thompson,0,Guaranteed
+2023-24,Miles Bridges,7921300,Guaranteed
+2024-25,Miles Bridges,0,Guaranteed
+2025-26,Miles Bridges,0,Guaranteed
+2026-27,Miles Bridges,0,Guaranteed
+2027-28,Miles Bridges,0,Guaranteed
+2028-29,Miles Bridges,0,Guaranteed
+2023-24,Danilo Gallinari,7850062,Guaranteed
+2024-25,Danilo Gallinari,0,Guaranteed
+2025-26,Danilo Gallinari,0,Guaranteed
+2026-27,Danilo Gallinari,0,Guaranteed
+2027-28,Danilo Gallinari,0,Guaranteed
+2028-29,Danilo Gallinari,0,Guaranteed
+2023-24,Vasilije Micic,7723000,Guaranteed
+2024-25,Vasilije Micic,7723000,Guaranteed
+2025-26,Vasilije Micic,8109150,Team Option
+2026-27,Vasilije Micic,0,Guaranteed
+2027-28,Vasilije Micic,0,Guaranteed
+2028-29,Vasilije Micic,0,Guaranteed
+2023-24,Paul Reed,7723000,Guaranteed
+2024-25,Paul Reed,7723000,Guaranteed
+2025-26,Paul Reed,8109150,Guaranteed
+2026-27,Paul Reed,0,Guaranteed
+2027-28,Paul Reed,0,Guaranteed
+2028-29,Paul Reed,0,Guaranteed
+2023-24,Zach Collins,7700000,Guaranteed
+2024-25,Zach Collins,16741200,Guaranteed
+2025-26,Zach Collins,18080496,Guaranteed
+2026-27,Zach Collins,0,Guaranteed
+2027-28,Zach Collins,0,Guaranteed
+2028-29,Zach Collins,0,Guaranteed
+2023-24,Jaden Ivey,7614480,Guaranteed
+2024-25,Jaden Ivey,7977240,Guaranteed
+2025-26,Jaden Ivey,10107163,Team Option
+2026-27,Jaden Ivey,13402098,Qualifying Offer
+2027-28,Jaden Ivey,0,Guaranteed
+2028-29,Jaden Ivey,0,Guaranteed
+2023-24,Cody Martin,7560000,Guaranteed
+2024-25,Cody Martin,8120000,Guaranteed
+2025-26,Cody Martin,8680000,Guaranteed
+2026-27,Cody Martin,0,Guaranteed
+2027-28,Cody Martin,0,Guaranteed
+2028-29,Cody Martin,0,Guaranteed
+2023-24,Patrick Mills,7537766,Guaranteed
+2024-25,Patrick Mills,0,Guaranteed
+2025-26,Patrick Mills,0,Guaranteed
+2026-27,Patrick Mills,0,Guaranteed
+2027-28,Patrick Mills,0,Guaranteed
+2028-29,Patrick Mills,0,Guaranteed
+2023-24,Kevon Looney,7500000,Guaranteed
+2024-25,Kevon Looney,8000000,Guaranteed
+2025-26,Kevon Looney,0,Guaranteed
+2026-27,Kevon Looney,0,Guaranteed
+2027-28,Kevon Looney,0,Guaranteed
+2028-29,Kevon Looney,0,Guaranteed
+2023-24,Killian Hayes,7413955,Guaranteed
+2024-25,Killian Hayes,0,Guaranteed
+2025-26,Killian Hayes,0,Guaranteed
+2026-27,Killian Hayes,0,Guaranteed
+2027-28,Killian Hayes,0,Guaranteed
+2028-29,Killian Hayes,0,Guaranteed
+2023-24,Jalen Suggs,7252080,Guaranteed
+2024-25,Jalen Suggs,9188385,Guaranteed
+2025-26,Jalen Suggs,12183799,Qualifying Offer
+2026-27,Jalen Suggs,0,Guaranteed
+2027-28,Jalen Suggs,0,Guaranteed
+2028-29,Jalen Suggs,0,Guaranteed
+2023-24,Anthony Black,7245480,Guaranteed
+2024-25,Anthony Black,7607754,Guaranteed
+2025-26,Anthony Black,7970028,Team Option
+2026-27,Anthony Black,10105996,Team Option
+2027-28,Anthony Black,14491998,Qualifying Offer
+2028-29,Anthony Black,0,Guaranteed
+2023-24,Jae'Sean Tate,7000000,Guaranteed
+2024-25,Jae'Sean Tate,7565217,Team Option
+2025-26,Jae'Sean Tate,0,Guaranteed
+2026-27,Jae'Sean Tate,0,Guaranteed
+2027-28,Jae'Sean Tate,0,Guaranteed
+2028-29,Jae'Sean Tate,0,Guaranteed
+2023-24,Khem Birch,6985000,Guaranteed
+2024-25,Khem Birch,0,Guaranteed
+2025-26,Khem Birch,0,Guaranteed
+2026-27,Khem Birch,0,Guaranteed
+2027-28,Khem Birch,0,Guaranteed
+2028-29,Khem Birch,0,Guaranteed
+2023-24,Bennedict Mathurin,6916080,Guaranteed
+2024-25,Bennedict Mathurin,7245720,Guaranteed
+2025-26,Bennedict Mathurin,9187573,Team Option
+2026-27,Bennedict Mathurin,12256222,Qualifying Offer
+2027-28,Bennedict Mathurin,0,Guaranteed
+2028-29,Bennedict Mathurin,0,Guaranteed
+2023-24,Obi Toppin,6803012,Guaranteed
+2024-25,Obi Toppin,9170460,Qualifying Offer
+2025-26,Obi Toppin,0,Guaranteed
+2026-27,Obi Toppin,0,Guaranteed
+2027-28,Obi Toppin,0,Guaranteed
+2028-29,Obi Toppin,0,Guaranteed
+2023-24,Caleb Martin,6802950,Guaranteed
+2024-25,Caleb Martin,7126900,Player Option
+2025-26,Caleb Martin,0,Guaranteed
+2026-27,Caleb Martin,0,Guaranteed
+2027-28,Caleb Martin,0,Guaranteed
+2028-29,Caleb Martin,0,Guaranteed
+2023-24,Cedi Osman,6718842,Guaranteed
+2024-25,Cedi Osman,0,Guaranteed
+2025-26,Cedi Osman,0,Guaranteed
+2026-27,Cedi Osman,0,Guaranteed
+2027-28,Cedi Osman,0,Guaranteed
+2028-29,Cedi Osman,0,Guaranteed
+2023-24,Bilal Coulibaly,6614256,Guaranteed
+2024-25,Bilal Coulibaly,6944969,Guaranteed
+2025-26,Bilal Coulibaly,7275682,Team Option
+2026-27,Bilal Coulibaly,9240116,Team Option
+2027-28,Bilal Coulibaly,13315007,Qualifying Offer
+2028-29,Bilal Coulibaly,0,Guaranteed
+2023-24,Josh Giddey,6587040,Guaranteed
+2024-25,Josh Giddey,8352367,Guaranteed
+2025-26,Josh Giddey,11142057,Qualifying Offer
+2026-27,Josh Giddey,0,Guaranteed
+2027-28,Josh Giddey,0,Guaranteed
+2028-29,Josh Giddey,0,Guaranteed
+2023-24,Ayo Dosunmu,6481482,Guaranteed
+2024-25,Ayo Dosunmu,7000000,Guaranteed
+2025-26,Ayo Dosunmu,7518518,Guaranteed
+2026-27,Ayo Dosunmu,0,Guaranteed
+2027-28,Ayo Dosunmu,0,Guaranteed
+2028-29,Ayo Dosunmu,0,Guaranteed
+2023-24,Rudy Gay,6479000,Guaranteed
+2024-25,Rudy Gay,0,Guaranteed
+2025-26,Rudy Gay,0,Guaranteed
+2026-27,Rudy Gay,0,Guaranteed
+2027-28,Rudy Gay,0,Guaranteed
+2028-29,Rudy Gay,0,Guaranteed
+2023-24,Sasha Vezenkov,6341464,Guaranteed
+2024-25,Sasha Vezenkov,6658536,Guaranteed
+2025-26,Sasha Vezenkov,6975609,Team Option
+2026-27,Sasha Vezenkov,0,Guaranteed
+2027-28,Sasha Vezenkov,0,Guaranteed
+2028-29,Sasha Vezenkov,0,Guaranteed
+2023-24,Shaedon Sharpe,6313800,Guaranteed
+2024-25,Shaedon Sharpe,6614160,Guaranteed
+2025-26,Shaedon Sharpe,8399983,Team Option
+2026-27,Shaedon Sharpe,11264377,Qualifying Offer
+2027-28,Shaedon Sharpe,0,Guaranteed
+2028-29,Shaedon Sharpe,0,Guaranteed
+2023-24,Otto Porter,6300000,Guaranteed
+2024-25,Otto Porter,0,Guaranteed
+2025-26,Otto Porter,0,Guaranteed
+2026-27,Otto Porter,0,Guaranteed
+2027-28,Otto Porter,0,Guaranteed
+2028-29,Otto Porter,0,Guaranteed
+2023-24,Deni Avdija,6263188,Guaranteed
+2024-25,Deni Avdija,15625000,Guaranteed
+2025-26,Deni Avdija,14375000,Guaranteed
+2026-27,Deni Avdija,13125000,Guaranteed
+2027-28,Deni Avdija,11875000,Guaranteed
+2028-29,Deni Avdija,0,Guaranteed
+2023-24,Nassir Little,6250000,Guaranteed
+2024-25,Nassir Little,6750000,Guaranteed
+2025-26,Nassir Little,7250000,Guaranteed
+2026-27,Nassir Little,7750000,Guaranteed
+2027-28,Nassir Little,0,Guaranteed
+2028-29,Nassir Little,0,Guaranteed
+2023-24,Bismack Biyombo,6194075,Guaranteed
+2024-25,Bismack Biyombo,0,Guaranteed
+2025-26,Bismack Biyombo,0,Guaranteed
+2026-27,Bismack Biyombo,0,Guaranteed
+2027-28,Bismack Biyombo,0,Guaranteed
+2028-29,Bismack Biyombo,0,Guaranteed
+2023-24,Jevon Carter,6190476,Guaranteed
+2024-25,Jevon Carter,6500000,Guaranteed
+2025-26,Jevon Carter,6809524,Player Option
+2026-27,Jevon Carter,0,Guaranteed
+2027-28,Jevon Carter,0,Guaranteed
+2028-29,Jevon Carter,0,Guaranteed
+2023-24,Josh Primo,6179935,Guaranteed
+2024-25,Josh Primo,0,Guaranteed
+2025-26,Josh Primo,0,Guaranteed
+2026-27,Josh Primo,0,Guaranteed
+2027-28,Josh Primo,0,Guaranteed
+2028-29,Josh Primo,0,Guaranteed
+2023-24,Kenrich Williams,6175000,Guaranteed
+2024-25,Kenrich Williams,6669000,Guaranteed
+2025-26,Kenrich Williams,7163000,Guaranteed
+2026-27,Kenrich Williams,7163000,Team Option
+2027-28,Kenrich Williams,0,Guaranteed
+2028-29,Kenrich Williams,0,Guaranteed
+2023-24,Jarace Walker,6059460,Guaranteed
+2024-25,Jarace Walker,6362433,Guaranteed
+2025-26,Jarace Walker,6665406,Team Option
+2026-27,Jarace Walker,8478396,Team Option
+2027-28,Jarace Walker,12276717,Qualifying Offer
+2028-29,Jarace Walker,0,Guaranteed
+2023-24,Jonathan Kuminga,6012840,Guaranteed
+2024-25,Jonathan Kuminga,7636307,Guaranteed
+2025-26,Jonathan Kuminga,10240287,Qualifying Offer
+2026-27,Jonathan Kuminga,0,Guaranteed
+2027-28,Jonathan Kuminga,0,Guaranteed
+2028-29,Jonathan Kuminga,0,Guaranteed
+2023-24,Devin Vassell,5887899,Guaranteed
+2024-25,Devin Vassell,29347826,Guaranteed
+2025-26,Devin Vassell,27000000,Guaranteed
+2026-27,Devin Vassell,27000000,Guaranteed
+2027-28,Devin Vassell,24652174,Guaranteed
+2028-29,Devin Vassell,27000000,Guaranteed
+2023-24,Tyrese Haliburton,5808435,Guaranteed
+2024-25,Tyrese Haliburton,42300000,Guaranteed
+2025-26,Tyrese Haliburton,45684000,Guaranteed
+2026-27,Tyrese Haliburton,49068000,Guaranteed
+2027-28,Tyrese Haliburton,52452000,Guaranteed
+2028-29,Tyrese Haliburton,55836000,Guaranteed
+2023-24,Dyson Daniels,5784120,Guaranteed
+2024-25,Dyson Daniels,6059520,Guaranteed
+2025-26,Dyson Daniels,7707709,Team Option
+2026-27,Dyson Daniels,10389992,Qualifying Offer
+2027-28,Dyson Daniels,0,Guaranteed
+2028-29,Dyson Daniels,0,Guaranteed
+2023-24,Kira Lewis,5722116,Guaranteed
+2024-25,Kira Lewis,7913686,Qualifying Offer
+2025-26,Kira Lewis,0,Guaranteed
+2026-27,Kira Lewis,0,Guaranteed
+2027-28,Kira Lewis,0,Guaranteed
+2028-29,Kira Lewis,0,Guaranteed
+2023-24,Dean Wade,5709877,Guaranteed
+2024-25,Dean Wade,6166667,Guaranteed
+2025-26,Dean Wade,6623456,Guaranteed
+2026-27,Dean Wade,0,Guaranteed
+2027-28,Dean Wade,0,Guaranteed
+2028-29,Dean Wade,0,Guaranteed
+2023-24,Aaron Nesmith,5634257,Guaranteed
+2024-25,Aaron Nesmith,11000000,Guaranteed
+2025-26,Aaron Nesmith,11000000,Guaranteed
+2026-27,Aaron Nesmith,11000000,Guaranteed
+2027-28,Aaron Nesmith,0,Guaranteed
+2028-29,Aaron Nesmith,0,Guaranteed
+2023-24,Aleksej Pokusevski,5574809,Guaranteed
+2024-25,Aleksej Pokusevski,2273252,Guaranteed
+2025-26,Aleksej Pokusevski,0,Guaranteed
+2026-27,Aleksej Pokusevski,0,Guaranteed
+2027-28,Aleksej Pokusevski,0,Guaranteed
+2028-29,Aleksej Pokusevski,0,Guaranteed
+2023-24,Taylor Hendricks,5569872,Guaranteed
+2024-25,Taylor Hendricks,5848366,Guaranteed
+2025-26,Taylor Hendricks,6126859,Team Option
+2026-27,Taylor Hendricks,7805619,Team Option
+2027-28,Taylor Hendricks,11357175,Qualifying Offer
+2028-29,Taylor Hendricks,0,Guaranteed
+2023-24,Shake Milton,5552938,Guaranteed
+2024-25,Shake Milton,5000000,Guaranteed
+2025-26,Shake Milton,0,Guaranteed
+2026-27,Shake Milton,0,Guaranteed
+2027-28,Shake Milton,0,Guaranteed
+2028-29,Shake Milton,0,Guaranteed
+2023-24,JaVale McGee,5544772,Guaranteed
+2024-25,JaVale McGee,2348324,Guaranteed
+2025-26,JaVale McGee,2348324,Guaranteed
+2026-27,JaVale McGee,2348324,Guaranteed
+2027-28,JaVale McGee,2348324,Guaranteed
+2028-29,JaVale McGee,0,Guaranteed
+2023-24,Cole Anthony,5539771,Guaranteed
+2024-25,Cole Anthony,12900000,Guaranteed
+2025-26,Cole Anthony,13100000,Guaranteed
+2026-27,Cole Anthony,13100000,Team Option
+2027-28,Cole Anthony,0,Guaranteed
+2028-29,Cole Anthony,0,Guaranteed
+2023-24,Franz Wagner,5508720,Guaranteed
+2024-25,Franz Wagner,7007092,Guaranteed
+2025-26,Franz Wagner,9445560,Qualifying Offer
+2026-27,Franz Wagner,0,Guaranteed
+2027-28,Franz Wagner,0,Guaranteed
+2028-29,Franz Wagner,0,Guaranteed
+2023-24,Furkan Korkmaz,5370370,Guaranteed
+2024-25,Furkan Korkmaz,0,Guaranteed
+2025-26,Furkan Korkmaz,0,Guaranteed
+2026-27,Furkan Korkmaz,0,Guaranteed
+2027-28,Furkan Korkmaz,0,Guaranteed
+2028-29,Furkan Korkmaz,0,Guaranteed
+2023-24,Jeremy Sochan,5316960,Guaranteed
+2024-25,Jeremy Sochan,5570040,Guaranteed
+2025-26,Jeremy Sochan,7096231,Team Option
+2026-27,Jeremy Sochan,9615393,Qualifying Offer
+2027-28,Jeremy Sochan,0,Guaranteed
+2028-29,Jeremy Sochan,0,Guaranteed
+2023-24,Cason Wallace,5291352,Guaranteed
+2024-25,Cason Wallace,5555920,Guaranteed
+2025-26,Cason Wallace,5820487,Team Option
+2026-27,Cason Wallace,7421121,Team Option
+2027-28,Cason Wallace,10849678,Qualifying Offer
+2028-29,Cason Wallace,0,Guaranteed
+2023-24,Isaiah Stewart,5266713,Guaranteed
+2024-25,Isaiah Stewart,15000000,Guaranteed
+2025-26,Isaiah Stewart,15000000,Guaranteed
+2026-27,Isaiah Stewart,15000000,Guaranteed
+2027-28,Isaiah Stewart,15000000,Team Option
+2028-29,Isaiah Stewart,0,Guaranteed
+2023-24,Chuma Okeke,5266712,Guaranteed
+2024-25,Chuma Okeke,7399731,Qualifying Offer
+2025-26,Chuma Okeke,0,Guaranteed
+2026-27,Chuma Okeke,0,Guaranteed
+2027-28,Chuma Okeke,0,Guaranteed
+2028-29,Chuma Okeke,0,Guaranteed
+2023-24,Davion Mitchell,5063640,Guaranteed
+2024-25,Davion Mitchell,6451077,Guaranteed
+2025-26,Davion Mitchell,8741210,Qualifying Offer
+2026-27,Davion Mitchell,0,Guaranteed
+2027-28,Davion Mitchell,0,Guaranteed
+2028-29,Davion Mitchell,0,Guaranteed
+2023-24,Johnny Davis,5050800,Guaranteed
+2024-25,Johnny Davis,5291160,Guaranteed
+2025-26,Johnny Davis,6746229,Team Option
+2026-27,Johnny Davis,9188364,Qualifying Offer
+2027-28,Johnny Davis,0,Guaranteed
+2028-29,Johnny Davis,0,Guaranteed
+2023-24,Jalen Smith,5043773,Guaranteed
+2024-25,Jalen Smith,5417386,Player Option
+2025-26,Jalen Smith,0,Guaranteed
+2026-27,Jalen Smith,0,Guaranteed
+2027-28,Jalen Smith,0,Guaranteed
+2028-29,Jalen Smith,0,Guaranteed
+2023-24,Jett Howard,5026824,Guaranteed
+2024-25,Jett Howard,5278165,Guaranteed
+2025-26,Jett Howard,5529506,Team Option
+2026-27,Jett Howard,7337655,Team Option
+2027-28,Jett Howard,10779015,Qualifying Offer
+2028-29,Jett Howard,0,Guaranteed
+2023-24,Reggie Jackson,5000000,Guaranteed
+2024-25,Reggie Jackson,5250000,Player Option
+2025-26,Reggie Jackson,0,Guaranteed
+2026-27,Reggie Jackson,0,Guaranteed
+2027-28,Reggie Jackson,0,Guaranteed
+2028-29,Reggie Jackson,0,Guaranteed
+2023-24,Mason Plumlee,5000000,Guaranteed
+2024-25,Mason Plumlee,0,Guaranteed
+2025-26,Mason Plumlee,0,Guaranteed
+2026-27,Mason Plumlee,0,Guaranteed
+2027-28,Mason Plumlee,0,Guaranteed
+2028-29,Mason Plumlee,0,Guaranteed
+2023-24,Tre Mann,4908373,Guaranteed
+2024-25,Tre Mann,4908373,Guaranteed
+2025-26,Tre Mann,6964982,Qualifying Offer
+2026-27,Tre Mann,0,Guaranteed
+2027-28,Tre Mann,0,Guaranteed
+2028-29,Tre Mann,0,Guaranteed
+2023-24,Ziaire Williams,4810200,Guaranteed
+2024-25,Ziaire Williams,6133005,Guaranteed
+2025-26,Ziaire Williams,8353152,Qualifying Offer
+2026-27,Ziaire Williams,0,Guaranteed
+2027-28,Ziaire Williams,0,Guaranteed
+2028-29,Ziaire Williams,0,Guaranteed
+2023-24,Ousmane Dieng,4798440,Guaranteed
+2024-25,Ousmane Dieng,5027040,Guaranteed
+2025-26,Ousmane Dieng,6670882,Team Option
+2026-27,Ousmane Dieng,9132438,Qualifying Offer
+2027-28,Ousmane Dieng,0,Guaranteed
+2028-29,Ousmane Dieng,0,Guaranteed
+2023-24,Taj Gibson,4776302,Guaranteed
+2024-25,Taj Gibson,0,Guaranteed
+2025-26,Taj Gibson,0,Guaranteed
+2026-27,Taj Gibson,0,Guaranteed
+2027-28,Taj Gibson,0,Guaranteed
+2028-29,Taj Gibson,0,Guaranteed
+2023-24,Dereck Lively,4775628,Guaranteed
+2024-25,Dereck Lively,5014409,Guaranteed
+2025-26,Dereck Lively,5253191,Team Option
+2026-27,Dereck Lively,7238897,Team Option
+2027-28,Dereck Lively,10684611,Qualifying Offer
+2028-29,Dereck Lively,0,Guaranteed
+2023-24,Josh Green,4765339,Guaranteed
+2024-25,Josh Green,12654321,Guaranteed
+2025-26,Josh Green,13666667,Guaranteed
+2026-27,Josh Green,14679012,Guaranteed
+2027-28,Josh Green,0,Guaranteed
+2028-29,Josh Green,0,Guaranteed
+2023-24,Nickeil Alexander-Walker,4687500,Guaranteed
+2024-25,Nickeil Alexander-Walker,4312500,Guaranteed
+2025-26,Nickeil Alexander-Walker,0,Guaranteed
+2026-27,Nickeil Alexander-Walker,0,Guaranteed
+2027-28,Nickeil Alexander-Walker,0,Guaranteed
+2028-29,Nickeil Alexander-Walker,0,Guaranteed
+2023-24,Jarred Vanderbilt,4640000,Guaranteed
+2024-25,Jarred Vanderbilt,10714286,Guaranteed
+2025-26,Jarred Vanderbilt,11571429,Guaranteed
+2026-27,Jarred Vanderbilt,12428571,Guaranteed
+2027-28,Jarred Vanderbilt,13285714,Player Option
+2028-29,Jarred Vanderbilt,0,Guaranteed
+2023-24,James Bouknight,4570080,Guaranteed
+2024-25,James Bouknight,0,Guaranteed
+2025-26,James Bouknight,0,Guaranteed
+2026-27,James Bouknight,0,Guaranteed
+2027-28,James Bouknight,0,Guaranteed
+2028-29,James Bouknight,0,Guaranteed
+2023-24,Jalen Williams,4558680,Guaranteed
+2024-25,Jalen Williams,4775760,Guaranteed
+2025-26,Jalen Williams,6580997,Team Option
+2026-27,Jalen Williams,9055452,Qualifying Offer
+2027-28,Jalen Williams,0,Guaranteed
+2028-29,Jalen Williams,0,Guaranteed
+2023-24,Saddiq Bey,4556983,Guaranteed
+2024-25,Saddiq Bey,6498258,Qualifying Offer
+2025-26,Saddiq Bey,0,Guaranteed
+2026-27,Saddiq Bey,0,Guaranteed
+2027-28,Saddiq Bey,0,Guaranteed
+2028-29,Saddiq Bey,0,Guaranteed
+2023-24,Gradey Dick,4536708,Guaranteed
+2024-25,Gradey Dick,4763543,Guaranteed
+2025-26,Gradey Dick,4990379,Team Option
+2026-27,Gradey Dick,7131251,Team Option
+2027-28,Gradey Dick,10575645,Qualifying Offer
+2028-29,Gradey Dick,0,Guaranteed
+2023-24,Jalen McDaniels,4516000,Guaranteed
+2024-25,Jalen McDaniels,4741800,Guaranteed
+2025-26,Jalen McDaniels,0,Guaranteed
+2026-27,Jalen McDaniels,0,Guaranteed
+2027-28,Jalen McDaniels,0,Guaranteed
+2028-29,Jalen McDaniels,0,Guaranteed
+2023-24,Taurean Prince,4516000,Guaranteed
+2024-25,Taurean Prince,0,Guaranteed
+2025-26,Taurean Prince,0,Guaranteed
+2026-27,Taurean Prince,0,Guaranteed
+2027-28,Taurean Prince,0,Guaranteed
+2028-29,Taurean Prince,0,Guaranteed
+2023-24,Precious Achiuwa,4379526,Guaranteed
+2024-25,Precious Achiuwa,6275861,Qualifying Offer
+2025-26,Precious Achiuwa,0,Guaranteed
+2026-27,Precious Achiuwa,0,Guaranteed
+2027-28,Precious Achiuwa,0,Guaranteed
+2028-29,Precious Achiuwa,0,Guaranteed
+2023-24,Tyrese Maxey,4343920,Guaranteed
+2024-25,Tyrese Maxey,6259588,Qualifying Offer
+2025-26,Tyrese Maxey,0,Guaranteed
+2026-27,Tyrese Maxey,0,Guaranteed
+2027-28,Tyrese Maxey,0,Guaranteed
+2028-29,Tyrese Maxey,0,Guaranteed
+2023-24,Jalen Duren,4330680,Guaranteed
+2024-25,Jalen Duren,4536840,Guaranteed
+2025-26,Jalen Duren,6483144,Team Option
+2026-27,Jalen Duren,8966189,Qualifying Offer
+2027-28,Jalen Duren,0,Guaranteed
+2028-29,Jalen Duren,0,Guaranteed
+2023-24,Danuel House,4310250,Guaranteed
+2024-25,Danuel House,0,Guaranteed
+2025-26,Danuel House,0,Guaranteed
+2026-27,Danuel House,0,Guaranteed
+2027-28,Danuel House,0,Guaranteed
+2028-29,Danuel House,0,Guaranteed
+2023-24,Jordan Hawkins,4310196,Guaranteed
+2024-25,Jordan Hawkins,4525706,Guaranteed
+2025-26,Jordan Hawkins,4741216,Team Option
+2026-27,Jordan Hawkins,7021740,Team Option
+2027-28,Jordan Hawkins,10469414,Qualifying Offer
+2028-29,Jordan Hawkins,0,Guaranteed
+2023-24,Zeke Nnaji,4306281,Guaranteed
+2024-25,Zeke Nnaji,8888889,Guaranteed
+2025-26,Zeke Nnaji,8177778,Guaranteed
+2026-27,Zeke Nnaji,7466667,Guaranteed
+2027-28,Zeke Nnaji,7466667,Player Option
+2028-29,Zeke Nnaji,0,Guaranteed
+2023-24,Immanuel Quickley,4171548,Guaranteed
+2024-25,Immanuel Quickley,6128004,Qualifying Offer
+2025-26,Immanuel Quickley,0,Guaranteed
+2026-27,Immanuel Quickley,0,Guaranteed
+2027-28,Immanuel Quickley,0,Guaranteed
+2028-29,Immanuel Quickley,0,Guaranteed
+2023-24,Chris Duarte,4124400,Guaranteed
+2024-25,Chris Duarte,5893768,Guaranteed
+2025-26,Chris Duarte,8151081,Qualifying Offer
+2026-27,Chris Duarte,0,Guaranteed
+2027-28,Chris Duarte,0,Guaranteed
+2028-29,Chris Duarte,0,Guaranteed
+2023-24,Ochai Agbaji,4114200,Guaranteed
+2024-25,Ochai Agbaji,4310280,Guaranteed
+2025-26,Ochai Agbaji,6383525,Team Option
+2026-27,Ochai Agbaji,8879483,Qualifying Offer
+2027-28,Ochai Agbaji,0,Guaranteed
+2028-29,Ochai Agbaji,0,Guaranteed
+2023-24,Kobe Bufkin,4094244,Guaranteed
+2024-25,Kobe Bufkin,4298956,Guaranteed
+2025-26,Kobe Bufkin,4503668,Team Option
+2026-27,Kobe Bufkin,6904124,Team Option
+2027-28,Kobe Bufkin,10342377,Qualifying Offer
+2028-29,Kobe Bufkin,0,Guaranteed
+2023-24,Payton Pritchard,4037277,Guaranteed
+2024-25,Payton Pritchard,6696429,Guaranteed
+2025-26,Payton Pritchard,7232143,Guaranteed
+2026-27,Payton Pritchard,7767857,Guaranteed
+2027-28,Payton Pritchard,8303571,Guaranteed
+2028-29,Payton Pritchard,0,Guaranteed
+2023-24,Dwight Powell,4000000,Guaranteed
+2024-25,Dwight Powell,4000000,Guaranteed
+2025-26,Dwight Powell,4000000,Player Option
+2026-27,Dwight Powell,0,Guaranteed
+2027-28,Dwight Powell,0,Guaranteed
+2028-29,Dwight Powell,0,Guaranteed
+2023-24,Troy Brown,4000000,Guaranteed
+2024-25,Troy Brown,4000000,Guaranteed
+2025-26,Troy Brown,0,Guaranteed
+2026-27,Troy Brown,0,Guaranteed
+2027-28,Troy Brown,0,Guaranteed
+2028-29,Troy Brown,0,Guaranteed
+2023-24,Seth Curry,4000000,Guaranteed
+2024-25,Seth Curry,4000000,Team Option
+2025-26,Seth Curry,0,Guaranteed
+2026-27,Seth Curry,0,Guaranteed
+2027-28,Seth Curry,0,Guaranteed
+2028-29,Seth Curry,0,Guaranteed
+2023-24,Moses Moody,3918480,Guaranteed
+2024-25,Moses Moody,5803269,Guaranteed
+2025-26,Moses Moody,8072347,Qualifying Offer
+2026-27,Moses Moody,0,Guaranteed
+2027-28,Moses Moody,0,Guaranteed
+2028-29,Moses Moody,0,Guaranteed
+2023-24,Mark Williams,3908160,Guaranteed
+2024-25,Mark Williams,4094280,Guaranteed
+2025-26,Mark Williams,6276531,Team Option
+2026-27,Mark Williams,8774591,Qualifying Offer
+2027-28,Mark Williams,0,Guaranteed
+2028-29,Mark Williams,0,Guaranteed
+2023-24,Jaden McDaniels,3901399,Guaranteed
+2024-25,Jaden McDaniels,23017242,Guaranteed
+2025-26,Jaden McDaniels,24858622,Guaranteed
+2026-27,Jaden McDaniels,26250001,Guaranteed
+2027-28,Jaden McDaniels,28541380,Guaranteed
+2028-29,Jaden McDaniels,30382755,Guaranteed
+2023-24,Keyonte George,3889776,Guaranteed
+2024-25,Keyonte George,4084265,Guaranteed
+2025-26,Keyonte George,4278754,Team Option
+2026-27,Keyonte George,6563608,Team Option
+2027-28,Keyonte George,9878230,Qualifying Offer
+2028-29,Keyonte George,0,Guaranteed
+2023-24,Malachi Flynn,3873024,Guaranteed
+2024-25,Malachi Flynn,5809537,Qualifying Offer
+2025-26,Malachi Flynn,0,Guaranteed
+2026-27,Malachi Flynn,0,Guaranteed
+2027-28,Malachi Flynn,0,Guaranteed
+2028-29,Malachi Flynn,0,Guaranteed
+2023-24,Desmond Bane,3845083,Guaranteed
+2024-25,Desmond Bane,34005250,Guaranteed
+2025-26,Desmond Bane,36725670,Guaranteed
+2026-27,Desmond Bane,39446090,Guaranteed
+2027-28,Desmond Bane,42166510,Guaranteed
+2028-29,Desmond Bane,44886930,Guaranteed
+2023-24,James Johnson,3839412,Guaranteed
+2024-25,James Johnson,0,Guaranteed
+2025-26,James Johnson,0,Guaranteed
+2026-27,James Johnson,0,Guaranteed
+2027-28,James Johnson,0,Guaranteed
+2028-29,James Johnson,0,Guaranteed
+2023-24,Russell Westbrook,3835738,Guaranteed
+2024-25,Russell Westbrook,4027525,Player Option
+2025-26,Russell Westbrook,0,Guaranteed
+2026-27,Russell Westbrook,0,Guaranteed
+2027-28,Russell Westbrook,0,Guaranteed
+2028-29,Russell Westbrook,0,Guaranteed
+2023-24,Kevin Love,3835738,Guaranteed
+2024-25,Kevin Love,4027525,Player Option
+2025-26,Kevin Love,0,Guaranteed
+2026-27,Kevin Love,0,Guaranteed
+2027-28,Kevin Love,0,Guaranteed
+2028-29,Kevin Love,0,Guaranteed
+2023-24,Ricky Rubio,3722327,Guaranteed
+2024-25,Ricky Rubio,1274015,Guaranteed
+2025-26,Ricky Rubio,0,Guaranteed
+2026-27,Ricky Rubio,0,Guaranteed
+2027-28,Ricky Rubio,0,Guaranteed
+2028-29,Ricky Rubio,0,Guaranteed
+2023-24,Corey Kispert,3722040,Guaranteed
+2024-25,Corey Kispert,5705887,Guaranteed
+2025-26,Corey Kispert,7976830,Qualifying Offer
+2026-27,Corey Kispert,0,Guaranteed
+2027-28,Corey Kispert,0,Guaranteed
+2028-29,Corey Kispert,0,Guaranteed
+2023-24,AJ Griffin,3712920,Guaranteed
+2024-25,AJ Griffin,3889920,Guaranteed
+2025-26,AJ Griffin,5967137,Team Option
+2026-27,AJ Griffin,8383828,Qualifying Offer
+2027-28,AJ Griffin,0,Guaranteed
+2028-29,AJ Griffin,0,Guaranteed
+2023-24,Jalen Hood-Schifino,3695076,Guaranteed
+2024-25,Jalen Hood-Schifino,3879830,Guaranteed
+2025-26,Jalen Hood-Schifino,4064584,Team Option
+2026-27,Jalen Hood-Schifino,6243200,Team Option
+2027-28,Jalen Hood-Schifino,9439718,Qualifying Offer
+2028-29,Jalen Hood-Schifino,0,Guaranteed
+2023-24,Amir Coffey,3666667,Guaranteed
+2024-25,Amir Coffey,3938271,Guaranteed
+2025-26,Amir Coffey,0,Guaranteed
+2026-27,Amir Coffey,0,Guaranteed
+2027-28,Amir Coffey,0,Guaranteed
+2028-29,Amir Coffey,0,Guaranteed
+2023-24,Alperen Sengun,3536280,Guaranteed
+2024-25,Alperen Sengun,5424654,Guaranteed
+2025-26,Alperen Sengun,7621638,Qualifying Offer
+2026-27,Alperen Sengun,0,Guaranteed
+2027-28,Alperen Sengun,0,Guaranteed
+2028-29,Alperen Sengun,0,Guaranteed
+2023-24,Tari Eason,3527160,Guaranteed
+2024-25,Tari Eason,3695160,Guaranteed
+2025-26,Tari Eason,5675766,Team Option
+2026-27,Tari Eason,8014181,Qualifying Offer
+2027-28,Tari Eason,0,Guaranteed
+2028-29,Tari Eason,0,Guaranteed
+2023-24,Jaime Jaquez,3510540,Guaranteed
+2024-25,Jaime Jaquez,3686067,Guaranteed
+2025-26,Jaime Jaquez,3861594,Team Option
+2026-27,Jaime Jaquez,5939132,Team Option
+2027-28,Jaime Jaquez,9021541,Qualifying Offer
+2028-29,Jaime Jaquez,0,Guaranteed
+2023-24,Mike Muscala,3444889,Guaranteed
+2024-25,Mike Muscala,0,Guaranteed
+2025-26,Mike Muscala,0,Guaranteed
+2026-27,Mike Muscala,0,Guaranteed
+2027-28,Mike Muscala,0,Guaranteed
+2028-29,Mike Muscala,0,Guaranteed
+2023-24,Andre Drummond,3360000,Guaranteed
+2024-25,Andre Drummond,0,Guaranteed
+2025-26,Andre Drummond,0,Guaranteed
+2026-27,Andre Drummond,0,Guaranteed
+2027-28,Andre Drummond,0,Guaranteed
+2028-29,Andre Drummond,0,Guaranteed
+2023-24,Trey Murphy,3359280,Guaranteed
+2024-25,Trey Murphy,5159854,Guaranteed
+2025-26,Trey Murphy,7285713,Qualifying Offer
+2026-27,Trey Murphy,0,Guaranteed
+2027-28,Trey Murphy,0,Guaranteed
+2028-29,Trey Murphy,0,Guaranteed
+2023-24,Brandin Podziemski,3352404,Guaranteed
+2024-25,Brandin Podziemski,3520024,Guaranteed
+2025-26,Brandin Podziemski,3687644,Team Option
+2026-27,Brandin Podziemski,5678972,Team Option
+2027-28,Brandin Podziemski,8666111,Qualifying Offer
+2028-29,Brandin Podziemski,0,Guaranteed
+2023-24,Dalen Terry,3350760,Guaranteed
+2024-25,Dalen Terry,3510480,Guaranteed
+2025-26,Dalen Terry,5399118,Team Option
+2026-27,Dalen Terry,7661349,Qualifying Offer
+2027-28,Dalen Terry,0,Guaranteed
+2028-29,Dalen Terry,0,Guaranteed
+2023-24,Keon Johnson,3342765,Two-Way
+2024-25,Keon Johnson,0,Guaranteed
+2025-26,Keon Johnson,0,Guaranteed
+2026-27,Keon Johnson,0,Guaranteed
+2027-28,Keon Johnson,0,Guaranteed
+2028-29,Keon Johnson,0,Guaranteed
+2023-24,Cameron Whitmore,3218160,Guaranteed
+2024-25,Cameron Whitmore,3379068,Guaranteed
+2025-26,Cameron Whitmore,3539976,Team Option
+2026-27,Cameron Whitmore,5458643,Team Option
+2027-28,Cameron Whitmore,8368099,Qualifying Offer
+2028-29,Cameron Whitmore,0,Guaranteed
+2023-24,Jake LaRavia,3199920,Guaranteed
+2024-25,Jake LaRavia,3352680,Guaranteed
+2025-26,Jake LaRavia,5163127,Team Option
+2026-27,Jake LaRavia,7362619,Qualifying Offer
+2027-28,Jake LaRavia,0,Guaranteed
+2028-29,Jake LaRavia,0,Guaranteed
+2023-24,Kai Jones,3198778,Guaranteed
+2024-25,Kai Jones,2196970,Guaranteed
+2025-26,Kai Jones,0,Guaranteed
+2026-27,Kai Jones,0,Guaranteed
+2027-28,Kai Jones,0,Guaranteed
+2028-29,Kai Jones,0,Guaranteed
+2023-24,Derrick Rose,3196448,Guaranteed
+2024-25,Derrick Rose,3356271,Guaranteed
+2025-26,Derrick Rose,0,Guaranteed
+2026-27,Derrick Rose,0,Guaranteed
+2027-28,Derrick Rose,0,Guaranteed
+2028-29,Derrick Rose,0,Guaranteed
+2023-24,Eric Gordon,3196448,Guaranteed
+2024-25,Eric Gordon,3356271,Player Option
+2025-26,Eric Gordon,0,Guaranteed
+2026-27,Eric Gordon,0,Guaranteed
+2027-28,Eric Gordon,0,Guaranteed
+2028-29,Eric Gordon,0,Guaranteed
+2023-24,Wesley Matthews,3196448,Guaranteed
+2024-25,Wesley Matthews,0,Guaranteed
+2025-26,Wesley Matthews,0,Guaranteed
+2026-27,Wesley Matthews,0,Guaranteed
+2027-28,Wesley Matthews,0,Guaranteed
+2028-29,Wesley Matthews,0,Guaranteed
+2023-24,Ishmael Smith,3196448,Guaranteed
+2024-25,Ishmael Smith,0,Guaranteed
+2025-26,Ishmael Smith,0,Guaranteed
+2026-27,Ishmael Smith,0,Guaranteed
+2027-28,Ishmael Smith,0,Guaranteed
+2028-29,Ishmael Smith,0,Guaranteed
+2023-24,Tristan Thompson,3196448,Guaranteed
+2024-25,Tristan Thompson,0,Guaranteed
+2025-26,Tristan Thompson,0,Guaranteed
+2026-27,Tristan Thompson,0,Guaranteed
+2027-28,Tristan Thompson,0,Guaranteed
+2028-29,Tristan Thompson,0,Guaranteed
+2023-24,Markieff Morris,3196448,Guaranteed
+2024-25,Markieff Morris,0,Guaranteed
+2025-26,Markieff Morris,0,Guaranteed
+2026-27,Markieff Morris,0,Guaranteed
+2027-28,Markieff Morris,0,Guaranteed
+2028-29,Markieff Morris,0,Guaranteed
+2023-24,Justin Holiday,3196448,Guaranteed
+2024-25,Justin Holiday,0,Guaranteed
+2025-26,Justin Holiday,0,Guaranteed
+2026-27,Justin Holiday,0,Guaranteed
+2027-28,Justin Holiday,0,Guaranteed
+2028-29,Justin Holiday,0,Guaranteed
+2023-24,DeAndre Jordan,3196448,Guaranteed
+2024-25,DeAndre Jordan,0,Guaranteed
+2025-26,DeAndre Jordan,0,Guaranteed
+2026-27,DeAndre Jordan,0,Guaranteed
+2027-28,DeAndre Jordan,0,Guaranteed
+2028-29,DeAndre Jordan,0,Guaranteed
+2023-24,Cory Joseph,3196448,Guaranteed
+2024-25,Cory Joseph,0,Guaranteed
+2025-26,Cory Joseph,0,Guaranteed
+2026-27,Cory Joseph,0,Guaranteed
+2027-28,Cory Joseph,0,Guaranteed
+2028-29,Cory Joseph,0,Guaranteed
+2023-24,Patrick Beverley,3196448,Guaranteed
+2024-25,Patrick Beverley,0,Guaranteed
+2025-26,Patrick Beverley,0,Guaranteed
+2026-27,Patrick Beverley,0,Guaranteed
+2027-28,Patrick Beverley,0,Guaranteed
+2028-29,Patrick Beverley,0,Guaranteed
+2023-24,Jae Crowder,3196448,Guaranteed
+2024-25,Jae Crowder,0,Guaranteed
+2025-26,Jae Crowder,0,Guaranteed
+2026-27,Jae Crowder,0,Guaranteed
+2027-28,Jae Crowder,0,Guaranteed
+2028-29,Jae Crowder,0,Guaranteed
+2023-24,Cody Zeller,3196448,Guaranteed
+2024-25,Cody Zeller,0,Guaranteed
+2025-26,Cody Zeller,0,Guaranteed
+2026-27,Cody Zeller,0,Guaranteed
+2027-28,Cody Zeller,0,Guaranteed
+2028-29,Cody Zeller,0,Guaranteed
+2023-24,Alex Len,3196448,Guaranteed
+2024-25,Alex Len,0,Guaranteed
+2025-26,Alex Len,0,Guaranteed
+2026-27,Alex Len,0,Guaranteed
+2027-28,Alex Len,0,Guaranteed
+2028-29,Alex Len,0,Guaranteed
+2023-24,Robin Lopez,3196448,Guaranteed
+2024-25,Robin Lopez,0,Guaranteed
+2025-26,Robin Lopez,0,Guaranteed
+2026-27,Robin Lopez,0,Guaranteed
+2027-28,Robin Lopez,0,Guaranteed
+2028-29,Robin Lopez,0,Guaranteed
+2023-24,Garrett Temple,3196448,Guaranteed
+2024-25,Garrett Temple,0,Guaranteed
+2025-26,Garrett Temple,0,Guaranteed
+2026-27,Garrett Temple,0,Guaranteed
+2027-28,Garrett Temple,0,Guaranteed
+2028-29,Garrett Temple,0,Guaranteed
+2023-24,Usman Garuba,3159790,Guaranteed
+2024-25,Usman Garuba,0,Guaranteed
+2025-26,Usman Garuba,0,Guaranteed
+2026-27,Usman Garuba,0,Guaranteed
+2027-28,Usman Garuba,0,Guaranteed
+2028-29,Usman Garuba,0,Guaranteed
+2023-24,Noah Clowney,3089460,Guaranteed
+2024-25,Noah Clowney,3243933,Guaranteed
+2025-26,Noah Clowney,3398406,Team Option
+2026-27,Noah Clowney,5413661,Team Option
+2027-28,Noah Clowney,8342451,Qualifying Offer
+2028-29,Noah Clowney,0,Guaranteed
+2023-24,Malaki Branham,3071880,Guaranteed
+2024-25,Malaki Branham,3217920,Guaranteed
+2025-26,Malaki Branham,4962033,Team Option
+2026-27,Malaki Branham,7110593,Qualifying Offer
+2027-28,Malaki Branham,0,Guaranteed
+2028-29,Malaki Branham,0,Guaranteed
+2023-24,Simone Fontecchio,3044872,Guaranteed
+2024-25,Simone Fontecchio,0,Guaranteed
+2025-26,Simone Fontecchio,0,Guaranteed
+2026-27,Simone Fontecchio,0,Guaranteed
+2027-28,Simone Fontecchio,0,Guaranteed
+2028-29,Simone Fontecchio,0,Guaranteed
+2023-24,Dante Exum,3000000,Guaranteed
+2024-25,Dante Exum,3150000,Guaranteed
+2025-26,Dante Exum,0,Guaranteed
+2026-27,Dante Exum,0,Guaranteed
+2027-28,Dante Exum,0,Guaranteed
+2028-29,Dante Exum,0,Guaranteed
+2023-24,Julian Champagnie,3000000,Guaranteed
+2024-25,Julian Champagnie,3000000,Guaranteed
+2025-26,Julian Champagnie,3000000,Guaranteed
+2026-27,Julian Champagnie,3000000,Team Option
+2027-28,Julian Champagnie,0,Guaranteed
+2028-29,Julian Champagnie,0,Guaranteed
+2023-24,Jordan Nwora,3000000,Guaranteed
+2024-25,Jordan Nwora,0,Guaranteed
+2025-26,Jordan Nwora,0,Guaranteed
+2026-27,Jordan Nwora,0,Guaranteed
+2027-28,Jordan Nwora,0,Guaranteed
+2028-29,Jordan Nwora,0,Guaranteed
+2023-24,Dariq Whitehead,2966040,Guaranteed
+2024-25,Dariq Whitehead,3114342,Guaranteed
+2025-26,Dariq Whitehead,3262644,Team Option
+2026-27,Dariq Whitehead,5367049,Team Option
+2027-28,Dariq Whitehead,8308191,Qualifying Offer
+2028-29,Dariq Whitehead,0,Guaranteed
+2023-24,Christian Braun,2949120,Guaranteed
+2024-25,Christian Braun,3089640,Guaranteed
+2025-26,Christian Braun,4921797,Team Option
+2026-27,Christian Braun,7092309,Qualifying Offer
+2027-28,Christian Braun,0,Guaranteed
+2028-29,Christian Braun,0,Guaranteed
+2023-24,Jalen Johnson,2925360,Guaranteed
+2024-25,Jalen Johnson,4510905,Guaranteed
+2025-26,Jalen Johnson,6464127,Qualifying Offer
+2026-27,Jalen Johnson,0,Guaranteed
+2027-28,Jalen Johnson,0,Guaranteed
+2028-29,Jalen Johnson,0,Guaranteed
+2023-24,Josh Richardson,2891467,Guaranteed
+2024-25,Josh Richardson,3051153,Player Option
+2025-26,Josh Richardson,0,Guaranteed
+2026-27,Josh Richardson,0,Guaranteed
+2027-28,Josh Richardson,0,Guaranteed
+2028-29,Josh Richardson,0,Guaranteed
+2023-24,Boban Marjanovic,2891467,Guaranteed
+2024-25,Boban Marjanovic,0,Guaranteed
+2025-26,Boban Marjanovic,0,Guaranteed
+2026-27,Boban Marjanovic,0,Guaranteed
+2027-28,Boban Marjanovic,0,Guaranteed
+2028-29,Boban Marjanovic,0,Guaranteed
+2023-24,Kelly Oubre,2891467,Guaranteed
+2024-25,Kelly Oubre,0,Guaranteed
+2025-26,Kelly Oubre,0,Guaranteed
+2026-27,Kelly Oubre,0,Guaranteed
+2027-28,Kelly Oubre,0,Guaranteed
+2028-29,Kelly Oubre,0,Guaranteed
+2023-24,Kris Murray,2847504,Guaranteed
+2024-25,Kris Murray,2989879,Guaranteed
+2025-26,Kris Murray,3132254,Team Option
+2026-27,Kris Murray,5315436,Team Option
+2027-28,Kris Murray,8265502,Qualifying Offer
+2028-29,Kris Murray,0,Guaranteed
+2023-24,Andrew Nicholson,2844429,Guaranteed
+2024-25,Andrew Nicholson,0,Guaranteed
+2025-26,Andrew Nicholson,0,Guaranteed
+2026-27,Andrew Nicholson,0,Guaranteed
+2027-28,Andrew Nicholson,0,Guaranteed
+2028-29,Andrew Nicholson,0,Guaranteed
+2023-24,Walker Kessler,2831160,Guaranteed
+2024-25,Walker Kessler,2965920,Guaranteed
+2025-26,Walker Kessler,4878938,Team Option
+2026-27,Walker Kessler,7064703,Qualifying Offer
+2027-28,Walker Kessler,0,Guaranteed
+2028-29,Walker Kessler,0,Guaranteed
+2023-24,TyTy Washington,2830222,Two-Way
+2024-25,TyTy Washington,0,Guaranteed
+2025-26,TyTy Washington,0,Guaranteed
+2026-27,TyTy Washington,0,Guaranteed
+2027-28,TyTy Washington,0,Guaranteed
+2028-29,TyTy Washington,0,Guaranteed
+2023-24,Josh Okogie,2815937,Guaranteed
+2024-25,Josh Okogie,2956734,Player Option
+2025-26,Josh Okogie,0,Guaranteed
+2026-27,Josh Okogie,0,Guaranteed
+2027-28,Josh Okogie,0,Guaranteed
+2028-29,Josh Okogie,0,Guaranteed
+2023-24,Omer Yurtseven,2800000,Guaranteed
+2024-25,Omer Yurtseven,2660000,Team Option
+2025-26,Omer Yurtseven,0,Guaranteed
+2026-27,Omer Yurtseven,0,Guaranteed
+2027-28,Omer Yurtseven,0,Guaranteed
+2028-29,Omer Yurtseven,0,Guaranteed
+2023-24,Dewayne Dedmon,2748674,Guaranteed
+2024-25,Dewayne Dedmon,0,Guaranteed
+2025-26,Dewayne Dedmon,0,Guaranteed
+2026-27,Dewayne Dedmon,0,Guaranteed
+2027-28,Dewayne Dedmon,0,Guaranteed
+2028-29,Dewayne Dedmon,0,Guaranteed
+2023-24,Olivier-Maxence Prosper,2733720,Guaranteed
+2024-25,Olivier-Maxence Prosper,2870406,Guaranteed
+2025-26,Olivier-Maxence Prosper,3007092,Team Option
+2026-27,Olivier-Maxence Prosper,5259404,Team Option
+2027-28,Olivier-Maxence Prosper,8215189,Qualifying Offer
+2028-29,Olivier-Maxence Prosper,0,Guaranteed
+2023-24,Josh Christopher,2732920,Guaranteed
+2024-25,Josh Christopher,0,Guaranteed
+2025-26,Josh Christopher,0,Guaranteed
+2026-27,Josh Christopher,0,Guaranteed
+2027-28,Josh Christopher,0,Guaranteed
+2028-29,Josh Christopher,0,Guaranteed
+2023-24,David Roddy,2718240,Guaranteed
+2024-25,David Roddy,2847240,Guaranteed
+2025-26,David Roddy,4831766,Team Option
+2026-27,David Roddy,7030219,Qualifying Offer
+2027-28,David Roddy,0,Guaranteed
+2028-29,David Roddy,0,Guaranteed
+2023-24,Christian Wood,2709849,Guaranteed
+2024-25,Christian Wood,3036040,Player Option
+2025-26,Christian Wood,0,Guaranteed
+2026-27,Christian Wood,0,Guaranteed
+2027-28,Christian Wood,0,Guaranteed
+2028-29,Christian Wood,0,Guaranteed
+2023-24,Derrick Jones,2709849,Guaranteed
+2024-25,Derrick Jones,0,Guaranteed
+2025-26,Derrick Jones,0,Guaranteed
+2026-27,Derrick Jones,0,Guaranteed
+2027-28,Derrick Jones,0,Guaranteed
+2028-29,Derrick Jones,0,Guaranteed
+2023-24,Dario Saric,2709849,Guaranteed
+2024-25,Dario Saric,0,Guaranteed
+2025-26,Dario Saric,0,Guaranteed
+2026-27,Dario Saric,0,Guaranteed
+2027-28,Dario Saric,0,Guaranteed
+2028-29,Dario Saric,0,Guaranteed
+2023-24,Malik Beasley,2709849,Guaranteed
+2024-25,Malik Beasley,0,Guaranteed
+2025-26,Malik Beasley,0,Guaranteed
+2026-27,Malik Beasley,0,Guaranteed
+2027-28,Malik Beasley,0,Guaranteed
+2028-29,Malik Beasley,0,Guaranteed
+2023-24,Chimezie Metu,2697258,Guaranteed
+2024-25,Chimezie Metu,2654644,Team Option
+2025-26,Chimezie Metu,0,Guaranteed
+2026-27,Chimezie Metu,0,Guaranteed
+2027-28,Chimezie Metu,0,Guaranteed
+2028-29,Chimezie Metu,0,Guaranteed
+2023-24,Isaiah Jackson,2696280,Guaranteed
+2024-25,Isaiah Jackson,4435380,Guaranteed
+2025-26,Isaiah Jackson,6422431,Qualifying Offer
+2026-27,Isaiah Jackson,0,Guaranteed
+2027-28,Isaiah Jackson,0,Guaranteed
+2028-29,Isaiah Jackson,0,Guaranteed
+2023-24,Marcus Sasser,2624028,Guaranteed
+2024-25,Marcus Sasser,2755229,Guaranteed
+2025-26,Marcus Sasser,2886431,Team Option
+2026-27,Marcus Sasser,5198462,Team Option
+2027-28,Marcus Sasser,8156386,Qualifying Offer
+2028-29,Marcus Sasser,0,Guaranteed
+2023-24,MarJon Beauchamp,2609400,Guaranteed
+2024-25,MarJon Beauchamp,2733720,Guaranteed
+2025-26,MarJon Beauchamp,4781276,Team Option
+2026-27,MarJon Beauchamp,6990226,Qualifying Offer
+2027-28,MarJon Beauchamp,0,Guaranteed
+2028-29,MarJon Beauchamp,0,Guaranteed
+2023-24,Charles Bassey,2600000,Guaranteed
+2024-25,Charles Bassey,2500000,Team Option
+2025-26,Charles Bassey,2500000,Team Option
+2026-27,Charles Bassey,0,Guaranteed
+2027-28,Charles Bassey,0,Guaranteed
+2028-29,Charles Bassey,0,Guaranteed
+2023-24,Damian Jones,2586665,Guaranteed
+2024-25,Damian Jones,0,Guaranteed
+2025-26,Damian Jones,0,Guaranteed
+2026-27,Damian Jones,0,Guaranteed
+2027-28,Damian Jones,0,Guaranteed
+2028-29,Damian Jones,0,Guaranteed
+2023-24,Kenneth Lofton,2586618,Guaranteed
+2024-25,Kenneth Lofton,2120683,Guaranteed
+2025-26,Kenneth Lofton,2301587,Guaranteed
+2026-27,Kenneth Lofton,0,Guaranteed
+2027-28,Kenneth Lofton,0,Guaranteed
+2028-29,Kenneth Lofton,0,Guaranteed
+2023-24,Kris Dunn,2586484,Guaranteed
+2024-25,Kris Dunn,0,Guaranteed
+2025-26,Kris Dunn,0,Guaranteed
+2026-27,Kris Dunn,0,Guaranteed
+2027-28,Kris Dunn,0,Guaranteed
+2028-29,Kris Dunn,0,Guaranteed
+2023-24,Bruno Fernando,2581522,Guaranteed
+2024-25,Bruno Fernando,2717391,Guaranteed
+2025-26,Bruno Fernando,2853260,Guaranteed
+2026-27,Bruno Fernando,0,Guaranteed
+2027-28,Bruno Fernando,0,Guaranteed
+2028-29,Bruno Fernando,0,Guaranteed
+2023-24,Jeremiah Robinson-Earl,2548843,Guaranteed
+2024-25,Jeremiah Robinson-Earl,2196970,Guaranteed
+2025-26,Jeremiah Robinson-Earl,0,Guaranteed
+2026-27,Jeremiah Robinson-Earl,0,Guaranteed
+2027-28,Jeremiah Robinson-Earl,0,Guaranteed
+2028-29,Jeremiah Robinson-Earl,0,Guaranteed
+2023-24,Ben Sheppard,2537172,Guaranteed
+2024-25,Ben Sheppard,2664031,Guaranteed
+2025-26,Ben Sheppard,2790889,Team Option
+2026-27,Ben Sheppard,5031973,Team Option
+2027-28,Ben Sheppard,7930389,Qualifying Offer
+2028-29,Ben Sheppard,0,Guaranteed
+2023-24,Torrey Craig,2528233,Guaranteed
+2024-25,Torrey Craig,2845342,Player Option
+2025-26,Torrey Craig,0,Guaranteed
+2026-27,Torrey Craig,0,Guaranteed
+2027-28,Torrey Craig,0,Guaranteed
+2028-29,Torrey Craig,0,Guaranteed
+2023-24,Thomas Bryant,2528233,Guaranteed
+2024-25,Thomas Bryant,2845342,Player Option
+2025-26,Thomas Bryant,0,Guaranteed
+2026-27,Thomas Bryant,0,Guaranteed
+2027-28,Thomas Bryant,0,Guaranteed
+2028-29,Thomas Bryant,0,Guaranteed
+2023-24,Damion Lee,2528233,Guaranteed
+2024-25,Damion Lee,2845342,Player Option
+2025-26,Damion Lee,0,Guaranteed
+2026-27,Damion Lee,0,Guaranteed
+2027-28,Damion Lee,0,Guaranteed
+2028-29,Damion Lee,0,Guaranteed
+2023-24,Dennis Smith,2528233,Guaranteed
+2024-25,Dennis Smith,0,Guaranteed
+2025-26,Dennis Smith,0,Guaranteed
+2026-27,Dennis Smith,0,Guaranteed
+2027-28,Dennis Smith,0,Guaranteed
+2028-29,Dennis Smith,0,Guaranteed
+2023-24,Frank Ntilikina,2528233,Guaranteed
+2024-25,Frank Ntilikina,0,Guaranteed
+2025-26,Frank Ntilikina,0,Guaranteed
+2026-27,Frank Ntilikina,0,Guaranteed
+2027-28,Frank Ntilikina,0,Guaranteed
+2028-29,Frank Ntilikina,0,Guaranteed
+2023-24,Ryan Arcidiacono,2528233,Guaranteed
+2024-25,Ryan Arcidiacono,0,Guaranteed
+2025-26,Ryan Arcidiacono,0,Guaranteed
+2026-27,Ryan Arcidiacono,0,Guaranteed
+2027-28,Ryan Arcidiacono,0,Guaranteed
+2028-29,Ryan Arcidiacono,0,Guaranteed
+2023-24,Blake Wesley,2504640,Guaranteed
+2024-25,Blake Wesley,2624280,Guaranteed
+2025-26,Blake Wesley,4726328,Team Option
+2026-27,Blake Wesley,6942976,Qualifying Offer
+2027-28,Blake Wesley,0,Guaranteed
+2028-29,Blake Wesley,0,Guaranteed
+2023-24,Lamar Stevens,2492354,Guaranteed
+2024-25,Lamar Stevens,0,Guaranteed
+2025-26,Lamar Stevens,0,Guaranteed
+2026-27,Lamar Stevens,0,Guaranteed
+2027-28,Lamar Stevens,0,Guaranteed
+2028-29,Lamar Stevens,0,Guaranteed
+2023-24,Nick Smith,2463912,Guaranteed
+2024-25,Nick Smith,2587108,Guaranteed
+2025-26,Nick Smith,2710303,Team Option
+2026-27,Nick Smith,4889387,Team Option
+2027-28,Nick Smith,7739899,Qualifying Offer
+2028-29,Nick Smith,0,Guaranteed
+2023-24,Brice Sensabaugh,2448600,Guaranteed
+2024-25,Brice Sensabaugh,2571030,Guaranteed
+2025-26,Brice Sensabaugh,2693460,Team Option
+2026-27,Brice Sensabaugh,4861695,Team Option
+2027-28,Brice Sensabaugh,7730095,Qualifying Offer
+2028-29,Brice Sensabaugh,0,Guaranteed
+2023-24,Ty Jerome,2439025,Guaranteed
+2024-25,Ty Jerome,2560975,Guaranteed
+2025-26,Ty Jerome,0,Guaranteed
+2026-27,Ty Jerome,0,Guaranteed
+2027-28,Ty Jerome,0,Guaranteed
+2028-29,Ty Jerome,0,Guaranteed
+2023-24,Julian Strawther,2431044,Guaranteed
+2024-25,Julian Strawther,2552596,Guaranteed
+2025-26,Julian Strawther,2674148,Team Option
+2026-27,Julian Strawther,4826838,Team Option
+2027-28,Julian Strawther,7722940,Qualifying Offer
+2028-29,Julian Strawther,0,Guaranteed
+2023-24,Tristan Vukcevic,2424892,Guaranteed
+2024-25,Tristan Vukcevic,2424892,Team Option
+2025-26,Tristan Vukcevic,0,Guaranteed
+2026-27,Tristan Vukcevic,0,Guaranteed
+2027-28,Tristan Vukcevic,0,Guaranteed
+2028-29,Tristan Vukcevic,0,Guaranteed
+2023-24,Wendell Moore,2421720,Guaranteed
+2024-25,Wendell Moore,2537040,Guaranteed
+2025-26,Wendell Moore,4574283,Team Option
+2026-27,Wendell Moore,6751642,Qualifying Offer
+2027-28,Wendell Moore,0,Guaranteed
+2028-29,Wendell Moore,0,Guaranteed
+2023-24,Jordan McLaughlin,2420000,Guaranteed
+2024-25,Jordan McLaughlin,0,Guaranteed
+2025-26,Jordan McLaughlin,0,Guaranteed
+2026-27,Jordan McLaughlin,0,Guaranteed
+2027-28,Jordan McLaughlin,0,Guaranteed
+2028-29,Jordan McLaughlin,0,Guaranteed
+2023-24,Kobe Brown,2413356,Guaranteed
+2024-25,Kobe Brown,2534024,Guaranteed
+2025-26,Kobe Brown,2654692,Team Option
+2026-27,Kobe Brown,4791718,Team Option
+2027-28,Kobe Brown,7666748,Qualifying Offer
+2028-29,Kobe Brown,0,Guaranteed
+2023-24,Luke Kornet,2413304,Guaranteed
+2024-25,Luke Kornet,0,Guaranteed
+2025-26,Luke Kornet,0,Guaranteed
+2026-27,Luke Kornet,0,Guaranteed
+2027-28,Luke Kornet,0,Guaranteed
+2028-29,Luke Kornet,0,Guaranteed
+2023-24,John Konchar,2400000,Guaranteed
+2024-25,John Konchar,6165000,Guaranteed
+2025-26,John Konchar,6165000,Guaranteed
+2026-27,John Konchar,6165000,Guaranteed
+2027-28,John Konchar,0,Guaranteed
+2028-29,John Konchar,0,Guaranteed
+2023-24,Quentin Grimes,2385720,Guaranteed
+2024-25,Quentin Grimes,4296682,Guaranteed
+2025-26,Quentin Grimes,6311825,Qualifying Offer
+2026-27,Quentin Grimes,0,Guaranteed
+2027-28,Quentin Grimes,0,Guaranteed
+2028-29,Quentin Grimes,0,Guaranteed
+2023-24,Nikola Jovic,2352000,Guaranteed
+2024-25,Nikola Jovic,2464200,Guaranteed
+2025-26,Nikola Jovic,4445417,Team Option
+2026-27,Nikola Jovic,6592553,Qualifying Offer
+2027-28,Nikola Jovic,0,Guaranteed
+2028-29,Nikola Jovic,0,Guaranteed
+2023-24,Keita Bates-Diop,2346614,Guaranteed
+2024-25,Keita Bates-Diop,2654644,Player Option
+2025-26,Keita Bates-Diop,0,Guaranteed
+2026-27,Keita Bates-Diop,0,Guaranteed
+2027-28,Keita Bates-Diop,0,Guaranteed
+2028-29,Keita Bates-Diop,0,Guaranteed
+2023-24,Yuta Watanabe,2346614,Guaranteed
+2024-25,Yuta Watanabe,2654644,Player Option
+2025-26,Yuta Watanabe,0,Guaranteed
+2026-27,Yuta Watanabe,0,Guaranteed
+2027-28,Yuta Watanabe,0,Guaranteed
+2028-29,Yuta Watanabe,0,Guaranteed
+2023-24,Drew Eubanks,2346614,Guaranteed
+2024-25,Drew Eubanks,2654644,Player Option
+2025-26,Drew Eubanks,0,Guaranteed
+2026-27,Drew Eubanks,0,Guaranteed
+2027-28,Drew Eubanks,0,Guaranteed
+2028-29,Drew Eubanks,0,Guaranteed
+2023-24,Sviatoslav Mykhailiuk,2346614,Guaranteed
+2024-25,Sviatoslav Mykhailiuk,0,Guaranteed
+2025-26,Sviatoslav Mykhailiuk,0,Guaranteed
+2026-27,Sviatoslav Mykhailiuk,0,Guaranteed
+2027-28,Sviatoslav Mykhailiuk,0,Guaranteed
+2028-29,Sviatoslav Mykhailiuk,0,Guaranteed
+2023-24,Lonnie Walker,2346614,Guaranteed
+2024-25,Lonnie Walker,0,Guaranteed
+2025-26,Lonnie Walker,0,Guaranteed
+2026-27,Lonnie Walker,0,Guaranteed
+2027-28,Lonnie Walker,0,Guaranteed
+2028-29,Lonnie Walker,0,Guaranteed
+2023-24,Aaron Holiday,2346614,Guaranteed
+2024-25,Aaron Holiday,0,Guaranteed
+2025-26,Aaron Holiday,0,Guaranteed
+2026-27,Aaron Holiday,0,Guaranteed
+2027-28,Aaron Holiday,0,Guaranteed
+2028-29,Aaron Holiday,0,Guaranteed
+2023-24,Thanasis Antetokounmpo,2346614,Guaranteed
+2024-25,Thanasis Antetokounmpo,0,Guaranteed
+2025-26,Thanasis Antetokounmpo,0,Guaranteed
+2026-27,Thanasis Antetokounmpo,0,Guaranteed
+2027-28,Thanasis Antetokounmpo,0,Guaranteed
+2028-29,Thanasis Antetokounmpo,0,Guaranteed
+2023-24,Mo Bamba,2346614,Guaranteed
+2024-25,Mo Bamba,0,Guaranteed
+2025-26,Mo Bamba,0,Guaranteed
+2026-27,Mo Bamba,0,Guaranteed
+2027-28,Mo Bamba,0,Guaranteed
+2028-29,Mo Bamba,0,Guaranteed
+2023-24,Patrick Baldwin,2337720,Guaranteed
+2024-25,Patrick Baldwin,2448840,Guaranteed
+2025-26,Patrick Baldwin,4420156,Team Option
+2026-27,Patrick Baldwin,6586033,Qualifying Offer
+2027-28,Patrick Baldwin,0,Guaranteed
+2028-29,Patrick Baldwin,0,Guaranteed
+2023-24,Harry Giles,2306554,Guaranteed
+2024-25,Harry Giles,0,Guaranteed
+2025-26,Harry Giles,0,Guaranteed
+2026-27,Harry Giles,0,Guaranteed
+2027-28,Harry Giles,0,Guaranteed
+2028-29,Harry Giles,0,Guaranteed
+2023-24,Bones Hyland,2306400,Guaranteed
+2024-25,Bones Hyland,4158439,Guaranteed
+2025-26,Bones Hyland,6137856,Qualifying Offer
+2026-27,Bones Hyland,0,Guaranteed
+2027-28,Bones Hyland,0,Guaranteed
+2028-29,Bones Hyland,0,Guaranteed
+2023-24,Peyton Watson,2303520,Guaranteed
+2024-25,Peyton Watson,2413560,Guaranteed
+2025-26,Peyton Watson,4356476,Team Option
+2026-27,Peyton Watson,6534714,Qualifying Offer
+2027-28,Peyton Watson,0,Guaranteed
+2028-29,Peyton Watson,0,Guaranteed
+2023-24,Cam Thomas,2240160,Guaranteed
+2024-25,Cam Thomas,4041249,Guaranteed
+2025-26,Cam Thomas,5993172,Qualifying Offer
+2026-27,Cam Thomas,0,Guaranteed
+2027-28,Cam Thomas,0,Guaranteed
+2028-29,Cam Thomas,0,Guaranteed
+2023-24,Vlatko Cancar,2234359,Guaranteed
+2024-25,Vlatko Cancar,2346606,Team Option
+2025-26,Vlatko Cancar,0,Guaranteed
+2026-27,Vlatko Cancar,0,Guaranteed
+2027-28,Vlatko Cancar,0,Guaranteed
+2028-29,Vlatko Cancar,0,Guaranteed
+2023-24,Vince Williams Jr,2232308,Guaranteed
+2024-25,Vince Williams Jr,2120693,Guaranteed
+2025-26,Vince Williams Jr,2301587,Guaranteed
+2026-27,Vince Williams Jr,2489752,Team Option
+2027-28,Vince Williams Jr,0,Guaranteed
+2028-29,Vince Williams Jr,0,Guaranteed
+2023-24,Jaden Springer,2226240,Guaranteed
+2024-25,Jaden Springer,4018363,Guaranteed
+2025-26,Jaden Springer,5987361,Qualifying Offer
+2026-27,Jaden Springer,0,Guaranteed
+2027-28,Jaden Springer,0,Guaranteed
+2028-29,Jaden Springer,0,Guaranteed
+2023-24,Day'Ron Sharpe,2210040,Guaranteed
+2024-25,Day'Ron Sharpe,3989122,Guaranteed
+2025-26,Day'Ron Sharpe,5983683,Qualifying Offer
+2026-27,Day'Ron Sharpe,0,Guaranteed
+2027-28,Day'Ron Sharpe,0,Guaranteed
+2028-29,Day'Ron Sharpe,0,Guaranteed
+2023-24,Jordan Goodwin,2208045,Guaranteed
+2024-25,Jordan Goodwin,0,Guaranteed
+2025-26,Jordan Goodwin,0,Guaranteed
+2026-27,Jordan Goodwin,0,Guaranteed
+2027-28,Jordan Goodwin,0,Guaranteed
+2028-29,Jordan Goodwin,0,Guaranteed
+2023-24,Santiago Aldama,2194200,Guaranteed
+2024-25,Santiago Aldama,3960531,Guaranteed
+2025-26,Santiago Aldama,5940797,Qualifying Offer
+2026-27,Santiago Aldama,0,Guaranteed
+2027-28,Santiago Aldama,0,Guaranteed
+2028-29,Santiago Aldama,0,Guaranteed
+2023-24,Oshae Brissett,2165000,Guaranteed
+2024-25,Oshae Brissett,2463946,Player Option
+2025-26,Oshae Brissett,0,Guaranteed
+2026-27,Oshae Brissett,0,Guaranteed
+2027-28,Oshae Brissett,0,Guaranteed
+2028-29,Oshae Brissett,0,Guaranteed
+2023-24,Jaxson Hayes,2165000,Guaranteed
+2024-25,Jaxson Hayes,2463946,Player Option
+2025-26,Jaxson Hayes,0,Guaranteed
+2026-27,Jaxson Hayes,0,Guaranteed
+2027-28,Jaxson Hayes,0,Guaranteed
+2028-29,Jaxson Hayes,0,Guaranteed
+2023-24,Cam Reddish,2165000,Guaranteed
+2024-25,Cam Reddish,2463946,Player Option
+2025-26,Cam Reddish,0,Guaranteed
+2026-27,Cam Reddish,0,Guaranteed
+2027-28,Cam Reddish,0,Guaranteed
+2028-29,Cam Reddish,0,Guaranteed
+2023-24,Bol Bol,2165000,Guaranteed
+2024-25,Bol Bol,0,Guaranteed
+2025-26,Bol Bol,0,Guaranteed
+2026-27,Bol Bol,0,Guaranteed
+2027-28,Bol Bol,0,Guaranteed
+2028-29,Bol Bol,0,Guaranteed
+2023-24,Moses Brown,2165000,Guaranteed
+2024-25,Moses Brown,0,Guaranteed
+2025-26,Moses Brown,0,Guaranteed
+2026-27,Moses Brown,0,Guaranteed
+2027-28,Moses Brown,0,Guaranteed
+2028-29,Moses Brown,0,Guaranteed
+2023-24,Kevin Knox,2144320,Guaranteed
+2024-25,Kevin Knox,0,Guaranteed
+2025-26,Kevin Knox,0,Guaranteed
+2026-27,Kevin Knox,0,Guaranteed
+2027-28,Kevin Knox,0,Guaranteed
+2028-29,Kevin Knox,0,Guaranteed
+2023-24,Andrew Nembhard,2131905,Guaranteed
+2024-25,Andrew Nembhard,2019699,Guaranteed
+2025-26,Andrew Nembhard,2187451,Guaranteed
+2026-27,Andrew Nembhard,0,Guaranteed
+2027-28,Andrew Nembhard,0,Guaranteed
+2028-29,Andrew Nembhard,0,Guaranteed
+2023-24,Goga Bitadze,2066585,Guaranteed
+2024-25,Goga Bitadze,0,Guaranteed
+2025-26,Goga Bitadze,0,Guaranteed
+2026-27,Goga Bitadze,0,Guaranteed
+2027-28,Goga Bitadze,0,Guaranteed
+2028-29,Goga Bitadze,0,Guaranteed
+2023-24,Luka Samanic,2066585,Guaranteed
+2024-25,Luka Samanic,0,Guaranteed
+2025-26,Luka Samanic,0,Guaranteed
+2026-27,Luka Samanic,0,Guaranteed
+2027-28,Luka Samanic,0,Guaranteed
+2028-29,Luka Samanic,0,Guaranteed
+2023-24,Matt Ryan,2059782,Guaranteed
+2024-25,Matt Ryan,2196970,Guaranteed
+2025-26,Matt Ryan,2381501,Team Option
+2026-27,Matt Ryan,0,Guaranteed
+2027-28,Matt Ryan,0,Guaranteed
+2028-29,Matt Ryan,0,Guaranteed
+2023-24,Terry Taylor,2019706,Guaranteed
+2024-25,Terry Taylor,2196970,Guaranteed
+2025-26,Terry Taylor,0,Guaranteed
+2026-27,Terry Taylor,0,Guaranteed
+2027-28,Terry Taylor,0,Guaranteed
+2028-29,Terry Taylor,0,Guaranteed
+2023-24,Colby Jones,2019706,Guaranteed
+2024-25,Colby Jones,2120693,Guaranteed
+2025-26,Colby Jones,2221677,Guaranteed
+2026-27,Colby Jones,2406205,Team Option
+2027-28,Colby Jones,0,Guaranteed
+2028-29,Colby Jones,0,Guaranteed
+2023-24,Trendon Watford,2019706,Guaranteed
+2024-25,Trendon Watford,0,Guaranteed
+2025-26,Trendon Watford,0,Guaranteed
+2026-27,Trendon Watford,0,Guaranteed
+2027-28,Trendon Watford,0,Guaranteed
+2028-29,Trendon Watford,0,Guaranteed
+2023-24,Montrezl Harrell,2019706,Guaranteed
+2024-25,Montrezl Harrell,0,Guaranteed
+2025-26,Montrezl Harrell,0,Guaranteed
+2026-27,Montrezl Harrell,0,Guaranteed
+2027-28,Montrezl Harrell,0,Guaranteed
+2028-29,Montrezl Harrell,0,Guaranteed
+2023-24,Dalano Banton,2019706,Guaranteed
+2024-25,Dalano Banton,2196970,Team Option
+2025-26,Dalano Banton,0,Guaranteed
+2026-27,Dalano Banton,0,Guaranteed
+2027-28,Dalano Banton,0,Guaranteed
+2028-29,Dalano Banton,0,Guaranteed
+2023-24,Sandro Mamukelashvili,2019706,Guaranteed
+2024-25,Sandro Mamukelashvili,0,Guaranteed
+2025-26,Sandro Mamukelashvili,0,Guaranteed
+2026-27,Sandro Mamukelashvili,0,Guaranteed
+2027-28,Sandro Mamukelashvili,0,Guaranteed
+2028-29,Sandro Mamukelashvili,0,Guaranteed
+2023-24,Garrison Mathews,2000000,Guaranteed
+2024-25,Garrison Mathews,2230253,Guaranteed
+2025-26,Garrison Mathews,0,Guaranteed
+2026-27,Garrison Mathews,0,Guaranteed
+2027-28,Garrison Mathews,0,Guaranteed
+2028-29,Garrison Mathews,0,Guaranteed
+2023-24,Jaylin Williams,2000000,Guaranteed
+2024-25,Jaylin Williams,2019699,Guaranteed
+2025-26,Jaylin Williams,2187699,Team Option
+2026-27,Jaylin Williams,0,Guaranteed
+2027-28,Jaylin Williams,0,Guaranteed
+2028-29,Jaylin Williams,0,Guaranteed
+2023-24,Caleb Houstan,2000000,Guaranteed
+2024-25,Caleb Houstan,2019699,Guaranteed
+2025-26,Caleb Houstan,2187451,Team Option
+2026-27,Caleb Houstan,0,Guaranteed
+2027-28,Caleb Houstan,0,Guaranteed
+2028-29,Caleb Houstan,0,Guaranteed
+2023-24,Sam Merrill,1997238,Guaranteed
+2024-25,Sam Merrill,2164993,Guaranteed
+2025-26,Sam Merrill,0,Guaranteed
+2026-27,Sam Merrill,0,Guaranteed
+2027-28,Sam Merrill,0,Guaranteed
+2028-29,Sam Merrill,0,Guaranteed
+2023-24,Isaiah Joe,1997238,Guaranteed
+2024-25,Isaiah Joe,2164993,Team Option
+2025-26,Isaiah Joe,0,Guaranteed
+2026-27,Isaiah Joe,0,Guaranteed
+2027-28,Isaiah Joe,0,Guaranteed
+2028-29,Isaiah Joe,0,Guaranteed
+2023-24,Anthony Gill,1997238,Guaranteed
+2024-25,Anthony Gill,0,Guaranteed
+2025-26,Anthony Gill,0,Guaranteed
+2026-27,Anthony Gill,0,Guaranteed
+2027-28,Anthony Gill,0,Guaranteed
+2028-29,Anthony Gill,0,Guaranteed
+2023-24,GG Jackson,1991428,Guaranteed
+2024-25,GG Jackson,1891857,Guaranteed
+2025-26,GG Jackson,2221677,Guaranteed
+2026-27,GG Jackson,2406205,Team Option
+2027-28,GG Jackson,0,Guaranteed
+2028-29,GG Jackson,0,Guaranteed
+2023-24,Duop Reath,1951220,Guaranteed
+2024-25,Duop Reath,2048780,Guaranteed
+2025-26,Duop Reath,2221677,Guaranteed
+2026-27,Duop Reath,0,Guaranteed
+2027-28,Duop Reath,0,Guaranteed
+2028-29,Duop Reath,0,Guaranteed
+2023-24,Xavier Tillman,1930681,Guaranteed
+2024-25,Xavier Tillman,0,Guaranteed
+2025-26,Xavier Tillman,0,Guaranteed
+2026-27,Xavier Tillman,0,Guaranteed
+2027-28,Xavier Tillman,0,Guaranteed
+2028-29,Xavier Tillman,0,Guaranteed
+2023-24,Naji Marshall,1930681,Guaranteed
+2024-25,Naji Marshall,0,Guaranteed
+2025-26,Naji Marshall,0,Guaranteed
+2026-27,Naji Marshall,0,Guaranteed
+2027-28,Naji Marshall,0,Guaranteed
+2028-29,Naji Marshall,0,Guaranteed
+2023-24,KJ Martin,1930681,Guaranteed
+2024-25,KJ Martin,0,Guaranteed
+2025-26,KJ Martin,0,Guaranteed
+2026-27,KJ Martin,0,Guaranteed
+2027-28,KJ Martin,0,Guaranteed
+2028-29,KJ Martin,0,Guaranteed
+2023-24,Sam Hauser,1927896,Guaranteed
+2024-25,Sam Hauser,2092344,Team Option
+2025-26,Sam Hauser,0,Guaranteed
+2026-27,Sam Hauser,0,Guaranteed
+2027-28,Sam Hauser,0,Guaranteed
+2028-29,Sam Hauser,0,Guaranteed
+2023-24,Jericho Sims,1927896,Guaranteed
+2024-25,Jericho Sims,2092344,Team Option
+2025-26,Jericho Sims,0,Guaranteed
+2026-27,Jericho Sims,0,Guaranteed
+2027-28,Jericho Sims,0,Guaranteed
+2028-29,Jericho Sims,0,Guaranteed
+2023-24,Kessler Edwards,1927896,Guaranteed
+2024-25,Kessler Edwards,0,Guaranteed
+2025-26,Kessler Edwards,0,Guaranteed
+2026-27,Kessler Edwards,0,Guaranteed
+2027-28,Kessler Edwards,0,Guaranteed
+2028-29,Kessler Edwards,0,Guaranteed
+2023-24,Haywood Highsmith,1902137,Guaranteed
+2024-25,Haywood Highsmith,0,Guaranteed
+2025-26,Haywood Highsmith,0,Guaranteed
+2026-27,Haywood Highsmith,0,Guaranteed
+2027-28,Haywood Highsmith,0,Guaranteed
+2028-29,Haywood Highsmith,0,Guaranteed
+2023-24,AJ Green,1901769,Guaranteed
+2024-25,AJ Green,2120693,Guaranteed
+2025-26,AJ Green,2301587,Guaranteed
+2026-27,AJ Green,0,Guaranteed
+2027-28,AJ Green,0,Guaranteed
+2028-29,AJ Green,0,Guaranteed
+2023-24,Ryan Rollins,1893589,Two-Way
+2024-25,Ryan Rollins,1184388,Two-Way
+2025-26,Ryan Rollins,0,Guaranteed
+2026-27,Ryan Rollins,0,Guaranteed
+2027-28,Ryan Rollins,0,Guaranteed
+2028-29,Ryan Rollins,0,Guaranteed
+2023-24,Miles McBride,1836096,Guaranteed
+2024-25,Miles McBride,4710144,Guaranteed
+2025-26,Miles McBride,4333333,Guaranteed
+2026-27,Miles McBride,3956523,Guaranteed
+2027-28,Miles McBride,0,Guaranteed
+2028-29,Miles McBride,0,Guaranteed
+2023-24,JT Thor,1836096,Guaranteed
+2024-25,JT Thor,1988598,Team Option
+2025-26,JT Thor,0,Guaranteed
+2026-27,JT Thor,0,Guaranteed
+2027-28,JT Thor,0,Guaranteed
+2028-29,JT Thor,0,Guaranteed
+2023-24,BJ Boston,1836096,Guaranteed
+2024-25,BJ Boston,0,Guaranteed
+2025-26,BJ Boston,0,Guaranteed
+2026-27,BJ Boston,0,Guaranteed
+2027-28,BJ Boston,0,Guaranteed
+2028-29,BJ Boston,0,Guaranteed
+2023-24,Isaiah Todd,1836096,Guaranteed
+2024-25,Isaiah Todd,0,Guaranteed
+2025-26,Isaiah Todd,0,Guaranteed
+2026-27,Isaiah Todd,0,Guaranteed
+2027-28,Isaiah Todd,0,Guaranteed
+2028-29,Isaiah Todd,0,Guaranteed
+2023-24,Jose Alvarado,1836096,Guaranteed
+2024-25,Jose Alvarado,1988598,Team Option
+2025-26,Jose Alvarado,0,Guaranteed
+2026-27,Jose Alvarado,0,Guaranteed
+2027-28,Jose Alvarado,0,Guaranteed
+2028-29,Jose Alvarado,0,Guaranteed
+2023-24,Aaron Wiggins,1836096,Guaranteed
+2024-25,Aaron Wiggins,1988598,Team Option
+2025-26,Aaron Wiggins,0,Guaranteed
+2026-27,Aaron Wiggins,0,Guaranteed
+2027-28,Aaron Wiggins,0,Guaranteed
+2028-29,Aaron Wiggins,0,Guaranteed
+2023-24,Isaiah Livers,1836096,Guaranteed
+2024-25,Isaiah Livers,0,Guaranteed
+2025-26,Isaiah Livers,0,Guaranteed
+2026-27,Isaiah Livers,0,Guaranteed
+2027-28,Isaiah Livers,0,Guaranteed
+2028-29,Isaiah Livers,0,Guaranteed
+2023-24,Jared Butler,1809782,Guaranteed
+2024-25,Jared Butler,2196970,Team Option
+2025-26,Jared Butler,2381501,Guaranteed
+2026-27,Jared Butler,0,Guaranteed
+2027-28,Jared Butler,0,Guaranteed
+2028-29,Jared Butler,0,Guaranteed
+2023-24,EJ Liddell,1801769,Guaranteed
+2024-25,EJ Liddell,2120693,Guaranteed
+2025-26,EJ Liddell,2301587,Team Option
+2026-27,EJ Liddell,0,Guaranteed
+2027-28,EJ Liddell,0,Guaranteed
+2028-29,EJ Liddell,0,Guaranteed
+2023-24,Orlando Robinson,1801769,Guaranteed
+2024-25,Orlando Robinson,2120693,Team Option
+2025-26,Orlando Robinson,0,Guaranteed
+2026-27,Orlando Robinson,0,Guaranteed
+2027-28,Orlando Robinson,0,Guaranteed
+2028-29,Orlando Robinson,0,Guaranteed
+2023-24,Dru Smith,1801769,Guaranteed
+2024-25,Dru Smith,0,Guaranteed
+2025-26,Dru Smith,0,Guaranteed
+2026-27,Dru Smith,0,Guaranteed
+2027-28,Dru Smith,0,Guaranteed
+2028-29,Dru Smith,0,Guaranteed
+2023-24,Leonard Miller,1800000,Guaranteed
+2024-25,Leonard Miller,1891857,Guaranteed
+2025-26,Leonard Miller,2221677,Guaranteed
+2026-27,Leonard Miller,2406205,Team Option
+2027-28,Leonard Miller,0,Guaranteed
+2028-29,Leonard Miller,0,Guaranteed
+2023-24,Bryce McGowens,1719864,Guaranteed
+2024-25,Bryce McGowens,2019699,Guaranteed
+2025-26,Bryce McGowens,2187699,Team Option
+2026-27,Bryce McGowens,0,Guaranteed
+2027-28,Bryce McGowens,0,Guaranteed
+2028-29,Bryce McGowens,0,Guaranteed
+2023-24,Jaden Hardy,1719864,Guaranteed
+2024-25,Jaden Hardy,2019699,Guaranteed
+2025-26,Jaden Hardy,0,Guaranteed
+2026-27,Jaden Hardy,0,Guaranteed
+2027-28,Jaden Hardy,0,Guaranteed
+2028-29,Jaden Hardy,0,Guaranteed
+2023-24,Kennedy Chandler,1719864,Guaranteed
+2024-25,Kennedy Chandler,2019699,Guaranteed
+2025-26,Kennedy Chandler,0,Guaranteed
+2026-27,Kennedy Chandler,0,Guaranteed
+2027-28,Kennedy Chandler,0,Guaranteed
+2028-29,Kennedy Chandler,0,Guaranteed
+2023-24,Josh Minott,1719864,Guaranteed
+2024-25,Josh Minott,2019699,Guaranteed
+2025-26,Josh Minott,2187699,Guaranteed
+2026-27,Josh Minott,0,Guaranteed
+2027-28,Josh Minott,0,Guaranteed
+2028-29,Josh Minott,0,Guaranteed
+2023-24,Jabari Walker,1719864,Guaranteed
+2024-25,Jabari Walker,2019699,Guaranteed
+2025-26,Jabari Walker,0,Guaranteed
+2026-27,Jabari Walker,0,Guaranteed
+2027-28,Jabari Walker,0,Guaranteed
+2028-29,Jabari Walker,0,Guaranteed
+2023-24,Max Christie,1719864,Guaranteed
+2024-25,Max Christie,0,Guaranteed
+2025-26,Max Christie,0,Guaranteed
+2026-27,Max Christie,0,Guaranteed
+2027-28,Max Christie,0,Guaranteed
+2028-29,Max Christie,0,Guaranteed
+2023-24,Christian Koloko,1719864,Guaranteed
+2024-25,Christian Koloko,0,Guaranteed
+2025-26,Christian Koloko,0,Guaranteed
+2026-27,Christian Koloko,0,Guaranteed
+2027-28,Christian Koloko,0,Guaranteed
+2028-29,Christian Koloko,0,Guaranteed
+2023-24,Xavier Cooks,1719864,Guaranteed
+2024-25,Xavier Cooks,0,Guaranteed
+2025-26,Xavier Cooks,0,Guaranteed
+2026-27,Xavier Cooks,0,Guaranteed
+2027-28,Xavier Cooks,0,Guaranteed
+2028-29,Xavier Cooks,0,Guaranteed
+2023-24,Jalen Pickett,1708143,Guaranteed
+2024-25,Jalen Pickett,1891857,Guaranteed
+2025-26,Jalen Pickett,2221677,Guaranteed
+2026-27,Jalen Pickett,2406205,Team Option
+2027-28,Jalen Pickett,0,Guaranteed
+2028-29,Jalen Pickett,0,Guaranteed
+2023-24,Julian Phillips,1600000,Guaranteed
+2024-25,Julian Phillips,1891857,Guaranteed
+2025-26,Julian Phillips,2221677,Guaranteed
+2026-27,Julian Phillips,2406205,Team Option
+2027-28,Julian Phillips,0,Guaranteed
+2028-29,Julian Phillips,0,Guaranteed
+2023-24,Craig Porter,1500000,Guaranteed
+2024-25,Craig Porter,1891857,Guaranteed
+2025-26,Craig Porter,2221677,Guaranteed
+2026-27,Craig Porter,2406205,Team Option
+2027-28,Craig Porter,0,Guaranteed
+2028-29,Craig Porter,0,Guaranteed
+2023-24,Eugene Omoruyi,1459782,Guaranteed
+2024-25,Eugene Omoruyi,2196970,Guaranteed
+2025-26,Eugene Omoruyi,0,Guaranteed
+2026-27,Eugene Omoruyi,0,Guaranteed
+2027-28,Eugene Omoruyi,0,Guaranteed
+2028-29,Eugene Omoruyi,0,Guaranteed
+2023-24,Ricky Council,1414135,Guaranteed
+2024-25,Ricky Council,1891857,Guaranteed
+2025-26,Ricky Council,2221677,Guaranteed
+2026-27,Ricky Council,2406205,Team Option
+2027-28,Ricky Council,0,Guaranteed
+2028-29,Ricky Council,0,Guaranteed
+2023-24,Jalen Wilson,1409782,Guaranteed
+2024-25,Jalen Wilson,1891857,Guaranteed
+2025-26,Jalen Wilson,2221677,Team Option
+2026-27,Jalen Wilson,0,Guaranteed
+2027-28,Jalen Wilson,0,Guaranteed
+2028-29,Jalen Wilson,0,Guaranteed
+2023-24,DaQuan Jeffries,1341538,Guaranteed
+2024-25,DaQuan Jeffries,2463946,Team Option
+2025-26,DaQuan Jeffries,0,Guaranteed
+2026-27,DaQuan Jeffries,0,Guaranteed
+2027-28,DaQuan Jeffries,0,Guaranteed
+2028-29,DaQuan Jeffries,0,Guaranteed
+2023-24,Eric Bledsoe,1300000,Guaranteed
+2024-25,Eric Bledsoe,1300000,Guaranteed
+2025-26,Eric Bledsoe,0,Guaranteed
+2026-27,Eric Bledsoe,0,Guaranteed
+2027-28,Eric Bledsoe,0,Guaranteed
+2028-29,Eric Bledsoe,0,Guaranteed
+2023-24,Skylar Mays,1165280,Two-Way
+2024-25,Skylar Mays,0,Guaranteed
+2025-26,Skylar Mays,0,Guaranteed
+2026-27,Skylar Mays,0,Guaranteed
+2027-28,Skylar Mays,0,Guaranteed
+2028-29,Skylar Mays,0,Guaranteed
+2023-24,Mouhamed Gueye,1119563,Guaranteed
+2024-25,Mouhamed Gueye,1891857,Guaranteed
+2025-26,Mouhamed Gueye,2221677,Team Option
+2026-27,Mouhamed Gueye,2406205,Team Option
+2027-28,Mouhamed Gueye,0,Guaranteed
+2028-29,Mouhamed Gueye,0,Guaranteed
+2023-24,Jordan Walsh,1119563,Guaranteed
+2024-25,Jordan Walsh,1891857,Guaranteed
+2025-26,Jordan Walsh,2221677,Team Option
+2026-27,Jordan Walsh,2406205,Team Option
+2027-28,Jordan Walsh,0,Guaranteed
+2028-29,Jordan Walsh,0,Guaranteed
+2023-24,Hunter Tyson,1119563,Guaranteed
+2024-25,Hunter Tyson,1891857,Guaranteed
+2025-26,Hunter Tyson,2221677,Guaranteed
+2026-27,Hunter Tyson,2406205,Team Option
+2027-28,Hunter Tyson,0,Guaranteed
+2028-29,Hunter Tyson,0,Guaranteed
+2023-24,Trayce Jackson-Davis,1119563,Guaranteed
+2024-25,Trayce Jackson-Davis,1891857,Guaranteed
+2025-26,Trayce Jackson-Davis,2221677,Guaranteed
+2026-27,Trayce Jackson-Davis,2406205,Team Option
+2027-28,Trayce Jackson-Davis,0,Guaranteed
+2028-29,Trayce Jackson-Davis,0,Guaranteed
+2023-24,Maxwell Lewis,1119563,Guaranteed
+2024-25,Maxwell Lewis,1891857,Guaranteed
+2025-26,Maxwell Lewis,2221677,Guaranteed
+2026-27,Maxwell Lewis,2406205,Player Option
+2027-28,Maxwell Lewis,0,Guaranteed
+2028-29,Maxwell Lewis,0,Guaranteed
+2023-24,Andre Jackson Jr,1119563,Guaranteed
+2024-25,Andre Jackson Jr,1891857,Guaranteed
+2025-26,Andre Jackson Jr,2221677,Guaranteed
+2026-27,Andre Jackson Jr,2406205,Team Option
+2027-28,Andre Jackson Jr,0,Guaranteed
+2028-29,Andre Jackson Jr,0,Guaranteed
+2023-24,Chris Livingston,1119563,Guaranteed
+2024-25,Chris Livingston,1891857,Guaranteed
+2025-26,Chris Livingston,2221677,Guaranteed
+2026-27,Chris Livingston,2406205,Team Option
+2027-28,Chris Livingston,0,Guaranteed
+2028-29,Chris Livingston,0,Guaranteed
+2023-24,Sidy Cissoko,1119563,Guaranteed
+2024-25,Sidy Cissoko,1891857,Guaranteed
+2025-26,Sidy Cissoko,2221677,Guaranteed
+2026-27,Sidy Cissoko,0,Guaranteed
+2027-28,Sidy Cissoko,0,Guaranteed
+2028-29,Sidy Cissoko,0,Guaranteed
+2023-24,Toumani Camara,1119563,Guaranteed
+2024-25,Toumani Camara,1891857,Team Option
+2025-26,Toumani Camara,2221677,Team Option
+2026-27,Toumani Camara,2406205,Team Option
+2027-28,Toumani Camara,0,Guaranteed
+2028-29,Toumani Camara,0,Guaranteed
+2023-24,Rayan Rupert,1119563,Guaranteed
+2024-25,Rayan Rupert,1891857,Team Option
+2025-26,Rayan Rupert,2221677,Team Option
+2026-27,Rayan Rupert,0,Guaranteed
+2027-28,Rayan Rupert,0,Guaranteed
+2028-29,Rayan Rupert,0,Guaranteed
+2023-24,Dylan Windler,1116288,Two-Way
+2024-25,Dylan Windler,0,Guaranteed
+2025-26,Dylan Windler,0,Guaranteed
+2026-27,Dylan Windler,0,Guaranteed
+2027-28,Dylan Windler,0,Guaranteed
+2028-29,Dylan Windler,0,Guaranteed
+2023-24,Trent Forrest,1112933,Guaranteed
+2024-25,Trent Forrest,0,Guaranteed
+2025-26,Trent Forrest,0,Guaranteed
+2026-27,Trent Forrest,0,Guaranteed
+2027-28,Trent Forrest,0,Guaranteed
+2028-29,Trent Forrest,0,Guaranteed
+2023-24,Lester Quinones,1108597,Guaranteed
+2024-25,Lester Quinones,0,Guaranteed
+2025-26,Lester Quinones,0,Guaranteed
+2026-27,Lester Quinones,0,Guaranteed
+2027-28,Lester Quinones,0,Guaranteed
+2028-29,Lester Quinones,0,Guaranteed
+2023-24,Kendall Brown,1100000,Guaranteed
+2024-25,Kendall Brown,2120683,Guaranteed
+2025-26,Kendall Brown,2301587,Team Option
+2026-27,Kendall Brown,0,Guaranteed
+2027-28,Kendall Brown,0,Guaranteed
+2028-29,Kendall Brown,0,Guaranteed
+2023-24,Stanley Umude,1098242,Guaranteed
+2024-25,Stanley Umude,2120693,Guaranteed
+2025-26,Stanley Umude,0,Guaranteed
+2026-27,Stanley Umude,0,Guaranteed
+2027-28,Stanley Umude,0,Guaranteed
+2028-29,Stanley Umude,0,Guaranteed
+2023-24,Gui Santos,1029483,Guaranteed
+2024-25,Gui Santos,1891857,Guaranteed
+2025-26,Gui Santos,2221677,Team Option
+2026-27,Gui Santos,0,Guaranteed
+2027-28,Gui Santos,0,Guaranteed
+2028-29,Gui Santos,0,Guaranteed
+2023-24,Dominick Barlow,1015402,Guaranteed
+2024-25,Dominick Barlow,0,Guaranteed
+2025-26,Dominick Barlow,0,Guaranteed
+2026-27,Dominick Barlow,0,Guaranteed
+2027-28,Dominick Barlow,0,Guaranteed
+2028-29,Dominick Barlow,0,Guaranteed
+2023-24,AJ Lawson,1000000,Guaranteed
+2024-25,AJ Lawson,2120693,Guaranteed
+2025-26,AJ Lawson,2301587,Guaranteed
+2026-27,AJ Lawson,2489752,Guaranteed
+2027-28,AJ Lawson,0,Guaranteed
+2028-29,AJ Lawson,0,Guaranteed
+2023-24,Ishmail Wainright,988269,Two-Way
+2024-25,Ishmail Wainright,0,Guaranteed
+2025-26,Ishmail Wainright,0,Guaranteed
+2026-27,Ishmail Wainright,0,Guaranteed
+2027-28,Ishmail Wainright,0,Guaranteed
+2028-29,Ishmail Wainright,0,Guaranteed
+2023-24,Neemias Queta,891035,Guaranteed
+2024-25,Neemias Queta,2196970,Team Option
+2025-26,Neemias Queta,0,Guaranteed
+2026-27,Neemias Queta,0,Guaranteed
+2027-28,Neemias Queta,0,Guaranteed
+2028-29,Neemias Queta,0,Guaranteed
+2023-24,Javon Freeman-Liberty,849324,Guaranteed
+2024-25,Javon Freeman-Liberty,1891857,Guaranteed
+2025-26,Javon Freeman-Liberty,0,Guaranteed
+2026-27,Javon Freeman-Liberty,0,Guaranteed
+2027-28,Javon Freeman-Liberty,0,Guaranteed
+2028-29,Javon Freeman-Liberty,0,Guaranteed
+2023-24,Lindy Waters III,766095,Guaranteed
+2024-25,Lindy Waters III,2196970,Team Option
+2025-26,Lindy Waters III,0,Guaranteed
+2026-27,Lindy Waters III,0,Guaranteed
+2027-28,Lindy Waters III,0,Guaranteed
+2028-29,Lindy Waters III,0,Guaranteed
+2023-24,Jacob Toppin,759245,Two-Way
+2024-25,Jacob Toppin,0,Guaranteed
+2025-26,Jacob Toppin,0,Guaranteed
+2026-27,Jacob Toppin,0,Guaranteed
+2027-28,Jacob Toppin,0,Guaranteed
+2028-29,Jacob Toppin,0,Guaranteed
+2023-24,Mamadi Diakite,710574,Guaranteed
+2024-25,Mamadi Diakite,2273252,Guaranteed
+2025-26,Mamadi Diakite,0,Guaranteed
+2026-27,Mamadi Diakite,0,Guaranteed
+2027-28,Mamadi Diakite,0,Guaranteed
+2028-29,Mamadi Diakite,0,Guaranteed
+2023-24,Jack White,703550,Guaranteed
+2024-25,Jack White,0,Guaranteed
+2025-26,Jack White,0,Guaranteed
+2026-27,Jack White,0,Guaranteed
+2027-28,Jack White,0,Guaranteed
+2028-29,Jack White,0,Guaranteed
+2023-24,Nik Stauskas,702311,Guaranteed
+2024-25,Nik Stauskas,702311,Guaranteed
+2025-26,Nik Stauskas,0,Guaranteed
+2026-27,Nik Stauskas,0,Guaranteed
+2027-28,Nik Stauskas,0,Guaranteed
+2028-29,Nik Stauskas,0,Guaranteed
+2023-24,Jacob Gilyard,701336,Two-Way
+2024-25,Jacob Gilyard,0,Guaranteed
+2025-26,Jacob Gilyard,0,Guaranteed
+2026-27,Jacob Gilyard,0,Guaranteed
+2027-28,Jacob Gilyard,0,Guaranteed
+2028-29,Jacob Gilyard,0,Guaranteed
+2023-24,Luka Garza,687465,Guaranteed
+2024-25,Luka Garza,0,Guaranteed
+2025-26,Luka Garza,0,Guaranteed
+2026-27,Luka Garza,0,Guaranteed
+2027-28,Luka Garza,0,Guaranteed
+2028-29,Luka Garza,0,Guaranteed
+2023-24,Keon Ellis,683430,Guaranteed
+2024-25,Keon Ellis,2120693,Guaranteed
+2025-26,Keon Ellis,2301587,Team Option
+2026-27,Keon Ellis,0,Guaranteed
+2027-28,Keon Ellis,0,Guaranteed
+2028-29,Keon Ellis,0,Guaranteed
+2023-24,RJ Hampton,680032,Guaranteed
+2024-25,RJ Hampton,0,Guaranteed
+2025-26,RJ Hampton,0,Guaranteed
+2026-27,RJ Hampton,0,Guaranteed
+2027-28,RJ Hampton,0,Guaranteed
+2028-29,RJ Hampton,0,Guaranteed
+2023-24,TJ Warren,649659,Guaranteed
+2024-25,TJ Warren,0,Guaranteed
+2025-26,TJ Warren,0,Guaranteed
+2026-27,TJ Warren,0,Guaranteed
+2027-28,TJ Warren,0,Guaranteed
+2028-29,TJ Warren,0,Guaranteed
+2023-24,Darius Bazley,624425,Guaranteed
+2024-25,Darius Bazley,2463946,Guaranteed
+2025-26,Darius Bazley,2781053,Guaranteed
+2026-27,Darius Bazley,0,Guaranteed
+2027-28,Darius Bazley,0,Guaranteed
+2028-29,Darius Bazley,0,Guaranteed
+2023-24,Juwan Morgan,576230,Guaranteed
+2024-25,Juwan Morgan,576230,Guaranteed
+2025-26,Juwan Morgan,0,Guaranteed
+2026-27,Juwan Morgan,0,Guaranteed
+2027-28,Juwan Morgan,0,Guaranteed
+2028-29,Juwan Morgan,0,Guaranteed
+2023-24,Leaky Black,559782,Two-Way
+2024-25,Leaky Black,584388,Two-Way
+2025-26,Leaky Black,0,Guaranteed
+2026-27,Leaky Black,0,Guaranteed
+2027-28,Leaky Black,0,Guaranteed
+2028-29,Leaky Black,0,Guaranteed
+2023-24,Jordan Miller,559782,Two-Way
+2024-25,Jordan Miller,584388,Two-Way
+2025-26,Jordan Miller,0,Guaranteed
+2026-27,Jordan Miller,0,Guaranteed
+2027-28,Jordan Miller,0,Guaranteed
+2028-29,Jordan Miller,0,Guaranteed
+2023-24,Jaylen Clark,559782,Two-Way
+2024-25,Jaylen Clark,584388,Two-Way
+2025-26,Jaylen Clark,0,Guaranteed
+2026-27,Jaylen Clark,0,Guaranteed
+2027-28,Jaylen Clark,0,Guaranteed
+2028-29,Jaylen Clark,0,Guaranteed
+2023-24,Seth Lundy,559782,Two-Way
+2024-25,Seth Lundy,0,Guaranteed
+2025-26,Seth Lundy,0,Guaranteed
+2026-27,Seth Lundy,0,Guaranteed
+2027-28,Seth Lundy,0,Guaranteed
+2028-29,Seth Lundy,0,Guaranteed
+2023-24,JD Davison,559782,Two-Way
+2024-25,JD Davison,0,Guaranteed
+2025-26,JD Davison,0,Guaranteed
+2026-27,JD Davison,0,Guaranteed
+2027-28,JD Davison,0,Guaranteed
+2028-29,JD Davison,0,Guaranteed
+2023-24,Amari Bailey,559782,Two-Way
+2024-25,Amari Bailey,0,Guaranteed
+2025-26,Amari Bailey,0,Guaranteed
+2026-27,Amari Bailey,0,Guaranteed
+2027-28,Amari Bailey,0,Guaranteed
+2028-29,Amari Bailey,0,Guaranteed
+2023-24,Adama Sanogo,559782,Two-Way
+2024-25,Adama Sanogo,0,Guaranteed
+2025-26,Adama Sanogo,0,Guaranteed
+2026-27,Adama Sanogo,0,Guaranteed
+2027-28,Adama Sanogo,0,Guaranteed
+2028-29,Adama Sanogo,0,Guaranteed
+2023-24,Emoni Bates,559782,Two-Way
+2024-25,Emoni Bates,0,Guaranteed
+2025-26,Emoni Bates,0,Guaranteed
+2026-27,Emoni Bates,0,Guaranteed
+2027-28,Emoni Bates,0,Guaranteed
+2028-29,Emoni Bates,0,Guaranteed
+2023-24,Isaiah Mobley,559782,Two-Way
+2024-25,Isaiah Mobley,0,Guaranteed
+2025-26,Isaiah Mobley,0,Guaranteed
+2026-27,Isaiah Mobley,0,Guaranteed
+2027-28,Isaiah Mobley,0,Guaranteed
+2028-29,Isaiah Mobley,0,Guaranteed
+2023-24,Greg Brown,559782,Two-Way
+2024-25,Greg Brown,0,Guaranteed
+2025-26,Greg Brown,0,Guaranteed
+2026-27,Greg Brown,0,Guaranteed
+2027-28,Greg Brown,0,Guaranteed
+2028-29,Greg Brown,0,Guaranteed
+2023-24,Collin Gillespie,559782,Two-Way
+2024-25,Collin Gillespie,0,Guaranteed
+2025-26,Collin Gillespie,0,Guaranteed
+2026-27,Collin Gillespie,0,Guaranteed
+2027-28,Collin Gillespie,0,Guaranteed
+2028-29,Collin Gillespie,0,Guaranteed
+2023-24,Jay Huff,559782,Two-Way
+2024-25,Jay Huff,0,Guaranteed
+2025-26,Jay Huff,0,Guaranteed
+2026-27,Jay Huff,0,Guaranteed
+2027-28,Jay Huff,0,Guaranteed
+2028-29,Jay Huff,0,Guaranteed
+2023-24,Braxton Key,559782,Two-Way
+2024-25,Braxton Key,0,Guaranteed
+2025-26,Braxton Key,0,Guaranteed
+2026-27,Braxton Key,0,Guaranteed
+2027-28,Braxton Key,0,Guaranteed
+2028-29,Braxton Key,0,Guaranteed
+2023-24,Malcolm Cazalon,559782,Two-Way
+2024-25,Malcolm Cazalon,0,Guaranteed
+2025-26,Malcolm Cazalon,0,Guaranteed
+2026-27,Malcolm Cazalon,0,Guaranteed
+2027-28,Malcolm Cazalon,0,Guaranteed
+2028-29,Malcolm Cazalon,0,Guaranteed
+2023-24,Jared Rhoden,559782,Two-Way
+2024-25,Jared Rhoden,0,Guaranteed
+2025-26,Jared Rhoden,0,Guaranteed
+2026-27,Jared Rhoden,0,Guaranteed
+2027-28,Jared Rhoden,0,Guaranteed
+2028-29,Jared Rhoden,0,Guaranteed
+2023-24,Jerome Robinson,559782,Two-Way
+2024-25,Jerome Robinson,0,Guaranteed
+2025-26,Jerome Robinson,0,Guaranteed
+2026-27,Jerome Robinson,0,Guaranteed
+2027-28,Jerome Robinson,0,Guaranteed
+2028-29,Jerome Robinson,0,Guaranteed
+2023-24,Nate Hinton,559782,Two-Way
+2024-25,Nate Hinton,0,Guaranteed
+2025-26,Nate Hinton,0,Guaranteed
+2026-27,Nate Hinton,0,Guaranteed
+2027-28,Nate Hinton,0,Guaranteed
+2028-29,Nate Hinton,0,Guaranteed
+2023-24,Jermaine Samuels,559782,Two-Way
+2024-25,Jermaine Samuels,0,Guaranteed
+2025-26,Jermaine Samuels,0,Guaranteed
+2026-27,Jermaine Samuels,0,Guaranteed
+2027-28,Jermaine Samuels,0,Guaranteed
+2028-29,Jermaine Samuels,0,Guaranteed
+2023-24,Nate Williams,559782,Two-Way
+2024-25,Nate Williams,0,Guaranteed
+2025-26,Nate Williams,0,Guaranteed
+2026-27,Nate Williams,0,Guaranteed
+2027-28,Nate Williams,0,Guaranteed
+2028-29,Nate Williams,0,Guaranteed
+2023-24,Oscar Tshiebwe,559782,Two-Way
+2024-25,Oscar Tshiebwe,0,Guaranteed
+2025-26,Oscar Tshiebwe,0,Guaranteed
+2026-27,Oscar Tshiebwe,0,Guaranteed
+2027-28,Oscar Tshiebwe,0,Guaranteed
+2028-29,Oscar Tshiebwe,0,Guaranteed
+2023-24,Isaiah Wong,559782,Two-Way
+2024-25,Isaiah Wong,0,Guaranteed
+2025-26,Isaiah Wong,0,Guaranteed
+2026-27,Isaiah Wong,0,Guaranteed
+2027-28,Isaiah Wong,0,Guaranteed
+2028-29,Isaiah Wong,0,Guaranteed
+2023-24,Moussa Diabate,559782,Two-Way
+2024-25,Moussa Diabate,0,Guaranteed
+2025-26,Moussa Diabate,0,Guaranteed
+2026-27,Moussa Diabate,0,Guaranteed
+2027-28,Moussa Diabate,0,Guaranteed
+2028-29,Moussa Diabate,0,Guaranteed
+2023-24,Colin Castleton,559782,Two-Way
+2024-25,Colin Castleton,0,Guaranteed
+2025-26,Colin Castleton,0,Guaranteed
+2026-27,Colin Castleton,0,Guaranteed
+2027-28,Colin Castleton,0,Guaranteed
+2028-29,Colin Castleton,0,Guaranteed
+2023-24,Jamal Cain,559782,Two-Way
+2024-25,Jamal Cain,0,Guaranteed
+2025-26,Jamal Cain,0,Guaranteed
+2026-27,Jamal Cain,0,Guaranteed
+2027-28,Jamal Cain,0,Guaranteed
+2028-29,Jamal Cain,0,Guaranteed
+2023-24,Cole Swider,559782,Two-Way
+2024-25,Cole Swider,0,Guaranteed
+2025-26,Cole Swider,0,Guaranteed
+2026-27,Cole Swider,0,Guaranteed
+2027-28,Cole Swider,0,Guaranteed
+2028-29,Cole Swider,0,Guaranteed
+2023-24,Daishen Nix,559782,Two-Way
+2024-25,Daishen Nix,0,Guaranteed
+2025-26,Daishen Nix,0,Guaranteed
+2026-27,Daishen Nix,0,Guaranteed
+2027-28,Daishen Nix,0,Guaranteed
+2028-29,Daishen Nix,0,Guaranteed
+2023-24,Dereon Seabron,559782,Two-Way
+2024-25,Dereon Seabron,0,Guaranteed
+2025-26,Dereon Seabron,0,Guaranteed
+2026-27,Dereon Seabron,0,Guaranteed
+2027-28,Dereon Seabron,0,Guaranteed
+2028-29,Dereon Seabron,0,Guaranteed
+2023-24,Charlie Brown,559782,Two-Way
+2024-25,Charlie Brown,0,Guaranteed
+2025-26,Charlie Brown,0,Guaranteed
+2026-27,Charlie Brown,0,Guaranteed
+2027-28,Charlie Brown,0,Guaranteed
+2028-29,Charlie Brown,0,Guaranteed
+2023-24,Keyontae Johnson,559782,Two-Way
+2024-25,Keyontae Johnson,0,Guaranteed
+2025-26,Keyontae Johnson,0,Guaranteed
+2026-27,Keyontae Johnson,0,Guaranteed
+2027-28,Keyontae Johnson,0,Guaranteed
+2028-29,Keyontae Johnson,0,Guaranteed
+2023-24,Olivier Sarr,559782,Two-Way
+2024-25,Olivier Sarr,0,Guaranteed
+2025-26,Olivier Sarr,0,Guaranteed
+2026-27,Olivier Sarr,0,Guaranteed
+2027-28,Olivier Sarr,0,Guaranteed
+2028-29,Olivier Sarr,0,Guaranteed
+2023-24,Kevon Harris,559782,Two-Way
+2024-25,Kevon Harris,0,Guaranteed
+2025-26,Kevon Harris,0,Guaranteed
+2026-27,Kevon Harris,0,Guaranteed
+2027-28,Kevon Harris,0,Guaranteed
+2028-29,Kevon Harris,0,Guaranteed
+2023-24,Trevelin Queen,559782,Two-Way
+2024-25,Trevelin Queen,0,Guaranteed
+2025-26,Trevelin Queen,0,Guaranteed
+2026-27,Trevelin Queen,0,Guaranteed
+2027-28,Trevelin Queen,0,Guaranteed
+2028-29,Trevelin Queen,0,Guaranteed
+2023-24,Admiral Schofield,559782,Two-Way
+2024-25,Admiral Schofield,0,Guaranteed
+2025-26,Admiral Schofield,0,Guaranteed
+2026-27,Admiral Schofield,0,Guaranteed
+2027-28,Admiral Schofield,0,Guaranteed
+2028-29,Admiral Schofield,0,Guaranteed
+2023-24,Terquavion Smith,559782,Two-Way
+2024-25,Terquavion Smith,0,Guaranteed
+2025-26,Terquavion Smith,0,Guaranteed
+2026-27,Terquavion Smith,0,Guaranteed
+2027-28,Terquavion Smith,0,Guaranteed
+2028-29,Terquavion Smith,0,Guaranteed
+2023-24,Udoka Azubuike,559782,Two-Way
+2024-25,Udoka Azubuike,0,Guaranteed
+2025-26,Udoka Azubuike,0,Guaranteed
+2026-27,Udoka Azubuike,0,Guaranteed
+2027-28,Udoka Azubuike,0,Guaranteed
+2028-29,Udoka Azubuike,0,Guaranteed
+2023-24,Saben Lee,559782,Two-Way
+2024-25,Saben Lee,0,Guaranteed
+2025-26,Saben Lee,0,Guaranteed
+2026-27,Saben Lee,0,Guaranteed
+2027-28,Saben Lee,0,Guaranteed
+2028-29,Saben Lee,0,Guaranteed
+2023-24,Theo Maledon,559782,Two-Way
+2024-25,Theo Maledon,0,Guaranteed
+2025-26,Theo Maledon,0,Guaranteed
+2026-27,Theo Maledon,0,Guaranteed
+2027-28,Theo Maledon,0,Guaranteed
+2028-29,Theo Maledon,0,Guaranteed
+2023-24,Justin Minaya,559782,Two-Way
+2024-25,Justin Minaya,0,Guaranteed
+2025-26,Justin Minaya,0,Guaranteed
+2026-27,Justin Minaya,0,Guaranteed
+2027-28,Justin Minaya,0,Guaranteed
+2028-29,Justin Minaya,0,Guaranteed
+2023-24,Jordan Ford,559782,Two-Way
+2024-25,Jordan Ford,0,Guaranteed
+2025-26,Jordan Ford,0,Guaranteed
+2026-27,Jordan Ford,0,Guaranteed
+2027-28,Jordan Ford,0,Guaranteed
+2028-29,Jordan Ford,0,Guaranteed
+2023-24,Filip Petrusev,559782,Guaranteed
+2024-25,Filip Petrusev,0,Guaranteed
+2025-26,Filip Petrusev,0,Guaranteed
+2026-27,Filip Petrusev,0,Guaranteed
+2027-28,Filip Petrusev,0,Guaranteed
+2028-29,Filip Petrusev,0,Guaranteed
+2023-24,Jalen Slawson,559782,Two-Way
+2024-25,Jalen Slawson,0,Guaranteed
+2025-26,Jalen Slawson,0,Guaranteed
+2026-27,Jalen Slawson,0,Guaranteed
+2027-28,Jalen Slawson,0,Guaranteed
+2028-29,Jalen Slawson,0,Guaranteed
+2023-24,Markquis Nowell,559782,Two-Way
+2024-25,Markquis Nowell,0,Guaranteed
+2025-26,Markquis Nowell,0,Guaranteed
+2026-27,Markquis Nowell,0,Guaranteed
+2027-28,Markquis Nowell,0,Guaranteed
+2028-29,Markquis Nowell,0,Guaranteed
+2023-24,Johnny Juzang,559782,Two-Way
+2024-25,Johnny Juzang,0,Guaranteed
+2025-26,Johnny Juzang,0,Guaranteed
+2026-27,Johnny Juzang,0,Guaranteed
+2027-28,Johnny Juzang,0,Guaranteed
+2028-29,Johnny Juzang,0,Guaranteed
+2023-24,Micah Potter,559782,Two-Way
+2024-25,Micah Potter,0,Guaranteed
+2025-26,Micah Potter,0,Guaranteed
+2026-27,Micah Potter,0,Guaranteed
+2027-28,Micah Potter,0,Guaranteed
+2028-29,Micah Potter,0,Guaranteed
+2023-24,Malik Fitts,555217,Guaranteed
+2024-25,Malik Fitts,555217,Guaranteed
+2025-26,Malik Fitts,0,Guaranteed
+2026-27,Malik Fitts,0,Guaranteed
+2027-28,Malik Fitts,0,Guaranteed
+2028-29,Malik Fitts,0,Guaranteed
+2023-24,Marques Bolden,502131,Two-Way
+2024-25,Marques Bolden,584388,Two-Way
+2025-26,Marques Bolden,0,Guaranteed
+2026-27,Marques Bolden,0,Guaranteed
+2027-28,Marques Bolden,0,Guaranteed
+2028-29,Marques Bolden,0,Guaranteed
+2023-24,Onuralp Bitim,500000,Guaranteed
+2024-25,Onuralp Bitim,1891857,Guaranteed
+2025-26,Onuralp Bitim,2221677,Guaranteed
+2026-27,Onuralp Bitim,0,Guaranteed
+2027-28,Onuralp Bitim,0,Guaranteed
+2028-29,Onuralp Bitim,0,Guaranteed
+2023-24,Danny Green,500000,Guaranteed
+2024-25,Danny Green,0,Guaranteed
+2025-26,Danny Green,0,Guaranteed
+2026-27,Danny Green,0,Guaranteed
+2027-28,Danny Green,0,Guaranteed
+2028-29,Danny Green,0,Guaranteed
+2023-24,Xavier Moon,489005,Two-Way
+2024-25,Xavier Moon,0,Guaranteed
+2025-26,Xavier Moon,0,Guaranteed
+2026-27,Xavier Moon,0,Guaranteed
+2027-28,Xavier Moon,0,Guaranteed
+2028-29,Xavier Moon,0,Guaranteed
+2023-24,Isaiah Thomas,477630,Guaranteed
+2024-25,Isaiah Thomas,0,Guaranteed
+2025-26,Isaiah Thomas,0,Guaranteed
+2026-27,Isaiah Thomas,0,Guaranteed
+2027-28,Isaiah Thomas,0,Guaranteed
+2028-29,Isaiah Thomas,0,Guaranteed
+2023-24,Ibou Badji,466485,Two-Way
+2024-25,Ibou Badji,0,Guaranteed
+2025-26,Ibou Badji,0,Guaranteed
+2026-27,Ibou Badji,0,Guaranteed
+2027-28,Ibou Badji,0,Guaranteed
+2028-29,Ibou Badji,0,Guaranteed
+2023-24,Juan Toscano-Anderson,447931,Guaranteed
+2024-25,Juan Toscano-Anderson,0,Guaranteed
+2025-26,Juan Toscano-Anderson,0,Guaranteed
+2026-27,Juan Toscano-Anderson,0,Guaranteed
+2027-28,Juan Toscano-Anderson,0,Guaranteed
+2028-29,Juan Toscano-Anderson,0,Guaranteed
+2023-24,Duane Washington Jr,443965,Two-Way
+2024-25,Duane Washington Jr,0,Guaranteed
+2025-26,Duane Washington Jr,0,Guaranteed
+2026-27,Duane Washington Jr,0,Guaranteed
+2027-28,Duane Washington Jr,0,Guaranteed
+2028-29,Duane Washington Jr,0,Guaranteed
+2023-24,Jules Bernard,415011,Two-Way
+2024-25,Jules Bernard,0,Guaranteed
+2025-26,Jules Bernard,0,Guaranteed
+2026-27,Jules Bernard,0,Guaranteed
+2027-28,Jules Bernard,0,Guaranteed
+2028-29,Jules Bernard,0,Guaranteed
+2023-24,Jontay Porter,411794,Two-Way
+2024-25,Jontay Porter,0,Guaranteed
+2025-26,Jontay Porter,0,Guaranteed
+2026-27,Jontay Porter,0,Guaranteed
+2027-28,Jontay Porter,0,Guaranteed
+2028-29,Jontay Porter,0,Guaranteed
+2023-24,Jaylen Nowell,398160,Guaranteed
+2024-25,Jaylen Nowell,0,Guaranteed
+2025-26,Jaylen Nowell,0,Guaranteed
+2026-27,Jaylen Nowell,0,Guaranteed
+2027-28,Jaylen Nowell,0,Guaranteed
+2028-29,Jaylen Nowell,0,Guaranteed
+2023-24,Drew Peterson,395708,Two-Way
+2024-25,Drew Peterson,0,Guaranteed
+2025-26,Drew Peterson,0,Guaranteed
+2026-27,Drew Peterson,0,Guaranteed
+2027-28,Drew Peterson,0,Guaranteed
+2028-29,Drew Peterson,0,Guaranteed
+2023-24,Nathan Mensah,395708,Guaranteed
+2024-25,Nathan Mensah,0,Guaranteed
+2025-26,Nathan Mensah,0,Guaranteed
+2026-27,Nathan Mensah,0,Guaranteed
+2027-28,Nathan Mensah,0,Guaranteed
+2028-29,Nathan Mensah,0,Guaranteed
+2023-24,David Duke,395708,Two-Way
+2024-25,David Duke,0,Guaranteed
+2025-26,David Duke,0,Guaranteed
+2026-27,David Duke,0,Guaranteed
+2027-28,David Duke,0,Guaranteed
+2028-29,David Duke,0,Guaranteed
+2023-24,Henri Drell,389274,Two-Way
+2024-25,Henri Drell,0,Guaranteed
+2025-26,Henri Drell,0,Guaranteed
+2026-27,Henri Drell,0,Guaranteed
+2027-28,Henri Drell,0,Guaranteed
+2028-29,Henri Drell,0,Guaranteed
+2023-24,Alex Fudge,376405,Two-Way
+2024-25,Alex Fudge,584388,Two-Way
+2025-26,Alex Fudge,0,Guaranteed
+2026-27,Alex Fudge,0,Guaranteed
+2027-28,Alex Fudge,0,Guaranteed
+2028-29,Alex Fudge,0,Guaranteed
+2023-24,Vit Krejci,369971,Two-Way
+2024-25,Vit Krejci,0,Guaranteed
+2025-26,Vit Krejci,0,Guaranteed
+2026-27,Vit Krejci,0,Guaranteed
+2027-28,Vit Krejci,0,Guaranteed
+2028-29,Vit Krejci,0,Guaranteed
+2023-24,Brandon Williams,350668,Two-Way
+2024-25,Brandon Williams,0,Guaranteed
+2025-26,Brandon Williams,0,Guaranteed
+2026-27,Brandon Williams,0,Guaranteed
+2027-28,Brandon Williams,0,Guaranteed
+2028-29,Brandon Williams,0,Guaranteed
+2023-24,Trey Jemison,341017,Two-Way
+2024-25,Trey Jemison,584388,Two-Way
+2025-26,Trey Jemison,0,Guaranteed
+2026-27,Trey Jemison,0,Guaranteed
+2027-28,Trey Jemison,0,Guaranteed
+2028-29,Trey Jemison,0,Guaranteed
+2023-24,Jason Preston,315280,Two-Way
+2024-25,Jason Preston,584388,Two-Way
+2025-26,Jason Preston,0,Guaranteed
+2026-27,Jason Preston,0,Guaranteed
+2027-28,Jason Preston,0,Guaranteed
+2028-29,Jason Preston,0,Guaranteed
+2023-24,Nerlens Noel,300000,Guaranteed
+2024-25,Nerlens Noel,0,Guaranteed
+2025-26,Nerlens Noel,0,Guaranteed
+2026-27,Nerlens Noel,0,Guaranteed
+2027-28,Nerlens Noel,0,Guaranteed
+2028-29,Nerlens Noel,0,Guaranteed
+2023-24,Tosan Evbuomwan,295977,Two-Way
+2024-25,Tosan Evbuomwan,584388,Two-Way
+2025-26,Tosan Evbuomwan,0,Guaranteed
+2026-27,Tosan Evbuomwan,0,Guaranteed
+2027-28,Tosan Evbuomwan,0,Guaranteed
+2028-29,Tosan Evbuomwan,0,Guaranteed
+2023-24,Scottie Pippen Jr,289542,Two-Way
+2024-25,Scottie Pippen Jr,584388,Two-Way
+2025-26,Scottie Pippen Jr,0,Guaranteed
+2026-27,Scottie Pippen Jr,0,Guaranteed
+2027-28,Scottie Pippen Jr,0,Guaranteed
+2028-29,Scottie Pippen Jr,0,Guaranteed
+2023-24,Malcolm Hill,286583,Two-Way
+2024-25,Malcolm Hill,584388,Two-Way
+2025-26,Malcolm Hill,0,Guaranteed
+2026-27,Malcolm Hill,0,Guaranteed
+2027-28,Malcolm Hill,0,Guaranteed
+2028-29,Malcolm Hill,0,Guaranteed
+2023-24,Ashton Hagans,270841,Two-Way
+2024-25,Ashton Hagans,0,Guaranteed
+2025-26,Ashton Hagans,0,Guaranteed
+2026-27,Ashton Hagans,0,Guaranteed
+2027-28,Ashton Hagans,0,Guaranteed
+2028-29,Ashton Hagans,0,Guaranteed
+2023-24,Jeff Dowtin,269237,Guaranteed
+2024-25,Jeff Dowtin,2196970,Team Option
+2025-26,Jeff Dowtin,0,Guaranteed
+2026-27,Jeff Dowtin,0,Guaranteed
+2027-28,Jeff Dowtin,0,Guaranteed
+2028-29,Jeff Dowtin,0,Guaranteed
+2023-24,Didi Louzada,268032,Guaranteed
+2024-25,Didi Louzada,268032,Guaranteed
+2025-26,Didi Louzada,268032,Guaranteed
+2026-27,Didi Louzada,268032,Guaranteed
+2027-28,Didi Louzada,268032,Guaranteed
+2028-29,Didi Louzada,0,Guaranteed
+2023-24,Javonte Green,261293,Guaranteed
+2024-25,Javonte Green,0,Guaranteed
+2025-26,Javonte Green,0,Guaranteed
+2026-27,Javonte Green,0,Guaranteed
+2027-28,Javonte Green,0,Guaranteed
+2028-29,Javonte Green,0,Guaranteed
+2023-24,Justin Champagnie,254412,Two-Way
+2024-25,Justin Champagnie,584388,Two-Way
+2025-26,Justin Champagnie,0,Guaranteed
+2026-27,Justin Champagnie,0,Guaranteed
+2027-28,Justin Champagnie,0,Guaranteed
+2028-29,Justin Champagnie,0,Guaranteed
+2023-24,Jaylen Martin,249766,Two-Way
+2024-25,Jaylen Martin,584388,Two-Way
+2025-26,Jaylen Martin,0,Guaranteed
+2026-27,Jaylen Martin,0,Guaranteed
+2027-28,Jaylen Martin,0,Guaranteed
+2028-29,Jaylen Martin,0,Guaranteed
+2023-24,Pete Nance,244503,Guaranteed
+2024-25,Pete Nance,0,Guaranteed
+2025-26,Pete Nance,0,Guaranteed
+2026-27,Pete Nance,0,Guaranteed
+2027-28,Pete Nance,0,Guaranteed
+2028-29,Pete Nance,0,Guaranteed
+2023-24,Lindell Wigginton,244502,Guaranteed
+2024-25,Lindell Wigginton,0,Guaranteed
+2025-26,Lindell Wigginton,0,Guaranteed
+2026-27,Lindell Wigginton,0,Guaranteed
+2027-28,Lindell Wigginton,0,Guaranteed
+2028-29,Lindell Wigginton,0,Guaranteed
+2023-24,Armoni Brooks,241285,Guaranteed
+2024-25,Armoni Brooks,0,Guaranteed
+2025-26,Armoni Brooks,0,Guaranteed
+2026-27,Armoni Brooks,0,Guaranteed
+2027-28,Armoni Brooks,0,Guaranteed
+2028-29,Armoni Brooks,0,Guaranteed
+2023-24,D'Moi Hodge,241285,Guaranteed
+2024-25,D'Moi Hodge,0,Guaranteed
+2025-26,D'Moi Hodge,0,Guaranteed
+2026-27,D'Moi Hodge,0,Guaranteed
+2027-28,D'Moi Hodge,0,Guaranteed
+2028-29,D'Moi Hodge,0,Guaranteed
+2023-24,Jahmi'us Ramsey,232150,Guaranteed
+2024-25,Jahmi'us Ramsey,0,Guaranteed
+2025-26,Jahmi'us Ramsey,0,Guaranteed
+2026-27,Jahmi'us Ramsey,0,Guaranteed
+2027-28,Jahmi'us Ramsey,0,Guaranteed
+2028-29,Jahmi'us Ramsey,0,Guaranteed
+2023-24,Charles Bediako,215548,Guaranteed
+2024-25,Charles Bediako,0,Guaranteed
+2025-26,Charles Bediako,0,Guaranteed
+2026-27,Charles Bediako,0,Guaranteed
+2027-28,Charles Bediako,0,Guaranteed
+2028-29,Charles Bediako,0,Guaranteed
+2023-24,Mason Jones,212331,Two-Way
+2024-25,Mason Jones,584388,Two-Way
+2025-26,Mason Jones,0,Guaranteed
+2026-27,Mason Jones,0,Guaranteed
+2027-28,Mason Jones,0,Guaranteed
+2028-29,Mason Jones,0,Guaranteed
+2023-24,Dexter Dennis,212331,Guaranteed
+2024-25,Dexter Dennis,0,Guaranteed
+2025-26,Dexter Dennis,0,Guaranteed
+2026-27,Dexter Dennis,0,Guaranteed
+2027-28,Dexter Dennis,0,Guaranteed
+2028-29,Dexter Dennis,0,Guaranteed
+2023-24,Alondes Williams,212331,Two-Way
+2024-25,Alondes Williams,0,Guaranteed
+2025-26,Alondes Williams,0,Guaranteed
+2026-27,Alondes Williams,0,Guaranteed
+2027-28,Alondes Williams,0,Guaranteed
+2028-29,Alondes Williams,0,Guaranteed
+2023-24,DeJon Jarreau,207100,Guaranteed
+2024-25,DeJon Jarreau,0,Guaranteed
+2025-26,DeJon Jarreau,0,Guaranteed
+2026-27,DeJon Jarreau,0,Guaranteed
+2027-28,DeJon Jarreau,0,Guaranteed
+2028-29,DeJon Jarreau,0,Guaranteed
+2023-24,Zavier Simpson,207100,Guaranteed
+2024-25,Zavier Simpson,0,Guaranteed
+2025-26,Zavier Simpson,0,Guaranteed
+2026-27,Zavier Simpson,0,Guaranteed
+2027-28,Zavier Simpson,0,Guaranteed
+2028-29,Zavier Simpson,0,Guaranteed
+2023-24,Adam Flagler,205897,Two-Way
+2024-25,Adam Flagler,584388,Two-Way
+2025-26,Adam Flagler,0,Guaranteed
+2026-27,Adam Flagler,0,Guaranteed
+2027-28,Adam Flagler,0,Guaranteed
+2028-29,Adam Flagler,0,Guaranteed
+2023-24,DJ Carton,205897,Two-Way
+2024-25,DJ Carton,584388,Two-Way
+2025-26,DJ Carton,0,Guaranteed
+2026-27,DJ Carton,0,Guaranteed
+2027-28,DJ Carton,0,Guaranteed
+2028-29,DJ Carton,0,Guaranteed
+2023-24,Mouhamadou Gueye,199463,Two-Way
+2024-25,Mouhamadou Gueye,584388,Two-Way
+2025-26,Mouhamadou Gueye,0,Guaranteed
+2026-27,Mouhamadou Gueye,0,Guaranteed
+2027-28,Mouhamadou Gueye,0,Guaranteed
+2028-29,Mouhamadou Gueye,0,Guaranteed
+2023-24,Ja'Vonte Smart,196245,Guaranteed
+2024-25,Ja'Vonte Smart,0,Guaranteed
+2025-26,Ja'Vonte Smart,0,Guaranteed
+2026-27,Ja'Vonte Smart,0,Guaranteed
+2027-28,Ja'Vonte Smart,0,Guaranteed
+2028-29,Ja'Vonte Smart,0,Guaranteed
+2023-24,Miles Norris,193028,Guaranteed
+2024-25,Miles Norris,0,Guaranteed
+2025-26,Miles Norris,0,Guaranteed
+2026-27,Miles Norris,0,Guaranteed
+2027-28,Miles Norris,0,Guaranteed
+2028-29,Miles Norris,0,Guaranteed
+2023-24,Justin Lewis,173725,Guaranteed
+2024-25,Justin Lewis,0,Guaranteed
+2025-26,Justin Lewis,0,Guaranteed
+2026-27,Justin Lewis,0,Guaranteed
+2027-28,Justin Lewis,0,Guaranteed
+2028-29,Justin Lewis,0,Guaranteed
+2023-24,Jamaree Bouyea,170801,Guaranteed
+2024-25,Jamaree Bouyea,584388,Guaranteed
+2025-26,Jamaree Bouyea,0,Guaranteed
+2026-27,Jamaree Bouyea,0,Guaranteed
+2027-28,Jamaree Bouyea,0,Guaranteed
+2028-29,Jamaree Bouyea,0,Guaranteed
+2023-24,Pat Spencer,170508,Two-Way
+2024-25,Pat Spencer,584388,Two-Way
+2025-26,Pat Spencer,0,Guaranteed
+2026-27,Pat Spencer,0,Guaranteed
+2027-28,Pat Spencer,0,Guaranteed
+2028-29,Pat Spencer,0,Guaranteed
+2023-24,Buddy Boeheim,167291,Two-Way
+2024-25,Buddy Boeheim,0,Guaranteed
+2025-26,Buddy Boeheim,0,Guaranteed
+2026-27,Buddy Boeheim,0,Guaranteed
+2027-28,Buddy Boeheim,0,Guaranteed
+2028-29,Buddy Boeheim,0,Guaranteed
+2023-24,Sir'Jabari Rice,167291,Guaranteed
+2024-25,Sir'Jabari Rice,0,Guaranteed
+2025-26,Sir'Jabari Rice,0,Guaranteed
+2026-27,Sir'Jabari Rice,0,Guaranteed
+2027-28,Sir'Jabari Rice,0,Guaranteed
+2028-29,Sir'Jabari Rice,0,Guaranteed
+2023-24,Justise Winslow,166176,Guaranteed
+2024-25,Justise Winslow,0,Guaranteed
+2025-26,Justise Winslow,0,Guaranteed
+2026-27,Justise Winslow,0,Guaranteed
+2027-28,Justise Winslow,0,Guaranteed
+2028-29,Justise Winslow,0,Guaranteed
+2023-24,Andrew Funk,160857,Two-Way
+2024-25,Andrew Funk,584388,Two-Way
+2025-26,Andrew Funk,0,Guaranteed
+2026-27,Andrew Funk,0,Guaranteed
+2027-28,Andrew Funk,0,Guaranteed
+2028-29,Andrew Funk,0,Guaranteed
+2023-24,Nathan Knight,160857,Guaranteed
+2024-25,Nathan Knight,0,Guaranteed
+2025-26,Nathan Knight,0,Guaranteed
+2026-27,Nathan Knight,0,Guaranteed
+2027-28,Nathan Knight,0,Guaranteed
+2028-29,Nathan Knight,0,Guaranteed
+2023-24,Ron Harper Jr,147988,Guaranteed
+2024-25,Ron Harper Jr,0,Guaranteed
+2025-26,Ron Harper Jr,0,Guaranteed
+2026-27,Ron Harper Jr,0,Guaranteed
+2027-28,Ron Harper Jr,0,Guaranteed
+2028-29,Ron Harper Jr,0,Guaranteed
+2023-24,John Butler,147988,Guaranteed
+2024-25,John Butler,0,Guaranteed
+2025-26,John Butler,0,Guaranteed
+2026-27,John Butler,0,Guaranteed
+2027-28,John Butler,0,Guaranteed
+2028-29,John Butler,0,Guaranteed
+2023-24,Shaquille Harrison,145301,Guaranteed
+2024-25,Shaquille Harrison,0,Guaranteed
+2025-26,Shaquille Harrison,0,Guaranteed
+2026-27,Shaquille Harrison,0,Guaranteed
+2027-28,Shaquille Harrison,0,Guaranteed
+2028-29,Shaquille Harrison,0,Guaranteed
+2023-24,Justin Jackson,145301,Guaranteed
+2024-25,Justin Jackson,0,Guaranteed
+2025-26,Justin Jackson,0,Guaranteed
+2026-27,Justin Jackson,0,Guaranteed
+2027-28,Justin Jackson,0,Guaranteed
+2028-29,Justin Jackson,0,Guaranteed
+2023-24,Jaylin Galloway,141554,Two-Way
+2024-25,Jaylin Galloway,584388,Two-Way
+2025-26,Jaylin Galloway,0,Guaranteed
+2026-27,Jaylin Galloway,0,Guaranteed
+2027-28,Jaylin Galloway,0,Guaranteed
+2028-29,Jaylin Galloway,0,Guaranteed
+2023-24,RaiQuan Gray,141554,Two-Way
+2024-25,RaiQuan Gray,584388,Two-Way
+2025-26,RaiQuan Gray,0,Guaranteed
+2026-27,RaiQuan Gray,0,Guaranteed
+2027-28,RaiQuan Gray,0,Guaranteed
+2028-29,RaiQuan Gray,0,Guaranteed
+2023-24,Quenton Jackson,135120,Two-Way
+2024-25,Quenton Jackson,0,Guaranteed
+2025-26,Quenton Jackson,0,Guaranteed
+2026-27,Quenton Jackson,0,Guaranteed
+2027-28,Quenton Jackson,0,Guaranteed
+2028-29,Quenton Jackson,0,Guaranteed
+2023-24,DJ Wilson,134863,Guaranteed
+2024-25,DJ Wilson,0,Guaranteed
+2025-26,DJ Wilson,0,Guaranteed
+2026-27,DJ Wilson,0,Guaranteed
+2027-28,DJ Wilson,0,Guaranteed
+2028-29,DJ Wilson,0,Guaranteed
+2023-24,Hamidou Diallo,134863,Guaranteed
+2024-25,Hamidou Diallo,0,Guaranteed
+2025-26,Hamidou Diallo,0,Guaranteed
+2026-27,Hamidou Diallo,0,Guaranteed
+2027-28,Hamidou Diallo,0,Guaranteed
+2028-29,Hamidou Diallo,0,Guaranteed
+2023-24,Matthew Hurt,128686,Guaranteed
+2024-25,Matthew Hurt,0,Guaranteed
+2025-26,Matthew Hurt,0,Guaranteed
+2026-27,Matthew Hurt,0,Guaranteed
+2027-28,Matthew Hurt,0,Guaranteed
+2028-29,Matthew Hurt,0,Guaranteed
+2023-24,Maozinha Pereira,128685,Guaranteed
+2024-25,Maozinha Pereira,0,Guaranteed
+2025-26,Maozinha Pereira,0,Guaranteed
+2026-27,Maozinha Pereira,0,Guaranteed
+2027-28,Maozinha Pereira,0,Guaranteed
+2028-29,Maozinha Pereira,0,Guaranteed
+2023-24,Wenyen Gabriel,124425,Guaranteed
+2024-25,Wenyen Gabriel,0,Guaranteed
+2025-26,Wenyen Gabriel,0,Guaranteed
+2026-27,Wenyen Gabriel,0,Guaranteed
+2027-28,Wenyen Gabriel,0,Guaranteed
+2028-29,Wenyen Gabriel,0,Guaranteed
+2023-24,Kobi Simmons,120250,Guaranteed
+2024-25,Kobi Simmons,0,Guaranteed
+2025-26,Kobi Simmons,0,Guaranteed
+2026-27,Kobi Simmons,0,Guaranteed
+2027-28,Kobi Simmons,0,Guaranteed
+2028-29,Kobi Simmons,0,Guaranteed
+2023-24,Zhaire Smith,116075,Guaranteed
+2024-25,Zhaire Smith,0,Guaranteed
+2025-26,Zhaire Smith,0,Guaranteed
+2026-27,Zhaire Smith,0,Guaranteed
+2027-28,Zhaire Smith,0,Guaranteed
+2028-29,Zhaire Smith,0,Guaranteed
+2023-24,Sharife Cooper,103550,Guaranteed
+2024-25,Sharife Cooper,0,Guaranteed
+2025-26,Sharife Cooper,0,Guaranteed
+2026-27,Sharife Cooper,0,Guaranteed
+2027-28,Sharife Cooper,0,Guaranteed
+2028-29,Sharife Cooper,0,Guaranteed
+2023-24,Demetrius Jackson,92857,Guaranteed
+2024-25,Demetrius Jackson,0,Guaranteed
+2025-26,Demetrius Jackson,0,Guaranteed
+2026-27,Demetrius Jackson,0,Guaranteed
+2027-28,Demetrius Jackson,0,Guaranteed
+2028-29,Demetrius Jackson,0,Guaranteed
+2023-24,Malik Williams,77212,Guaranteed
+2024-25,Malik Williams,0,Guaranteed
+2025-26,Malik Williams,0,Guaranteed
+2026-27,Malik Williams,0,Guaranteed
+2027-28,Malik Williams,0,Guaranteed
+2028-29,Malik Williams,0,Guaranteed
+2023-24,Taze Moore,70687,Guaranteed
+2024-25,Taze Moore,0,Guaranteed
+2025-26,Taze Moore,0,Guaranteed
+2026-27,Taze Moore,0,Guaranteed
+2027-28,Taze Moore,0,Guaranteed
+2028-29,Taze Moore,0,Guaranteed
+2023-24,Timmy Allen,64343,Guaranteed
+2024-25,Timmy Allen,0,Guaranteed
+2025-26,Timmy Allen,0,Guaranteed
+2026-27,Timmy Allen,0,Guaranteed
+2027-28,Timmy Allen,0,Guaranteed
+2028-29,Timmy Allen,0,Guaranteed
+2023-24,Izaiah Brockington,64343,Guaranteed
+2024-25,Izaiah Brockington,0,Guaranteed
+2025-26,Izaiah Brockington,0,Guaranteed
+2026-27,Izaiah Brockington,0,Guaranteed
+2027-28,Izaiah Brockington,0,Guaranteed
+2028-29,Izaiah Brockington,0,Guaranteed
+2023-24,Jalen Crutcher,64343,Guaranteed
+2024-25,Jalen Crutcher,0,Guaranteed
+2025-26,Jalen Crutcher,0,Guaranteed
+2026-27,Jalen Crutcher,0,Guaranteed
+2027-28,Jalen Crutcher,0,Guaranteed
+2028-29,Jalen Crutcher,0,Guaranteed
+2023-24,Taevion Kinsey,64343,Guaranteed
+2024-25,Taevion Kinsey,0,Guaranteed
+2025-26,Taevion Kinsey,0,Guaranteed
+2026-27,Taevion Kinsey,0,Guaranteed
+2027-28,Taevion Kinsey,0,Guaranteed
+2028-29,Taevion Kinsey,0,Guaranteed
+2023-24,Edmond Sumner,40459,Guaranteed
+2024-25,Edmond Sumner,0,Guaranteed
+2025-26,Edmond Sumner,0,Guaranteed
+2026-27,Edmond Sumner,0,Guaranteed
+2027-28,Edmond Sumner,0,Guaranteed
+2028-29,Edmond Sumner,0,Guaranteed
+2023-24,Kaiser Gates,35389,Guaranteed
+2024-25,Kaiser Gates,0,Guaranteed
+2025-26,Kaiser Gates,0,Guaranteed
+2026-27,Kaiser Gates,0,Guaranteed
+2027-28,Kaiser Gates,0,Guaranteed
+2028-29,Kaiser Gates,0,Guaranteed
+2023-24,Dmytro Skapintsev,26322,Guaranteed
+2024-25,Dmytro Skapintsev,0,Guaranteed
+2025-26,Dmytro Skapintsev,0,Guaranteed
+2026-27,Dmytro Skapintsev,0,Guaranteed
+2027-28,Dmytro Skapintsev,0,Guaranteed
+2028-29,Dmytro Skapintsev,0,Guaranteed

@@ -1,0 +1,613 @@
+player,contracts,type,Y2023-24,Y2024-25,Y2025-26,Y2026-27,Y2027-28,Y2028-29,Type2023-24,Type2024-25,Type2025-26,Type2026-27,Type2027-28,Type2028-29
+Stephen Curry,"['51915615', '55761217', '59606817', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",51915615,55761217,59606817,0,0,0,black,black,black,black,black,black
+Kevin Durant,"['47649433', '51179020', '54708608', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",47649433,51179020,54708608,0,0,0,black,black,black,black,black,black
+Nikola Jokic,"['47607350', '51415938', '55224526', '59033114', '62841702', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",47607350,51415938,55224526,59033114,62841702,0,black,black,black,black,"rgb(4, 134, 176)",black
+LeBron James,"['47607350', '51415938', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",47607350,51415938,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Joel Embiid,"['47607350', '51415938', '55224526', '59033114', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",47607350,51415938,55224526,59033114,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Bradley Beal,"['46741590', '50203930', '53666270', '57128610', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",46741590,50203930,53666270,57128610,0,0,black,black,black,black,black,black
+Kawhi Leonard,"['45640084', '52368085', '50000000', '50300000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",45640084,52368085,50000000,50300000,0,0,black,black,black,black,black,black
+Paul George,"['45640084', '48787676', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",45640084,48787676,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Giannis Antetokounmpo,"['45640084', '48787676', '57604894', '62213285', '66821676', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",45640084,48787676,57604894,62213285,66821676,0,black,black,black,black,"rgb(4, 134, 176)",black
+Damian Lillard,"['45640084', '48787676', '58545211', '63228828', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",45640084,48787676,58545211,63228828,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Jimmy Butler,"['45183960', '48798677', '52413394', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",45183960,48798677,52413394,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Klay Thompson,"['43219440', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",43219440,0,0,0,0,0,black,black,black,black,black,black
+Rudy Gobert,"['41000000', '43827586', '46655173', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",41000000,43827586,46655173,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Fred VanVleet,"['40806300', '42846615', '0.44886', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",40806300,42846615,0.44886,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Anthony Davis,"['40600080', '43219440', '57604894', '62213285', '66821676', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",40600080,43219440,57604894,62213285,66821676,0,black,black,black,black,"rgb(4, 134, 176)",black
+Trae Young,"['40064220', '43031940', '45999660', '48967380', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",40064220,43031940,45999660,48967380,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Zach LaVine,"['40064220', '43031940', '45999660', '48967380', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",40064220,43031940,45999660,48967380,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Luka Doncic,"['40064220', '43031940', '45999660', '48967380', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",40064220,43031940,45999660,48967380,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Tobias Harris,"['39270150', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",39270150,0,0,0,0,0,black,black,black,black,black,black
+Kyrie Irving,"['38037037', '41000000', '43962963', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",38037037,41000000,43962963,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Ben Simmons,"['37893408', '40338144', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",37893408,40338144,0,0,0,0,black,black,black,black,black,black
+Pascal Siakam,"['37893408', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",37893408,0,0,0,0,0,black,black,black,black,black,black
+Jrue Holiday,"['36861707', '30000000', '32400000', '34800000', '37200000', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",36861707,30000000,32400000,34800000,37200000,0,black,black,black,black,"rgb(4, 134, 176)",black
+Karl-Anthony Towns,"['36016200', '49350000', '53298000', '57246000', '61194000', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",36016200,49350000,53298000,57246000,61194000,0,black,black,black,black,"rgb(4, 134, 176)",black
+Devin Booker,"['36016200', '49350000', '53298000', '57246000', '61194000', '0']","['black', 'black', 'black', 'black', 'black', 'black']",36016200,49350000,53298000,57246000,61194000,0,black,black,black,black,black,black
+Kristaps Porzingis,"['36016200', '29268293', '30731707', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",36016200,29268293,30731707,0,0,0,black,black,black,black,black,black
+CJ McCollum,"['35802469', '33333333', '30666666', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",35802469,33333333,30666666,0,0,0,black,black,black,black,black,black
+James Harden,"['35680595', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",35680595,0,0,0,0,0,black,black,black,black,black,black
+Darius Garland,"['34005250', '36725670', '39446090', '42166510', '44886930', '0']","['black', 'black', 'black', 'black', 'black', 'black']",34005250,36725670,39446090,42166510,44886930,0,black,black,black,black,black,black
+Ja Morant,"['34005250', '36725670', '39446090', '42166510', '44886930', '0']","['black', 'black', 'black', 'black', 'black', 'black']",34005250,36725670,39446090,42166510,44886930,0,black,black,black,black,black,black
+Zion Williamson,"['34005250', '36725670', '39446090', '42166510', '44886930', '0']","['black', 'black', 'black', 'black', 'black', 'black']",34005250,36725670,39446090,42166510,44886930,0,black,black,black,black,black,black
+Jamal Murray,"['33833400', '36016200', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",33833400,36016200,0,0,0,0,black,black,black,black,black,black
+Brandon Ingram,"['33833400', '36016200', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",33833400,36016200,0,0,0,0,black,black,black,black,black,black
+Michael Porter,"['33386850', '35859950', '38333050', '40806150', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",33386850,35859950,38333050,40806150,0,0,black,black,black,black,black,black
+Shai Gilgeous-Alexander,"['33386850', '35859950', '38333050', '40806150', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",33386850,35859950,38333050,40806150,0,0,black,black,black,black,black,black
+Donovan Mitchell,"['33162030', '35410310', '37096620', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",33162030,35410310,37096620,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Jayson Tatum,"['32600060', '34848340', '37096620', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",32600060,34848340,37096620,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Bam Adebayo,"['32600060', '34848340', '37096620', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",32600060,34848340,37096620,0,0,0,black,black,black,black,black,black
+De'Aaron Fox,"['32600060', '34848340', '37096620', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",32600060,34848340,37096620,0,0,0,black,black,black,black,black,black
+Deandre Ayton,"['32459438', '34005126', '35550814', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",32459438,34005126,35550814,0,0,0,black,black,black,black,black,black
+Jaylen Brown,"['31830357', '49350000', '53298000', '57246000', '61194000', '65142000']","['black', 'black', 'black', 'black', 'black', 'black']",31830357,49350000,53298000,57246000,61194000,65142000,black,black,black,black,black,black
+Gordon Hayward,"['31500000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",31500000,0,0,0,0,0,black,black,black,black,black,black
+Chris Paul,"['30800000', '30800000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",30800000,30800000,0,0,0,0,black,black,black,black,black,black
+Kyle Lowry,"['29682540', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",29682540,0,0,0,0,0,black,black,black,black,black,black
+Khris Middleton,"['29320988', '31666667', '34012345', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",29320988,31666667,34012345,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Domantas Sabonis,"['29300000', '40500000', '43636000', '46772000', '49908000', '0']","['black', 'black', 'black', 'black', 'black', 'black']",29300000,40500000,43636000,46772000,49908000,0,black,black,black,black,black,black
+DeMar DeRozan,"['28600000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",28600000,0,0,0,0,0,black,black,black,black,black,black
+Jordan Poole,"['27955357', '30151786', '32348215', '34544642', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",27955357,30151786,32348215,34544642,0,0,black,black,black,black,black,black
+Jerami Grant,"['27586207', '29793104', '32000001', '34206898', '36413790', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",27586207,29793104,32000001,34206898,36413790,0,black,black,black,black,"rgb(4, 134, 176)",black
+Jaren Jackson Jr,"['27102202', '25257798', '23413395', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",27102202,25257798,23413395,0,0,0,black,black,black,black,black,black
+Tyler Herro,"['27000000', '29000000', '31000000', '33000000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",27000000,29000000,31000000,33000000,0,0,black,black,black,black,black,black
+Julius Randle,"['26943840', '28939680', '30935520', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",26943840,28939680,30935520,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Jalen Brunson,"['26346666', '24960001', '24960001', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",26346666,24960001,24960001,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Cameron Johnson,"['25679348', '23625000', '21570652', '23625000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",25679348,23625000,21570652,23625000,0,0,black,black,black,black,black,black
+Kyle Kuzma,"['25568182', '23522727', '21477272', '19431819', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",25568182,23522727,21477272,19431819,0,0,black,black,black,black,black,black
+John Collins,"['25340000', '26580000', '26580000', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",25340000,26580000,26580000,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Brook Lopez,"['25000000', '23000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",25000000,23000000,0,0,0,0,black,black,black,black,black,black
+Mike Conley,"['24360000', '9975962', '10774038', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",24360000,9975962,10774038,0,0,0,black,black,black,black,black,black
+Andrew Wiggins,"['24330357', '26276786', '28223215', '30169644', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",24330357,26276786,28223215,30169644,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Anfernee Simons,"['24107143', '25892857', '27678571', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",24107143,25892857,27678571,0,0,0,black,black,black,black,black,black
+RJ Barrett,"['23883929', '25794643', '27705357', '29616071', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",23883929,25794643,27705357,29616071,0,0,black,black,black,black,black,black
+Jordan Clarkson,"['23487629', '14092577', '14285714', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",23487629,14092577,14285714,0,0,0,black,black,black,black,black,black
+Terry Rozier,"['23205221', '24924126', '0.26643', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",23205221,24924126,0.26643,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Dillon Brooks,"['22627671', '22255493', '21124110', '19992727', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",22627671,22255493,21124110,19992727,0,0,black,black,black,black,black,black
+Malcolm Brogdon,"['22500000', '22500000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",22500000,22500000,0,0,0,0,black,black,black,black,black,black
+Draymond Green,"['22321429', '24107143', '25892857', '27678571', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",22321429,24107143,25892857,27678571,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Bruce Brown,"['22000000', '0.23000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",22000000,0.23000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Spencer Dinwiddie,"['21911797', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",21911797,0,0,0,0,0,black,black,black,black,black,black
+Mikal Bridges,"['21700000', '23300000', '24900000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",21700000,23300000,24900000,0,0,0,black,black,black,black,black,black
+Aaron Gordon,"['21266182', '22841455', '22841455', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",21266182,22841455,22841455,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Myles Turner,"['20975000', '19928500', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20975000,19928500,0,0,0,0,black,black,black,black,black,black
+Clint Capela,"['20616000', '22265280', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20616000,22265280,0,0,0,0,black,black,black,black,black,black
+Lonzo Ball,"['20465117', '21395348', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20465117,21395348,0,0,0,0,black,black,black,black,black,black
+De'Andre Hunter,"['20089286', '21696429', '23303571', '24910714', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20089286,21696429,23303571,24910714,0,0,black,black,black,black,black,black
+Jarrett Allen,"['20000000', '20000000', '20000000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20000000,20000000,20000000,0,0,0,black,black,black,black,black,black
+Bojan Bogdanovic,"['20000000', '19032850', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20000000,19032850,0,0,0,0,black,black,black,black,black,black
+Keldon Johnson,"['20000000', '19000000', '17500000', '17500000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",20000000,19000000,17500000,17500000,0,0,black,black,black,black,black,black
+Joe Harris,"['19928571', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",19928571,0,0,0,0,0,black,black,black,black,black,black
+Jakob Poeltl,"['19500000', '19500000', '19500000', '19500000', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",19500000,19500000,19500000,19500000,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Buddy Hield,"['19279841', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",19279841,0,0,0,0,0,black,black,black,black,black,black
+Derrick White,"['18857143', '20071429', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",18857143,20071429,0,0,0,0,black,black,black,black,black,black
+Evan Fournier,"['18857143', '0.19000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",18857143,0.19000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Bogdan Bogdanovic,"['18700000', '17260000', '16020000', '0.16020', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",18700000,17260000,16020000,0.16020,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+OG Anunoby,"['18642857', '19928571', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",18642857,19928571,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Marcus Smart,"['18583713', '19960285', '21336856', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",18583713,19960285,21336856,0,0,0,black,black,black,black,black,black
+Gary Trent Jr,"['18560000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",18560000,0,0,0,0,0,black,black,black,black,black,black
+Nikola Vucevic,"['18518519', '20000000', '21481481', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",18518519,20000000,21481481,0,0,0,black,black,black,black,black,black
+Dejounte Murray,"['18214000', '25266266', '27287600', '29308870', '31330172', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",18214000,25266266,27287600,29308870,31330172,0,black,black,black,black,"rgb(4, 134, 176)",black
+Duncan Robinson,"['18154000', '19406000', '19888000', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",18154000,19406000,19888000,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Norman Powell,"['18000000', '19241379', '20482758', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",18000000,19241379,20482758,0,0,0,black,black,black,black,black,black
+Tim Hardaway Jr,"['17897728', '16193183', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17897728,16193183,0,0,0,0,black,black,black,black,black,black
+Collin Sexton,"['17525000', '18350000', '19175000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17525000,18350000,19175000,0,0,0,black,black,black,black,black,black
+Jonathan Isaac,"['17400000', '17400000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17400000,17400000,0,0,0,0,black,black,black,black,black,black
+D'Angelo Russell,"['17307693', '18692307', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",17307693,18692307,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Lauri Markkanen,"['17259999', '18044544', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17259999,18044544,0,0,0,0,black,black,black,black,black,black
+Harrison Barnes,"['17000000', '18000000', '19000000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17000000,18000000,19000000,0,0,0,black,black,black,black,black,black
+Davis Bertans,"['17000000', '16000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17000000,16000000,0,0,0,0,black,black,black,black,black,black
+Markelle Fultz,"['17000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",17000000,0,0,0,0,0,black,black,black,black,black,black
+Jusuf Nurkic,"['16875000', '18125000', '19375000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",16875000,18125000,19375000,0,0,0,black,black,black,black,black,black
+PJ Washington,"['16847826', '15500000', '14152174', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",16847826,15500000,14152174,0,0,0,black,black,black,black,black,black
+Marcus Morris,"['16803983', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",16803983,0,0,0,0,0,black,black,black,black,black,black
+Kevin Porter,"['15860000', '1000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15860000,1000000,0,0,0,0,black,black,black,black,black,black
+Rui Hachimura,"['15740741', '17000000', '18259259', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15740741,17000000,18259259,0,0,0,black,black,black,black,black,black
+Mitchell Robinson,"['15681818', '14318182', '12954546', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15681818,14318182,12954546,0,0,0,black,black,black,black,black,black
+Kevin Huerter,"['15669643', '16830357', '17991071', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15669643,16830357,17991071,0,0,0,black,black,black,black,black,black
+Jonas Valanciunas,"['15435000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15435000,0,0,0,0,0,black,black,black,black,black,black
+Caris LeVert,"['15384616', '16615384', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",15384616,16615384,0,0,0,0,black,black,black,black,black,black
+Luguentz Dort,"['15277778', '16500000', '17722222', '0.17722', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",15277778,16500000,17722222,0.17722,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Luke Kennard,"['14763636', '0.14763', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",14763636,0.14763,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Kentavious Caldwell-Pope,"['14704938', '15440185', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",14704938,15440185,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Max Strus,"['14487684', '15212068', '15936452', '16660836', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",14487684,15212068,15936452,16660836,0,0,black,black,black,black,black,black
+Reggie Bullock,"['14210528', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",14210528,0,0,0,0,0,black,black,black,black,black,black
+Doug McDermott,"['14000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",14000000,0,0,0,0,0,black,black,black,black,black,black
+Tyus Jones,"['14000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",14000000,0,0,0,0,0,black,black,black,black,black,black
+Dorian Finney-Smith,"['13932008', '14924167', '15378480', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",13932008,14924167,15378480,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Anthony Edwards,"['13534817', '42300000', '45684000', '49068000', '52452000', '55836000']","['black', 'black', 'black', 'black', 'black', 'black']",13534817,42300000,45684000,49068000,52452000,55836000,black,black,black,black,black,black
+Wendell Carter,"['13050000', '11950000', '10850000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",13050000,11950000,10850000,0,0,0,black,black,black,black,black,black
+Gary Harris,"['13000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",13000000,0,0,0,0,0,black,black,black,black,black,black
+Josh Hart,"['12960000', '18144000', '19472240', '20923760', '0.22375', '0']","['black', 'black', 'black', 'black', 'rgb(255, 0, 0)', 'black']",12960000,18144000,19472240,20923760,0.22375,0,black,black,black,black,"rgb(255, 0, 0)",black
+Naz Reid,"['12950400', '13986432', '15022464', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",12950400,13986432,15022464,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Steven Adams,"['12600000', '12600000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12600000,12600000,0,0,0,0,black,black,black,black,black,black
+Brandon Clarke,"['12500000', '12500000', '12500000', '12500000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12500000,12500000,12500000,12500000,0,0,black,black,black,black,black,black
+Marvin Bagley,"['12500000', '12500000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12500000,12500000,0,0,0,0,black,black,black,black,black,black
+Dennis Schroeder,"['12405000', '13025250', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12405000,13025250,0,0,0,0,black,black,black,black,black,black
+Grant Williams,"['12405000', '13025250', '13645500', '14265750', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12405000,13025250,13645500,14265750,0,0,black,black,black,black,black,black
+Daniel Gafford,"['12402000', '13394160', '14386320', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12402000,13394160,14386320,0,0,0,black,black,black,black,black,black
+Kelly Olynyk,"['12195122', '12804878', '13445122', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12195122,12804878,13445122,0,0,0,black,black,black,black,black,black
+Victor Wembanyama,"['12160632', '12768664', '0.13376', '0.16868', '0.23615', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",12160632,12768664,0.13376,0.16868,0.23615,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+James Wiseman,"['12119440', '0.15815', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",12119440,0.15815,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Devonte Graham,"['12100000', '12650000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12100000,12650000,0,0,0,0,black,black,black,black,black,black
+Richaun Holmes,"['12046020', '12876780', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",12046020,12876780,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Austin Reaves,"['12015150', '12976362', '13937574', '14898786', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",12015150,12976362,13937574,14898786,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Herb Jones,"['12015150', '12976362', '13937574', '14898786', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",12015150,12976362,13937574,14898786,0,0,black,black,black,black,black,black
+Chris Boucher,"['11750000', '10810000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11750000,10810000,0,0,0,0,black,black,black,black,black,black
+Bobby Portis,"['11710818', '12578286', '13445754', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",11710818,12578286,13445754,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Nicolas Batum,"['11710818', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11710818,0,0,0,0,0,black,black,black,black,black,black
+Robert Covington,"['11692308', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11692308,0,0,0,0,0,black,black,black,black,black,black
+Paolo Banchero,"['11608080', '12160800', '0.15334', '0.19935', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",11608080,12160800,0.15334,0.19935,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Robert Williams,"['11571429', '12428571', '13285713', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11571429,12428571,13285713,0,0,0,black,black,black,black,black,black
+Coby White,"['11111111', '12000000', '12888889', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11111111,12000000,12888889,0,0,0,black,black,black,black,black,black
+Cade Cunningham,"['11055360', '13940809', '0.18123', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",11055360,13940809,0.18123,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Talen Horton-Tucker,"['11020000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11020000,0,0,0,0,0,black,black,black,black,black,black
+PJ Tucker,"['11014500', '11539000', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",11014500,11539000,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Maxi Kleber,"['11000000', '11000000', '11000000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",11000000,11000000,11000000,0,0,0,black,black,black,black,black,black
+Joe Ingles,"['11000000', '0.11000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",11000000,0.11000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Ivica Zubac,"['10933333', '11743210', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10933333,11743210,0,0,0,0,black,black,black,black,black,black
+LaMelo Ball,"['10900635', '35250000', '38070000', '40890000', '43710000', '46530000']","['black', 'black', 'black', 'black', 'black', 'black']",10900635,35250000,38070000,40890000,43710000,46530000,black,black,black,black,black,black
+Donte DiVincenzo,"['10900000', '11445000', '11990000', '12535000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10900000,11445000,11990000,12535000,0,0,black,black,black,black,black,black
+Brandon Miller,"['10880364', '11424382', '0.11968', '0.15104', '0.21221', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",10880364,11424382,0.11968,0.15104,0.21221,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Terance Mann,"['10576923', '11423077', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10576923,11423077,0,0,0,0,black,black,black,black,black,black
+Matisse Thybulle,"['10500000', '11025000', '11550000', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",10500000,11025000,11550000,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Gabe Vincent,"['10500000', '11000000', '11500000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10500000,11000000,11500000,0,0,0,black,black,black,black,black,black
+Alec Burks,"['10489600', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10489600,0,0,0,0,0,black,black,black,black,black,black
+Chet Holmgren,"['10386000', '10880640', '0.13731', '0.17919', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",10386000,10880640,0.13731,0.17919,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Larry Nance Jr,"['10375000', '11205000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10375000,11205000,0,0,0,0,black,black,black,black,black,black
+Landry Shamet,"['10250000', '11000000', '11750000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10250000,11000000,11750000,0,0,0,black,black,black,black,black,black
+Al Horford,"['10000000', '9500000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",10000000,9500000,0,0,0,0,black,black,black,black,black,black
+Malik Monk,"['9945830', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9945830,0,0,0,0,0,black,black,black,black,black,black
+Tre Jones,"['9895833', '9104167', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9895833,9104167,0,0,0,0,black,black,black,black,black,black
+Jalen Green,"['9891480', '12483048', '0.16290', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",9891480,12483048,0.16290,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Patrick Williams,"['9835881', '0.12973', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",9835881,0.12973,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Monte Morris,"['9800926', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9800926,0,0,0,0,0,black,black,black,black,black,black
+Scoot Henderson,"['9770904', '10259449', '0.10747', '0.13585', '0.19182', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",9770904,10259449,0.10747,0.13585,0.19182,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Nicolas Claxton,"['9625000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9625000,0,0,0,0,0,black,black,black,black,black,black
+Royce O'Neale,"['9500000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9500000,0,0,0,0,0,black,black,black,black,black,black
+Alex Caruso,"['9460000', '9890000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9460000,9890000,0,0,0,0,black,black,black,black,black,black
+Victor Oladipo,"['9450000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9450000,0,0,0,0,0,black,black,black,black,black,black
+Pat Connaughton,"['9423869', '9423869', '9423869', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",9423869,9423869,9423869,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Cameron Payne,"['9391467', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9391467,0,0,0,0,0,black,black,black,black,black,black
+Jabari Smith,"['9326520', '9770880', '0.12350', '0.16203', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",9326520,9770880,0.12350,0.16203,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Isaiah Hartenstein,"['9245121', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9245121,0,0,0,0,0,black,black,black,black,black,black
+Kyle Anderson,"['9219512', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9219512,0,0,0,0,0,black,black,black,black,black,black
+Daniel Theis,"['9108387', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9108387,0,0,0,0,0,black,black,black,black,black,black
+Thaddeus Young,"['9010371', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",9010371,0,0,0,0,0,black,black,black,black,black,black
+Grayson Allen,"['8925000', '15625000', '16875000', '18125000', '19375000', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",8925000,15625000,16875000,18125000,19375000,0,black,black,black,black,"rgb(4, 134, 176)",black
+Isaac Okoro,"['8920794', '0.11828', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",8920794,0.11828,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Evan Mobley,"['8882640', '11227657', '0.14730', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",8882640,11227657,0.14730,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Amen Thompson,"['8809284', '9249748', '0.09690', '0.12258', '0.17394', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",8809284,9249748,0.09690,0.12258,0.17394,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Georges Niang,"['8800000', '8500000', '8200000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8800000,8500000,8200000,0,0,0,black,black,black,black,black,black
+Gary Payton II,"['8715000', '9130000', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",8715000,9130000,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+TJ McConnell,"['8700000', '9300000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8700000,9300000,0,0,0,0,black,black,black,black,black,black
+Keegan Murray,"['8409000', '8809560', '0.11144', '0.14699', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",8409000,8809560,0.11144,0.14699,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Delon Wright,"['8195122', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8195122,0,0,0,0,0,black,black,black,black,black,black
+Onyeka Okongwu,"['8109063', '14000000', '15000000', '16120000', '16880000', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8109063,14000000,15000000,16120000,16880000,0,black,black,black,black,black,black
+Scottie Barnes,"['8008680', '10130980', '0.13362', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",8008680,10130980,0.13362,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Jock Landale,"['8000000', '8000000', '8000000', '0.08000', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",8000000,8000000,8000000,0.08000,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Trey Lyles,"['8000000', '8000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8000000,8000000,0,0,0,0,black,black,black,black,black,black
+Jeff Green,"['8000000', '0.08000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",8000000,0.08000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Moritz Wagner,"['8000000', '0.08000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",8000000,0.08000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+De'Anthony Melton,"['8000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",8000000,0,0,0,0,0,black,black,black,black,black,black
+Ausar Thompson,"['7977420', '8376291', '0.08775', '0.11118', '0.15854', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",7977420,8376291,0.08775,0.11118,0.15854,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Miles Bridges,"['7921300', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7921300,0,0,0,0,0,black,black,black,black,black,black
+Danilo Gallinari,"['7850062', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7850062,0,0,0,0,0,black,black,black,black,black,black
+Vasilije Micic,"['7723000', '7723000', '0.08109', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",7723000,7723000,0.08109,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Paul Reed,"['7723000', '7723000', '8109150', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7723000,7723000,8109150,0,0,0,black,black,black,black,black,black
+Zach Collins,"['7700000', '16741200', '18080496', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7700000,16741200,18080496,0,0,0,black,black,black,black,black,black
+Jaden Ivey,"['7614480', '7977240', '0.10107', '0.13402', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",7614480,7977240,0.10107,0.13402,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Cody Martin,"['7560000', '8120000', '8680000', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7560000,8120000,8680000,0,0,0,black,black,black,black,black,black
+Patrick Mills,"['7537766', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7537766,0,0,0,0,0,black,black,black,black,black,black
+Kevon Looney,"['7500000', '8000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7500000,8000000,0,0,0,0,black,black,black,black,black,black
+Killian Hayes,"['7413955', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",7413955,0,0,0,0,0,black,black,black,black,black,black
+Jalen Suggs,"['7252080', '9188385', '0.12183', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",7252080,9188385,0.12183,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Anthony Black,"['7245480', '7607754', '0.07970', '0.10105', '0.14491', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",7245480,7607754,0.07970,0.10105,0.14491,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Jae'Sean Tate,"['7000000', '0.07565', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",7000000,0.07565,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Khem Birch,"['6985000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6985000,0,0,0,0,0,black,black,black,black,black,black
+Bennedict Mathurin,"['6916080', '7245720', '0.09187', '0.12256', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",6916080,7245720,0.09187,0.12256,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Obi Toppin,"['6803012', '0.09170', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",6803012,0.09170,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Caleb Martin,"['6802950', '7126900', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",6802950,7126900,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Cedi Osman,"['6718842', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6718842,0,0,0,0,0,black,black,black,black,black,black
+Bilal Coulibaly,"['6614256', '6944969', '0.07275', '0.09240', '0.13315', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",6614256,6944969,0.07275,0.09240,0.13315,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Josh Giddey,"['6587040', '8352367', '0.11142', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",6587040,8352367,0.11142,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Ayo Dosunmu,"['6481482', '7000000', '7518518', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6481482,7000000,7518518,0,0,0,black,black,black,black,black,black
+Rudy Gay,"['6479000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6479000,0,0,0,0,0,black,black,black,black,black,black
+Sasha Vezenkov,"['6341464', '6658536', '0.06975', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",6341464,6658536,0.06975,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Shaedon Sharpe,"['6313800', '6614160', '0.08399', '0.11264', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",6313800,6614160,0.08399,0.11264,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Otto Porter,"['6300000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6300000,0,0,0,0,0,black,black,black,black,black,black
+Deni Avdija,"['6263188', '15625000', '14375000', '13125000', '11875000', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6263188,15625000,14375000,13125000,11875000,0,black,black,black,black,black,black
+Nassir Little,"['6250000', '6750000', '7250000', '7750000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6250000,6750000,7250000,7750000,0,0,black,black,black,black,black,black
+Bismack Biyombo,"['6194075', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6194075,0,0,0,0,0,black,black,black,black,black,black
+Jevon Carter,"['6190476', '6500000', '6809524', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",6190476,6500000,6809524,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Josh Primo,"['6179935', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",6179935,0,0,0,0,0,black,black,black,black,black,black
+Kenrich Williams,"['6175000', '6669000', '7163000', '0.07163', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",6175000,6669000,7163000,0.07163,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Jarace Walker,"['6059460', '6362433', '0.06665', '0.08478', '0.12276', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",6059460,6362433,0.06665,0.08478,0.12276,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Jonathan Kuminga,"['6012840', '7636307', '0.10240', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",6012840,7636307,0.10240,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Devin Vassell,"['5887899', '29347826', '27000000', '27000000', '24652174', '27000000']","['black', 'black', 'black', 'black', 'black', 'black']",5887899,29347826,27000000,27000000,24652174,27000000,black,black,black,black,black,black
+Tyrese Haliburton,"['5808435', '42300000', '45684000', '49068000', '52452000', '55836000']","['black', 'black', 'black', 'black', 'black', 'black']",5808435,42300000,45684000,49068000,52452000,55836000,black,black,black,black,black,black
+Dyson Daniels,"['5784120', '6059520', '0.07707', '0.10389', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",5784120,6059520,0.07707,0.10389,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Kira Lewis,"['5722116', '0.07913', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",5722116,0.07913,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Dean Wade,"['5709877', '6166667', '6623456', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5709877,6166667,6623456,0,0,0,black,black,black,black,black,black
+Aaron Nesmith,"['5634257', '11000000', '11000000', '11000000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5634257,11000000,11000000,11000000,0,0,black,black,black,black,black,black
+Aleksej Pokusevski,"['5574809', '2273252', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5574809,2273252,0,0,0,0,black,black,black,black,black,black
+Taylor Hendricks,"['5569872', '5848366', '0.06126', '0.07805', '0.11357', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",5569872,5848366,0.06126,0.07805,0.11357,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Shake Milton,"['5552938', '5000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5552938,5000000,0,0,0,0,black,black,black,black,black,black
+JaVale McGee,"['5544772', '2348324', '2348324', '2348324', '2348324', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5544772,2348324,2348324,2348324,2348324,0,black,black,black,black,black,black
+Cole Anthony,"['5539771', '12900000', '13100000', '0.13100', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",5539771,12900000,13100000,0.13100,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Franz Wagner,"['5508720', '7007092', '0.09445', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",5508720,7007092,0.09445,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Furkan Korkmaz,"['5370370', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5370370,0,0,0,0,0,black,black,black,black,black,black
+Jeremy Sochan,"['5316960', '5570040', '0.07096', '0.09615', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",5316960,5570040,0.07096,0.09615,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Cason Wallace,"['5291352', '5555920', '0.05820', '0.07421', '0.10849', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",5291352,5555920,0.05820,0.07421,0.10849,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Isaiah Stewart,"['5266713', '15000000', '15000000', '15000000', '0.15000', '0']","['black', 'black', 'black', 'black', 'rgb(255, 0, 0)', 'black']",5266713,15000000,15000000,15000000,0.15000,0,black,black,black,black,"rgb(255, 0, 0)",black
+Chuma Okeke,"['5266712', '0.07399', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",5266712,0.07399,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Davion Mitchell,"['5063640', '6451077', '0.08741', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",5063640,6451077,0.08741,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Johnny Davis,"['5050800', '5291160', '0.06746', '0.09188', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",5050800,5291160,0.06746,0.09188,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jalen Smith,"['5043773', '5417386', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",5043773,5417386,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Jett Howard,"['5026824', '5278165', '0.05529', '0.07337', '0.10779', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",5026824,5278165,0.05529,0.07337,0.10779,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Reggie Jackson,"['5000000', '5250000', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",5000000,5250000,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Mason Plumlee,"['5000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",5000000,0,0,0,0,0,black,black,black,black,black,black
+Tre Mann,"['4908373', '4908373', '0.06964', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",4908373,4908373,0.06964,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Ziaire Williams,"['4810200', '6133005', '0.08353', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",4810200,6133005,0.08353,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Ousmane Dieng,"['4798440', '5027040', '0.06670', '0.09132', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",4798440,5027040,0.06670,0.09132,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Taj Gibson,"['4776302', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4776302,0,0,0,0,0,black,black,black,black,black,black
+Dereck Lively,"['4775628', '5014409', '0.05253', '0.07238', '0.10684', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",4775628,5014409,0.05253,0.07238,0.10684,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Josh Green,"['4765339', '12654321', '13666667', '14679012', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4765339,12654321,13666667,14679012,0,0,black,black,black,black,black,black
+Nickeil Alexander-Walker,"['4687500', '4312500', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4687500,4312500,0,0,0,0,black,black,black,black,black,black
+Jarred Vanderbilt,"['4640000', '10714286', '11571429', '12428571', '13285714', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",4640000,10714286,11571429,12428571,13285714,0,black,black,black,black,"rgb(4, 134, 176)",black
+James Bouknight,"['4570080', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4570080,0,0,0,0,0,black,black,black,black,black,black
+Jalen Williams,"['4558680', '4775760', '0.06580', '0.09055', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",4558680,4775760,0.06580,0.09055,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Saddiq Bey,"['4556983', '0.06498', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",4556983,0.06498,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Gradey Dick,"['4536708', '4763543', '0.04990', '0.07131', '0.10575', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",4536708,4763543,0.04990,0.07131,0.10575,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Jalen McDaniels,"['4516000', '4741800', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4516000,4741800,0,0,0,0,black,black,black,black,black,black
+Taurean Prince,"['4516000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4516000,0,0,0,0,0,black,black,black,black,black,black
+Precious Achiuwa,"['4379526', '0.06275', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",4379526,0.06275,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Tyrese Maxey,"['4343920', '0.06259', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",4343920,0.06259,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Jalen Duren,"['4330680', '4536840', '0.06483', '0.08966', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",4330680,4536840,0.06483,0.08966,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Danuel House,"['4310250', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4310250,0,0,0,0,0,black,black,black,black,black,black
+Jordan Hawkins,"['4310196', '4525706', '0.04741', '0.07021', '0.10469', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",4310196,4525706,0.04741,0.07021,0.10469,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Zeke Nnaji,"['4306281', '8888889', '8177778', '7466667', '7466667', '0']","['black', 'black', 'black', 'black', 'rgb(4, 134, 176)', 'black']",4306281,8888889,8177778,7466667,7466667,0,black,black,black,black,"rgb(4, 134, 176)",black
+Immanuel Quickley,"['4171548', '0.06128', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",4171548,0.06128,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Chris Duarte,"['4124400', '5893768', '0.08151', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",4124400,5893768,0.08151,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Ochai Agbaji,"['4114200', '4310280', '0.06383', '0.08879', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",4114200,4310280,0.06383,0.08879,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Kobe Bufkin,"['4094244', '4298956', '0.04503', '0.06904', '0.10342', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",4094244,4298956,0.04503,0.06904,0.10342,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Payton Pritchard,"['4037277', '6696429', '7232143', '7767857', '8303571', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4037277,6696429,7232143,7767857,8303571,0,black,black,black,black,black,black
+Dwight Powell,"['4000000', '4000000', '4000000', '0', '0', '0']","['black', 'black', 'rgb(4, 134, 176)', 'black', 'black', 'black']",4000000,4000000,4000000,0,0,0,black,black,"rgb(4, 134, 176)",black,black,black
+Troy Brown,"['4000000', '4000000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",4000000,4000000,0,0,0,0,black,black,black,black,black,black
+Seth Curry,"['4000000', '0.04000', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",4000000,0.04000,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Moses Moody,"['3918480', '5803269', '0.08072', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",3918480,5803269,0.08072,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Mark Williams,"['3908160', '4094280', '0.06276', '0.08774', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3908160,4094280,0.06276,0.08774,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jaden McDaniels,"['3901399', '23017242', '24858622', '26250001', '28541380', '30382755']","['black', 'black', 'black', 'black', 'black', 'black']",3901399,23017242,24858622,26250001,28541380,30382755,black,black,black,black,black,black
+Keyonte George,"['3889776', '4084265', '0.04278', '0.06563', '0.09878', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3889776,4084265,0.04278,0.06563,0.09878,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Malachi Flynn,"['3873024', '0.05809', '0', '0', '0', '0']","['black', 'rgb(0, 153, 0)', 'black', 'black', 'black', 'black']",3873024,0.05809,0,0,0,0,black,"rgb(0, 153, 0)",black,black,black,black
+Desmond Bane,"['3845083', '34005250', '36725670', '39446090', '42166510', '44886930']","['black', 'black', 'black', 'black', 'black', 'black']",3845083,34005250,36725670,39446090,42166510,44886930,black,black,black,black,black,black
+James Johnson,"['3839412', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3839412,0,0,0,0,0,black,black,black,black,black,black
+Russell Westbrook,"['3835738', '4027525', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",3835738,4027525,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Kevin Love,"['3835738', '4027525', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",3835738,4027525,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Ricky Rubio,"['3722327', '1274015', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3722327,1274015,0,0,0,0,black,black,black,black,black,black
+Corey Kispert,"['3722040', '5705887', '0.07976', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",3722040,5705887,0.07976,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+AJ Griffin,"['3712920', '3889920', '0.05967', '0.08383', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3712920,3889920,0.05967,0.08383,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jalen Hood-Schifino,"['3695076', '3879830', '0.04064', '0.06243', '0.09439', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3695076,3879830,0.04064,0.06243,0.09439,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Amir Coffey,"['3666667', '3938271', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3666667,3938271,0,0,0,0,black,black,black,black,black,black
+Alperen Sengun,"['3536280', '5424654', '0.07621', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",3536280,5424654,0.07621,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Tari Eason,"['3527160', '3695160', '0.05675', '0.08014', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3527160,3695160,0.05675,0.08014,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jaime Jaquez,"['3510540', '3686067', '0.03861', '0.05939', '0.09021', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3510540,3686067,0.03861,0.05939,0.09021,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Mike Muscala,"['3444889', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3444889,0,0,0,0,0,black,black,black,black,black,black
+Andre Drummond,"['3360000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3360000,0,0,0,0,0,black,black,black,black,black,black
+Trey Murphy,"['3359280', '5159854', '0.07285', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",3359280,5159854,0.07285,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Brandin Podziemski,"['3352404', '3520024', '0.03687', '0.05678', '0.08666', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3352404,3520024,0.03687,0.05678,0.08666,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Dalen Terry,"['3350760', '3510480', '0.05399', '0.07661', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3350760,3510480,0.05399,0.07661,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Keon Johnson,"['3342765', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",3342765,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Cameron Whitmore,"['3218160', '3379068', '0.03539', '0.05458', '0.08368', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3218160,3379068,0.03539,0.05458,0.08368,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Jake LaRavia,"['3199920', '3352680', '0.05163', '0.07362', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3199920,3352680,0.05163,0.07362,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Kai Jones,"['3198778', '0.02196', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3198778,0.02196,0,0,0,0,black,black,black,black,black,black
+Derrick Rose,"['3196448', '3356271', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,3356271,0,0,0,0,black,black,black,black,black,black
+Eric Gordon,"['3196448', '3356271', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",3196448,3356271,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Wesley Matthews,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Ishmael Smith,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Tristan Thompson,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Markieff Morris,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Justin Holiday,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+DeAndre Jordan,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Cory Joseph,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Patrick Beverley,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Jae Crowder,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Cody Zeller,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Alex Len,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Robin Lopez,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Garrett Temple,"['3196448', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3196448,0,0,0,0,0,black,black,black,black,black,black
+Usman Garuba,"['3159790', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3159790,0,0,0,0,0,black,black,black,black,black,black
+Noah Clowney,"['3089460', '3243933', '0.03398', '0.05413', '0.08342', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",3089460,3243933,0.03398,0.05413,0.08342,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Malaki Branham,"['3071880', '3217920', '0.04962', '0.07110', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",3071880,3217920,0.04962,0.07110,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Simone Fontecchio,"['3044872', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3044872,0,0,0,0,0,black,black,black,black,black,black
+Dante Exum,"['3000000', '3150000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3000000,3150000,0,0,0,0,black,black,black,black,black,black
+Julian Champagnie,"['3000000', '3000000', '3000000', '0.03000', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",3000000,3000000,3000000,0.03000,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Jordan Nwora,"['3000000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",3000000,0,0,0,0,0,black,black,black,black,black,black
+Dariq Whitehead,"['2966040', '3114342', '0.03262', '0.05367', '0.08308', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2966040,3114342,0.03262,0.05367,0.08308,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Christian Braun,"['2949120', '3089640', '0.04921', '0.07092', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2949120,3089640,0.04921,0.07092,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jalen Johnson,"['2925360', '4510905', '0.06464', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2925360,4510905,0.06464,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Josh Richardson,"['2891467', '3051153', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2891467,3051153,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Boban Marjanovic,"['2891467', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2891467,0,0,0,0,0,black,black,black,black,black,black
+Kelly Oubre,"['2891467', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2891467,0,0,0,0,0,black,black,black,black,black,black
+Kris Murray,"['2847504', '2989879', '0.03132', '0.05315', '0.08265', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2847504,2989879,0.03132,0.05315,0.08265,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Andrew Nicholson,"['2844429', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2844429,0,0,0,0,0,black,black,black,black,black,black
+Walker Kessler,"['2831160', '2965920', '0.04878', '0.07064', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2831160,2965920,0.04878,0.07064,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+TyTy Washington,"['2830222', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",2830222,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Josh Okogie,"['2815937', '2956734', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2815937,2956734,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Omer Yurtseven,"['2800000', '0.02660', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",2800000,0.02660,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Dewayne Dedmon,"['2748674', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2748674,0,0,0,0,0,black,black,black,black,black,black
+Olivier-Maxence Prosper,"['2733720', '2870406', '0.03007', '0.05259', '0.08215', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2733720,2870406,0.03007,0.05259,0.08215,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Josh Christopher,"['2732920', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2732920,0,0,0,0,0,black,black,black,black,black,black
+David Roddy,"['2718240', '2847240', '0.04831', '0.07030', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2718240,2847240,0.04831,0.07030,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Christian Wood,"['2709849', '3036040', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2709849,3036040,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Derrick Jones,"['2709849', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2709849,0,0,0,0,0,black,black,black,black,black,black
+Dario Saric,"['2709849', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2709849,0,0,0,0,0,black,black,black,black,black,black
+Malik Beasley,"['2709849', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2709849,0,0,0,0,0,black,black,black,black,black,black
+Chimezie Metu,"['2697258', '0.02654', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",2697258,0.02654,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Isaiah Jackson,"['2696280', '4435380', '0.06422', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2696280,4435380,0.06422,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Marcus Sasser,"['2624028', '2755229', '0.02886', '0.05198', '0.08156', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2624028,2755229,0.02886,0.05198,0.08156,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+MarJon Beauchamp,"['2609400', '2733720', '0.04781', '0.06990', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2609400,2733720,0.04781,0.06990,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Charles Bassey,"['2600000', '0.02500', '0.02500', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'black', 'black', 'black']",2600000,0.02500,0.02500,0,0,0,black,"rgb(255, 0, 0)","rgb(255, 0, 0)",black,black,black
+Damian Jones,"['2586665', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2586665,0,0,0,0,0,black,black,black,black,black,black
+Kenneth Lofton,"['2586618', '2120683', '0.02301', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2586618,2120683,0.02301,0,0,0,black,black,black,black,black,black
+Kris Dunn,"['2586484', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2586484,0,0,0,0,0,black,black,black,black,black,black
+Bruno Fernando,"['2581522', '2717391', '2853260', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2581522,2717391,2853260,0,0,0,black,black,black,black,black,black
+Jeremiah Robinson-Earl,"['2548843', '0.02196', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2548843,0.02196,0,0,0,0,black,black,black,black,black,black
+Ben Sheppard,"['2537172', '2664031', '0.02790', '0.05031', '0.07930', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2537172,2664031,0.02790,0.05031,0.07930,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Torrey Craig,"['2528233', '2845342', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2528233,2845342,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Thomas Bryant,"['2528233', '2845342', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2528233,2845342,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Damion Lee,"['2528233', '2845342', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2528233,2845342,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Dennis Smith,"['2528233', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2528233,0,0,0,0,0,black,black,black,black,black,black
+Frank Ntilikina,"['2528233', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2528233,0,0,0,0,0,black,black,black,black,black,black
+Ryan Arcidiacono,"['2528233', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2528233,0,0,0,0,0,black,black,black,black,black,black
+Blake Wesley,"['2504640', '2624280', '0.04726', '0.06942', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2504640,2624280,0.04726,0.06942,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Lamar Stevens,"['2492354', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2492354,0,0,0,0,0,black,black,black,black,black,black
+Nick Smith,"['2463912', '2587108', '0.02710', '0.04889', '0.07739', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2463912,2587108,0.02710,0.04889,0.07739,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Brice Sensabaugh,"['2448600', '2571030', '0.02693', '0.04861', '0.07730', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2448600,2571030,0.02693,0.04861,0.07730,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Ty Jerome,"['2439025', '2560975', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2439025,2560975,0,0,0,0,black,black,black,black,black,black
+Julian Strawther,"['2431044', '2552596', '0.02674', '0.04826', '0.07722', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2431044,2552596,0.02674,0.04826,0.07722,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Tristan Vukcevic,"['2424892', '0.02424', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",2424892,0.02424,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Wendell Moore,"['2421720', '2537040', '0.04574', '0.06751', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2421720,2537040,0.04574,0.06751,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Jordan McLaughlin,"['2420000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2420000,0,0,0,0,0,black,black,black,black,black,black
+Kobe Brown,"['2413356', '2534024', '0.02654', '0.04791', '0.07666', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black']",2413356,2534024,0.02654,0.04791,0.07666,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(0, 153, 0)",black
+Luke Kornet,"['2413304', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2413304,0,0,0,0,0,black,black,black,black,black,black
+John Konchar,"['2400000', '6165000', '6165000', '6165000', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2400000,6165000,6165000,6165000,0,0,black,black,black,black,black,black
+Quentin Grimes,"['2385720', '4296682', '0.06311', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2385720,4296682,0.06311,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Nikola Jovic,"['2352000', '2464200', '0.04445', '0.06592', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2352000,2464200,0.04445,0.06592,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Keita Bates-Diop,"['2346614', '2654644', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2346614,2654644,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Yuta Watanabe,"['2346614', '2654644', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2346614,2654644,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Drew Eubanks,"['2346614', '2654644', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2346614,2654644,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Sviatoslav Mykhailiuk,"['2346614', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2346614,0,0,0,0,0,black,black,black,black,black,black
+Lonnie Walker,"['2346614', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2346614,0,0,0,0,0,black,black,black,black,black,black
+Aaron Holiday,"['2346614', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2346614,0,0,0,0,0,black,black,black,black,black,black
+Thanasis Antetokounmpo,"['2346614', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2346614,0,0,0,0,0,black,black,black,black,black,black
+Mo Bamba,"['2346614', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2346614,0,0,0,0,0,black,black,black,black,black,black
+Patrick Baldwin,"['2337720', '2448840', '0.04420', '0.06586', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2337720,2448840,0.04420,0.06586,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Harry Giles,"['2306554', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2306554,0,0,0,0,0,black,black,black,black,black,black
+Bones Hyland,"['2306400', '4158439', '0.06137', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2306400,4158439,0.06137,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Peyton Watson,"['2303520', '2413560', '0.04356', '0.06534', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(0, 153, 0)', 'black', 'black']",2303520,2413560,0.04356,0.06534,0,0,black,black,"rgb(255, 0, 0)","rgb(0, 153, 0)",black,black
+Cam Thomas,"['2240160', '4041249', '0.05993', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2240160,4041249,0.05993,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Vlatko Cancar,"['2234359', '0.02346', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",2234359,0.02346,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Vince Williams Jr,"['2232308', '2120693', '2301587', '0.02489', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",2232308,2120693,2301587,0.02489,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Jaden Springer,"['2226240', '4018363', '0.05987', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2226240,4018363,0.05987,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Day'Ron Sharpe,"['2210040', '3989122', '0.05983', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2210040,3989122,0.05983,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Jordan Goodwin,"['2208045', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2208045,0,0,0,0,0,black,black,black,black,black,black
+Santiago Aldama,"['2194200', '3960531', '0.05940', '0', '0', '0']","['black', 'black', 'rgb(0, 153, 0)', 'black', 'black', 'black']",2194200,3960531,0.05940,0,0,0,black,black,"rgb(0, 153, 0)",black,black,black
+Oshae Brissett,"['2165000', '2463946', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2165000,2463946,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Jaxson Hayes,"['2165000', '2463946', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2165000,2463946,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Cam Reddish,"['2165000', '2463946', '0', '0', '0', '0']","['black', 'rgb(4, 134, 176)', 'black', 'black', 'black', 'black']",2165000,2463946,0,0,0,0,black,"rgb(4, 134, 176)",black,black,black,black
+Bol Bol,"['2165000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2165000,0,0,0,0,0,black,black,black,black,black,black
+Moses Brown,"['2165000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2165000,0,0,0,0,0,black,black,black,black,black,black
+Kevin Knox,"['2144320', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2144320,0,0,0,0,0,black,black,black,black,black,black
+Andrew Nembhard,"['2131905', '2019699', '2187451', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2131905,2019699,2187451,0,0,0,black,black,black,black,black,black
+Goga Bitadze,"['2066585', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2066585,0,0,0,0,0,black,black,black,black,black,black
+Luka Samanic,"['2066585', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2066585,0,0,0,0,0,black,black,black,black,black,black
+Matt Ryan,"['2059782', '2196970', '0.02381', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",2059782,2196970,0.02381,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Terry Taylor,"['2019706', '2196970', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2019706,2196970,0,0,0,0,black,black,black,black,black,black
+Colby Jones,"['2019706', '2120693', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",2019706,2120693,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Trendon Watford,"['2019706', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2019706,0,0,0,0,0,black,black,black,black,black,black
+Montrezl Harrell,"['2019706', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2019706,0,0,0,0,0,black,black,black,black,black,black
+Dalano Banton,"['2019706', '0.02196', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",2019706,0.02196,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Sandro Mamukelashvili,"['2019706', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2019706,0,0,0,0,0,black,black,black,black,black,black
+Garrison Mathews,"['2000000', '2230253', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",2000000,2230253,0,0,0,0,black,black,black,black,black,black
+Jaylin Williams,"['2000000', '2019699', '0.02187', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",2000000,2019699,0.02187,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Caleb Houstan,"['2000000', '2019699', '0.02187', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",2000000,2019699,0.02187,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Sam Merrill,"['1997238', '2164993', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1997238,2164993,0,0,0,0,black,black,black,black,black,black
+Isaiah Joe,"['1997238', '0.02164', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1997238,0.02164,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Anthony Gill,"['1997238', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1997238,0,0,0,0,0,black,black,black,black,black,black
+GG Jackson,"['1991428', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1991428,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Duop Reath,"['1951220', '2048780', '2221677', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1951220,2048780,2221677,0,0,0,black,black,black,black,black,black
+Xavier Tillman,"['1930681', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1930681,0,0,0,0,0,black,black,black,black,black,black
+Naji Marshall,"['1930681', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1930681,0,0,0,0,0,black,black,black,black,black,black
+KJ Martin,"['1930681', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1930681,0,0,0,0,0,black,black,black,black,black,black
+Sam Hauser,"['1927896', '0.02092', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1927896,0.02092,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Jericho Sims,"['1927896', '0.02092', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1927896,0.02092,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Kessler Edwards,"['1927896', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1927896,0,0,0,0,0,black,black,black,black,black,black
+Haywood Highsmith,"['1902137', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1902137,0,0,0,0,0,black,black,black,black,black,black
+AJ Green,"['1901769', '2120693', '2301587', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1901769,2120693,2301587,0,0,0,black,black,black,black,black,black
+Ryan Rollins,"['1893589', '1184388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",1893589,1184388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Miles McBride,"['1836096', '4710144', '4333333', '3956523', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1836096,4710144,4333333,3956523,0,0,black,black,black,black,black,black
+JT Thor,"['1836096', '0.01988', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1836096,0.01988,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+BJ Boston,"['1836096', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1836096,0,0,0,0,0,black,black,black,black,black,black
+Isaiah Todd,"['1836096', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1836096,0,0,0,0,0,black,black,black,black,black,black
+Jose Alvarado,"['1836096', '0.01988', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1836096,0.01988,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Aaron Wiggins,"['1836096', '0.01988', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1836096,0.01988,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Isaiah Livers,"['1836096', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1836096,0,0,0,0,0,black,black,black,black,black,black
+Jared Butler,"['1809782', '0.02196', '2381501', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1809782,0.02196,2381501,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+EJ Liddell,"['1801769', '2120693', '0.02301', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1801769,2120693,0.02301,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Orlando Robinson,"['1801769', '0.02120', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1801769,0.02120,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Dru Smith,"['1801769', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1801769,0,0,0,0,0,black,black,black,black,black,black
+Leonard Miller,"['1800000', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1800000,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Bryce McGowens,"['1719864', '2019699', '0.02187', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1719864,2019699,0.02187,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Jaden Hardy,"['1719864', '2019699', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,2019699,0,0,0,0,black,black,black,black,black,black
+Kennedy Chandler,"['1719864', '2019699', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,2019699,0,0,0,0,black,black,black,black,black,black
+Josh Minott,"['1719864', '2019699', '2187699', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,2019699,2187699,0,0,0,black,black,black,black,black,black
+Jabari Walker,"['1719864', '2019699', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,2019699,0,0,0,0,black,black,black,black,black,black
+Max Christie,"['1719864', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,0,0,0,0,0,black,black,black,black,black,black
+Christian Koloko,"['1719864', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,0,0,0,0,0,black,black,black,black,black,black
+Xavier Cooks,"['1719864', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1719864,0,0,0,0,0,black,black,black,black,black,black
+Jalen Pickett,"['1708143', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1708143,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Julian Phillips,"['1600000', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1600000,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Craig Porter,"['1500000', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1500000,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Eugene Omoruyi,"['1459782', '2196970', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1459782,2196970,0,0,0,0,black,black,black,black,black,black
+Ricky Council,"['1414135', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1414135,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Jalen Wilson,"['1409782', '1891857', '0.02221', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1409782,1891857,0.02221,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+DaQuan Jeffries,"['1341538', '0.02463', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",1341538,0.02463,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Eric Bledsoe,"['1300000', '1300000', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1300000,1300000,0,0,0,0,black,black,black,black,black,black
+Skylar Mays,"['1165280', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",1165280,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Mouhamed Gueye,"['1119563', '1891857', '0.02221', '0.02406', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,0.02221,0.02406,0,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)",black,black
+Jordan Walsh,"['1119563', '1891857', '0.02221', '0.02406', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,0.02221,0.02406,0,0,black,black,"rgb(255, 0, 0)","rgb(255, 0, 0)",black,black
+Hunter Tyson,"['1119563', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Trayce Jackson-Davis,"['1119563', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Maxwell Lewis,"['1119563', '1891857', '2221677', '2406205', '0', '0']","['black', 'black', 'black', 'rgb(4, 134, 176)', 'black', 'black']",1119563,1891857,2221677,2406205,0,0,black,black,black,"rgb(4, 134, 176)",black,black
+Andre Jackson Jr,"['1119563', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Chris Livingston,"['1119563', '1891857', '2221677', '0.02406', '0', '0']","['black', 'black', 'black', 'rgb(255, 0, 0)', 'black', 'black']",1119563,1891857,2221677,0.02406,0,0,black,black,black,"rgb(255, 0, 0)",black,black
+Sidy Cissoko,"['1119563', '1891857', '2221677', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1119563,1891857,2221677,0,0,0,black,black,black,black,black,black
+Toumani Camara,"['1119563', '0.01891', '0.02221', '0.02406', '0', '0']","['black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'black', 'black']",1119563,0.01891,0.02221,0.02406,0,0,black,"rgb(255, 0, 0)","rgb(255, 0, 0)","rgb(255, 0, 0)",black,black
+Rayan Rupert,"['1119563', '0.01891', '0.02221', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1119563,0.01891,0.02221,0,0,0,black,"rgb(255, 0, 0)","rgb(255, 0, 0)",black,black,black
+Dylan Windler,"['1116288', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",1116288,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Trent Forrest,"['1112933', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1112933,0,0,0,0,0,black,black,black,black,black,black
+Lester Quinones,"['1108597', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1108597,0,0,0,0,0,black,black,black,black,black,black
+Kendall Brown,"['1100000', '2120683', '0.02301', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1100000,2120683,0.02301,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Stanley Umude,"['1098242', '2120693', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1098242,2120693,0,0,0,0,black,black,black,black,black,black
+Gui Santos,"['1029483', '1891857', '0.02221', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",1029483,1891857,0.02221,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+Dominick Barlow,"['1015402', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1015402,0,0,0,0,0,black,black,black,black,black,black
+AJ Lawson,"['1000000', '2120693', '2301587', '2489752', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",1000000,2120693,2301587,2489752,0,0,black,black,black,black,black,black
+Ishmail Wainright,"['988269', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",988269,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Neemias Queta,"['891035', '0.02196', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",891035,0.02196,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Javon Freeman-Liberty,"['849324', '1891857', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",849324,1891857,0,0,0,0,black,black,black,black,black,black
+Lindy Waters III,"['766095', '0.02196', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",766095,0.02196,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Jacob Toppin,"['759245', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",759245,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Mamadi Diakite,"['710574', '2273252', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",710574,2273252,0,0,0,0,black,black,black,black,black,black
+Jack White,"['703550', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",703550,0,0,0,0,0,black,black,black,black,black,black
+Nik Stauskas,"['702311', '702311', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",702311,702311,0,0,0,0,black,black,black,black,black,black
+Jacob Gilyard,"['701336', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",701336,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Luka Garza,"['687465', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",687465,0,0,0,0,0,black,black,black,black,black,black
+Keon Ellis,"['683430', '2120693', '0.02301', '0', '0', '0']","['black', 'black', 'rgb(255, 0, 0)', 'black', 'black', 'black']",683430,2120693,0.02301,0,0,0,black,black,"rgb(255, 0, 0)",black,black,black
+RJ Hampton,"['680032', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",680032,0,0,0,0,0,black,black,black,black,black,black
+TJ Warren,"['649659', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",649659,0,0,0,0,0,black,black,black,black,black,black
+Darius Bazley,"['624425', '2463946', '2781053', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",624425,2463946,2781053,0,0,0,black,black,black,black,black,black
+Juwan Morgan,"['576230', '576230', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",576230,576230,0,0,0,0,black,black,black,black,black,black
+Leaky Black,"['559782', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",559782,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Jordan Miller,"['559782', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",559782,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Jaylen Clark,"['559782', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",559782,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Seth Lundy,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+JD Davison,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Amari Bailey,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Adama Sanogo,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Emoni Bates,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Isaiah Mobley,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Greg Brown,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Collin Gillespie,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jay Huff,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Braxton Key,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Malcolm Cazalon,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jared Rhoden,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jerome Robinson,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Nate Hinton,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jermaine Samuels,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Nate Williams,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Oscar Tshiebwe,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Isaiah Wong,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Moussa Diabate,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Colin Castleton,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jamal Cain,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Cole Swider,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Daishen Nix,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Dereon Seabron,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Charlie Brown,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Keyontae Johnson,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Olivier Sarr,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Kevon Harris,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Trevelin Queen,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Admiral Schofield,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Terquavion Smith,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Udoka Azubuike,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Saben Lee,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Theo Maledon,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Justin Minaya,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jordan Ford,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Filip Petrusev,"['559782', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,black,black,black,black,black,black
+Jalen Slawson,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Markquis Nowell,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Johnny Juzang,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Micah Potter,"['559782', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",559782,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Malik Fitts,"['555217', '555217', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",555217,555217,0,0,0,0,black,black,black,black,black,black
+Marques Bolden,"['502131', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",502131,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Onuralp Bitim,"['500000', '1891857', '2221677', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",500000,1891857,2221677,0,0,0,black,black,black,black,black,black
+Danny Green,"['500000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",500000,0,0,0,0,0,black,black,black,black,black,black
+Xavier Moon,"['489005', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",489005,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Isaiah Thomas,"['477630', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",477630,0,0,0,0,0,black,black,black,black,black,black
+Ibou Badji,"['466485', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",466485,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Juan Toscano-Anderson,"['447931', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",447931,0,0,0,0,0,black,black,black,black,black,black
+Duane Washington Jr,"['443965', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",443965,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jules Bernard,"['415011', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",415011,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jontay Porter,"['411794', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",411794,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jaylen Nowell,"['398160', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",398160,0,0,0,0,0,black,black,black,black,black,black
+Drew Peterson,"['395708', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",395708,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Nathan Mensah,"['395708', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",395708,0,0,0,0,0,black,black,black,black,black,black
+David Duke,"['395708', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",395708,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Henri Drell,"['389274', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",389274,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Alex Fudge,"['376405', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",376405,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Vit Krejci,"['369971', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",369971,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Brandon Williams,"['350668', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",350668,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Trey Jemison,"['341017', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",341017,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Jason Preston,"['315280', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",315280,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Nerlens Noel,"['300000', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",300000,0,0,0,0,0,black,black,black,black,black,black
+Tosan Evbuomwan,"['295977', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",295977,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Scottie Pippen Jr,"['289542', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",289542,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Malcolm Hill,"['286583', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",286583,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Ashton Hagans,"['270841', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",270841,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Jeff Dowtin,"['269237', '0.02196', '0', '0', '0', '0']","['black', 'rgb(255, 0, 0)', 'black', 'black', 'black', 'black']",269237,0.02196,0,0,0,0,black,"rgb(255, 0, 0)",black,black,black,black
+Didi Louzada,"['268032', '268032', '268032', '268032', '268032', '0']","['black', 'black', 'black', 'black', 'black', 'black']",268032,268032,268032,268032,268032,0,black,black,black,black,black,black
+Javonte Green,"['261293', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",261293,0,0,0,0,0,black,black,black,black,black,black
+Justin Champagnie,"['254412', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",254412,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Jaylen Martin,"['249766', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",249766,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Pete Nance,"['244503', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",244503,0,0,0,0,0,black,black,black,black,black,black
+Lindell Wigginton,"['244502', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",244502,0,0,0,0,0,black,black,black,black,black,black
+Armoni Brooks,"['241285', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",241285,0,0,0,0,0,black,black,black,black,black,black
+D'Moi Hodge,"['241285', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",241285,0,0,0,0,0,black,black,black,black,black,black
+Jahmi'us Ramsey,"['232150', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",232150,0,0,0,0,0,black,black,black,black,black,black
+Charles Bediako,"['215548', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",215548,0,0,0,0,0,black,black,black,black,black,black
+Mason Jones,"['212331', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",212331,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Dexter Dennis,"['212331', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",212331,0,0,0,0,0,black,black,black,black,black,black
+Alondes Williams,"['212331', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",212331,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+DeJon Jarreau,"['207100', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",207100,0,0,0,0,0,black,black,black,black,black,black
+Zavier Simpson,"['207100', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",207100,0,0,0,0,0,black,black,black,black,black,black
+Adam Flagler,"['205897', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",205897,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+DJ Carton,"['205897', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",205897,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Mouhamadou Gueye,"['199463', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",199463,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Ja'Vonte Smart,"['196245', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",196245,0,0,0,0,0,black,black,black,black,black,black
+Miles Norris,"['193028', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",193028,0,0,0,0,0,black,black,black,black,black,black
+Justin Lewis,"['173725', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",173725,0,0,0,0,0,black,black,black,black,black,black
+Jamaree Bouyea,"['170801', '584388', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",170801,584388,0,0,0,0,black,black,black,black,black,black
+Pat Spencer,"['170508', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",170508,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Buddy Boeheim,"['167291', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",167291,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+Sir'Jabari Rice,"['167291', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",167291,0,0,0,0,0,black,black,black,black,black,black
+Justise Winslow,"['166176', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",166176,0,0,0,0,0,black,black,black,black,black,black
+Andrew Funk,"['160857', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",160857,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Nathan Knight,"['160857', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",160857,0,0,0,0,0,black,black,black,black,black,black
+Ron Harper Jr,"['147988', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",147988,0,0,0,0,0,black,black,black,black,black,black
+John Butler,"['147988', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",147988,0,0,0,0,0,black,black,black,black,black,black
+Shaquille Harrison,"['145301', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",145301,0,0,0,0,0,black,black,black,black,black,black
+Justin Jackson,"['145301', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",145301,0,0,0,0,0,black,black,black,black,black,black
+Jaylin Galloway,"['141554', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",141554,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+RaiQuan Gray,"['141554', '584388', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'rgb(168, 0, 212)', 'black', 'black', 'black', 'black']",141554,584388,0,0,0,0,"rgb(168, 0, 212)","rgb(168, 0, 212)",black,black,black,black
+Quenton Jackson,"['135120', '0', '0', '0', '0', '0']","['rgb(168, 0, 212)', 'black', 'black', 'black', 'black', 'black']",135120,0,0,0,0,0,"rgb(168, 0, 212)",black,black,black,black,black
+DJ Wilson,"['134863', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",134863,0,0,0,0,0,black,black,black,black,black,black
+Hamidou Diallo,"['134863', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",134863,0,0,0,0,0,black,black,black,black,black,black
+Matthew Hurt,"['128686', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",128686,0,0,0,0,0,black,black,black,black,black,black
+Maozinha Pereira,"['128685', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",128685,0,0,0,0,0,black,black,black,black,black,black
+Wenyen Gabriel,"['124425', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",124425,0,0,0,0,0,black,black,black,black,black,black
+Kobi Simmons,"['120250', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",120250,0,0,0,0,0,black,black,black,black,black,black
+Zhaire Smith,"['116075', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",116075,0,0,0,0,0,black,black,black,black,black,black
+Sharife Cooper,"['103550', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",103550,0,0,0,0,0,black,black,black,black,black,black
+Demetrius Jackson,"['92857', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",92857,0,0,0,0,0,black,black,black,black,black,black
+Malik Williams,"['77212', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",77212,0,0,0,0,0,black,black,black,black,black,black
+Taze Moore,"['70687', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",70687,0,0,0,0,0,black,black,black,black,black,black
+Timmy Allen,"['64343', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",64343,0,0,0,0,0,black,black,black,black,black,black
+Izaiah Brockington,"['64343', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",64343,0,0,0,0,0,black,black,black,black,black,black
+Jalen Crutcher,"['64343', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",64343,0,0,0,0,0,black,black,black,black,black,black
+Taevion Kinsey,"['64343', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",64343,0,0,0,0,0,black,black,black,black,black,black
+Edmond Sumner,"['40459', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",40459,0,0,0,0,0,black,black,black,black,black,black
+Kaiser Gates,"['35389', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",35389,0,0,0,0,0,black,black,black,black,black,black
+Dmytro Skapintsev,"['26322', '0', '0', '0', '0', '0']","['black', 'black', 'black', 'black', 'black', 'black']",26322,0,0,0,0,0,black,black,black,black,black,black
