@@ -1,0 +1,3673 @@
+ID,Name,Team,Season,Salary,Type
+201939.0,Stephen Curry,GSW,2023-24,51915615,Guaranteed
+201939.0,Stephen Curry,GSW,2024-25,55761217,Guaranteed
+201939.0,Stephen Curry,GSW,2025-26,59606817,Guaranteed
+201939.0,Stephen Curry,GSW,2026-27,0,Free Agent
+201939.0,Stephen Curry,GSW,2027-28,0,Free Agent
+201939.0,Stephen Curry,GSW,2028-29,0,Free Agent
+201142.0,Kevin Durant,PHX,2023-24,47649433,Guaranteed
+201142.0,Kevin Durant,PHX,2024-25,51179020,Guaranteed
+201142.0,Kevin Durant,PHX,2025-26,54708608,Guaranteed
+201142.0,Kevin Durant,PHX,2026-27,0,Free Agent
+201142.0,Kevin Durant,PHX,2027-28,0,Free Agent
+201142.0,Kevin Durant,PHX,2028-29,0,Free Agent
+203999.0,Nikola Jokic,DEN,2023-24,47607350,Guaranteed
+203999.0,Nikola Jokic,DEN,2024-25,51415938,Guaranteed
+203999.0,Nikola Jokic,DEN,2025-26,55224526,Guaranteed
+203999.0,Nikola Jokic,DEN,2026-27,59033114,Guaranteed
+203999.0,Nikola Jokic,DEN,2027-28,62841702,Player Option
+203999.0,Nikola Jokic,DEN,2028-29,0,Free Agent
+2544.0,LeBron James,LAL,2023-24,47607350,Guaranteed
+2544.0,LeBron James,LAL,2024-25,51415938,Player Option
+2544.0,LeBron James,LAL,2025-26,0,Free Agent
+2544.0,LeBron James,LAL,2026-27,0,Free Agent
+2544.0,LeBron James,LAL,2027-28,0,Free Agent
+2544.0,LeBron James,LAL,2028-29,0,Free Agent
+203954.0,Joel Embiid,PHI,2023-24,47607350,Guaranteed
+203954.0,Joel Embiid,PHI,2024-25,51415938,Guaranteed
+203954.0,Joel Embiid,PHI,2025-26,55224526,Guaranteed
+203954.0,Joel Embiid,PHI,2026-27,59033114,Player Option
+203954.0,Joel Embiid,PHI,2027-28,0,Free Agent
+203954.0,Joel Embiid,PHI,2028-29,0,Free Agent
+203078.0,Bradley Beal,PHX,2023-24,46741590,Guaranteed
+203078.0,Bradley Beal,PHX,2024-25,50203930,Guaranteed
+203078.0,Bradley Beal,PHX,2025-26,53666270,Guaranteed
+203078.0,Bradley Beal,PHX,2026-27,57128610,Guaranteed
+203078.0,Bradley Beal,PHX,2027-28,0,Free Agent
+203078.0,Bradley Beal,PHX,2028-29,0,Free Agent
+202695.0,Kawhi Leonard,LAC,2023-24,45640084,Guaranteed
+202695.0,Kawhi Leonard,LAC,2024-25,52368085,Guaranteed
+202695.0,Kawhi Leonard,LAC,2025-26,50000000,Guaranteed
+202695.0,Kawhi Leonard,LAC,2026-27,50300000,Guaranteed
+202695.0,Kawhi Leonard,LAC,2027-28,0,Free Agent
+202695.0,Kawhi Leonard,LAC,2028-29,0,Free Agent
+202331.0,Paul George,PHI,2023-24,45640084,Guaranteed
+202331.0,Paul George,PHI,2024-25,48787676,Player Option
+202331.0,Paul George,PHI,2025-26,0,Free Agent
+202331.0,Paul George,PHI,2026-27,0,Free Agent
+202331.0,Paul George,PHI,2027-28,0,Free Agent
+202331.0,Paul George,PHI,2028-29,0,Free Agent
+203507.0,Giannis Antetokounmpo,MIL,2023-24,45640084,Guaranteed
+203507.0,Giannis Antetokounmpo,MIL,2024-25,48787676,Guaranteed
+203507.0,Giannis Antetokounmpo,MIL,2025-26,57604894,Guaranteed
+203507.0,Giannis Antetokounmpo,MIL,2026-27,62213285,Guaranteed
+203507.0,Giannis Antetokounmpo,MIL,2027-28,66821676,Player Option
+203507.0,Giannis Antetokounmpo,MIL,2028-29,0,Free Agent
+203081.0,Damian Lillard,MIL,2023-24,45640084,Guaranteed
+203081.0,Damian Lillard,MIL,2024-25,48787676,Guaranteed
+203081.0,Damian Lillard,MIL,2025-26,58545211,Guaranteed
+203081.0,Damian Lillard,MIL,2026-27,63228828,Player Option
+203081.0,Damian Lillard,MIL,2027-28,0,Free Agent
+203081.0,Damian Lillard,MIL,2028-29,0,Free Agent
+202710.0,Jimmy Butler,MIA,2023-24,45183960,Guaranteed
+202710.0,Jimmy Butler,MIA,2024-25,48798677,Guaranteed
+202710.0,Jimmy Butler,MIA,2025-26,52413394,Player Option
+202710.0,Jimmy Butler,MIA,2026-27,0,Free Agent
+202710.0,Jimmy Butler,MIA,2027-28,0,Free Agent
+202710.0,Jimmy Butler,MIA,2028-29,0,Free Agent
+202691.0,Klay Thompson,DAL,2023-24,43219440,Guaranteed
+202691.0,Klay Thompson,DAL,2024-25,0,Free Agent
+202691.0,Klay Thompson,DAL,2025-26,0,Free Agent
+202691.0,Klay Thompson,DAL,2026-27,0,Free Agent
+202691.0,Klay Thompson,DAL,2027-28,0,Free Agent
+202691.0,Klay Thompson,DAL,2028-29,0,Free Agent
+203497.0,Rudy Gobert,MIN,2023-24,41000000,Guaranteed
+203497.0,Rudy Gobert,MIN,2024-25,43827586,Guaranteed
+203497.0,Rudy Gobert,MIN,2025-26,46655173,Player Option
+203497.0,Rudy Gobert,MIN,2026-27,0,Free Agent
+203497.0,Rudy Gobert,MIN,2027-28,0,Free Agent
+203497.0,Rudy Gobert,MIN,2028-29,0,Free Agent
+1627832.0,Fred VanVleet,HOU,2023-24,40806300,Guaranteed
+1627832.0,Fred VanVleet,HOU,2024-25,42846615,Guaranteed
+1627832.0,Fred VanVleet,HOU,2025-26,44886930,Team Option
+1627832.0,Fred VanVleet,HOU,2026-27,0,Free Agent
+1627832.0,Fred VanVleet,HOU,2027-28,0,Free Agent
+1627832.0,Fred VanVleet,HOU,2028-29,0,Free Agent
+203076.0,Anthony Davis,LAL,2023-24,40600080,Guaranteed
+203076.0,Anthony Davis,LAL,2024-25,43219440,Guaranteed
+203076.0,Anthony Davis,LAL,2025-26,57604894,Guaranteed
+203076.0,Anthony Davis,LAL,2026-27,62213285,Guaranteed
+203076.0,Anthony Davis,LAL,2027-28,66821676,Player Option
+203076.0,Anthony Davis,LAL,2028-29,0,Free Agent
+1629027.0,Trae Young,ATL,2023-24,40064220,Guaranteed
+1629027.0,Trae Young,ATL,2024-25,43031940,Guaranteed
+1629027.0,Trae Young,ATL,2025-26,45999660,Guaranteed
+1629027.0,Trae Young,ATL,2026-27,48967380,Player Option
+1629027.0,Trae Young,ATL,2027-28,0,Free Agent
+1629027.0,Trae Young,ATL,2028-29,0,Free Agent
+203897.0,Zach LaVine,CHI,2023-24,40064220,Guaranteed
+203897.0,Zach LaVine,CHI,2024-25,43031940,Guaranteed
+203897.0,Zach LaVine,CHI,2025-26,45999660,Guaranteed
+203897.0,Zach LaVine,CHI,2026-27,48967380,Player Option
+203897.0,Zach LaVine,CHI,2027-28,0,Free Agent
+203897.0,Zach LaVine,CHI,2028-29,0,Free Agent
+1629029.0,Luka Doncic,DAL,2023-24,40064220,Guaranteed
+1629029.0,Luka Doncic,DAL,2024-25,43031940,Guaranteed
+1629029.0,Luka Doncic,DAL,2025-26,45999660,Guaranteed
+1629029.0,Luka Doncic,DAL,2026-27,48967380,Player Option
+1629029.0,Luka Doncic,DAL,2027-28,0,Free Agent
+1629029.0,Luka Doncic,DAL,2028-29,0,Free Agent
+202699.0,Tobias Harris,DET,2023-24,39270150,Guaranteed
+202699.0,Tobias Harris,DET,2024-25,0,Free Agent
+202699.0,Tobias Harris,DET,2025-26,0,Free Agent
+202699.0,Tobias Harris,DET,2026-27,0,Free Agent
+202699.0,Tobias Harris,DET,2027-28,0,Free Agent
+202699.0,Tobias Harris,DET,2028-29,0,Free Agent
+202681.0,Kyrie Irving,DAL,2023-24,38037037,Guaranteed
+202681.0,Kyrie Irving,DAL,2024-25,41000000,Guaranteed
+202681.0,Kyrie Irving,DAL,2025-26,43962963,Player Option
+202681.0,Kyrie Irving,DAL,2026-27,0,Free Agent
+202681.0,Kyrie Irving,DAL,2027-28,0,Free Agent
+202681.0,Kyrie Irving,DAL,2028-29,0,Free Agent
+1627732.0,Ben Simmons,BKN,2023-24,37893408,Guaranteed
+1627732.0,Ben Simmons,BKN,2024-25,40338144,Guaranteed
+1627732.0,Ben Simmons,BKN,2025-26,0,Free Agent
+1627732.0,Ben Simmons,BKN,2026-27,0,Free Agent
+1627732.0,Ben Simmons,BKN,2027-28,0,Free Agent
+1627732.0,Ben Simmons,BKN,2028-29,0,Free Agent
+1627783.0,Pascal Siakam,IND,2023-24,37893408,Guaranteed
+1627783.0,Pascal Siakam,IND,2024-25,0,Free Agent
+1627783.0,Pascal Siakam,IND,2025-26,0,Free Agent
+1627783.0,Pascal Siakam,IND,2026-27,0,Free Agent
+1627783.0,Pascal Siakam,IND,2027-28,0,Free Agent
+1627783.0,Pascal Siakam,IND,2028-29,0,Free Agent
+201950.0,Jrue Holiday,BOS,2023-24,37620347,Guaranteed
+201950.0,Jrue Holiday,BOS,2024-25,30000000,Guaranteed
+201950.0,Jrue Holiday,BOS,2025-26,32400000,Guaranteed
+201950.0,Jrue Holiday,BOS,2026-27,34800000,Guaranteed
+201950.0,Jrue Holiday,BOS,2027-28,37200000,Player Option
+201950.0,Jrue Holiday,BOS,2028-29,0,Free Agent
+1626157.0,Karl-Anthony Towns,MIN,2023-24,36016200,Guaranteed
+1626157.0,Karl-Anthony Towns,MIN,2024-25,49350000,Guaranteed
+1626157.0,Karl-Anthony Towns,MIN,2025-26,53298000,Guaranteed
+1626157.0,Karl-Anthony Towns,MIN,2026-27,57246000,Guaranteed
+1626157.0,Karl-Anthony Towns,MIN,2027-28,61194000,Player Option
+1626157.0,Karl-Anthony Towns,MIN,2028-29,0,Free Agent
+1626164.0,Devin Booker,PHX,2023-24,36016200,Guaranteed
+1626164.0,Devin Booker,PHX,2024-25,49350000,Guaranteed
+1626164.0,Devin Booker,PHX,2025-26,53298000,Guaranteed
+1626164.0,Devin Booker,PHX,2026-27,57246000,Guaranteed
+1626164.0,Devin Booker,PHX,2027-28,61194000,Guaranteed
+1626164.0,Devin Booker,PHX,2028-29,0,Free Agent
+204001.0,Kristaps Porzingis,BOS,2023-24,36016200,Guaranteed
+204001.0,Kristaps Porzingis,BOS,2024-25,29268293,Guaranteed
+204001.0,Kristaps Porzingis,BOS,2025-26,30731707,Guaranteed
+204001.0,Kristaps Porzingis,BOS,2026-27,0,Free Agent
+204001.0,Kristaps Porzingis,BOS,2027-28,0,Free Agent
+204001.0,Kristaps Porzingis,BOS,2028-29,0,Free Agent
+203468.0,CJ McCollum,NOP,2023-24,35802469,Guaranteed
+203468.0,CJ McCollum,NOP,2024-25,33333333,Guaranteed
+203468.0,CJ McCollum,NOP,2025-26,30666666,Guaranteed
+203468.0,CJ McCollum,NOP,2026-27,0,Free Agent
+203468.0,CJ McCollum,NOP,2027-28,0,Free Agent
+203468.0,CJ McCollum,NOP,2028-29,0,Free Agent
+201935.0,James Harden,LAC,2023-24,35680595,Guaranteed
+201935.0,James Harden,LAC,2024-25,0,Free Agent
+201935.0,James Harden,LAC,2025-26,0,Free Agent
+201935.0,James Harden,LAC,2026-27,0,Free Agent
+201935.0,James Harden,LAC,2027-28,0,Free Agent
+201935.0,James Harden,LAC,2028-29,0,Free Agent
+1629636.0,Darius Garland,CLE,2023-24,34005250,Guaranteed
+1629636.0,Darius Garland,CLE,2024-25,36725670,Guaranteed
+1629636.0,Darius Garland,CLE,2025-26,39446090,Guaranteed
+1629636.0,Darius Garland,CLE,2026-27,42166510,Guaranteed
+1629636.0,Darius Garland,CLE,2027-28,44886930,Guaranteed
+1629636.0,Darius Garland,CLE,2028-29,0,Free Agent
+1629630.0,Ja Morant,MEM,2023-24,34005250,Guaranteed
+1629630.0,Ja Morant,MEM,2024-25,36725670,Guaranteed
+1629630.0,Ja Morant,MEM,2025-26,39446090,Guaranteed
+1629630.0,Ja Morant,MEM,2026-27,42166510,Guaranteed
+1629630.0,Ja Morant,MEM,2027-28,44886930,Guaranteed
+1629630.0,Ja Morant,MEM,2028-29,0,Free Agent
+1629627.0,Zion Williamson,NOP,2023-24,34005250,Guaranteed
+1629627.0,Zion Williamson,NOP,2024-25,36725670,Guaranteed
+1629627.0,Zion Williamson,NOP,2025-26,39446090,Guaranteed
+1629627.0,Zion Williamson,NOP,2026-27,42166510,Guaranteed
+1629627.0,Zion Williamson,NOP,2027-28,44886930,Guaranteed
+1629627.0,Zion Williamson,NOP,2028-29,0,Free Agent
+1627750.0,Jamal Murray,DEN,2023-24,33833400,Guaranteed
+1627750.0,Jamal Murray,DEN,2024-25,36016200,Guaranteed
+1627750.0,Jamal Murray,DEN,2025-26,0,Free Agent
+1627750.0,Jamal Murray,DEN,2026-27,0,Free Agent
+1627750.0,Jamal Murray,DEN,2027-28,0,Free Agent
+1627750.0,Jamal Murray,DEN,2028-29,0,Free Agent
+1627742.0,Brandon Ingram,NOP,2023-24,33833400,Guaranteed
+1627742.0,Brandon Ingram,NOP,2024-25,36016200,Guaranteed
+1627742.0,Brandon Ingram,NOP,2025-26,0,Free Agent
+1627742.0,Brandon Ingram,NOP,2026-27,0,Free Agent
+1627742.0,Brandon Ingram,NOP,2027-28,0,Free Agent
+1627742.0,Brandon Ingram,NOP,2028-29,0,Free Agent
+,Michael Porter,,2023-24,33386850,Guaranteed
+,Michael Porter,,2024-25,35859950,Guaranteed
+,Michael Porter,,2025-26,38333050,Guaranteed
+,Michael Porter,,2026-27,40806150,Guaranteed
+,Michael Porter,,2027-28,0,Free Agent
+,Michael Porter,,2028-29,0,Free Agent
+1628983.0,Shai Gilgeous-Alexander,OKC,2023-24,33386850,Guaranteed
+1628983.0,Shai Gilgeous-Alexander,OKC,2024-25,35859950,Guaranteed
+1628983.0,Shai Gilgeous-Alexander,OKC,2025-26,38333050,Guaranteed
+1628983.0,Shai Gilgeous-Alexander,OKC,2026-27,40806150,Guaranteed
+1628983.0,Shai Gilgeous-Alexander,OKC,2027-28,0,Free Agent
+1628983.0,Shai Gilgeous-Alexander,OKC,2028-29,0,Free Agent
+1628378.0,Donovan Mitchell,CLE,2023-24,33162030,Guaranteed
+1628378.0,Donovan Mitchell,CLE,2024-25,35410310,Guaranteed
+1628378.0,Donovan Mitchell,CLE,2025-26,37096620,Player Option
+1628378.0,Donovan Mitchell,CLE,2026-27,0,Free Agent
+1628378.0,Donovan Mitchell,CLE,2027-28,0,Free Agent
+1628378.0,Donovan Mitchell,CLE,2028-29,0,Free Agent
+1628369.0,Jayson Tatum,BOS,2023-24,32600060,Guaranteed
+1628369.0,Jayson Tatum,BOS,2024-25,34848340,Guaranteed
+1628369.0,Jayson Tatum,BOS,2025-26,37096620,Player Option
+1628369.0,Jayson Tatum,BOS,2026-27,0,Free Agent
+1628369.0,Jayson Tatum,BOS,2027-28,0,Free Agent
+1628369.0,Jayson Tatum,BOS,2028-29,0,Free Agent
+1628389.0,Bam Adebayo,MIA,2023-24,32600060,Guaranteed
+1628389.0,Bam Adebayo,MIA,2024-25,34848340,Guaranteed
+1628389.0,Bam Adebayo,MIA,2025-26,37096620,Guaranteed
+1628389.0,Bam Adebayo,MIA,2026-27,0,Free Agent
+1628389.0,Bam Adebayo,MIA,2027-28,0,Free Agent
+1628389.0,Bam Adebayo,MIA,2028-29,0,Free Agent
+1628368.0,De'Aaron Fox,SAC,2023-24,32600060,Guaranteed
+1628368.0,De'Aaron Fox,SAC,2024-25,34848340,Guaranteed
+1628368.0,De'Aaron Fox,SAC,2025-26,37096620,Guaranteed
+1628368.0,De'Aaron Fox,SAC,2026-27,0,Free Agent
+1628368.0,De'Aaron Fox,SAC,2027-28,0,Free Agent
+1628368.0,De'Aaron Fox,SAC,2028-29,0,Free Agent
+1629028.0,Deandre Ayton,POR,2023-24,32459438,Guaranteed
+1629028.0,Deandre Ayton,POR,2024-25,34005126,Guaranteed
+1629028.0,Deandre Ayton,POR,2025-26,35550814,Guaranteed
+1629028.0,Deandre Ayton,POR,2026-27,0,Free Agent
+1629028.0,Deandre Ayton,POR,2027-28,0,Free Agent
+1629028.0,Deandre Ayton,POR,2028-29,0,Free Agent
+1627759.0,Jaylen Brown,BOS,2023-24,31830357,Guaranteed
+1627759.0,Jaylen Brown,BOS,2024-25,49350000,Guaranteed
+1627759.0,Jaylen Brown,BOS,2025-26,53298000,Guaranteed
+1627759.0,Jaylen Brown,BOS,2026-27,57246000,Guaranteed
+1627759.0,Jaylen Brown,BOS,2027-28,61194000,Guaranteed
+1627759.0,Jaylen Brown,BOS,2028-29,65142000,Guaranteed
+202330.0,Gordon Hayward,OKC,2023-24,31500000,Guaranteed
+202330.0,Gordon Hayward,OKC,2024-25,0,Free Agent
+202330.0,Gordon Hayward,OKC,2025-26,0,Free Agent
+202330.0,Gordon Hayward,OKC,2026-27,0,Free Agent
+202330.0,Gordon Hayward,OKC,2027-28,0,Free Agent
+202330.0,Gordon Hayward,OKC,2028-29,0,Free Agent
+101108.0,Chris Paul,SAS,2023-24,30800000,Guaranteed
+101108.0,Chris Paul,SAS,2024-25,30800000,Guaranteed
+101108.0,Chris Paul,SAS,2025-26,0,Free Agent
+101108.0,Chris Paul,SAS,2026-27,0,Free Agent
+101108.0,Chris Paul,SAS,2027-28,0,Free Agent
+101108.0,Chris Paul,SAS,2028-29,0,Free Agent
+200768.0,Kyle Lowry,PHI,2023-24,29682540,Guaranteed
+200768.0,Kyle Lowry,PHI,2024-25,0,Free Agent
+200768.0,Kyle Lowry,PHI,2025-26,0,Free Agent
+200768.0,Kyle Lowry,PHI,2026-27,0,Free Agent
+200768.0,Kyle Lowry,PHI,2027-28,0,Free Agent
+200768.0,Kyle Lowry,PHI,2028-29,0,Free Agent
+203114.0,Khris Middleton,MIL,2023-24,29320988,Guaranteed
+203114.0,Khris Middleton,MIL,2024-25,31666667,Guaranteed
+203114.0,Khris Middleton,MIL,2025-26,34012345,Player Option
+203114.0,Khris Middleton,MIL,2026-27,0,Free Agent
+203114.0,Khris Middleton,MIL,2027-28,0,Free Agent
+203114.0,Khris Middleton,MIL,2028-29,0,Free Agent
+1627734.0,Domantas Sabonis,SAC,2023-24,29300000,Guaranteed
+1627734.0,Domantas Sabonis,SAC,2024-25,40500000,Guaranteed
+1627734.0,Domantas Sabonis,SAC,2025-26,43636000,Guaranteed
+1627734.0,Domantas Sabonis,SAC,2026-27,46772000,Guaranteed
+1627734.0,Domantas Sabonis,SAC,2027-28,49908000,Guaranteed
+1627734.0,Domantas Sabonis,SAC,2028-29,0,Free Agent
+201942.0,DeMar DeRozan,SAC,2023-24,28600000,Guaranteed
+201942.0,DeMar DeRozan,SAC,2024-25,0,Free Agent
+201942.0,DeMar DeRozan,SAC,2025-26,0,Free Agent
+201942.0,DeMar DeRozan,SAC,2026-27,0,Free Agent
+201942.0,DeMar DeRozan,SAC,2027-28,0,Free Agent
+201942.0,DeMar DeRozan,SAC,2028-29,0,Free Agent
+1629673.0,Jordan Poole,WAS,2023-24,27955357,Guaranteed
+1629673.0,Jordan Poole,WAS,2024-25,30151786,Guaranteed
+1629673.0,Jordan Poole,WAS,2025-26,32348215,Guaranteed
+1629673.0,Jordan Poole,WAS,2026-27,34544642,Guaranteed
+1629673.0,Jordan Poole,WAS,2027-28,0,Free Agent
+1629673.0,Jordan Poole,WAS,2028-29,0,Free Agent
+203924.0,Jerami Grant,POR,2023-24,27586207,Guaranteed
+203924.0,Jerami Grant,POR,2024-25,29793104,Guaranteed
+203924.0,Jerami Grant,POR,2025-26,32000001,Guaranteed
+203924.0,Jerami Grant,POR,2026-27,34206898,Guaranteed
+203924.0,Jerami Grant,POR,2027-28,36413790,Player Option
+203924.0,Jerami Grant,POR,2028-29,0,Free Agent
+,Jaren Jackson Jr,,2023-24,27102202,Guaranteed
+,Jaren Jackson Jr,,2024-25,25257798,Guaranteed
+,Jaren Jackson Jr,,2025-26,23413395,Guaranteed
+,Jaren Jackson Jr,,2026-27,0,Free Agent
+,Jaren Jackson Jr,,2027-28,0,Free Agent
+,Jaren Jackson Jr,,2028-29,0,Free Agent
+1629639.0,Tyler Herro,MIA,2023-24,27000000,Guaranteed
+1629639.0,Tyler Herro,MIA,2024-25,29000000,Guaranteed
+1629639.0,Tyler Herro,MIA,2025-26,31000000,Guaranteed
+1629639.0,Tyler Herro,MIA,2026-27,33000000,Guaranteed
+1629639.0,Tyler Herro,MIA,2027-28,0,Free Agent
+1629639.0,Tyler Herro,MIA,2028-29,0,Free Agent
+203944.0,Julius Randle,NYK,2023-24,26943840,Guaranteed
+203944.0,Julius Randle,NYK,2024-25,28939680,Guaranteed
+203944.0,Julius Randle,NYK,2025-26,30935520,Player Option
+203944.0,Julius Randle,NYK,2026-27,0,Free Agent
+203944.0,Julius Randle,NYK,2027-28,0,Free Agent
+203944.0,Julius Randle,NYK,2028-29,0,Free Agent
+1628973.0,Jalen Brunson,NYK,2023-24,26346666,Guaranteed
+1628973.0,Jalen Brunson,NYK,2024-25,24960001,Guaranteed
+1628973.0,Jalen Brunson,NYK,2025-26,24960001,Player Option
+1628973.0,Jalen Brunson,NYK,2026-27,0,Free Agent
+1628973.0,Jalen Brunson,NYK,2027-28,0,Free Agent
+1628973.0,Jalen Brunson,NYK,2028-29,0,Free Agent
+1629661.0,Cameron Johnson,BKN,2023-24,25679348,Guaranteed
+1629661.0,Cameron Johnson,BKN,2024-25,23625000,Guaranteed
+1629661.0,Cameron Johnson,BKN,2025-26,21570652,Guaranteed
+1629661.0,Cameron Johnson,BKN,2026-27,23625000,Guaranteed
+1629661.0,Cameron Johnson,BKN,2027-28,0,Free Agent
+1629661.0,Cameron Johnson,BKN,2028-29,0,Free Agent
+1628398.0,Kyle Kuzma,WAS,2023-24,25568182,Guaranteed
+1628398.0,Kyle Kuzma,WAS,2024-25,23522727,Guaranteed
+1628398.0,Kyle Kuzma,WAS,2025-26,21477272,Guaranteed
+1628398.0,Kyle Kuzma,WAS,2026-27,19431819,Guaranteed
+1628398.0,Kyle Kuzma,WAS,2027-28,0,Free Agent
+1628398.0,Kyle Kuzma,WAS,2028-29,0,Free Agent
+1628381.0,John Collins,UTA,2023-24,25340000,Guaranteed
+1628381.0,John Collins,UTA,2024-25,26580000,Guaranteed
+1628381.0,John Collins,UTA,2025-26,26580000,Player Option
+1628381.0,John Collins,UTA,2026-27,0,Free Agent
+1628381.0,John Collins,UTA,2027-28,0,Free Agent
+1628381.0,John Collins,UTA,2028-29,0,Free Agent
+201572.0,Brook Lopez,MIL,2023-24,25000000,Guaranteed
+201572.0,Brook Lopez,MIL,2024-25,23000000,Guaranteed
+201572.0,Brook Lopez,MIL,2025-26,0,Free Agent
+201572.0,Brook Lopez,MIL,2026-27,0,Free Agent
+201572.0,Brook Lopez,MIL,2027-28,0,Free Agent
+201572.0,Brook Lopez,MIL,2028-29,0,Free Agent
+201144.0,Mike Conley,MIN,2023-24,24360000,Guaranteed
+201144.0,Mike Conley,MIN,2024-25,9975962,Guaranteed
+201144.0,Mike Conley,MIN,2025-26,10774038,Guaranteed
+201144.0,Mike Conley,MIN,2026-27,0,Free Agent
+201144.0,Mike Conley,MIN,2027-28,0,Free Agent
+201144.0,Mike Conley,MIN,2028-29,0,Free Agent
+203952.0,Andrew Wiggins,GSW,2023-24,24330357,Guaranteed
+203952.0,Andrew Wiggins,GSW,2024-25,26276786,Guaranteed
+203952.0,Andrew Wiggins,GSW,2025-26,28223215,Guaranteed
+203952.0,Andrew Wiggins,GSW,2026-27,30169644,Player Option
+203952.0,Andrew Wiggins,GSW,2027-28,0,Free Agent
+203952.0,Andrew Wiggins,GSW,2028-29,0,Free Agent
+1629014.0,Anfernee Simons,POR,2023-24,24107143,Guaranteed
+1629014.0,Anfernee Simons,POR,2024-25,25892857,Guaranteed
+1629014.0,Anfernee Simons,POR,2025-26,27678571,Guaranteed
+1629014.0,Anfernee Simons,POR,2026-27,0,Free Agent
+1629014.0,Anfernee Simons,POR,2027-28,0,Free Agent
+1629014.0,Anfernee Simons,POR,2028-29,0,Free Agent
+1629628.0,RJ Barrett,TOR,2023-24,23883929,Guaranteed
+1629628.0,RJ Barrett,TOR,2024-25,25794643,Guaranteed
+1629628.0,RJ Barrett,TOR,2025-26,27705357,Guaranteed
+1629628.0,RJ Barrett,TOR,2026-27,29616071,Guaranteed
+1629628.0,RJ Barrett,TOR,2027-28,0,Free Agent
+1629628.0,RJ Barrett,TOR,2028-29,0,Free Agent
+203903.0,Jordan Clarkson,UTA,2023-24,23487629,Guaranteed
+203903.0,Jordan Clarkson,UTA,2024-25,14092577,Guaranteed
+203903.0,Jordan Clarkson,UTA,2025-26,14285714,Guaranteed
+203903.0,Jordan Clarkson,UTA,2026-27,0,Free Agent
+203903.0,Jordan Clarkson,UTA,2027-28,0,Free Agent
+203903.0,Jordan Clarkson,UTA,2028-29,0,Free Agent
+1626179.0,Terry Rozier,MIA,2023-24,23205221,Guaranteed
+1626179.0,Terry Rozier,MIA,2024-25,24924126,Guaranteed
+1626179.0,Terry Rozier,MIA,2025-26,26643031,Team Option
+1626179.0,Terry Rozier,MIA,2026-27,0,Free Agent
+1626179.0,Terry Rozier,MIA,2027-28,0,Free Agent
+1626179.0,Terry Rozier,MIA,2028-29,0,Free Agent
+1628415.0,Dillon Brooks,HOU,2023-24,22627671,Guaranteed
+1628415.0,Dillon Brooks,HOU,2024-25,22255493,Guaranteed
+1628415.0,Dillon Brooks,HOU,2025-26,21124110,Guaranteed
+1628415.0,Dillon Brooks,HOU,2026-27,19992727,Guaranteed
+1628415.0,Dillon Brooks,HOU,2027-28,0,Free Agent
+1628415.0,Dillon Brooks,HOU,2028-29,0,Free Agent
+1627763.0,Malcolm Brogdon,WAS,2023-24,22500000,Guaranteed
+1627763.0,Malcolm Brogdon,WAS,2024-25,22500000,Guaranteed
+1627763.0,Malcolm Brogdon,WAS,2025-26,0,Free Agent
+1627763.0,Malcolm Brogdon,WAS,2026-27,0,Free Agent
+1627763.0,Malcolm Brogdon,WAS,2027-28,0,Free Agent
+1627763.0,Malcolm Brogdon,WAS,2028-29,0,Free Agent
+203110.0,Draymond Green,GSW,2023-24,22321429,Guaranteed
+203110.0,Draymond Green,GSW,2024-25,24107143,Guaranteed
+203110.0,Draymond Green,GSW,2025-26,25892857,Guaranteed
+203110.0,Draymond Green,GSW,2026-27,27678571,Player Option
+203110.0,Draymond Green,GSW,2027-28,0,Free Agent
+203110.0,Draymond Green,GSW,2028-29,0,Free Agent
+1628971.0,Bruce Brown,TOR,2023-24,22000000,Guaranteed
+1628971.0,Bruce Brown,TOR,2024-25,23000000,Team Option
+1628971.0,Bruce Brown,TOR,2025-26,0,Free Agent
+1628971.0,Bruce Brown,TOR,2026-27,0,Free Agent
+1628971.0,Bruce Brown,TOR,2027-28,0,Free Agent
+1628971.0,Bruce Brown,TOR,2028-29,0,Free Agent
+203915.0,Spencer Dinwiddie,DAL,2023-24,21911797,Guaranteed
+203915.0,Spencer Dinwiddie,DAL,2024-25,0,Free Agent
+203915.0,Spencer Dinwiddie,DAL,2025-26,0,Free Agent
+203915.0,Spencer Dinwiddie,DAL,2026-27,0,Free Agent
+203915.0,Spencer Dinwiddie,DAL,2027-28,0,Free Agent
+203915.0,Spencer Dinwiddie,DAL,2028-29,0,Free Agent
+1628969.0,Mikal Bridges,NYK,2023-24,21700000,Guaranteed
+1628969.0,Mikal Bridges,NYK,2024-25,23300000,Guaranteed
+1628969.0,Mikal Bridges,NYK,2025-26,24900000,Guaranteed
+1628969.0,Mikal Bridges,NYK,2026-27,0,Free Agent
+1628969.0,Mikal Bridges,NYK,2027-28,0,Free Agent
+1628969.0,Mikal Bridges,NYK,2028-29,0,Free Agent
+203932.0,Aaron Gordon,DEN,2023-24,21266182,Guaranteed
+203932.0,Aaron Gordon,DEN,2024-25,22841455,Guaranteed
+203932.0,Aaron Gordon,DEN,2025-26,22841455,Player Option
+203932.0,Aaron Gordon,DEN,2026-27,0,Free Agent
+203932.0,Aaron Gordon,DEN,2027-28,0,Free Agent
+203932.0,Aaron Gordon,DEN,2028-29,0,Free Agent
+1626167.0,Myles Turner,IND,2023-24,20975000,Guaranteed
+1626167.0,Myles Turner,IND,2024-25,19928500,Guaranteed
+1626167.0,Myles Turner,IND,2025-26,0,Free Agent
+1626167.0,Myles Turner,IND,2026-27,0,Free Agent
+1626167.0,Myles Turner,IND,2027-28,0,Free Agent
+1626167.0,Myles Turner,IND,2028-29,0,Free Agent
+203991.0,Clint Capela,ATL,2023-24,20616000,Guaranteed
+203991.0,Clint Capela,ATL,2024-25,22265280,Guaranteed
+203991.0,Clint Capela,ATL,2025-26,0,Free Agent
+203991.0,Clint Capela,ATL,2026-27,0,Free Agent
+203991.0,Clint Capela,ATL,2027-28,0,Free Agent
+203991.0,Clint Capela,ATL,2028-29,0,Free Agent
+1628366.0,Lonzo Ball,CHI,2023-24,20465117,Guaranteed
+1628366.0,Lonzo Ball,CHI,2024-25,21395348,Guaranteed
+1628366.0,Lonzo Ball,CHI,2025-26,0,Free Agent
+1628366.0,Lonzo Ball,CHI,2026-27,0,Free Agent
+1628366.0,Lonzo Ball,CHI,2027-28,0,Free Agent
+1628366.0,Lonzo Ball,CHI,2028-29,0,Free Agent
+1629631.0,De'Andre Hunter,ATL,2023-24,20089286,Guaranteed
+1629631.0,De'Andre Hunter,ATL,2024-25,21696429,Guaranteed
+1629631.0,De'Andre Hunter,ATL,2025-26,23303571,Guaranteed
+1629631.0,De'Andre Hunter,ATL,2026-27,24910714,Guaranteed
+1629631.0,De'Andre Hunter,ATL,2027-28,0,Free Agent
+1629631.0,De'Andre Hunter,ATL,2028-29,0,Free Agent
+1628386.0,Jarrett Allen,CLE,2023-24,20000000,Guaranteed
+1628386.0,Jarrett Allen,CLE,2024-25,20000000,Guaranteed
+1628386.0,Jarrett Allen,CLE,2025-26,20000000,Guaranteed
+1628386.0,Jarrett Allen,CLE,2026-27,0,Free Agent
+1628386.0,Jarrett Allen,CLE,2027-28,0,Free Agent
+1628386.0,Jarrett Allen,CLE,2028-29,0,Free Agent
+202711.0,Bojan Bogdanovic,BKN,2023-24,20000000,Guaranteed
+202711.0,Bojan Bogdanovic,BKN,2024-25,19032850,Guaranteed
+202711.0,Bojan Bogdanovic,BKN,2025-26,0,Free Agent
+202711.0,Bojan Bogdanovic,BKN,2026-27,0,Free Agent
+202711.0,Bojan Bogdanovic,BKN,2027-28,0,Free Agent
+202711.0,Bojan Bogdanovic,BKN,2028-29,0,Free Agent
+1629640.0,Keldon Johnson,SAS,2023-24,20000000,Guaranteed
+1629640.0,Keldon Johnson,SAS,2024-25,19000000,Guaranteed
+1629640.0,Keldon Johnson,SAS,2025-26,17500000,Guaranteed
+1629640.0,Keldon Johnson,SAS,2026-27,17500000,Guaranteed
+1629640.0,Keldon Johnson,SAS,2027-28,0,Free Agent
+1629640.0,Keldon Johnson,SAS,2028-29,0,Free Agent
+203925.0,Joe Harris,,2023-24,19928571,Guaranteed
+203925.0,Joe Harris,,2024-25,0,Free Agent
+203925.0,Joe Harris,,2025-26,0,Free Agent
+203925.0,Joe Harris,,2026-27,0,Free Agent
+203925.0,Joe Harris,,2027-28,0,Free Agent
+203925.0,Joe Harris,,2028-29,0,Free Agent
+1627751.0,Jakob Poeltl,TOR,2023-24,19500000,Guaranteed
+1627751.0,Jakob Poeltl,TOR,2024-25,19500000,Guaranteed
+1627751.0,Jakob Poeltl,TOR,2025-26,19500000,Guaranteed
+1627751.0,Jakob Poeltl,TOR,2026-27,19500000,Player Option
+1627751.0,Jakob Poeltl,TOR,2027-28,0,Free Agent
+1627751.0,Jakob Poeltl,TOR,2028-29,0,Free Agent
+1627741.0,Buddy Hield,GSW,2023-24,19321859,Guaranteed
+1627741.0,Buddy Hield,GSW,2024-25,0,Free Agent
+1627741.0,Buddy Hield,GSW,2025-26,0,Free Agent
+1627741.0,Buddy Hield,GSW,2026-27,0,Free Agent
+1627741.0,Buddy Hield,GSW,2027-28,0,Free Agent
+1627741.0,Buddy Hield,GSW,2028-29,0,Free Agent
+1628401.0,Derrick White,BOS,2023-24,18857143,Guaranteed
+1628401.0,Derrick White,BOS,2024-25,20071429,Guaranteed
+1628401.0,Derrick White,BOS,2025-26,0,Free Agent
+1628401.0,Derrick White,BOS,2026-27,0,Free Agent
+1628401.0,Derrick White,BOS,2027-28,0,Free Agent
+1628401.0,Derrick White,BOS,2028-29,0,Free Agent
+203095.0,Evan Fournier,DET,2023-24,18857143,Guaranteed
+203095.0,Evan Fournier,DET,2024-25,19000000,Team Option
+203095.0,Evan Fournier,DET,2025-26,0,Free Agent
+203095.0,Evan Fournier,DET,2026-27,0,Free Agent
+203095.0,Evan Fournier,DET,2027-28,0,Free Agent
+203095.0,Evan Fournier,DET,2028-29,0,Free Agent
+203992.0,Bogdan Bogdanovic,ATL,2023-24,18700000,Guaranteed
+203992.0,Bogdan Bogdanovic,ATL,2024-25,17260000,Guaranteed
+203992.0,Bogdan Bogdanovic,ATL,2025-26,16020000,Guaranteed
+203992.0,Bogdan Bogdanovic,ATL,2026-27,16020000,Team Option
+203992.0,Bogdan Bogdanovic,ATL,2027-28,0,Free Agent
+203992.0,Bogdan Bogdanovic,ATL,2028-29,0,Free Agent
+1628384.0,OG Anunoby,NYK,2023-24,18642857,Guaranteed
+1628384.0,OG Anunoby,NYK,2024-25,19928571,Player Option
+1628384.0,OG Anunoby,NYK,2025-26,0,Free Agent
+1628384.0,OG Anunoby,NYK,2026-27,0,Free Agent
+1628384.0,OG Anunoby,NYK,2027-28,0,Free Agent
+1628384.0,OG Anunoby,NYK,2028-29,0,Free Agent
+203935.0,Marcus Smart,MEM,2023-24,18583713,Guaranteed
+203935.0,Marcus Smart,MEM,2024-25,19960285,Guaranteed
+203935.0,Marcus Smart,MEM,2025-26,21336856,Guaranteed
+203935.0,Marcus Smart,MEM,2026-27,0,Free Agent
+203935.0,Marcus Smart,MEM,2027-28,0,Free Agent
+203935.0,Marcus Smart,MEM,2028-29,0,Free Agent
+,Gary Trent Jr,,2023-24,18560000,Guaranteed
+,Gary Trent Jr,,2024-25,0,Free Agent
+,Gary Trent Jr,,2025-26,0,Free Agent
+,Gary Trent Jr,,2026-27,0,Free Agent
+,Gary Trent Jr,,2027-28,0,Free Agent
+,Gary Trent Jr,,2028-29,0,Free Agent
+202696.0,Nikola Vucevic,CHI,2023-24,18518519,Guaranteed
+202696.0,Nikola Vucevic,CHI,2024-25,20000000,Guaranteed
+202696.0,Nikola Vucevic,CHI,2025-26,21481481,Guaranteed
+202696.0,Nikola Vucevic,CHI,2026-27,0,Free Agent
+202696.0,Nikola Vucevic,CHI,2027-28,0,Free Agent
+202696.0,Nikola Vucevic,CHI,2028-29,0,Free Agent
+1627749.0,Dejounte Murray,NOP,2023-24,18214000,Guaranteed
+1627749.0,Dejounte Murray,NOP,2024-25,25266266,Guaranteed
+1627749.0,Dejounte Murray,NOP,2025-26,27287600,Guaranteed
+1627749.0,Dejounte Murray,NOP,2026-27,29308870,Guaranteed
+1627749.0,Dejounte Murray,NOP,2027-28,31330172,Player Option
+1627749.0,Dejounte Murray,NOP,2028-29,0,Free Agent
+1629130.0,Duncan Robinson,MIA,2023-24,18154000,Guaranteed
+1629130.0,Duncan Robinson,MIA,2024-25,19406000,Guaranteed
+1629130.0,Duncan Robinson,MIA,2025-26,19888000,Player Option
+1629130.0,Duncan Robinson,MIA,2026-27,0,Free Agent
+1629130.0,Duncan Robinson,MIA,2027-28,0,Free Agent
+1629130.0,Duncan Robinson,MIA,2028-29,0,Free Agent
+1626181.0,Norman Powell,LAC,2023-24,18000000,Guaranteed
+1626181.0,Norman Powell,LAC,2024-25,19241379,Guaranteed
+1626181.0,Norman Powell,LAC,2025-26,20482758,Guaranteed
+1626181.0,Norman Powell,LAC,2026-27,0,Free Agent
+1626181.0,Norman Powell,LAC,2027-28,0,Free Agent
+1626181.0,Norman Powell,LAC,2028-29,0,Free Agent
+,Tim Hardaway Jr,,2023-24,17897728,Guaranteed
+,Tim Hardaway Jr,,2024-25,16193183,Guaranteed
+,Tim Hardaway Jr,,2025-26,0,Free Agent
+,Tim Hardaway Jr,,2026-27,0,Free Agent
+,Tim Hardaway Jr,,2027-28,0,Free Agent
+,Tim Hardaway Jr,,2028-29,0,Free Agent
+1629012.0,Collin Sexton,UTA,2023-24,17525000,Guaranteed
+1629012.0,Collin Sexton,UTA,2024-25,18350000,Guaranteed
+1629012.0,Collin Sexton,UTA,2025-26,19175000,Guaranteed
+1629012.0,Collin Sexton,UTA,2026-27,0,Free Agent
+1629012.0,Collin Sexton,UTA,2027-28,0,Free Agent
+1629012.0,Collin Sexton,UTA,2028-29,0,Free Agent
+1628371.0,Jonathan Isaac,ORL,2023-24,17400000,Guaranteed
+1628371.0,Jonathan Isaac,ORL,2024-25,17400000,Guaranteed
+1628371.0,Jonathan Isaac,ORL,2025-26,0,Free Agent
+1628371.0,Jonathan Isaac,ORL,2026-27,0,Free Agent
+1628371.0,Jonathan Isaac,ORL,2027-28,0,Free Agent
+1628371.0,Jonathan Isaac,ORL,2028-29,0,Free Agent
+1626156.0,D'Angelo Russell,LAL,2023-24,17307693,Guaranteed
+1626156.0,D'Angelo Russell,LAL,2024-25,18692307,Player Option
+1626156.0,D'Angelo Russell,LAL,2025-26,0,Free Agent
+1626156.0,D'Angelo Russell,LAL,2026-27,0,Free Agent
+1626156.0,D'Angelo Russell,LAL,2027-28,0,Free Agent
+1626156.0,D'Angelo Russell,LAL,2028-29,0,Free Agent
+1628374.0,Lauri Markkanen,UTA,2023-24,17259999,Guaranteed
+1628374.0,Lauri Markkanen,UTA,2024-25,18044544,Guaranteed
+1628374.0,Lauri Markkanen,UTA,2025-26,0,Free Agent
+1628374.0,Lauri Markkanen,UTA,2026-27,0,Free Agent
+1628374.0,Lauri Markkanen,UTA,2027-28,0,Free Agent
+1628374.0,Lauri Markkanen,UTA,2028-29,0,Free Agent
+203084.0,Harrison Barnes,SAS,2023-24,17000000,Guaranteed
+203084.0,Harrison Barnes,SAS,2024-25,18000000,Guaranteed
+203084.0,Harrison Barnes,SAS,2025-26,19000000,Guaranteed
+203084.0,Harrison Barnes,SAS,2026-27,0,Free Agent
+203084.0,Harrison Barnes,SAS,2027-28,0,Free Agent
+203084.0,Harrison Barnes,SAS,2028-29,0,Free Agent
+202722.0,Davis Bertans,CHA,2023-24,17000000,Guaranteed
+202722.0,Davis Bertans,CHA,2024-25,16000000,Guaranteed
+202722.0,Davis Bertans,CHA,2025-26,0,Free Agent
+202722.0,Davis Bertans,CHA,2026-27,0,Free Agent
+202722.0,Davis Bertans,CHA,2027-28,0,Free Agent
+202722.0,Davis Bertans,CHA,2028-29,0,Free Agent
+1628365.0,Markelle Fultz,ORL,2023-24,17000000,Guaranteed
+1628365.0,Markelle Fultz,ORL,2024-25,0,Free Agent
+1628365.0,Markelle Fultz,ORL,2025-26,0,Free Agent
+1628365.0,Markelle Fultz,ORL,2026-27,0,Free Agent
+1628365.0,Markelle Fultz,ORL,2027-28,0,Free Agent
+1628365.0,Markelle Fultz,ORL,2028-29,0,Free Agent
+203994.0,Jusuf Nurkic,PHX,2023-24,16875000,Guaranteed
+203994.0,Jusuf Nurkic,PHX,2024-25,18125000,Guaranteed
+203994.0,Jusuf Nurkic,PHX,2025-26,19375000,Guaranteed
+203994.0,Jusuf Nurkic,PHX,2026-27,0,Free Agent
+203994.0,Jusuf Nurkic,PHX,2027-28,0,Free Agent
+203994.0,Jusuf Nurkic,PHX,2028-29,0,Free Agent
+,PJ Washington,,2023-24,16847826,Guaranteed
+,PJ Washington,,2024-25,15500000,Guaranteed
+,PJ Washington,,2025-26,14152174,Guaranteed
+,PJ Washington,,2026-27,0,Free Agent
+,PJ Washington,,2027-28,0,Free Agent
+,PJ Washington,,2028-29,0,Free Agent
+,Marcus Morris,,2023-24,16803983,Guaranteed
+,Marcus Morris,,2024-25,0,Free Agent
+,Marcus Morris,,2025-26,0,Free Agent
+,Marcus Morris,,2026-27,0,Free Agent
+,Marcus Morris,,2027-28,0,Free Agent
+,Marcus Morris,,2028-29,0,Free Agent
+,Kevin Porter,,2023-24,15860000,Guaranteed
+,Kevin Porter,,2024-25,1000000,Guaranteed
+,Kevin Porter,,2025-26,0,Free Agent
+,Kevin Porter,,2026-27,0,Free Agent
+,Kevin Porter,,2027-28,0,Free Agent
+,Kevin Porter,,2028-29,0,Free Agent
+1629060.0,Rui Hachimura,LAL,2023-24,15740741,Guaranteed
+1629060.0,Rui Hachimura,LAL,2024-25,17000000,Guaranteed
+1629060.0,Rui Hachimura,LAL,2025-26,18259259,Guaranteed
+1629060.0,Rui Hachimura,LAL,2026-27,0,Free Agent
+1629060.0,Rui Hachimura,LAL,2027-28,0,Free Agent
+1629060.0,Rui Hachimura,LAL,2028-29,0,Free Agent
+1629011.0,Mitchell Robinson,NYK,2023-24,15681818,Guaranteed
+1629011.0,Mitchell Robinson,NYK,2024-25,14318182,Guaranteed
+1629011.0,Mitchell Robinson,NYK,2025-26,12954546,Guaranteed
+1629011.0,Mitchell Robinson,NYK,2026-27,0,Free Agent
+1629011.0,Mitchell Robinson,NYK,2027-28,0,Free Agent
+1629011.0,Mitchell Robinson,NYK,2028-29,0,Free Agent
+1628989.0,Kevin Huerter,SAC,2023-24,15669643,Guaranteed
+1628989.0,Kevin Huerter,SAC,2024-25,16830357,Guaranteed
+1628989.0,Kevin Huerter,SAC,2025-26,17991071,Guaranteed
+1628989.0,Kevin Huerter,SAC,2026-27,0,Free Agent
+1628989.0,Kevin Huerter,SAC,2027-28,0,Free Agent
+1628989.0,Kevin Huerter,SAC,2028-29,0,Free Agent
+202685.0,Jonas Valanciunas,WAS,2023-24,15435000,Guaranteed
+202685.0,Jonas Valanciunas,WAS,2024-25,0,Free Agent
+202685.0,Jonas Valanciunas,WAS,2025-26,0,Free Agent
+202685.0,Jonas Valanciunas,WAS,2026-27,0,Free Agent
+202685.0,Jonas Valanciunas,WAS,2027-28,0,Free Agent
+202685.0,Jonas Valanciunas,WAS,2028-29,0,Free Agent
+1627747.0,Caris LeVert,CLE,2023-24,15384616,Guaranteed
+1627747.0,Caris LeVert,CLE,2024-25,16615384,Guaranteed
+1627747.0,Caris LeVert,CLE,2025-26,0,Free Agent
+1627747.0,Caris LeVert,CLE,2026-27,0,Free Agent
+1627747.0,Caris LeVert,CLE,2027-28,0,Free Agent
+1627747.0,Caris LeVert,CLE,2028-29,0,Free Agent
+1629652.0,Luguentz Dort,OKC,2023-24,15277778,Guaranteed
+1629652.0,Luguentz Dort,OKC,2024-25,16500000,Guaranteed
+1629652.0,Luguentz Dort,OKC,2025-26,17722222,Guaranteed
+1629652.0,Luguentz Dort,OKC,2026-27,17722222,Team Option
+1629652.0,Luguentz Dort,OKC,2027-28,0,Free Agent
+1629652.0,Luguentz Dort,OKC,2028-29,0,Free Agent
+1628379.0,Luke Kennard,MEM,2023-24,14763636,Guaranteed
+1628379.0,Luke Kennard,MEM,2024-25,14763636,Team Option
+1628379.0,Luke Kennard,MEM,2025-26,0,Free Agent
+1628379.0,Luke Kennard,MEM,2026-27,0,Free Agent
+1628379.0,Luke Kennard,MEM,2027-28,0,Free Agent
+1628379.0,Luke Kennard,MEM,2028-29,0,Free Agent
+203484.0,Kentavious Caldwell-Pope,ORL,2023-24,14704938,Guaranteed
+203484.0,Kentavious Caldwell-Pope,ORL,2024-25,15440185,Player Option
+203484.0,Kentavious Caldwell-Pope,ORL,2025-26,0,Free Agent
+203484.0,Kentavious Caldwell-Pope,ORL,2026-27,0,Free Agent
+203484.0,Kentavious Caldwell-Pope,ORL,2027-28,0,Free Agent
+203484.0,Kentavious Caldwell-Pope,ORL,2028-29,0,Free Agent
+1629622.0,Max Strus,CLE,2023-24,14487684,Guaranteed
+1629622.0,Max Strus,CLE,2024-25,15212068,Guaranteed
+1629622.0,Max Strus,CLE,2025-26,15936452,Guaranteed
+1629622.0,Max Strus,CLE,2026-27,16660836,Guaranteed
+1629622.0,Max Strus,CLE,2027-28,0,Free Agent
+1629622.0,Max Strus,CLE,2028-29,0,Free Agent
+,Reggie Bullock,,2023-24,14210528,Guaranteed
+,Reggie Bullock,,2024-25,0,Free Agent
+,Reggie Bullock,,2025-26,0,Free Agent
+,Reggie Bullock,,2026-27,0,Free Agent
+,Reggie Bullock,,2027-28,0,Free Agent
+,Reggie Bullock,,2028-29,0,Free Agent
+203926.0,Doug McDermott,IND,2023-24,14000000,Guaranteed
+203926.0,Doug McDermott,IND,2024-25,0,Free Agent
+203926.0,Doug McDermott,IND,2025-26,0,Free Agent
+203926.0,Doug McDermott,IND,2026-27,0,Free Agent
+203926.0,Doug McDermott,IND,2027-28,0,Free Agent
+203926.0,Doug McDermott,IND,2028-29,0,Free Agent
+1626145.0,Tyus Jones,PHX,2023-24,14000000,Guaranteed
+1626145.0,Tyus Jones,PHX,2024-25,0,Free Agent
+1626145.0,Tyus Jones,PHX,2025-26,0,Free Agent
+1626145.0,Tyus Jones,PHX,2026-27,0,Free Agent
+1626145.0,Tyus Jones,PHX,2027-28,0,Free Agent
+1626145.0,Tyus Jones,PHX,2028-29,0,Free Agent
+1627827.0,Dorian Finney-Smith,BKN,2023-24,13932008,Guaranteed
+1627827.0,Dorian Finney-Smith,BKN,2024-25,14924167,Guaranteed
+1627827.0,Dorian Finney-Smith,BKN,2025-26,15378480,Player Option
+1627827.0,Dorian Finney-Smith,BKN,2026-27,0,Free Agent
+1627827.0,Dorian Finney-Smith,BKN,2027-28,0,Free Agent
+1627827.0,Dorian Finney-Smith,BKN,2028-29,0,Free Agent
+1630162.0,Anthony Edwards,MIN,2023-24,13534817,Guaranteed
+1630162.0,Anthony Edwards,MIN,2024-25,42300000,Guaranteed
+1630162.0,Anthony Edwards,MIN,2025-26,45684000,Guaranteed
+1630162.0,Anthony Edwards,MIN,2026-27,49068000,Guaranteed
+1630162.0,Anthony Edwards,MIN,2027-28,52452000,Guaranteed
+1630162.0,Anthony Edwards,MIN,2028-29,55836000,Guaranteed
+,Wendell Carter,,2023-24,13050000,Guaranteed
+,Wendell Carter,,2024-25,11950000,Guaranteed
+,Wendell Carter,,2025-26,10850000,Guaranteed
+,Wendell Carter,,2026-27,0,Free Agent
+,Wendell Carter,,2027-28,0,Free Agent
+,Wendell Carter,,2028-29,0,Free Agent
+203914.0,Gary Harris,ORL,2023-24,13000000,Guaranteed
+203914.0,Gary Harris,ORL,2024-25,0,Free Agent
+203914.0,Gary Harris,ORL,2025-26,0,Free Agent
+203914.0,Gary Harris,ORL,2026-27,0,Free Agent
+203914.0,Gary Harris,ORL,2027-28,0,Free Agent
+203914.0,Gary Harris,ORL,2028-29,0,Free Agent
+1628404.0,Josh Hart,NYK,2023-24,12960000,Guaranteed
+1628404.0,Josh Hart,NYK,2024-25,18144000,Guaranteed
+1628404.0,Josh Hart,NYK,2025-26,19472240,Guaranteed
+1628404.0,Josh Hart,NYK,2026-27,20923760,Guaranteed
+1628404.0,Josh Hart,NYK,2027-28,22375280,Team Option
+1628404.0,Josh Hart,NYK,2028-29,0,Free Agent
+1629675.0,Naz Reid,MIN,2023-24,12950400,Guaranteed
+1629675.0,Naz Reid,MIN,2024-25,13986432,Guaranteed
+1629675.0,Naz Reid,MIN,2025-26,15022464,Player Option
+1629675.0,Naz Reid,MIN,2026-27,0,Free Agent
+1629675.0,Naz Reid,MIN,2027-28,0,Free Agent
+1629675.0,Naz Reid,MIN,2028-29,0,Free Agent
+203500.0,Steven Adams,HOU,2023-24,12600000,Guaranteed
+203500.0,Steven Adams,HOU,2024-25,12600000,Guaranteed
+203500.0,Steven Adams,HOU,2025-26,0,Free Agent
+203500.0,Steven Adams,HOU,2026-27,0,Free Agent
+203500.0,Steven Adams,HOU,2027-28,0,Free Agent
+203500.0,Steven Adams,HOU,2028-29,0,Free Agent
+1629634.0,Brandon Clarke,MEM,2023-24,12500000,Guaranteed
+1629634.0,Brandon Clarke,MEM,2024-25,12500000,Guaranteed
+1629634.0,Brandon Clarke,MEM,2025-26,12500000,Guaranteed
+1629634.0,Brandon Clarke,MEM,2026-27,12500000,Guaranteed
+1629634.0,Brandon Clarke,MEM,2027-28,0,Free Agent
+1629634.0,Brandon Clarke,MEM,2028-29,0,Free Agent
+,Marvin Bagley,,2023-24,12500000,Guaranteed
+,Marvin Bagley,,2024-25,12500000,Guaranteed
+,Marvin Bagley,,2025-26,0,Free Agent
+,Marvin Bagley,,2026-27,0,Free Agent
+,Marvin Bagley,,2027-28,0,Free Agent
+,Marvin Bagley,,2028-29,0,Free Agent
+,Dennis Schroeder,,2023-24,12405000,Guaranteed
+,Dennis Schroeder,,2024-25,13025250,Guaranteed
+,Dennis Schroeder,,2025-26,0,Free Agent
+,Dennis Schroeder,,2026-27,0,Free Agent
+,Dennis Schroeder,,2027-28,0,Free Agent
+,Dennis Schroeder,,2028-29,0,Free Agent
+1629684.0,Grant Williams,CHA,2023-24,12405000,Guaranteed
+1629684.0,Grant Williams,CHA,2024-25,13025250,Guaranteed
+1629684.0,Grant Williams,CHA,2025-26,13645500,Guaranteed
+1629684.0,Grant Williams,CHA,2026-27,14265750,Guaranteed
+1629684.0,Grant Williams,CHA,2027-28,0,Free Agent
+1629684.0,Grant Williams,CHA,2028-29,0,Free Agent
+1629655.0,Daniel Gafford,DAL,2023-24,12402000,Guaranteed
+1629655.0,Daniel Gafford,DAL,2024-25,13394160,Guaranteed
+1629655.0,Daniel Gafford,DAL,2025-26,14386320,Guaranteed
+1629655.0,Daniel Gafford,DAL,2026-27,0,Free Agent
+1629655.0,Daniel Gafford,DAL,2027-28,0,Free Agent
+1629655.0,Daniel Gafford,DAL,2028-29,0,Free Agent
+203482.0,Kelly Olynyk,TOR,2023-24,12195122,Guaranteed
+203482.0,Kelly Olynyk,TOR,2024-25,12804878,Guaranteed
+203482.0,Kelly Olynyk,TOR,2025-26,13445122,Guaranteed
+203482.0,Kelly Olynyk,TOR,2026-27,0,Free Agent
+203482.0,Kelly Olynyk,TOR,2027-28,0,Free Agent
+203482.0,Kelly Olynyk,TOR,2028-29,0,Free Agent
+1641705.0,Victor Wembanyama,SAS,2023-24,12160632,Guaranteed
+1641705.0,Victor Wembanyama,SAS,2024-25,12768664,Guaranteed
+1641705.0,Victor Wembanyama,SAS,2025-26,13376695,Team Option
+1641705.0,Victor Wembanyama,SAS,2026-27,16868013,Team Option
+1641705.0,Victor Wembanyama,SAS,2027-28,23615218,Qualifying Offer
+1641705.0,Victor Wembanyama,SAS,2028-29,0,Free Agent
+1630164.0,James Wiseman,IND,2023-24,12119440,Guaranteed
+1630164.0,James Wiseman,IND,2024-25,15815870,Qualifying Offer
+1630164.0,James Wiseman,IND,2025-26,0,Free Agent
+1630164.0,James Wiseman,IND,2026-27,0,Free Agent
+1630164.0,James Wiseman,IND,2027-28,0,Free Agent
+1630164.0,James Wiseman,IND,2028-29,0,Free Agent
+,Devonte Graham,,2023-24,12100000,Guaranteed
+,Devonte Graham,,2024-25,12650000,Guaranteed
+,Devonte Graham,,2025-26,0,Free Agent
+,Devonte Graham,,2026-27,0,Free Agent
+,Devonte Graham,,2027-28,0,Free Agent
+,Devonte Graham,,2028-29,0,Free Agent
+1626158.0,Richaun Holmes,WAS,2023-24,12046020,Guaranteed
+1626158.0,Richaun Holmes,WAS,2024-25,12876780,Player Option
+1626158.0,Richaun Holmes,WAS,2025-26,0,Free Agent
+1626158.0,Richaun Holmes,WAS,2026-27,0,Free Agent
+1626158.0,Richaun Holmes,WAS,2027-28,0,Free Agent
+1626158.0,Richaun Holmes,WAS,2028-29,0,Free Agent
+1630559.0,Austin Reaves,LAL,2023-24,12015150,Guaranteed
+1630559.0,Austin Reaves,LAL,2024-25,12976362,Guaranteed
+1630559.0,Austin Reaves,LAL,2025-26,13937574,Guaranteed
+1630559.0,Austin Reaves,LAL,2026-27,14898786,Player Option
+1630559.0,Austin Reaves,LAL,2027-28,0,Free Agent
+1630559.0,Austin Reaves,LAL,2028-29,0,Free Agent
+,Herb Jones,,2023-24,12015150,Guaranteed
+,Herb Jones,,2024-25,12976362,Guaranteed
+,Herb Jones,,2025-26,13937574,Guaranteed
+,Herb Jones,,2026-27,14898786,Guaranteed
+,Herb Jones,,2027-28,0,Free Agent
+,Herb Jones,,2028-29,0,Free Agent
+1628449.0,Chris Boucher,TOR,2023-24,11750000,Guaranteed
+1628449.0,Chris Boucher,TOR,2024-25,10810000,Guaranteed
+1628449.0,Chris Boucher,TOR,2025-26,0,Free Agent
+1628449.0,Chris Boucher,TOR,2026-27,0,Free Agent
+1628449.0,Chris Boucher,TOR,2027-28,0,Free Agent
+1628449.0,Chris Boucher,TOR,2028-29,0,Free Agent
+1626171.0,Bobby Portis,MIL,2023-24,11710818,Guaranteed
+1626171.0,Bobby Portis,MIL,2024-25,12578286,Guaranteed
+1626171.0,Bobby Portis,MIL,2025-26,13445754,Player Option
+1626171.0,Bobby Portis,MIL,2026-27,0,Free Agent
+1626171.0,Bobby Portis,MIL,2027-28,0,Free Agent
+1626171.0,Bobby Portis,MIL,2028-29,0,Free Agent
+201587.0,Nicolas Batum,LAC,2023-24,11710818,Guaranteed
+201587.0,Nicolas Batum,LAC,2024-25,0,Free Agent
+201587.0,Nicolas Batum,LAC,2025-26,0,Free Agent
+201587.0,Nicolas Batum,LAC,2026-27,0,Free Agent
+201587.0,Nicolas Batum,LAC,2027-28,0,Free Agent
+201587.0,Nicolas Batum,LAC,2028-29,0,Free Agent
+203496.0,Robert Covington,PHI,2023-24,11692308,Guaranteed
+203496.0,Robert Covington,PHI,2024-25,0,Free Agent
+203496.0,Robert Covington,PHI,2025-26,0,Free Agent
+203496.0,Robert Covington,PHI,2026-27,0,Free Agent
+203496.0,Robert Covington,PHI,2027-28,0,Free Agent
+203496.0,Robert Covington,PHI,2028-29,0,Free Agent
+1631094.0,Paolo Banchero,ORL,2023-24,11608080,Guaranteed
+1631094.0,Paolo Banchero,ORL,2024-25,12160800,Guaranteed
+1631094.0,Paolo Banchero,ORL,2025-26,15334769,Team Option
+1631094.0,Paolo Banchero,ORL,2026-27,19935199,Qualifying Offer
+1631094.0,Paolo Banchero,ORL,2027-28,0,Free Agent
+1631094.0,Paolo Banchero,ORL,2028-29,0,Free Agent
+,Robert Williams,,2023-24,11571429,Guaranteed
+,Robert Williams,,2024-25,12428571,Guaranteed
+,Robert Williams,,2025-26,13285713,Guaranteed
+,Robert Williams,,2026-27,0,Free Agent
+,Robert Williams,,2027-28,0,Free Agent
+,Robert Williams,,2028-29,0,Free Agent
+1629632.0,Coby White,CHI,2023-24,11111111,Guaranteed
+1629632.0,Coby White,CHI,2024-25,12000000,Guaranteed
+1629632.0,Coby White,CHI,2025-26,12888889,Guaranteed
+1629632.0,Coby White,CHI,2026-27,0,Free Agent
+1629632.0,Coby White,CHI,2027-28,0,Free Agent
+1629632.0,Coby White,CHI,2028-29,0,Free Agent
+1630595.0,Cade Cunningham,DET,2023-24,11055360,Guaranteed
+1630595.0,Cade Cunningham,DET,2024-25,13940809,Guaranteed
+1630595.0,Cade Cunningham,DET,2025-26,18123052,Qualifying Offer
+1630595.0,Cade Cunningham,DET,2026-27,0,Free Agent
+1630595.0,Cade Cunningham,DET,2027-28,0,Free Agent
+1630595.0,Cade Cunningham,DET,2028-29,0,Free Agent
+1629659.0,Talen Horton-Tucker,UTA,2023-24,11020000,Guaranteed
+1629659.0,Talen Horton-Tucker,UTA,2024-25,0,Free Agent
+1629659.0,Talen Horton-Tucker,UTA,2025-26,0,Free Agent
+1629659.0,Talen Horton-Tucker,UTA,2026-27,0,Free Agent
+1629659.0,Talen Horton-Tucker,UTA,2027-28,0,Free Agent
+1629659.0,Talen Horton-Tucker,UTA,2028-29,0,Free Agent
+,PJ Tucker,,2023-24,11014500,Guaranteed
+,PJ Tucker,,2024-25,11539000,Player Option
+,PJ Tucker,,2025-26,0,Free Agent
+,PJ Tucker,,2026-27,0,Free Agent
+,PJ Tucker,,2027-28,0,Free Agent
+,PJ Tucker,,2028-29,0,Free Agent
+1628467.0,Maxi Kleber,DAL,2023-24,11000000,Guaranteed
+1628467.0,Maxi Kleber,DAL,2024-25,11000000,Guaranteed
+1628467.0,Maxi Kleber,DAL,2025-26,11000000,Guaranteed
+1628467.0,Maxi Kleber,DAL,2026-27,0,Free Agent
+1628467.0,Maxi Kleber,DAL,2027-28,0,Free Agent
+1628467.0,Maxi Kleber,DAL,2028-29,0,Free Agent
+204060.0,Joe Ingles,MIN,2023-24,11000000,Guaranteed
+204060.0,Joe Ingles,MIN,2024-25,11000000,Team Option
+204060.0,Joe Ingles,MIN,2025-26,0,Free Agent
+204060.0,Joe Ingles,MIN,2026-27,0,Free Agent
+204060.0,Joe Ingles,MIN,2027-28,0,Free Agent
+204060.0,Joe Ingles,MIN,2028-29,0,Free Agent
+1627826.0,Ivica Zubac,LAC,2023-24,10933333,Guaranteed
+1627826.0,Ivica Zubac,LAC,2024-25,11743210,Guaranteed
+1627826.0,Ivica Zubac,LAC,2025-26,0,Free Agent
+1627826.0,Ivica Zubac,LAC,2026-27,0,Free Agent
+1627826.0,Ivica Zubac,LAC,2027-28,0,Free Agent
+1627826.0,Ivica Zubac,LAC,2028-29,0,Free Agent
+1630163.0,LaMelo Ball,CHA,2023-24,10900635,Guaranteed
+1630163.0,LaMelo Ball,CHA,2024-25,35250000,Guaranteed
+1630163.0,LaMelo Ball,CHA,2025-26,38070000,Guaranteed
+1630163.0,LaMelo Ball,CHA,2026-27,40890000,Guaranteed
+1630163.0,LaMelo Ball,CHA,2027-28,43710000,Guaranteed
+1630163.0,LaMelo Ball,CHA,2028-29,46530000,Guaranteed
+1628978.0,Donte DiVincenzo,NYK,2023-24,10900000,Guaranteed
+1628978.0,Donte DiVincenzo,NYK,2024-25,11445000,Guaranteed
+1628978.0,Donte DiVincenzo,NYK,2025-26,11990000,Guaranteed
+1628978.0,Donte DiVincenzo,NYK,2026-27,12535000,Guaranteed
+1628978.0,Donte DiVincenzo,NYK,2027-28,0,Free Agent
+1628978.0,Donte DiVincenzo,NYK,2028-29,0,Free Agent
+1641706.0,Brandon Miller,CHA,2023-24,10880364,Guaranteed
+1641706.0,Brandon Miller,CHA,2024-25,11424382,Guaranteed
+1641706.0,Brandon Miller,CHA,2025-26,11968400,Team Option
+1641706.0,Brandon Miller,CHA,2026-27,15104121,Team Option
+1641706.0,Brandon Miller,CHA,2027-28,21221290,Qualifying Offer
+1641706.0,Brandon Miller,CHA,2028-29,0,Free Agent
+1629611.0,Terance Mann,LAC,2023-24,10576923,Guaranteed
+1629611.0,Terance Mann,LAC,2024-25,11423077,Guaranteed
+1629611.0,Terance Mann,LAC,2025-26,0,Free Agent
+1629611.0,Terance Mann,LAC,2026-27,0,Free Agent
+1629611.0,Terance Mann,LAC,2027-28,0,Free Agent
+1629611.0,Terance Mann,LAC,2028-29,0,Free Agent
+1629680.0,Matisse Thybulle,POR,2023-24,10500000,Guaranteed
+1629680.0,Matisse Thybulle,POR,2024-25,11025000,Guaranteed
+1629680.0,Matisse Thybulle,POR,2025-26,11550000,Player Option
+1629680.0,Matisse Thybulle,POR,2026-27,0,Free Agent
+1629680.0,Matisse Thybulle,POR,2027-28,0,Free Agent
+1629680.0,Matisse Thybulle,POR,2028-29,0,Free Agent
+1629216.0,Gabe Vincent,LAL,2023-24,10500000,Guaranteed
+1629216.0,Gabe Vincent,LAL,2024-25,11000000,Guaranteed
+1629216.0,Gabe Vincent,LAL,2025-26,11500000,Guaranteed
+1629216.0,Gabe Vincent,LAL,2026-27,0,Free Agent
+1629216.0,Gabe Vincent,LAL,2027-28,0,Free Agent
+1629216.0,Gabe Vincent,LAL,2028-29,0,Free Agent
+202692.0,Alec Burks,MIA,2023-24,10489600,Guaranteed
+202692.0,Alec Burks,MIA,2024-25,0,Free Agent
+202692.0,Alec Burks,MIA,2025-26,0,Free Agent
+202692.0,Alec Burks,MIA,2026-27,0,Free Agent
+202692.0,Alec Burks,MIA,2027-28,0,Free Agent
+202692.0,Alec Burks,MIA,2028-29,0,Free Agent
+1631096.0,Chet Holmgren,OKC,2023-24,10386000,Guaranteed
+1631096.0,Chet Holmgren,OKC,2024-25,10880640,Guaranteed
+1631096.0,Chet Holmgren,OKC,2025-26,13731368,Team Option
+1631096.0,Chet Holmgren,OKC,2026-27,17919435,Qualifying Offer
+1631096.0,Chet Holmgren,OKC,2027-28,0,Free Agent
+1631096.0,Chet Holmgren,OKC,2028-29,0,Free Agent
+,Larry Nance Jr,,2023-24,10375000,Guaranteed
+,Larry Nance Jr,,2024-25,11205000,Guaranteed
+,Larry Nance Jr,,2025-26,0,Free Agent
+,Larry Nance Jr,,2026-27,0,Free Agent
+,Larry Nance Jr,,2027-28,0,Free Agent
+,Larry Nance Jr,,2028-29,0,Free Agent
+1629013.0,Landry Shamet,WAS,2023-24,10250000,Guaranteed
+1629013.0,Landry Shamet,WAS,2024-25,11000000,Guaranteed
+1629013.0,Landry Shamet,WAS,2025-26,11750000,Guaranteed
+1629013.0,Landry Shamet,WAS,2026-27,0,Free Agent
+1629013.0,Landry Shamet,WAS,2027-28,0,Free Agent
+1629013.0,Landry Shamet,WAS,2028-29,0,Free Agent
+201143.0,Al Horford,BOS,2023-24,10000000,Guaranteed
+201143.0,Al Horford,BOS,2024-25,9500000,Guaranteed
+201143.0,Al Horford,BOS,2025-26,0,Free Agent
+201143.0,Al Horford,BOS,2026-27,0,Free Agent
+201143.0,Al Horford,BOS,2027-28,0,Free Agent
+201143.0,Al Horford,BOS,2028-29,0,Free Agent
+1628370.0,Malik Monk,SAC,2023-24,9945830,Guaranteed
+1628370.0,Malik Monk,SAC,2024-25,0,Free Agent
+1628370.0,Malik Monk,SAC,2025-26,0,Free Agent
+1628370.0,Malik Monk,SAC,2026-27,0,Free Agent
+1628370.0,Malik Monk,SAC,2027-28,0,Free Agent
+1628370.0,Malik Monk,SAC,2028-29,0,Free Agent
+1630200.0,Tre Jones,SAS,2023-24,9895833,Guaranteed
+1630200.0,Tre Jones,SAS,2024-25,9104167,Guaranteed
+1630200.0,Tre Jones,SAS,2025-26,0,Free Agent
+1630200.0,Tre Jones,SAS,2026-27,0,Free Agent
+1630200.0,Tre Jones,SAS,2027-28,0,Free Agent
+1630200.0,Tre Jones,SAS,2028-29,0,Free Agent
+1630224.0,Jalen Green,HOU,2023-24,9891480,Guaranteed
+1630224.0,Jalen Green,HOU,2024-25,12483048,Guaranteed
+1630224.0,Jalen Green,HOU,2025-26,16290377,Qualifying Offer
+1630224.0,Jalen Green,HOU,2026-27,0,Free Agent
+1630224.0,Jalen Green,HOU,2027-28,0,Free Agent
+1630224.0,Jalen Green,HOU,2028-29,0,Free Agent
+1630172.0,Patrick Williams,CHI,2023-24,9835881,Guaranteed
+1630172.0,Patrick Williams,CHI,2024-25,12973527,Qualifying Offer
+1630172.0,Patrick Williams,CHI,2025-26,0,Free Agent
+1630172.0,Patrick Williams,CHI,2026-27,0,Free Agent
+1630172.0,Patrick Williams,CHI,2027-28,0,Free Agent
+1630172.0,Patrick Williams,CHI,2028-29,0,Free Agent
+1628420.0,Monte Morris,PHX,2023-24,9800926,Guaranteed
+1628420.0,Monte Morris,PHX,2024-25,0,Free Agent
+1628420.0,Monte Morris,PHX,2025-26,0,Free Agent
+1628420.0,Monte Morris,PHX,2026-27,0,Free Agent
+1628420.0,Monte Morris,PHX,2027-28,0,Free Agent
+1628420.0,Monte Morris,PHX,2028-29,0,Free Agent
+1630703.0,Scoot Henderson,POR,2023-24,9770904,Guaranteed
+1630703.0,Scoot Henderson,POR,2024-25,10259449,Guaranteed
+1630703.0,Scoot Henderson,POR,2025-26,10747994,Team Option
+1630703.0,Scoot Henderson,POR,2026-27,13585465,Team Option
+1630703.0,Scoot Henderson,POR,2027-28,19182676,Qualifying Offer
+1630703.0,Scoot Henderson,POR,2028-29,0,Free Agent
+,Nicolas Claxton,,2023-24,9625000,Guaranteed
+,Nicolas Claxton,,2024-25,0,Free Agent
+,Nicolas Claxton,,2025-26,0,Free Agent
+,Nicolas Claxton,,2026-27,0,Free Agent
+,Nicolas Claxton,,2027-28,0,Free Agent
+,Nicolas Claxton,,2028-29,0,Free Agent
+1626220.0,Royce O'Neale,PHX,2023-24,9500000,Guaranteed
+1626220.0,Royce O'Neale,PHX,2024-25,0,Free Agent
+1626220.0,Royce O'Neale,PHX,2025-26,0,Free Agent
+1626220.0,Royce O'Neale,PHX,2026-27,0,Free Agent
+1626220.0,Royce O'Neale,PHX,2027-28,0,Free Agent
+1626220.0,Royce O'Neale,PHX,2028-29,0,Free Agent
+1627936.0,Alex Caruso,OKC,2023-24,9460000,Guaranteed
+1627936.0,Alex Caruso,OKC,2024-25,9890000,Guaranteed
+1627936.0,Alex Caruso,OKC,2025-26,0,Free Agent
+1627936.0,Alex Caruso,OKC,2026-27,0,Free Agent
+1627936.0,Alex Caruso,OKC,2027-28,0,Free Agent
+1627936.0,Alex Caruso,OKC,2028-29,0,Free Agent
+203506.0,Victor Oladipo,MIA,2023-24,9450000,Guaranteed
+203506.0,Victor Oladipo,MIA,2024-25,0,Free Agent
+203506.0,Victor Oladipo,MIA,2025-26,0,Free Agent
+203506.0,Victor Oladipo,MIA,2026-27,0,Free Agent
+203506.0,Victor Oladipo,MIA,2027-28,0,Free Agent
+203506.0,Victor Oladipo,MIA,2028-29,0,Free Agent
+1626192.0,Pat Connaughton,MIL,2023-24,9423869,Guaranteed
+1626192.0,Pat Connaughton,MIL,2024-25,9423869,Guaranteed
+1626192.0,Pat Connaughton,MIL,2025-26,9423869,Player Option
+1626192.0,Pat Connaughton,MIL,2026-27,0,Free Agent
+1626192.0,Pat Connaughton,MIL,2027-28,0,Free Agent
+1626192.0,Pat Connaughton,MIL,2028-29,0,Free Agent
+1626166.0,Cameron Payne,NYK,2023-24,9391467,Guaranteed
+1626166.0,Cameron Payne,NYK,2024-25,0,Free Agent
+1626166.0,Cameron Payne,NYK,2025-26,0,Free Agent
+1626166.0,Cameron Payne,NYK,2026-27,0,Free Agent
+1626166.0,Cameron Payne,NYK,2027-28,0,Free Agent
+1626166.0,Cameron Payne,NYK,2028-29,0,Free Agent
+,Jabari Smith,,2023-24,9326520,Guaranteed
+,Jabari Smith,,2024-25,9770880,Guaranteed
+,Jabari Smith,,2025-26,12350392,Team Option
+,Jabari Smith,,2026-27,16203715,Qualifying Offer
+,Jabari Smith,,2027-28,0,Free Agent
+,Jabari Smith,,2028-29,0,Free Agent
+1628392.0,Isaiah Hartenstein,OKC,2023-24,9245121,Guaranteed
+1628392.0,Isaiah Hartenstein,OKC,2024-25,0,Free Agent
+1628392.0,Isaiah Hartenstein,OKC,2025-26,0,Free Agent
+1628392.0,Isaiah Hartenstein,OKC,2026-27,0,Free Agent
+1628392.0,Isaiah Hartenstein,OKC,2027-28,0,Free Agent
+1628392.0,Isaiah Hartenstein,OKC,2028-29,0,Free Agent
+203937.0,Kyle Anderson,GSW,2023-24,9219512,Guaranteed
+203937.0,Kyle Anderson,GSW,2024-25,0,Free Agent
+203937.0,Kyle Anderson,GSW,2025-26,0,Free Agent
+203937.0,Kyle Anderson,GSW,2026-27,0,Free Agent
+203937.0,Kyle Anderson,GSW,2027-28,0,Free Agent
+203937.0,Kyle Anderson,GSW,2028-29,0,Free Agent
+1628464.0,Daniel Theis,NOP,2023-24,9108387,Guaranteed
+1628464.0,Daniel Theis,NOP,2024-25,0,Free Agent
+1628464.0,Daniel Theis,NOP,2025-26,0,Free Agent
+1628464.0,Daniel Theis,NOP,2026-27,0,Free Agent
+1628464.0,Daniel Theis,NOP,2027-28,0,Free Agent
+1628464.0,Daniel Theis,NOP,2028-29,0,Free Agent
+201152.0,Thaddeus Young,PHX,2023-24,9010371,Guaranteed
+201152.0,Thaddeus Young,PHX,2024-25,0,Free Agent
+201152.0,Thaddeus Young,PHX,2025-26,0,Free Agent
+201152.0,Thaddeus Young,PHX,2026-27,0,Free Agent
+201152.0,Thaddeus Young,PHX,2027-28,0,Free Agent
+201152.0,Thaddeus Young,PHX,2028-29,0,Free Agent
+1628960.0,Grayson Allen,PHX,2023-24,8925000,Guaranteed
+1628960.0,Grayson Allen,PHX,2024-25,15625000,Guaranteed
+1628960.0,Grayson Allen,PHX,2025-26,16875000,Guaranteed
+1628960.0,Grayson Allen,PHX,2026-27,18125000,Guaranteed
+1628960.0,Grayson Allen,PHX,2027-28,19375000,Player Option
+1628960.0,Grayson Allen,PHX,2028-29,0,Free Agent
+1630171.0,Isaac Okoro,CLE,2023-24,8920794,Guaranteed
+1630171.0,Isaac Okoro,CLE,2024-25,11828974,Qualifying Offer
+1630171.0,Isaac Okoro,CLE,2025-26,0,Free Agent
+1630171.0,Isaac Okoro,CLE,2026-27,0,Free Agent
+1630171.0,Isaac Okoro,CLE,2027-28,0,Free Agent
+1630171.0,Isaac Okoro,CLE,2028-29,0,Free Agent
+1630596.0,Evan Mobley,CLE,2023-24,8882640,Guaranteed
+1630596.0,Evan Mobley,CLE,2024-25,11227657,Guaranteed
+1630596.0,Evan Mobley,CLE,2025-26,14730686,Qualifying Offer
+1630596.0,Evan Mobley,CLE,2026-27,0,Free Agent
+1630596.0,Evan Mobley,CLE,2027-28,0,Free Agent
+1630596.0,Evan Mobley,CLE,2028-29,0,Free Agent
+1641708.0,Amen Thompson,HOU,2023-24,8809284,Guaranteed
+1641708.0,Amen Thompson,HOU,2024-25,9249748,Guaranteed
+1641708.0,Amen Thompson,HOU,2025-26,9690212,Team Option
+1641708.0,Amen Thompson,HOU,2026-27,12258119,Team Option
+1641708.0,Amen Thompson,HOU,2027-28,17394270,Qualifying Offer
+1641708.0,Amen Thompson,HOU,2028-29,0,Free Agent
+1627777.0,Georges Niang,CLE,2023-24,8800000,Guaranteed
+1627777.0,Georges Niang,CLE,2024-25,8500000,Guaranteed
+1627777.0,Georges Niang,CLE,2025-26,8200000,Guaranteed
+1627777.0,Georges Niang,CLE,2026-27,0,Free Agent
+1627777.0,Georges Niang,CLE,2027-28,0,Free Agent
+1627777.0,Georges Niang,CLE,2028-29,0,Free Agent
+1627780.0,Gary Payton II,GSW,2023-24,8715000,Guaranteed
+1627780.0,Gary Payton II,GSW,2024-25,9130000,Player Option
+1627780.0,Gary Payton II,GSW,2025-26,0,Free Agent
+1627780.0,Gary Payton II,GSW,2026-27,0,Free Agent
+1627780.0,Gary Payton II,GSW,2027-28,0,Free Agent
+1627780.0,Gary Payton II,GSW,2028-29,0,Free Agent
+,TJ McConnell,,2023-24,8700000,Guaranteed
+,TJ McConnell,,2024-25,9300000,Guaranteed
+,TJ McConnell,,2025-26,0,Free Agent
+,TJ McConnell,,2026-27,0,Free Agent
+,TJ McConnell,,2027-28,0,Free Agent
+,TJ McConnell,,2028-29,0,Free Agent
+1631099.0,Keegan Murray,SAC,2023-24,8409000,Guaranteed
+1631099.0,Keegan Murray,SAC,2024-25,8809560,Guaranteed
+1631099.0,Keegan Murray,SAC,2025-26,11144093,Team Option
+1631099.0,Keegan Murray,SAC,2026-27,14699059,Qualifying Offer
+1631099.0,Keegan Murray,SAC,2027-28,0,Free Agent
+1631099.0,Keegan Murray,SAC,2028-29,0,Free Agent
+1626153.0,Delon Wright,MIL,2023-24,8195122,Guaranteed
+1626153.0,Delon Wright,MIL,2024-25,0,Free Agent
+1626153.0,Delon Wright,MIL,2025-26,0,Free Agent
+1626153.0,Delon Wright,MIL,2026-27,0,Free Agent
+1626153.0,Delon Wright,MIL,2027-28,0,Free Agent
+1626153.0,Delon Wright,MIL,2028-29,0,Free Agent
+1630168.0,Onyeka Okongwu,ATL,2023-24,8109063,Guaranteed
+1630168.0,Onyeka Okongwu,ATL,2024-25,14000000,Guaranteed
+1630168.0,Onyeka Okongwu,ATL,2025-26,15000000,Guaranteed
+1630168.0,Onyeka Okongwu,ATL,2026-27,16120000,Guaranteed
+1630168.0,Onyeka Okongwu,ATL,2027-28,16880000,Guaranteed
+1630168.0,Onyeka Okongwu,ATL,2028-29,0,Free Agent
+1630567.0,Scottie Barnes,TOR,2023-24,8008680,Guaranteed
+1630567.0,Scottie Barnes,TOR,2024-25,10130980,Guaranteed
+1630567.0,Scottie Barnes,TOR,2025-26,13362763,Qualifying Offer
+1630567.0,Scottie Barnes,TOR,2026-27,0,Free Agent
+1630567.0,Scottie Barnes,TOR,2027-28,0,Free Agent
+1630567.0,Scottie Barnes,TOR,2028-29,0,Free Agent
+1629111.0,Jock Landale,HOU,2023-24,8000000,Guaranteed
+1629111.0,Jock Landale,HOU,2024-25,8000000,Guaranteed
+1629111.0,Jock Landale,HOU,2025-26,8000000,Guaranteed
+1629111.0,Jock Landale,HOU,2026-27,8000000,Team Option
+1629111.0,Jock Landale,HOU,2027-28,0,Free Agent
+1629111.0,Jock Landale,HOU,2028-29,0,Free Agent
+1626168.0,Trey Lyles,SAC,2023-24,8000000,Guaranteed
+1626168.0,Trey Lyles,SAC,2024-25,8000000,Guaranteed
+1626168.0,Trey Lyles,SAC,2025-26,0,Free Agent
+1626168.0,Trey Lyles,SAC,2026-27,0,Free Agent
+1626168.0,Trey Lyles,SAC,2027-28,0,Free Agent
+1626168.0,Trey Lyles,SAC,2028-29,0,Free Agent
+201145.0,Jeff Green,HOU,2023-24,8000000,Guaranteed
+201145.0,Jeff Green,HOU,2024-25,8000000,Team Option
+201145.0,Jeff Green,HOU,2025-26,0,Free Agent
+201145.0,Jeff Green,HOU,2026-27,0,Free Agent
+201145.0,Jeff Green,HOU,2027-28,0,Free Agent
+201145.0,Jeff Green,HOU,2028-29,0,Free Agent
+1629021.0,Moritz Wagner,ORL,2023-24,8000000,Guaranteed
+1629021.0,Moritz Wagner,ORL,2024-25,8000000,Team Option
+1629021.0,Moritz Wagner,ORL,2025-26,0,Free Agent
+1629021.0,Moritz Wagner,ORL,2026-27,0,Free Agent
+1629021.0,Moritz Wagner,ORL,2027-28,0,Free Agent
+1629021.0,Moritz Wagner,ORL,2028-29,0,Free Agent
+1629001.0,De'Anthony Melton,GSW,2023-24,8000000,Guaranteed
+1629001.0,De'Anthony Melton,GSW,2024-25,0,Free Agent
+1629001.0,De'Anthony Melton,GSW,2025-26,0,Free Agent
+1629001.0,De'Anthony Melton,GSW,2026-27,0,Free Agent
+1629001.0,De'Anthony Melton,GSW,2027-28,0,Free Agent
+1629001.0,De'Anthony Melton,GSW,2028-29,0,Free Agent
+1641709.0,Ausar Thompson,DET,2023-24,7977420,Guaranteed
+1641709.0,Ausar Thompson,DET,2024-25,8376291,Guaranteed
+1641709.0,Ausar Thompson,DET,2025-26,8775162,Team Option
+1641709.0,Ausar Thompson,DET,2026-27,11118130,Team Option
+1641709.0,Ausar Thompson,DET,2027-28,15854453,Qualifying Offer
+1641709.0,Ausar Thompson,DET,2028-29,0,Free Agent
+1628970.0,Miles Bridges,CHA,2023-24,7921300,Guaranteed
+1628970.0,Miles Bridges,CHA,2024-25,0,Free Agent
+1628970.0,Miles Bridges,CHA,2025-26,0,Free Agent
+1628970.0,Miles Bridges,CHA,2026-27,0,Free Agent
+1628970.0,Miles Bridges,CHA,2027-28,0,Free Agent
+1628970.0,Miles Bridges,CHA,2028-29,0,Free Agent
+201568.0,Danilo Gallinari,MIL,2023-24,7850062,Guaranteed
+201568.0,Danilo Gallinari,MIL,2024-25,0,Free Agent
+201568.0,Danilo Gallinari,MIL,2025-26,0,Free Agent
+201568.0,Danilo Gallinari,MIL,2026-27,0,Free Agent
+201568.0,Danilo Gallinari,MIL,2027-28,0,Free Agent
+201568.0,Danilo Gallinari,MIL,2028-29,0,Free Agent
+203995.0,Vasilije Micic,CHA,2023-24,7723000,Guaranteed
+203995.0,Vasilije Micic,CHA,2024-25,7723000,Guaranteed
+203995.0,Vasilije Micic,CHA,2025-26,8109150,Team Option
+203995.0,Vasilije Micic,CHA,2026-27,0,Free Agent
+203995.0,Vasilije Micic,CHA,2027-28,0,Free Agent
+203995.0,Vasilije Micic,CHA,2028-29,0,Free Agent
+1630194.0,Paul Reed,DET,2023-24,7723000,Guaranteed
+1630194.0,Paul Reed,DET,2024-25,7723000,Guaranteed
+1630194.0,Paul Reed,DET,2025-26,8109150,Guaranteed
+1630194.0,Paul Reed,DET,2026-27,0,Free Agent
+1630194.0,Paul Reed,DET,2027-28,0,Free Agent
+1630194.0,Paul Reed,DET,2028-29,0,Free Agent
+1628380.0,Zach Collins,SAS,2023-24,7700000,Guaranteed
+1628380.0,Zach Collins,SAS,2024-25,16741200,Guaranteed
+1628380.0,Zach Collins,SAS,2025-26,18080496,Guaranteed
+1628380.0,Zach Collins,SAS,2026-27,0,Free Agent
+1628380.0,Zach Collins,SAS,2027-28,0,Free Agent
+1628380.0,Zach Collins,SAS,2028-29,0,Free Agent
+1631093.0,Jaden Ivey,DET,2023-24,7614480,Guaranteed
+1631093.0,Jaden Ivey,DET,2024-25,7977240,Guaranteed
+1631093.0,Jaden Ivey,DET,2025-26,10107163,Team Option
+1631093.0,Jaden Ivey,DET,2026-27,13402098,Qualifying Offer
+1631093.0,Jaden Ivey,DET,2027-28,0,Free Agent
+1631093.0,Jaden Ivey,DET,2028-29,0,Free Agent
+1628998.0,Cody Martin,CHA,2023-24,7560000,Guaranteed
+1628998.0,Cody Martin,CHA,2024-25,8120000,Guaranteed
+1628998.0,Cody Martin,CHA,2025-26,8680000,Guaranteed
+1628998.0,Cody Martin,CHA,2026-27,0,Free Agent
+1628998.0,Cody Martin,CHA,2027-28,0,Free Agent
+1628998.0,Cody Martin,CHA,2028-29,0,Free Agent
+,Patrick Mills,,2023-24,7537766,Guaranteed
+,Patrick Mills,,2024-25,0,Free Agent
+,Patrick Mills,,2025-26,0,Free Agent
+,Patrick Mills,,2026-27,0,Free Agent
+,Patrick Mills,,2027-28,0,Free Agent
+,Patrick Mills,,2028-29,0,Free Agent
+1626172.0,Kevon Looney,GSW,2023-24,7500000,Guaranteed
+1626172.0,Kevon Looney,GSW,2024-25,8000000,Guaranteed
+1626172.0,Kevon Looney,GSW,2025-26,0,Free Agent
+1626172.0,Kevon Looney,GSW,2026-27,0,Free Agent
+1626172.0,Kevon Looney,GSW,2027-28,0,Free Agent
+1626172.0,Kevon Looney,GSW,2028-29,0,Free Agent
+1630165.0,Killian Hayes,,2023-24,7413955,Guaranteed
+1630165.0,Killian Hayes,,2024-25,0,Free Agent
+1630165.0,Killian Hayes,,2025-26,0,Free Agent
+1630165.0,Killian Hayes,,2026-27,0,Free Agent
+1630165.0,Killian Hayes,,2027-28,0,Free Agent
+1630165.0,Killian Hayes,,2028-29,0,Free Agent
+1630591.0,Jalen Suggs,ORL,2023-24,7252080,Guaranteed
+1630591.0,Jalen Suggs,ORL,2024-25,9188385,Guaranteed
+1630591.0,Jalen Suggs,ORL,2025-26,12183799,Qualifying Offer
+1630591.0,Jalen Suggs,ORL,2026-27,0,Free Agent
+1630591.0,Jalen Suggs,ORL,2027-28,0,Free Agent
+1630591.0,Jalen Suggs,ORL,2028-29,0,Free Agent
+1641710.0,Anthony Black,ORL,2023-24,7245480,Guaranteed
+1641710.0,Anthony Black,ORL,2024-25,7607754,Guaranteed
+1641710.0,Anthony Black,ORL,2025-26,7970028,Team Option
+1641710.0,Anthony Black,ORL,2026-27,10105996,Team Option
+1641710.0,Anthony Black,ORL,2027-28,14491998,Qualifying Offer
+1641710.0,Anthony Black,ORL,2028-29,0,Free Agent
+1630256.0,Jae'Sean Tate,HOU,2023-24,7000000,Guaranteed
+1630256.0,Jae'Sean Tate,HOU,2024-25,7565217,Team Option
+1630256.0,Jae'Sean Tate,HOU,2025-26,0,Free Agent
+1630256.0,Jae'Sean Tate,HOU,2026-27,0,Free Agent
+1630256.0,Jae'Sean Tate,HOU,2027-28,0,Free Agent
+1630256.0,Jae'Sean Tate,HOU,2028-29,0,Free Agent
+,Khem Birch,,2023-24,6985000,Guaranteed
+,Khem Birch,,2024-25,0,Free Agent
+,Khem Birch,,2025-26,0,Free Agent
+,Khem Birch,,2026-27,0,Free Agent
+,Khem Birch,,2027-28,0,Free Agent
+,Khem Birch,,2028-29,0,Free Agent
+1631097.0,Bennedict Mathurin,IND,2023-24,6916080,Guaranteed
+1631097.0,Bennedict Mathurin,IND,2024-25,7245720,Guaranteed
+1631097.0,Bennedict Mathurin,IND,2025-26,9187573,Team Option
+1631097.0,Bennedict Mathurin,IND,2026-27,12256222,Qualifying Offer
+1631097.0,Bennedict Mathurin,IND,2027-28,0,Free Agent
+1631097.0,Bennedict Mathurin,IND,2028-29,0,Free Agent
+1630167.0,Obi Toppin,IND,2023-24,6803012,Guaranteed
+1630167.0,Obi Toppin,IND,2024-25,9170460,Qualifying Offer
+1630167.0,Obi Toppin,IND,2025-26,0,Free Agent
+1630167.0,Obi Toppin,IND,2026-27,0,Free Agent
+1630167.0,Obi Toppin,IND,2027-28,0,Free Agent
+1630167.0,Obi Toppin,IND,2028-29,0,Free Agent
+1628997.0,Caleb Martin,PHI,2023-24,6802950,Guaranteed
+1628997.0,Caleb Martin,PHI,2024-25,7126900,Player Option
+1628997.0,Caleb Martin,PHI,2025-26,0,Free Agent
+1628997.0,Caleb Martin,PHI,2026-27,0,Free Agent
+1628997.0,Caleb Martin,PHI,2027-28,0,Free Agent
+1628997.0,Caleb Martin,PHI,2028-29,0,Free Agent
+1626224.0,Cedi Osman,SAS,2023-24,6718842,Guaranteed
+1626224.0,Cedi Osman,SAS,2024-25,0,Free Agent
+1626224.0,Cedi Osman,SAS,2025-26,0,Free Agent
+1626224.0,Cedi Osman,SAS,2026-27,0,Free Agent
+1626224.0,Cedi Osman,SAS,2027-28,0,Free Agent
+1626224.0,Cedi Osman,SAS,2028-29,0,Free Agent
+1641731.0,Bilal Coulibaly,WAS,2023-24,6614256,Guaranteed
+1641731.0,Bilal Coulibaly,WAS,2024-25,6944969,Guaranteed
+1641731.0,Bilal Coulibaly,WAS,2025-26,7275682,Team Option
+1641731.0,Bilal Coulibaly,WAS,2026-27,9240116,Team Option
+1641731.0,Bilal Coulibaly,WAS,2027-28,13315007,Qualifying Offer
+1641731.0,Bilal Coulibaly,WAS,2028-29,0,Free Agent
+1630581.0,Josh Giddey,CHI,2023-24,6587040,Guaranteed
+1630581.0,Josh Giddey,CHI,2024-25,8352367,Guaranteed
+1630581.0,Josh Giddey,CHI,2025-26,11142057,Qualifying Offer
+1630581.0,Josh Giddey,CHI,2026-27,0,Free Agent
+1630581.0,Josh Giddey,CHI,2027-28,0,Free Agent
+1630581.0,Josh Giddey,CHI,2028-29,0,Free Agent
+1630245.0,Ayo Dosunmu,CHI,2023-24,6481482,Guaranteed
+1630245.0,Ayo Dosunmu,CHI,2024-25,7000000,Guaranteed
+1630245.0,Ayo Dosunmu,CHI,2025-26,7518518,Guaranteed
+1630245.0,Ayo Dosunmu,CHI,2026-27,0,Free Agent
+1630245.0,Ayo Dosunmu,CHI,2027-28,0,Free Agent
+1630245.0,Ayo Dosunmu,CHI,2028-29,0,Free Agent
+,Rudy Gay,,2023-24,6479000,Guaranteed
+,Rudy Gay,,2024-25,0,Free Agent
+,Rudy Gay,,2025-26,0,Free Agent
+,Rudy Gay,,2026-27,0,Free Agent
+,Rudy Gay,,2027-28,0,Free Agent
+,Rudy Gay,,2028-29,0,Free Agent
+1628426.0,Sasha Vezenkov,SAC,2023-24,6341464,Guaranteed
+1628426.0,Sasha Vezenkov,SAC,2024-25,6658536,Guaranteed
+1628426.0,Sasha Vezenkov,SAC,2025-26,6975609,Team Option
+1628426.0,Sasha Vezenkov,SAC,2026-27,0,Free Agent
+1628426.0,Sasha Vezenkov,SAC,2027-28,0,Free Agent
+1628426.0,Sasha Vezenkov,SAC,2028-29,0,Free Agent
+1631101.0,Shaedon Sharpe,POR,2023-24,6313800,Guaranteed
+1631101.0,Shaedon Sharpe,POR,2024-25,6614160,Guaranteed
+1631101.0,Shaedon Sharpe,POR,2025-26,8399983,Team Option
+1631101.0,Shaedon Sharpe,POR,2026-27,11264377,Qualifying Offer
+1631101.0,Shaedon Sharpe,POR,2027-28,0,Free Agent
+1631101.0,Shaedon Sharpe,POR,2028-29,0,Free Agent
+,Otto Porter,,2023-24,6300000,Guaranteed
+,Otto Porter,,2024-25,0,Free Agent
+,Otto Porter,,2025-26,0,Free Agent
+,Otto Porter,,2026-27,0,Free Agent
+,Otto Porter,,2027-28,0,Free Agent
+,Otto Porter,,2028-29,0,Free Agent
+1630166.0,Deni Avdija,POR,2023-24,6263188,Guaranteed
+1630166.0,Deni Avdija,POR,2024-25,15625000,Guaranteed
+1630166.0,Deni Avdija,POR,2025-26,14375000,Guaranteed
+1630166.0,Deni Avdija,POR,2026-27,13125000,Guaranteed
+1630166.0,Deni Avdija,POR,2027-28,11875000,Guaranteed
+1630166.0,Deni Avdija,POR,2028-29,0,Free Agent
+1629642.0,Nassir Little,PHX,2023-24,6250000,Guaranteed
+1629642.0,Nassir Little,PHX,2024-25,6750000,Guaranteed
+1629642.0,Nassir Little,PHX,2025-26,7250000,Guaranteed
+1629642.0,Nassir Little,PHX,2026-27,7750000,Guaranteed
+1629642.0,Nassir Little,PHX,2027-28,0,Free Agent
+1629642.0,Nassir Little,PHX,2028-29,0,Free Agent
+202687.0,Bismack Biyombo,OKC,2023-24,6194075,Guaranteed
+202687.0,Bismack Biyombo,OKC,2024-25,0,Free Agent
+202687.0,Bismack Biyombo,OKC,2025-26,0,Free Agent
+202687.0,Bismack Biyombo,OKC,2026-27,0,Free Agent
+202687.0,Bismack Biyombo,OKC,2027-28,0,Free Agent
+202687.0,Bismack Biyombo,OKC,2028-29,0,Free Agent
+1628975.0,Jevon Carter,CHI,2023-24,6190476,Guaranteed
+1628975.0,Jevon Carter,CHI,2024-25,6500000,Guaranteed
+1628975.0,Jevon Carter,CHI,2025-26,6809524,Player Option
+1628975.0,Jevon Carter,CHI,2026-27,0,Free Agent
+1628975.0,Jevon Carter,CHI,2027-28,0,Free Agent
+1628975.0,Jevon Carter,CHI,2028-29,0,Free Agent
+,Josh Primo,,2023-24,6179935,Guaranteed
+,Josh Primo,,2024-25,0,Free Agent
+,Josh Primo,,2025-26,0,Free Agent
+,Josh Primo,,2026-27,0,Free Agent
+,Josh Primo,,2027-28,0,Free Agent
+,Josh Primo,,2028-29,0,Free Agent
+1629026.0,Kenrich Williams,OKC,2023-24,6175000,Guaranteed
+1629026.0,Kenrich Williams,OKC,2024-25,6669000,Guaranteed
+1629026.0,Kenrich Williams,OKC,2025-26,7163000,Guaranteed
+1629026.0,Kenrich Williams,OKC,2026-27,7163000,Team Option
+1629026.0,Kenrich Williams,OKC,2027-28,0,Free Agent
+1629026.0,Kenrich Williams,OKC,2028-29,0,Free Agent
+1641716.0,Jarace Walker,IND,2023-24,6059460,Guaranteed
+1641716.0,Jarace Walker,IND,2024-25,6362433,Guaranteed
+1641716.0,Jarace Walker,IND,2025-26,6665406,Team Option
+1641716.0,Jarace Walker,IND,2026-27,8478396,Team Option
+1641716.0,Jarace Walker,IND,2027-28,12276717,Qualifying Offer
+1641716.0,Jarace Walker,IND,2028-29,0,Free Agent
+1630228.0,Jonathan Kuminga,GSW,2023-24,6012840,Guaranteed
+1630228.0,Jonathan Kuminga,GSW,2024-25,7636307,Guaranteed
+1630228.0,Jonathan Kuminga,GSW,2025-26,10240287,Qualifying Offer
+1630228.0,Jonathan Kuminga,GSW,2026-27,0,Free Agent
+1630228.0,Jonathan Kuminga,GSW,2027-28,0,Free Agent
+1630228.0,Jonathan Kuminga,GSW,2028-29,0,Free Agent
+1630170.0,Devin Vassell,SAS,2023-24,5887899,Guaranteed
+1630170.0,Devin Vassell,SAS,2024-25,29347826,Guaranteed
+1630170.0,Devin Vassell,SAS,2025-26,27000000,Guaranteed
+1630170.0,Devin Vassell,SAS,2026-27,27000000,Guaranteed
+1630170.0,Devin Vassell,SAS,2027-28,24652174,Guaranteed
+1630170.0,Devin Vassell,SAS,2028-29,27000000,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2023-24,5808435,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2024-25,42300000,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2025-26,45684000,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2026-27,49068000,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2027-28,52452000,Guaranteed
+1630169.0,Tyrese Haliburton,IND,2028-29,55836000,Guaranteed
+1630700.0,Dyson Daniels,ATL,2023-24,5784120,Guaranteed
+1630700.0,Dyson Daniels,ATL,2024-25,6059520,Guaranteed
+1630700.0,Dyson Daniels,ATL,2025-26,7707709,Team Option
+1630700.0,Dyson Daniels,ATL,2026-27,10389992,Qualifying Offer
+1630700.0,Dyson Daniels,ATL,2027-28,0,Free Agent
+1630700.0,Dyson Daniels,ATL,2028-29,0,Free Agent
+,Kira Lewis,,2023-24,5722116,Guaranteed
+,Kira Lewis,,2024-25,7913686,Qualifying Offer
+,Kira Lewis,,2025-26,0,Free Agent
+,Kira Lewis,,2026-27,0,Free Agent
+,Kira Lewis,,2027-28,0,Free Agent
+,Kira Lewis,,2028-29,0,Free Agent
+1629731.0,Dean Wade,CLE,2023-24,5709877,Guaranteed
+1629731.0,Dean Wade,CLE,2024-25,6166667,Guaranteed
+1629731.0,Dean Wade,CLE,2025-26,6623456,Guaranteed
+1629731.0,Dean Wade,CLE,2026-27,0,Free Agent
+1629731.0,Dean Wade,CLE,2027-28,0,Free Agent
+1629731.0,Dean Wade,CLE,2028-29,0,Free Agent
+1630174.0,Aaron Nesmith,IND,2023-24,5634257,Guaranteed
+1630174.0,Aaron Nesmith,IND,2024-25,11000000,Guaranteed
+1630174.0,Aaron Nesmith,IND,2025-26,11000000,Guaranteed
+1630174.0,Aaron Nesmith,IND,2026-27,11000000,Guaranteed
+1630174.0,Aaron Nesmith,IND,2027-28,0,Free Agent
+1630174.0,Aaron Nesmith,IND,2028-29,0,Free Agent
+1630197.0,Aleksej Pokusevski,CHA,2023-24,5574809,Guaranteed
+1630197.0,Aleksej Pokusevski,CHA,2024-25,2273252,Guaranteed
+1630197.0,Aleksej Pokusevski,CHA,2025-26,0,Free Agent
+1630197.0,Aleksej Pokusevski,CHA,2026-27,0,Free Agent
+1630197.0,Aleksej Pokusevski,CHA,2027-28,0,Free Agent
+1630197.0,Aleksej Pokusevski,CHA,2028-29,0,Free Agent
+1641707.0,Taylor Hendricks,UTA,2023-24,5569872,Guaranteed
+1641707.0,Taylor Hendricks,UTA,2024-25,5848366,Guaranteed
+1641707.0,Taylor Hendricks,UTA,2025-26,6126859,Team Option
+1641707.0,Taylor Hendricks,UTA,2026-27,7805619,Team Option
+1641707.0,Taylor Hendricks,UTA,2027-28,11357175,Qualifying Offer
+1641707.0,Taylor Hendricks,UTA,2028-29,0,Free Agent
+1629003.0,Shake Milton,BKN,2023-24,5552938,Guaranteed
+1629003.0,Shake Milton,BKN,2024-25,5000000,Guaranteed
+1629003.0,Shake Milton,BKN,2025-26,0,Free Agent
+1629003.0,Shake Milton,BKN,2026-27,0,Free Agent
+1629003.0,Shake Milton,BKN,2027-28,0,Free Agent
+1629003.0,Shake Milton,BKN,2028-29,0,Free Agent
+201580.0,JaVale McGee,SAC,2023-24,5544772,Guaranteed
+201580.0,JaVale McGee,SAC,2024-25,2348324,Guaranteed
+201580.0,JaVale McGee,SAC,2025-26,2348324,Guaranteed
+201580.0,JaVale McGee,SAC,2026-27,2348324,Guaranteed
+201580.0,JaVale McGee,SAC,2027-28,2348324,Guaranteed
+201580.0,JaVale McGee,SAC,2028-29,0,Free Agent
+1630175.0,Cole Anthony,ORL,2023-24,5539771,Guaranteed
+1630175.0,Cole Anthony,ORL,2024-25,12900000,Guaranteed
+1630175.0,Cole Anthony,ORL,2025-26,13100000,Guaranteed
+1630175.0,Cole Anthony,ORL,2026-27,13100000,Team Option
+1630175.0,Cole Anthony,ORL,2027-28,0,Free Agent
+1630175.0,Cole Anthony,ORL,2028-29,0,Free Agent
+1630532.0,Franz Wagner,ORL,2023-24,5508720,Guaranteed
+1630532.0,Franz Wagner,ORL,2024-25,7007092,Guaranteed
+1630532.0,Franz Wagner,ORL,2025-26,9445560,Qualifying Offer
+1630532.0,Franz Wagner,ORL,2026-27,0,Free Agent
+1630532.0,Franz Wagner,ORL,2027-28,0,Free Agent
+1630532.0,Franz Wagner,ORL,2028-29,0,Free Agent
+1627788.0,Furkan Korkmaz,,2023-24,5370370,Guaranteed
+1627788.0,Furkan Korkmaz,,2024-25,0,Free Agent
+1627788.0,Furkan Korkmaz,,2025-26,0,Free Agent
+1627788.0,Furkan Korkmaz,,2026-27,0,Free Agent
+1627788.0,Furkan Korkmaz,,2027-28,0,Free Agent
+1627788.0,Furkan Korkmaz,,2028-29,0,Free Agent
+1631110.0,Jeremy Sochan,SAS,2023-24,5316960,Guaranteed
+1631110.0,Jeremy Sochan,SAS,2024-25,5570040,Guaranteed
+1631110.0,Jeremy Sochan,SAS,2025-26,7096231,Team Option
+1631110.0,Jeremy Sochan,SAS,2026-27,9615393,Qualifying Offer
+1631110.0,Jeremy Sochan,SAS,2027-28,0,Free Agent
+1631110.0,Jeremy Sochan,SAS,2028-29,0,Free Agent
+1641717.0,Cason Wallace,OKC,2023-24,5291352,Guaranteed
+1641717.0,Cason Wallace,OKC,2024-25,5555920,Guaranteed
+1641717.0,Cason Wallace,OKC,2025-26,5820487,Team Option
+1641717.0,Cason Wallace,OKC,2026-27,7421121,Team Option
+1641717.0,Cason Wallace,OKC,2027-28,10849678,Qualifying Offer
+1641717.0,Cason Wallace,OKC,2028-29,0,Free Agent
+1630191.0,Isaiah Stewart,DET,2023-24,5266713,Guaranteed
+1630191.0,Isaiah Stewart,DET,2024-25,15000000,Guaranteed
+1630191.0,Isaiah Stewart,DET,2025-26,15000000,Guaranteed
+1630191.0,Isaiah Stewart,DET,2026-27,15000000,Guaranteed
+1630191.0,Isaiah Stewart,DET,2027-28,15000000,Team Option
+1630191.0,Isaiah Stewart,DET,2028-29,0,Free Agent
+1629643.0,Chuma Okeke,NYK,2023-24,5266712,Guaranteed
+1629643.0,Chuma Okeke,NYK,2024-25,7399731,Qualifying Offer
+1629643.0,Chuma Okeke,NYK,2025-26,0,Free Agent
+1629643.0,Chuma Okeke,NYK,2026-27,0,Free Agent
+1629643.0,Chuma Okeke,NYK,2027-28,0,Free Agent
+1629643.0,Chuma Okeke,NYK,2028-29,0,Free Agent
+1630558.0,Davion Mitchell,TOR,2023-24,5063640,Guaranteed
+1630558.0,Davion Mitchell,TOR,2024-25,6451077,Guaranteed
+1630558.0,Davion Mitchell,TOR,2025-26,8741210,Qualifying Offer
+1630558.0,Davion Mitchell,TOR,2026-27,0,Free Agent
+1630558.0,Davion Mitchell,TOR,2027-28,0,Free Agent
+1630558.0,Davion Mitchell,TOR,2028-29,0,Free Agent
+1631098.0,Johnny Davis,WAS,2023-24,5050800,Guaranteed
+1631098.0,Johnny Davis,WAS,2024-25,5291160,Guaranteed
+1631098.0,Johnny Davis,WAS,2025-26,6746229,Team Option
+1631098.0,Johnny Davis,WAS,2026-27,9188364,Qualifying Offer
+1631098.0,Johnny Davis,WAS,2027-28,0,Free Agent
+1631098.0,Johnny Davis,WAS,2028-29,0,Free Agent
+1630188.0,Jalen Smith,CHI,2023-24,5043773,Guaranteed
+1630188.0,Jalen Smith,CHI,2024-25,5417386,Player Option
+1630188.0,Jalen Smith,CHI,2025-26,0,Free Agent
+1630188.0,Jalen Smith,CHI,2026-27,0,Free Agent
+1630188.0,Jalen Smith,CHI,2027-28,0,Free Agent
+1630188.0,Jalen Smith,CHI,2028-29,0,Free Agent
+1641724.0,Jett Howard,ORL,2023-24,5026824,Guaranteed
+1641724.0,Jett Howard,ORL,2024-25,5278165,Guaranteed
+1641724.0,Jett Howard,ORL,2025-26,5529506,Team Option
+1641724.0,Jett Howard,ORL,2026-27,7337655,Team Option
+1641724.0,Jett Howard,ORL,2027-28,10779015,Qualifying Offer
+1641724.0,Jett Howard,ORL,2028-29,0,Free Agent
+202704.0,Reggie Jackson,PHI,2023-24,5000000,Guaranteed
+202704.0,Reggie Jackson,PHI,2024-25,5250000,Player Option
+202704.0,Reggie Jackson,PHI,2025-26,0,Free Agent
+202704.0,Reggie Jackson,PHI,2026-27,0,Free Agent
+202704.0,Reggie Jackson,PHI,2027-28,0,Free Agent
+202704.0,Reggie Jackson,PHI,2028-29,0,Free Agent
+203486.0,Mason Plumlee,PHX,2023-24,5000000,Guaranteed
+203486.0,Mason Plumlee,PHX,2024-25,0,Free Agent
+203486.0,Mason Plumlee,PHX,2025-26,0,Free Agent
+203486.0,Mason Plumlee,PHX,2026-27,0,Free Agent
+203486.0,Mason Plumlee,PHX,2027-28,0,Free Agent
+203486.0,Mason Plumlee,PHX,2028-29,0,Free Agent
+1630544.0,Tre Mann,CHA,2023-24,4908373,Guaranteed
+1630544.0,Tre Mann,CHA,2024-25,4908373,Guaranteed
+1630544.0,Tre Mann,CHA,2025-26,6964982,Qualifying Offer
+1630544.0,Tre Mann,CHA,2026-27,0,Free Agent
+1630544.0,Tre Mann,CHA,2027-28,0,Free Agent
+1630544.0,Tre Mann,CHA,2028-29,0,Free Agent
+1630533.0,Ziaire Williams,BKN,2023-24,4810200,Guaranteed
+1630533.0,Ziaire Williams,BKN,2024-25,6133005,Guaranteed
+1630533.0,Ziaire Williams,BKN,2025-26,8353152,Qualifying Offer
+1630533.0,Ziaire Williams,BKN,2026-27,0,Free Agent
+1630533.0,Ziaire Williams,BKN,2027-28,0,Free Agent
+1630533.0,Ziaire Williams,BKN,2028-29,0,Free Agent
+1631172.0,Ousmane Dieng,OKC,2023-24,4798440,Guaranteed
+1631172.0,Ousmane Dieng,OKC,2024-25,5027040,Guaranteed
+1631172.0,Ousmane Dieng,OKC,2025-26,6670882,Team Option
+1631172.0,Ousmane Dieng,OKC,2026-27,9132438,Qualifying Offer
+1631172.0,Ousmane Dieng,OKC,2027-28,0,Free Agent
+1631172.0,Ousmane Dieng,OKC,2028-29,0,Free Agent
+,Taj Gibson,,2023-24,4776302,Guaranteed
+,Taj Gibson,,2024-25,0,Free Agent
+,Taj Gibson,,2025-26,0,Free Agent
+,Taj Gibson,,2026-27,0,Free Agent
+,Taj Gibson,,2027-28,0,Free Agent
+,Taj Gibson,,2028-29,0,Free Agent
+,Dereck Lively,,2023-24,4775628,Guaranteed
+,Dereck Lively,,2024-25,5014409,Guaranteed
+,Dereck Lively,,2025-26,5253191,Team Option
+,Dereck Lively,,2026-27,7238897,Team Option
+,Dereck Lively,,2027-28,10684611,Qualifying Offer
+,Dereck Lively,,2028-29,0,Free Agent
+1630182.0,Josh Green,CHA,2023-24,4765339,Guaranteed
+1630182.0,Josh Green,CHA,2024-25,12654321,Guaranteed
+1630182.0,Josh Green,CHA,2025-26,13666667,Guaranteed
+1630182.0,Josh Green,CHA,2026-27,14679012,Guaranteed
+1630182.0,Josh Green,CHA,2027-28,0,Free Agent
+1630182.0,Josh Green,CHA,2028-29,0,Free Agent
+1629638.0,Nickeil Alexander-Walker,MIN,2023-24,4687500,Guaranteed
+1629638.0,Nickeil Alexander-Walker,MIN,2024-25,4312500,Guaranteed
+1629638.0,Nickeil Alexander-Walker,MIN,2025-26,0,Free Agent
+1629638.0,Nickeil Alexander-Walker,MIN,2026-27,0,Free Agent
+1629638.0,Nickeil Alexander-Walker,MIN,2027-28,0,Free Agent
+1629638.0,Nickeil Alexander-Walker,MIN,2028-29,0,Free Agent
+1629020.0,Jarred Vanderbilt,LAL,2023-24,4640000,Guaranteed
+1629020.0,Jarred Vanderbilt,LAL,2024-25,10714286,Guaranteed
+1629020.0,Jarred Vanderbilt,LAL,2025-26,11571429,Guaranteed
+1629020.0,Jarred Vanderbilt,LAL,2026-27,12428571,Guaranteed
+1629020.0,Jarred Vanderbilt,LAL,2027-28,13285714,Player Option
+1629020.0,Jarred Vanderbilt,LAL,2028-29,0,Free Agent
+1630547.0,James Bouknight,,2023-24,4570080,Guaranteed
+1630547.0,James Bouknight,,2024-25,0,Free Agent
+1630547.0,James Bouknight,,2025-26,0,Free Agent
+1630547.0,James Bouknight,,2026-27,0,Free Agent
+1630547.0,James Bouknight,,2027-28,0,Free Agent
+1630547.0,James Bouknight,,2028-29,0,Free Agent
+1631114.0,Jalen Williams,OKC,2023-24,4558680,Guaranteed
+1631114.0,Jalen Williams,OKC,2024-25,4775760,Guaranteed
+1631114.0,Jalen Williams,OKC,2025-26,6580997,Team Option
+1631114.0,Jalen Williams,OKC,2026-27,9055452,Qualifying Offer
+1631114.0,Jalen Williams,OKC,2027-28,0,Free Agent
+1631114.0,Jalen Williams,OKC,2028-29,0,Free Agent
+1630180.0,Saddiq Bey,WAS,2023-24,4556983,Guaranteed
+1630180.0,Saddiq Bey,WAS,2024-25,6498258,Qualifying Offer
+1630180.0,Saddiq Bey,WAS,2025-26,0,Free Agent
+1630180.0,Saddiq Bey,WAS,2026-27,0,Free Agent
+1630180.0,Saddiq Bey,WAS,2027-28,0,Free Agent
+1630180.0,Saddiq Bey,WAS,2028-29,0,Free Agent
+1641711.0,Gradey Dick,TOR,2023-24,4536708,Guaranteed
+1641711.0,Gradey Dick,TOR,2024-25,4763543,Guaranteed
+1641711.0,Gradey Dick,TOR,2025-26,4990379,Team Option
+1641711.0,Gradey Dick,TOR,2026-27,7131251,Team Option
+1641711.0,Gradey Dick,TOR,2027-28,10575645,Qualifying Offer
+1641711.0,Gradey Dick,TOR,2028-29,0,Free Agent
+1629667.0,Jalen McDaniels,SAC,2023-24,4516000,Guaranteed
+1629667.0,Jalen McDaniels,SAC,2024-25,4741800,Guaranteed
+1629667.0,Jalen McDaniels,SAC,2025-26,0,Free Agent
+1629667.0,Jalen McDaniels,SAC,2026-27,0,Free Agent
+1629667.0,Jalen McDaniels,SAC,2027-28,0,Free Agent
+1629667.0,Jalen McDaniels,SAC,2028-29,0,Free Agent
+1627752.0,Taurean Prince,MIL,2023-24,4516000,Guaranteed
+1627752.0,Taurean Prince,MIL,2024-25,0,Free Agent
+1627752.0,Taurean Prince,MIL,2025-26,0,Free Agent
+1627752.0,Taurean Prince,MIL,2026-27,0,Free Agent
+1627752.0,Taurean Prince,MIL,2027-28,0,Free Agent
+1627752.0,Taurean Prince,MIL,2028-29,0,Free Agent
+1630173.0,Precious Achiuwa,NYK,2023-24,4379526,Guaranteed
+1630173.0,Precious Achiuwa,NYK,2024-25,6275861,Qualifying Offer
+1630173.0,Precious Achiuwa,NYK,2025-26,0,Free Agent
+1630173.0,Precious Achiuwa,NYK,2026-27,0,Free Agent
+1630173.0,Precious Achiuwa,NYK,2027-28,0,Free Agent
+1630173.0,Precious Achiuwa,NYK,2028-29,0,Free Agent
+1630178.0,Tyrese Maxey,PHI,2023-24,4343920,Guaranteed
+1630178.0,Tyrese Maxey,PHI,2024-25,6259588,Qualifying Offer
+1630178.0,Tyrese Maxey,PHI,2025-26,0,Free Agent
+1630178.0,Tyrese Maxey,PHI,2026-27,0,Free Agent
+1630178.0,Tyrese Maxey,PHI,2027-28,0,Free Agent
+1630178.0,Tyrese Maxey,PHI,2028-29,0,Free Agent
+1631105.0,Jalen Duren,DET,2023-24,4330680,Guaranteed
+1631105.0,Jalen Duren,DET,2024-25,4536840,Guaranteed
+1631105.0,Jalen Duren,DET,2025-26,6483144,Team Option
+1631105.0,Jalen Duren,DET,2026-27,8966189,Qualifying Offer
+1631105.0,Jalen Duren,DET,2027-28,0,Free Agent
+1631105.0,Jalen Duren,DET,2028-29,0,Free Agent
+,Danuel House,,2023-24,4310250,Guaranteed
+,Danuel House,,2024-25,0,Free Agent
+,Danuel House,,2025-26,0,Free Agent
+,Danuel House,,2026-27,0,Free Agent
+,Danuel House,,2027-28,0,Free Agent
+,Danuel House,,2028-29,0,Free Agent
+1641722.0,Jordan Hawkins,NOP,2023-24,4310196,Guaranteed
+1641722.0,Jordan Hawkins,NOP,2024-25,4525706,Guaranteed
+1641722.0,Jordan Hawkins,NOP,2025-26,4741216,Team Option
+1641722.0,Jordan Hawkins,NOP,2026-27,7021740,Team Option
+1641722.0,Jordan Hawkins,NOP,2027-28,10469414,Qualifying Offer
+1641722.0,Jordan Hawkins,NOP,2028-29,0,Free Agent
+1630192.0,Zeke Nnaji,DEN,2023-24,4306281,Guaranteed
+1630192.0,Zeke Nnaji,DEN,2024-25,8888889,Guaranteed
+1630192.0,Zeke Nnaji,DEN,2025-26,8177778,Guaranteed
+1630192.0,Zeke Nnaji,DEN,2026-27,7466667,Guaranteed
+1630192.0,Zeke Nnaji,DEN,2027-28,7466667,Player Option
+1630192.0,Zeke Nnaji,DEN,2028-29,0,Free Agent
+1630193.0,Immanuel Quickley,TOR,2023-24,4171548,Guaranteed
+1630193.0,Immanuel Quickley,TOR,2024-25,6128004,Qualifying Offer
+1630193.0,Immanuel Quickley,TOR,2025-26,0,Free Agent
+1630193.0,Immanuel Quickley,TOR,2026-27,0,Free Agent
+1630193.0,Immanuel Quickley,TOR,2027-28,0,Free Agent
+1630193.0,Immanuel Quickley,TOR,2028-29,0,Free Agent
+1630537.0,Chris Duarte,CHI,2023-24,4124400,Guaranteed
+1630537.0,Chris Duarte,CHI,2024-25,5893768,Guaranteed
+1630537.0,Chris Duarte,CHI,2025-26,8151081,Qualifying Offer
+1630537.0,Chris Duarte,CHI,2026-27,0,Free Agent
+1630537.0,Chris Duarte,CHI,2027-28,0,Free Agent
+1630537.0,Chris Duarte,CHI,2028-29,0,Free Agent
+1630534.0,Ochai Agbaji,TOR,2023-24,4114200,Guaranteed
+1630534.0,Ochai Agbaji,TOR,2024-25,4310280,Guaranteed
+1630534.0,Ochai Agbaji,TOR,2025-26,6383525,Team Option
+1630534.0,Ochai Agbaji,TOR,2026-27,8879483,Qualifying Offer
+1630534.0,Ochai Agbaji,TOR,2027-28,0,Free Agent
+1630534.0,Ochai Agbaji,TOR,2028-29,0,Free Agent
+1641723.0,Kobe Bufkin,ATL,2023-24,4094244,Guaranteed
+1641723.0,Kobe Bufkin,ATL,2024-25,4298956,Guaranteed
+1641723.0,Kobe Bufkin,ATL,2025-26,4503668,Team Option
+1641723.0,Kobe Bufkin,ATL,2026-27,6904124,Team Option
+1641723.0,Kobe Bufkin,ATL,2027-28,10342377,Qualifying Offer
+1641723.0,Kobe Bufkin,ATL,2028-29,0,Free Agent
+1630202.0,Payton Pritchard,BOS,2023-24,4037277,Guaranteed
+1630202.0,Payton Pritchard,BOS,2024-25,6696429,Guaranteed
+1630202.0,Payton Pritchard,BOS,2025-26,7232143,Guaranteed
+1630202.0,Payton Pritchard,BOS,2026-27,7767857,Guaranteed
+1630202.0,Payton Pritchard,BOS,2027-28,8303571,Guaranteed
+1630202.0,Payton Pritchard,BOS,2028-29,0,Free Agent
+203939.0,Dwight Powell,DAL,2023-24,4000000,Guaranteed
+203939.0,Dwight Powell,DAL,2024-25,4000000,Guaranteed
+203939.0,Dwight Powell,DAL,2025-26,4000000,Player Option
+203939.0,Dwight Powell,DAL,2026-27,0,Free Agent
+203939.0,Dwight Powell,DAL,2027-28,0,Free Agent
+203939.0,Dwight Powell,DAL,2028-29,0,Free Agent
+,Troy Brown,,2023-24,4000000,Guaranteed
+,Troy Brown,,2024-25,4000000,Guaranteed
+,Troy Brown,,2025-26,0,Free Agent
+,Troy Brown,,2026-27,0,Free Agent
+,Troy Brown,,2027-28,0,Free Agent
+,Troy Brown,,2028-29,0,Free Agent
+203552.0,Seth Curry,CHA,2023-24,4000000,Guaranteed
+203552.0,Seth Curry,CHA,2024-25,4000000,Team Option
+203552.0,Seth Curry,CHA,2025-26,0,Free Agent
+203552.0,Seth Curry,CHA,2026-27,0,Free Agent
+203552.0,Seth Curry,CHA,2027-28,0,Free Agent
+203552.0,Seth Curry,CHA,2028-29,0,Free Agent
+1630541.0,Moses Moody,GSW,2023-24,3918480,Guaranteed
+1630541.0,Moses Moody,GSW,2024-25,5803269,Guaranteed
+1630541.0,Moses Moody,GSW,2025-26,8072347,Qualifying Offer
+1630541.0,Moses Moody,GSW,2026-27,0,Free Agent
+1630541.0,Moses Moody,GSW,2027-28,0,Free Agent
+1630541.0,Moses Moody,GSW,2028-29,0,Free Agent
+1631109.0,Mark Williams,CHA,2023-24,3908160,Guaranteed
+1631109.0,Mark Williams,CHA,2024-25,4094280,Guaranteed
+1631109.0,Mark Williams,CHA,2025-26,6276531,Team Option
+1631109.0,Mark Williams,CHA,2026-27,8774591,Qualifying Offer
+1631109.0,Mark Williams,CHA,2027-28,0,Free Agent
+1631109.0,Mark Williams,CHA,2028-29,0,Free Agent
+1630183.0,Jaden McDaniels,MIN,2023-24,3901399,Guaranteed
+1630183.0,Jaden McDaniels,MIN,2024-25,23017242,Guaranteed
+1630183.0,Jaden McDaniels,MIN,2025-26,24858622,Guaranteed
+1630183.0,Jaden McDaniels,MIN,2026-27,26250001,Guaranteed
+1630183.0,Jaden McDaniels,MIN,2027-28,28541380,Guaranteed
+1630183.0,Jaden McDaniels,MIN,2028-29,30382755,Guaranteed
+1641718.0,Keyonte George,UTA,2023-24,3889776,Guaranteed
+1641718.0,Keyonte George,UTA,2024-25,4084265,Guaranteed
+1641718.0,Keyonte George,UTA,2025-26,4278754,Team Option
+1641718.0,Keyonte George,UTA,2026-27,6563608,Team Option
+1641718.0,Keyonte George,UTA,2027-28,9878230,Qualifying Offer
+1641718.0,Keyonte George,UTA,2028-29,0,Free Agent
+1630201.0,Malachi Flynn,SAS,2023-24,3873024,Guaranteed
+1630201.0,Malachi Flynn,SAS,2024-25,5809537,Qualifying Offer
+1630201.0,Malachi Flynn,SAS,2025-26,0,Free Agent
+1630201.0,Malachi Flynn,SAS,2026-27,0,Free Agent
+1630201.0,Malachi Flynn,SAS,2027-28,0,Free Agent
+1630201.0,Malachi Flynn,SAS,2028-29,0,Free Agent
+1630217.0,Desmond Bane,MEM,2023-24,3845083,Guaranteed
+1630217.0,Desmond Bane,MEM,2024-25,34005250,Guaranteed
+1630217.0,Desmond Bane,MEM,2025-26,36725670,Guaranteed
+1630217.0,Desmond Bane,MEM,2026-27,39446090,Guaranteed
+1630217.0,Desmond Bane,MEM,2027-28,42166510,Guaranteed
+1630217.0,Desmond Bane,MEM,2028-29,44886930,Guaranteed
+,James Johnson,,2023-24,3839412,Guaranteed
+,James Johnson,,2024-25,0,Free Agent
+,James Johnson,,2025-26,0,Free Agent
+,James Johnson,,2026-27,0,Free Agent
+,James Johnson,,2027-28,0,Free Agent
+,James Johnson,,2028-29,0,Free Agent
+201566.0,Russell Westbrook,DEN,2023-24,3835738,Guaranteed
+201566.0,Russell Westbrook,DEN,2024-25,4027525,Player Option
+201566.0,Russell Westbrook,DEN,2025-26,0,Free Agent
+201566.0,Russell Westbrook,DEN,2026-27,0,Free Agent
+201566.0,Russell Westbrook,DEN,2027-28,0,Free Agent
+201566.0,Russell Westbrook,DEN,2028-29,0,Free Agent
+201567.0,Kevin Love,MIA,2023-24,3835738,Guaranteed
+201567.0,Kevin Love,MIA,2024-25,4027525,Player Option
+201567.0,Kevin Love,MIA,2025-26,0,Free Agent
+201567.0,Kevin Love,MIA,2026-27,0,Free Agent
+201567.0,Kevin Love,MIA,2027-28,0,Free Agent
+201567.0,Kevin Love,MIA,2028-29,0,Free Agent
+201937.0,Ricky Rubio,CLE,2023-24,3722327,Guaranteed
+201937.0,Ricky Rubio,CLE,2024-25,1274015,Guaranteed
+201937.0,Ricky Rubio,CLE,2025-26,0,Free Agent
+201937.0,Ricky Rubio,CLE,2026-27,0,Free Agent
+201937.0,Ricky Rubio,CLE,2027-28,0,Free Agent
+201937.0,Ricky Rubio,CLE,2028-29,0,Free Agent
+1630557.0,Corey Kispert,WAS,2023-24,3722040,Guaranteed
+1630557.0,Corey Kispert,WAS,2024-25,5705887,Guaranteed
+1630557.0,Corey Kispert,WAS,2025-26,7976830,Qualifying Offer
+1630557.0,Corey Kispert,WAS,2026-27,0,Free Agent
+1630557.0,Corey Kispert,WAS,2027-28,0,Free Agent
+1630557.0,Corey Kispert,WAS,2028-29,0,Free Agent
+1631100.0,AJ Griffin,HOU,2023-24,3712920,Guaranteed
+1631100.0,AJ Griffin,HOU,2024-25,3889920,Guaranteed
+1631100.0,AJ Griffin,HOU,2025-26,5967137,Team Option
+1631100.0,AJ Griffin,HOU,2026-27,8383828,Qualifying Offer
+1631100.0,AJ Griffin,HOU,2027-28,0,Free Agent
+1631100.0,AJ Griffin,HOU,2028-29,0,Free Agent
+1641720.0,Jalen Hood-Schifino,LAL,2023-24,3695076,Guaranteed
+1641720.0,Jalen Hood-Schifino,LAL,2024-25,3879830,Guaranteed
+1641720.0,Jalen Hood-Schifino,LAL,2025-26,4064584,Team Option
+1641720.0,Jalen Hood-Schifino,LAL,2026-27,6243200,Team Option
+1641720.0,Jalen Hood-Schifino,LAL,2027-28,9439718,Qualifying Offer
+1641720.0,Jalen Hood-Schifino,LAL,2028-29,0,Free Agent
+1629599.0,Amir Coffey,LAC,2023-24,3666667,Guaranteed
+1629599.0,Amir Coffey,LAC,2024-25,3938271,Guaranteed
+1629599.0,Amir Coffey,LAC,2025-26,0,Free Agent
+1629599.0,Amir Coffey,LAC,2026-27,0,Free Agent
+1629599.0,Amir Coffey,LAC,2027-28,0,Free Agent
+1629599.0,Amir Coffey,LAC,2028-29,0,Free Agent
+1630578.0,Alperen Sengun,HOU,2023-24,3536280,Guaranteed
+1630578.0,Alperen Sengun,HOU,2024-25,5424654,Guaranteed
+1630578.0,Alperen Sengun,HOU,2025-26,7621638,Qualifying Offer
+1630578.0,Alperen Sengun,HOU,2026-27,0,Free Agent
+1630578.0,Alperen Sengun,HOU,2027-28,0,Free Agent
+1630578.0,Alperen Sengun,HOU,2028-29,0,Free Agent
+1631106.0,Tari Eason,HOU,2023-24,3527160,Guaranteed
+1631106.0,Tari Eason,HOU,2024-25,3695160,Guaranteed
+1631106.0,Tari Eason,HOU,2025-26,5675766,Team Option
+1631106.0,Tari Eason,HOU,2026-27,8014181,Qualifying Offer
+1631106.0,Tari Eason,HOU,2027-28,0,Free Agent
+1631106.0,Tari Eason,HOU,2028-29,0,Free Agent
+,Jaime Jaquez,,2023-24,3510540,Guaranteed
+,Jaime Jaquez,,2024-25,3686067,Guaranteed
+,Jaime Jaquez,,2025-26,3861594,Team Option
+,Jaime Jaquez,,2026-27,5939132,Team Option
+,Jaime Jaquez,,2027-28,9021541,Qualifying Offer
+,Jaime Jaquez,,2028-29,0,Free Agent
+203488.0,Mike Muscala,OKC,2023-24,3444889,Guaranteed
+203488.0,Mike Muscala,OKC,2024-25,0,Free Agent
+203488.0,Mike Muscala,OKC,2025-26,0,Free Agent
+203488.0,Mike Muscala,OKC,2026-27,0,Free Agent
+203488.0,Mike Muscala,OKC,2027-28,0,Free Agent
+203488.0,Mike Muscala,OKC,2028-29,0,Free Agent
+203083.0,Andre Drummond,PHI,2023-24,3360000,Guaranteed
+203083.0,Andre Drummond,PHI,2024-25,0,Free Agent
+203083.0,Andre Drummond,PHI,2025-26,0,Free Agent
+203083.0,Andre Drummond,PHI,2026-27,0,Free Agent
+203083.0,Andre Drummond,PHI,2027-28,0,Free Agent
+203083.0,Andre Drummond,PHI,2028-29,0,Free Agent
+,Trey Murphy,,2023-24,3359280,Guaranteed
+,Trey Murphy,,2024-25,5159854,Guaranteed
+,Trey Murphy,,2025-26,7285713,Qualifying Offer
+,Trey Murphy,,2026-27,0,Free Agent
+,Trey Murphy,,2027-28,0,Free Agent
+,Trey Murphy,,2028-29,0,Free Agent
+1641764.0,Brandin Podziemski,GSW,2023-24,3352404,Guaranteed
+1641764.0,Brandin Podziemski,GSW,2024-25,3520024,Guaranteed
+1641764.0,Brandin Podziemski,GSW,2025-26,3687644,Team Option
+1641764.0,Brandin Podziemski,GSW,2026-27,5678972,Team Option
+1641764.0,Brandin Podziemski,GSW,2027-28,8666111,Qualifying Offer
+1641764.0,Brandin Podziemski,GSW,2028-29,0,Free Agent
+1631207.0,Dalen Terry,CHI,2023-24,3350760,Guaranteed
+1631207.0,Dalen Terry,CHI,2024-25,3510480,Guaranteed
+1631207.0,Dalen Terry,CHI,2025-26,5399118,Team Option
+1631207.0,Dalen Terry,CHI,2026-27,7661349,Qualifying Offer
+1631207.0,Dalen Terry,CHI,2027-28,0,Free Agent
+1631207.0,Dalen Terry,CHI,2028-29,0,Free Agent
+1630553.0,Keon Johnson,BKN,2023-24,3342765,Two-Way
+1630553.0,Keon Johnson,BKN,2024-25,0,Free Agent
+1630553.0,Keon Johnson,BKN,2025-26,0,Free Agent
+1630553.0,Keon Johnson,BKN,2026-27,0,Free Agent
+1630553.0,Keon Johnson,BKN,2027-28,0,Free Agent
+1630553.0,Keon Johnson,BKN,2028-29,0,Free Agent
+,Cameron Whitmore,,2023-24,3218160,Guaranteed
+,Cameron Whitmore,,2024-25,3379068,Guaranteed
+,Cameron Whitmore,,2025-26,3539976,Team Option
+,Cameron Whitmore,,2026-27,5458643,Team Option
+,Cameron Whitmore,,2027-28,8368099,Qualifying Offer
+,Cameron Whitmore,,2028-29,0,Free Agent
+1631222.0,Jake LaRavia,MEM,2023-24,3199920,Guaranteed
+1631222.0,Jake LaRavia,MEM,2024-25,3352680,Guaranteed
+1631222.0,Jake LaRavia,MEM,2025-26,5163127,Team Option
+1631222.0,Jake LaRavia,MEM,2026-27,7362619,Qualifying Offer
+1631222.0,Jake LaRavia,MEM,2027-28,0,Free Agent
+1631222.0,Jake LaRavia,MEM,2028-29,0,Free Agent
+,Kai Jones,,2023-24,3198778,Guaranteed
+,Kai Jones,,2024-25,2196970,Guaranteed
+,Kai Jones,,2025-26,0,Free Agent
+,Kai Jones,,2026-27,0,Free Agent
+,Kai Jones,,2027-28,0,Free Agent
+,Kai Jones,,2028-29,0,Free Agent
+201565.0,Derrick Rose,MEM,2023-24,3196448,Guaranteed
+201565.0,Derrick Rose,MEM,2024-25,3356271,Guaranteed
+201565.0,Derrick Rose,MEM,2025-26,0,Free Agent
+201565.0,Derrick Rose,MEM,2026-27,0,Free Agent
+201565.0,Derrick Rose,MEM,2027-28,0,Free Agent
+201565.0,Derrick Rose,MEM,2028-29,0,Free Agent
+201569.0,Eric Gordon,PHI,2023-24,3196448,Guaranteed
+201569.0,Eric Gordon,PHI,2024-25,3356271,Player Option
+201569.0,Eric Gordon,PHI,2025-26,0,Free Agent
+201569.0,Eric Gordon,PHI,2026-27,0,Free Agent
+201569.0,Eric Gordon,PHI,2027-28,0,Free Agent
+201569.0,Eric Gordon,PHI,2028-29,0,Free Agent
+202083.0,Wesley Matthews,ATL,2023-24,3196448,Guaranteed
+202083.0,Wesley Matthews,ATL,2024-25,0,Free Agent
+202083.0,Wesley Matthews,ATL,2025-26,0,Free Agent
+202083.0,Wesley Matthews,ATL,2026-27,0,Free Agent
+202083.0,Wesley Matthews,ATL,2027-28,0,Free Agent
+202083.0,Wesley Matthews,ATL,2028-29,0,Free Agent
+,Ishmael Smith,,2023-24,3196448,Guaranteed
+,Ishmael Smith,,2024-25,0,Free Agent
+,Ishmael Smith,,2025-26,0,Free Agent
+,Ishmael Smith,,2026-27,0,Free Agent
+,Ishmael Smith,,2027-28,0,Free Agent
+,Ishmael Smith,,2028-29,0,Free Agent
+202684.0,Tristan Thompson,CLE,2023-24,3196448,Guaranteed
+202684.0,Tristan Thompson,CLE,2024-25,0,Free Agent
+202684.0,Tristan Thompson,CLE,2025-26,0,Free Agent
+202684.0,Tristan Thompson,CLE,2026-27,0,Free Agent
+202684.0,Tristan Thompson,CLE,2027-28,0,Free Agent
+202684.0,Tristan Thompson,CLE,2028-29,0,Free Agent
+202693.0,Markieff Morris,DAL,2023-24,3196448,Guaranteed
+202693.0,Markieff Morris,DAL,2024-25,0,Free Agent
+202693.0,Markieff Morris,DAL,2025-26,0,Free Agent
+202693.0,Markieff Morris,DAL,2026-27,0,Free Agent
+202693.0,Markieff Morris,DAL,2027-28,0,Free Agent
+202693.0,Markieff Morris,DAL,2028-29,0,Free Agent
+203200.0,Justin Holiday,DEN,2023-24,3196448,Guaranteed
+203200.0,Justin Holiday,DEN,2024-25,0,Free Agent
+203200.0,Justin Holiday,DEN,2025-26,0,Free Agent
+203200.0,Justin Holiday,DEN,2026-27,0,Free Agent
+203200.0,Justin Holiday,DEN,2027-28,0,Free Agent
+203200.0,Justin Holiday,DEN,2028-29,0,Free Agent
+201599.0,DeAndre Jordan,DEN,2023-24,3196448,Guaranteed
+201599.0,DeAndre Jordan,DEN,2024-25,0,Free Agent
+201599.0,DeAndre Jordan,DEN,2025-26,0,Free Agent
+201599.0,DeAndre Jordan,DEN,2026-27,0,Free Agent
+201599.0,DeAndre Jordan,DEN,2027-28,0,Free Agent
+201599.0,DeAndre Jordan,DEN,2028-29,0,Free Agent
+202709.0,Cory Joseph,ORL,2023-24,3196448,Guaranteed
+202709.0,Cory Joseph,ORL,2024-25,0,Free Agent
+202709.0,Cory Joseph,ORL,2025-26,0,Free Agent
+202709.0,Cory Joseph,ORL,2026-27,0,Free Agent
+202709.0,Cory Joseph,ORL,2027-28,0,Free Agent
+202709.0,Cory Joseph,ORL,2028-29,0,Free Agent
+201976.0,Patrick Beverley,MIL,2023-24,3196448,Guaranteed
+201976.0,Patrick Beverley,MIL,2024-25,0,Free Agent
+201976.0,Patrick Beverley,MIL,2025-26,0,Free Agent
+201976.0,Patrick Beverley,MIL,2026-27,0,Free Agent
+201976.0,Patrick Beverley,MIL,2027-28,0,Free Agent
+201976.0,Patrick Beverley,MIL,2028-29,0,Free Agent
+203109.0,Jae Crowder,MIL,2023-24,3196448,Guaranteed
+203109.0,Jae Crowder,MIL,2024-25,0,Free Agent
+203109.0,Jae Crowder,MIL,2025-26,0,Free Agent
+203109.0,Jae Crowder,MIL,2026-27,0,Free Agent
+203109.0,Jae Crowder,MIL,2027-28,0,Free Agent
+203109.0,Jae Crowder,MIL,2028-29,0,Free Agent
+203469.0,Cody Zeller,ATL,2023-24,3196448,Guaranteed
+203469.0,Cody Zeller,ATL,2024-25,0,Free Agent
+203469.0,Cody Zeller,ATL,2025-26,0,Free Agent
+203469.0,Cody Zeller,ATL,2026-27,0,Free Agent
+203469.0,Cody Zeller,ATL,2027-28,0,Free Agent
+203469.0,Cody Zeller,ATL,2028-29,0,Free Agent
+203458.0,Alex Len,SAC,2023-24,3196448,Guaranteed
+203458.0,Alex Len,SAC,2024-25,0,Free Agent
+203458.0,Alex Len,SAC,2025-26,0,Free Agent
+203458.0,Alex Len,SAC,2026-27,0,Free Agent
+203458.0,Alex Len,SAC,2027-28,0,Free Agent
+203458.0,Alex Len,SAC,2028-29,0,Free Agent
+201577.0,Robin Lopez,,2023-24,3196448,Guaranteed
+201577.0,Robin Lopez,,2024-25,0,Free Agent
+201577.0,Robin Lopez,,2025-26,0,Free Agent
+201577.0,Robin Lopez,,2026-27,0,Free Agent
+201577.0,Robin Lopez,,2027-28,0,Free Agent
+201577.0,Robin Lopez,,2028-29,0,Free Agent
+202066.0,Garrett Temple,TOR,2023-24,3196448,Guaranteed
+202066.0,Garrett Temple,TOR,2024-25,0,Free Agent
+202066.0,Garrett Temple,TOR,2025-26,0,Free Agent
+202066.0,Garrett Temple,TOR,2026-27,0,Free Agent
+202066.0,Garrett Temple,TOR,2027-28,0,Free Agent
+202066.0,Garrett Temple,TOR,2028-29,0,Free Agent
+1630586.0,Usman Garuba,GSW,2023-24,3159790,Guaranteed
+1630586.0,Usman Garuba,GSW,2024-25,0,Free Agent
+1630586.0,Usman Garuba,GSW,2025-26,0,Free Agent
+1630586.0,Usman Garuba,GSW,2026-27,0,Free Agent
+1630586.0,Usman Garuba,GSW,2027-28,0,Free Agent
+1630586.0,Usman Garuba,GSW,2028-29,0,Free Agent
+1641730.0,Noah Clowney,BKN,2023-24,3089460,Guaranteed
+1641730.0,Noah Clowney,BKN,2024-25,3243933,Guaranteed
+1641730.0,Noah Clowney,BKN,2025-26,3398406,Team Option
+1641730.0,Noah Clowney,BKN,2026-27,5413661,Team Option
+1641730.0,Noah Clowney,BKN,2027-28,8342451,Qualifying Offer
+1641730.0,Noah Clowney,BKN,2028-29,0,Free Agent
+1631103.0,Malaki Branham,SAS,2023-24,3071880,Guaranteed
+1631103.0,Malaki Branham,SAS,2024-25,3217920,Guaranteed
+1631103.0,Malaki Branham,SAS,2025-26,4962033,Team Option
+1631103.0,Malaki Branham,SAS,2026-27,7110593,Qualifying Offer
+1631103.0,Malaki Branham,SAS,2027-28,0,Free Agent
+1631103.0,Malaki Branham,SAS,2028-29,0,Free Agent
+1631323.0,Simone Fontecchio,DET,2023-24,3044872,Guaranteed
+1631323.0,Simone Fontecchio,DET,2024-25,0,Free Agent
+1631323.0,Simone Fontecchio,DET,2025-26,0,Free Agent
+1631323.0,Simone Fontecchio,DET,2026-27,0,Free Agent
+1631323.0,Simone Fontecchio,DET,2027-28,0,Free Agent
+1631323.0,Simone Fontecchio,DET,2028-29,0,Free Agent
+203957.0,Dante Exum,DAL,2023-24,3000000,Guaranteed
+203957.0,Dante Exum,DAL,2024-25,3150000,Guaranteed
+203957.0,Dante Exum,DAL,2025-26,0,Free Agent
+203957.0,Dante Exum,DAL,2026-27,0,Free Agent
+203957.0,Dante Exum,DAL,2027-28,0,Free Agent
+203957.0,Dante Exum,DAL,2028-29,0,Free Agent
+1630577.0,Julian Champagnie,SAS,2023-24,3000000,Guaranteed
+1630577.0,Julian Champagnie,SAS,2024-25,3000000,Guaranteed
+1630577.0,Julian Champagnie,SAS,2025-26,3000000,Guaranteed
+1630577.0,Julian Champagnie,SAS,2026-27,3000000,Team Option
+1630577.0,Julian Champagnie,SAS,2027-28,0,Free Agent
+1630577.0,Julian Champagnie,SAS,2028-29,0,Free Agent
+1629670.0,Jordan Nwora,TOR,2023-24,3000000,Guaranteed
+1629670.0,Jordan Nwora,TOR,2024-25,0,Free Agent
+1629670.0,Jordan Nwora,TOR,2025-26,0,Free Agent
+1629670.0,Jordan Nwora,TOR,2026-27,0,Free Agent
+1629670.0,Jordan Nwora,TOR,2027-28,0,Free Agent
+1629670.0,Jordan Nwora,TOR,2028-29,0,Free Agent
+1641727.0,Dariq Whitehead,BKN,2023-24,2966040,Guaranteed
+1641727.0,Dariq Whitehead,BKN,2024-25,3114342,Guaranteed
+1641727.0,Dariq Whitehead,BKN,2025-26,3262644,Team Option
+1641727.0,Dariq Whitehead,BKN,2026-27,5367049,Team Option
+1641727.0,Dariq Whitehead,BKN,2027-28,8308191,Qualifying Offer
+1641727.0,Dariq Whitehead,BKN,2028-29,0,Free Agent
+1631128.0,Christian Braun,DEN,2023-24,2949120,Guaranteed
+1631128.0,Christian Braun,DEN,2024-25,3089640,Guaranteed
+1631128.0,Christian Braun,DEN,2025-26,4921797,Team Option
+1631128.0,Christian Braun,DEN,2026-27,7092309,Qualifying Offer
+1631128.0,Christian Braun,DEN,2027-28,0,Free Agent
+1631128.0,Christian Braun,DEN,2028-29,0,Free Agent
+1630552.0,Jalen Johnson,ATL,2023-24,2925360,Guaranteed
+1630552.0,Jalen Johnson,ATL,2024-25,4510905,Guaranteed
+1630552.0,Jalen Johnson,ATL,2025-26,6464127,Qualifying Offer
+1630552.0,Jalen Johnson,ATL,2026-27,0,Free Agent
+1630552.0,Jalen Johnson,ATL,2027-28,0,Free Agent
+1630552.0,Jalen Johnson,ATL,2028-29,0,Free Agent
+1626196.0,Josh Richardson,MIA,2023-24,2891467,Guaranteed
+1626196.0,Josh Richardson,MIA,2024-25,3051153,Player Option
+1626196.0,Josh Richardson,MIA,2025-26,0,Free Agent
+1626196.0,Josh Richardson,MIA,2026-27,0,Free Agent
+1626196.0,Josh Richardson,MIA,2027-28,0,Free Agent
+1626196.0,Josh Richardson,MIA,2028-29,0,Free Agent
+1626246.0,Boban Marjanovic,HOU,2023-24,2891467,Guaranteed
+1626246.0,Boban Marjanovic,HOU,2024-25,0,Free Agent
+1626246.0,Boban Marjanovic,HOU,2025-26,0,Free Agent
+1626246.0,Boban Marjanovic,HOU,2026-27,0,Free Agent
+1626246.0,Boban Marjanovic,HOU,2027-28,0,Free Agent
+1626246.0,Boban Marjanovic,HOU,2028-29,0,Free Agent
+,Kelly Oubre,,2023-24,2891467,Guaranteed
+,Kelly Oubre,,2024-25,0,Free Agent
+,Kelly Oubre,,2025-26,0,Free Agent
+,Kelly Oubre,,2026-27,0,Free Agent
+,Kelly Oubre,,2027-28,0,Free Agent
+,Kelly Oubre,,2028-29,0,Free Agent
+1631200.0,Kris Murray,POR,2023-24,2847504,Guaranteed
+1631200.0,Kris Murray,POR,2024-25,2989879,Guaranteed
+1631200.0,Kris Murray,POR,2025-26,3132254,Team Option
+1631200.0,Kris Murray,POR,2026-27,5315436,Team Option
+1631200.0,Kris Murray,POR,2027-28,8265502,Qualifying Offer
+1631200.0,Kris Murray,POR,2028-29,0,Free Agent
+,Andrew Nicholson,,2023-24,2844429,Guaranteed
+,Andrew Nicholson,,2024-25,0,Free Agent
+,Andrew Nicholson,,2025-26,0,Free Agent
+,Andrew Nicholson,,2026-27,0,Free Agent
+,Andrew Nicholson,,2027-28,0,Free Agent
+,Andrew Nicholson,,2028-29,0,Free Agent
+1631117.0,Walker Kessler,UTA,2023-24,2831160,Guaranteed
+1631117.0,Walker Kessler,UTA,2024-25,2965920,Guaranteed
+1631117.0,Walker Kessler,UTA,2025-26,4878938,Team Option
+1631117.0,Walker Kessler,UTA,2026-27,7064703,Qualifying Offer
+1631117.0,Walker Kessler,UTA,2027-28,0,Free Agent
+1631117.0,Walker Kessler,UTA,2028-29,0,Free Agent
+,TyTy Washington,,2023-24,2830222,Two-Way
+,TyTy Washington,,2024-25,0,Free Agent
+,TyTy Washington,,2025-26,0,Free Agent
+,TyTy Washington,,2026-27,0,Free Agent
+,TyTy Washington,,2027-28,0,Free Agent
+,TyTy Washington,,2028-29,0,Free Agent
+1629006.0,Josh Okogie,PHX,2023-24,2815937,Guaranteed
+1629006.0,Josh Okogie,PHX,2024-25,2956734,Player Option
+1629006.0,Josh Okogie,PHX,2025-26,0,Free Agent
+1629006.0,Josh Okogie,PHX,2026-27,0,Free Agent
+1629006.0,Josh Okogie,PHX,2027-28,0,Free Agent
+1629006.0,Josh Okogie,PHX,2028-29,0,Free Agent
+1630209.0,Omer Yurtseven,UTA,2023-24,2800000,Guaranteed
+1630209.0,Omer Yurtseven,UTA,2024-25,2660000,Team Option
+1630209.0,Omer Yurtseven,UTA,2025-26,0,Free Agent
+1630209.0,Omer Yurtseven,UTA,2026-27,0,Free Agent
+1630209.0,Omer Yurtseven,UTA,2027-28,0,Free Agent
+1630209.0,Omer Yurtseven,UTA,2028-29,0,Free Agent
+,Dewayne Dedmon,,2023-24,2748674,Guaranteed
+,Dewayne Dedmon,,2024-25,0,Free Agent
+,Dewayne Dedmon,,2025-26,0,Free Agent
+,Dewayne Dedmon,,2026-27,0,Free Agent
+,Dewayne Dedmon,,2027-28,0,Free Agent
+,Dewayne Dedmon,,2028-29,0,Free Agent
+1641765.0,Olivier-Maxence Prosper,DAL,2023-24,2733720,Guaranteed
+1641765.0,Olivier-Maxence Prosper,DAL,2024-25,2870406,Guaranteed
+1641765.0,Olivier-Maxence Prosper,DAL,2025-26,3007092,Team Option
+1641765.0,Olivier-Maxence Prosper,DAL,2026-27,5259404,Team Option
+1641765.0,Olivier-Maxence Prosper,DAL,2027-28,8215189,Qualifying Offer
+1641765.0,Olivier-Maxence Prosper,DAL,2028-29,0,Free Agent
+1630528.0,Josh Christopher,MIA,2023-24,2732920,Guaranteed
+1630528.0,Josh Christopher,MIA,2024-25,0,Free Agent
+1630528.0,Josh Christopher,MIA,2025-26,0,Free Agent
+1630528.0,Josh Christopher,MIA,2026-27,0,Free Agent
+1630528.0,Josh Christopher,MIA,2027-28,0,Free Agent
+1630528.0,Josh Christopher,MIA,2028-29,0,Free Agent
+1631223.0,David Roddy,ATL,2023-24,2718240,Guaranteed
+1631223.0,David Roddy,ATL,2024-25,2847240,Guaranteed
+1631223.0,David Roddy,ATL,2025-26,4831766,Team Option
+1631223.0,David Roddy,ATL,2026-27,7030219,Qualifying Offer
+1631223.0,David Roddy,ATL,2027-28,0,Free Agent
+1631223.0,David Roddy,ATL,2028-29,0,Free Agent
+1626174.0,Christian Wood,LAL,2023-24,2709849,Guaranteed
+1626174.0,Christian Wood,LAL,2024-25,3036040,Player Option
+1626174.0,Christian Wood,LAL,2025-26,0,Free Agent
+1626174.0,Christian Wood,LAL,2026-27,0,Free Agent
+1626174.0,Christian Wood,LAL,2027-28,0,Free Agent
+1626174.0,Christian Wood,LAL,2028-29,0,Free Agent
+,Derrick Jones,,2023-24,2709849,Guaranteed
+,Derrick Jones,,2024-25,0,Free Agent
+,Derrick Jones,,2025-26,0,Free Agent
+,Derrick Jones,,2026-27,0,Free Agent
+,Derrick Jones,,2027-28,0,Free Agent
+,Derrick Jones,,2028-29,0,Free Agent
+203967.0,Dario Saric,DEN,2023-24,2709849,Guaranteed
+203967.0,Dario Saric,DEN,2024-25,0,Free Agent
+203967.0,Dario Saric,DEN,2025-26,0,Free Agent
+203967.0,Dario Saric,DEN,2026-27,0,Free Agent
+203967.0,Dario Saric,DEN,2027-28,0,Free Agent
+203967.0,Dario Saric,DEN,2028-29,0,Free Agent
+1627736.0,Malik Beasley,DET,2023-24,2709849,Guaranteed
+1627736.0,Malik Beasley,DET,2024-25,0,Free Agent
+1627736.0,Malik Beasley,DET,2025-26,0,Free Agent
+1627736.0,Malik Beasley,DET,2026-27,0,Free Agent
+1627736.0,Malik Beasley,DET,2027-28,0,Free Agent
+1627736.0,Malik Beasley,DET,2028-29,0,Free Agent
+1629002.0,Chimezie Metu,DET,2023-24,2697258,Guaranteed
+1629002.0,Chimezie Metu,DET,2024-25,2654644,Team Option
+1629002.0,Chimezie Metu,DET,2025-26,0,Free Agent
+1629002.0,Chimezie Metu,DET,2026-27,0,Free Agent
+1629002.0,Chimezie Metu,DET,2027-28,0,Free Agent
+1629002.0,Chimezie Metu,DET,2028-29,0,Free Agent
+1630543.0,Isaiah Jackson,IND,2023-24,2696280,Guaranteed
+1630543.0,Isaiah Jackson,IND,2024-25,4435380,Guaranteed
+1630543.0,Isaiah Jackson,IND,2025-26,6422431,Qualifying Offer
+1630543.0,Isaiah Jackson,IND,2026-27,0,Free Agent
+1630543.0,Isaiah Jackson,IND,2027-28,0,Free Agent
+1630543.0,Isaiah Jackson,IND,2028-29,0,Free Agent
+1631204.0,Marcus Sasser,DET,2023-24,2624028,Guaranteed
+1631204.0,Marcus Sasser,DET,2024-25,2755229,Guaranteed
+1631204.0,Marcus Sasser,DET,2025-26,2886431,Team Option
+1631204.0,Marcus Sasser,DET,2026-27,5198462,Team Option
+1631204.0,Marcus Sasser,DET,2027-28,8156386,Qualifying Offer
+1631204.0,Marcus Sasser,DET,2028-29,0,Free Agent
+1630699.0,MarJon Beauchamp,MIL,2023-24,2609400,Guaranteed
+1630699.0,MarJon Beauchamp,MIL,2024-25,2733720,Guaranteed
+1630699.0,MarJon Beauchamp,MIL,2025-26,4781276,Team Option
+1630699.0,MarJon Beauchamp,MIL,2026-27,6990226,Qualifying Offer
+1630699.0,MarJon Beauchamp,MIL,2027-28,0,Free Agent
+1630699.0,MarJon Beauchamp,MIL,2028-29,0,Free Agent
+1629646.0,Charles Bassey,SAS,2023-24,2600000,Guaranteed
+1629646.0,Charles Bassey,SAS,2024-25,2500000,Team Option
+1629646.0,Charles Bassey,SAS,2025-26,2500000,Team Option
+1629646.0,Charles Bassey,SAS,2026-27,0,Free Agent
+1629646.0,Charles Bassey,SAS,2027-28,0,Free Agent
+1629646.0,Charles Bassey,SAS,2028-29,0,Free Agent
+1627745.0,Damian Jones,CLE,2023-24,2586665,Guaranteed
+1627745.0,Damian Jones,CLE,2024-25,0,Free Agent
+1627745.0,Damian Jones,CLE,2025-26,0,Free Agent
+1627745.0,Damian Jones,CLE,2026-27,0,Free Agent
+1627745.0,Damian Jones,CLE,2027-28,0,Free Agent
+1627745.0,Damian Jones,CLE,2028-29,0,Free Agent
+,Kenneth Lofton,,2023-24,2586618,Guaranteed
+,Kenneth Lofton,,2024-25,2120683,Guaranteed
+,Kenneth Lofton,,2025-26,2301587,Guaranteed
+,Kenneth Lofton,,2026-27,0,Free Agent
+,Kenneth Lofton,,2027-28,0,Free Agent
+,Kenneth Lofton,,2028-29,0,Free Agent
+1627739.0,Kris Dunn,LAC,2023-24,2586484,Guaranteed
+1627739.0,Kris Dunn,LAC,2024-25,0,Free Agent
+1627739.0,Kris Dunn,LAC,2025-26,0,Free Agent
+1627739.0,Kris Dunn,LAC,2026-27,0,Free Agent
+1627739.0,Kris Dunn,LAC,2027-28,0,Free Agent
+1627739.0,Kris Dunn,LAC,2028-29,0,Free Agent
+1628981.0,Bruno Fernando,TOR,2023-24,2581522,Guaranteed
+1628981.0,Bruno Fernando,TOR,2024-25,2717391,Guaranteed
+1628981.0,Bruno Fernando,TOR,2025-26,2853260,Guaranteed
+1628981.0,Bruno Fernando,TOR,2026-27,0,Free Agent
+1628981.0,Bruno Fernando,TOR,2027-28,0,Free Agent
+1628981.0,Bruno Fernando,TOR,2028-29,0,Free Agent
+1630526.0,Jeremiah Robinson-Earl,NOP,2023-24,2548843,Guaranteed
+1630526.0,Jeremiah Robinson-Earl,NOP,2024-25,2196970,Guaranteed
+1630526.0,Jeremiah Robinson-Earl,NOP,2025-26,0,Free Agent
+1630526.0,Jeremiah Robinson-Earl,NOP,2026-27,0,Free Agent
+1630526.0,Jeremiah Robinson-Earl,NOP,2027-28,0,Free Agent
+1630526.0,Jeremiah Robinson-Earl,NOP,2028-29,0,Free Agent
+1641767.0,Ben Sheppard,IND,2023-24,2537172,Guaranteed
+1641767.0,Ben Sheppard,IND,2024-25,2664031,Guaranteed
+1641767.0,Ben Sheppard,IND,2025-26,2790889,Team Option
+1641767.0,Ben Sheppard,IND,2026-27,5031973,Team Option
+1641767.0,Ben Sheppard,IND,2027-28,7930389,Qualifying Offer
+1641767.0,Ben Sheppard,IND,2028-29,0,Free Agent
+1628470.0,Torrey Craig,CHI,2023-24,2528233,Guaranteed
+1628470.0,Torrey Craig,CHI,2024-25,2845342,Player Option
+1628470.0,Torrey Craig,CHI,2025-26,0,Free Agent
+1628470.0,Torrey Craig,CHI,2026-27,0,Free Agent
+1628470.0,Torrey Craig,CHI,2027-28,0,Free Agent
+1628470.0,Torrey Craig,CHI,2028-29,0,Free Agent
+1628418.0,Thomas Bryant,MIA,2023-24,2528233,Guaranteed
+1628418.0,Thomas Bryant,MIA,2024-25,2845342,Player Option
+1628418.0,Thomas Bryant,MIA,2025-26,0,Free Agent
+1628418.0,Thomas Bryant,MIA,2026-27,0,Free Agent
+1628418.0,Thomas Bryant,MIA,2027-28,0,Free Agent
+1628418.0,Thomas Bryant,MIA,2028-29,0,Free Agent
+1627814.0,Damion Lee,PHX,2023-24,2528233,Guaranteed
+1627814.0,Damion Lee,PHX,2024-25,2845342,Player Option
+1627814.0,Damion Lee,PHX,2025-26,0,Free Agent
+1627814.0,Damion Lee,PHX,2026-27,0,Free Agent
+1627814.0,Damion Lee,PHX,2027-28,0,Free Agent
+1627814.0,Damion Lee,PHX,2028-29,0,Free Agent
+,Dennis Smith,,2023-24,2528233,Guaranteed
+,Dennis Smith,,2024-25,0,Free Agent
+,Dennis Smith,,2025-26,0,Free Agent
+,Dennis Smith,,2026-27,0,Free Agent
+,Dennis Smith,,2027-28,0,Free Agent
+,Dennis Smith,,2028-29,0,Free Agent
+1628373.0,Frank Ntilikina,,2023-24,2528233,Guaranteed
+1628373.0,Frank Ntilikina,,2024-25,0,Free Agent
+1628373.0,Frank Ntilikina,,2025-26,0,Free Agent
+1628373.0,Frank Ntilikina,,2026-27,0,Free Agent
+1628373.0,Frank Ntilikina,,2027-28,0,Free Agent
+1628373.0,Frank Ntilikina,,2028-29,0,Free Agent
+1627853.0,Ryan Arcidiacono,,2023-24,2528233,Guaranteed
+1627853.0,Ryan Arcidiacono,,2024-25,0,Free Agent
+1627853.0,Ryan Arcidiacono,,2025-26,0,Free Agent
+1627853.0,Ryan Arcidiacono,,2026-27,0,Free Agent
+1627853.0,Ryan Arcidiacono,,2027-28,0,Free Agent
+1627853.0,Ryan Arcidiacono,,2028-29,0,Free Agent
+1631104.0,Blake Wesley,SAS,2023-24,2504640,Guaranteed
+1631104.0,Blake Wesley,SAS,2024-25,2624280,Guaranteed
+1631104.0,Blake Wesley,SAS,2025-26,4726328,Team Option
+1631104.0,Blake Wesley,SAS,2026-27,6942976,Qualifying Offer
+1631104.0,Blake Wesley,SAS,2027-28,0,Free Agent
+1631104.0,Blake Wesley,SAS,2028-29,0,Free Agent
+1630205.0,Lamar Stevens,MEM,2023-24,2492354,Guaranteed
+1630205.0,Lamar Stevens,MEM,2024-25,0,Free Agent
+1630205.0,Lamar Stevens,MEM,2025-26,0,Free Agent
+1630205.0,Lamar Stevens,MEM,2026-27,0,Free Agent
+1630205.0,Lamar Stevens,MEM,2027-28,0,Free Agent
+1630205.0,Lamar Stevens,MEM,2028-29,0,Free Agent
+,Nick Smith,,2023-24,2463912,Guaranteed
+,Nick Smith,,2024-25,2587108,Guaranteed
+,Nick Smith,,2025-26,2710303,Team Option
+,Nick Smith,,2026-27,4889387,Team Option
+,Nick Smith,,2027-28,7739899,Qualifying Offer
+,Nick Smith,,2028-29,0,Free Agent
+1641729.0,Brice Sensabaugh,UTA,2023-24,2448600,Guaranteed
+1641729.0,Brice Sensabaugh,UTA,2024-25,2571030,Guaranteed
+1641729.0,Brice Sensabaugh,UTA,2025-26,2693460,Team Option
+1641729.0,Brice Sensabaugh,UTA,2026-27,4861695,Team Option
+1641729.0,Brice Sensabaugh,UTA,2027-28,7730095,Qualifying Offer
+1641729.0,Brice Sensabaugh,UTA,2028-29,0,Free Agent
+1629660.0,Ty Jerome,CLE,2023-24,2439025,Guaranteed
+1629660.0,Ty Jerome,CLE,2024-25,2560975,Guaranteed
+1629660.0,Ty Jerome,CLE,2025-26,0,Free Agent
+1629660.0,Ty Jerome,CLE,2026-27,0,Free Agent
+1629660.0,Ty Jerome,CLE,2027-28,0,Free Agent
+1629660.0,Ty Jerome,CLE,2028-29,0,Free Agent
+1631124.0,Julian Strawther,DEN,2023-24,2431044,Guaranteed
+1631124.0,Julian Strawther,DEN,2024-25,2552596,Guaranteed
+1631124.0,Julian Strawther,DEN,2025-26,2674148,Team Option
+1631124.0,Julian Strawther,DEN,2026-27,4826838,Team Option
+1631124.0,Julian Strawther,DEN,2027-28,7722940,Qualifying Offer
+1631124.0,Julian Strawther,DEN,2028-29,0,Free Agent
+,Tristan Vukcevic,,2023-24,2424892,Guaranteed
+,Tristan Vukcevic,,2024-25,2424892,Team Option
+,Tristan Vukcevic,,2025-26,0,Free Agent
+,Tristan Vukcevic,,2026-27,0,Free Agent
+,Tristan Vukcevic,,2027-28,0,Free Agent
+,Tristan Vukcevic,,2028-29,0,Free Agent
+,Wendell Moore,,2023-24,2421720,Guaranteed
+,Wendell Moore,,2024-25,2537040,Guaranteed
+,Wendell Moore,,2025-26,4574283,Team Option
+,Wendell Moore,,2026-27,6751642,Qualifying Offer
+,Wendell Moore,,2027-28,0,Free Agent
+,Wendell Moore,,2028-29,0,Free Agent
+1629162.0,Jordan McLaughlin,SAC,2023-24,2420000,Guaranteed
+1629162.0,Jordan McLaughlin,SAC,2024-25,0,Free Agent
+1629162.0,Jordan McLaughlin,SAC,2025-26,0,Free Agent
+1629162.0,Jordan McLaughlin,SAC,2026-27,0,Free Agent
+1629162.0,Jordan McLaughlin,SAC,2027-28,0,Free Agent
+1629162.0,Jordan McLaughlin,SAC,2028-29,0,Free Agent
+1641738.0,Kobe Brown,LAC,2023-24,2413356,Guaranteed
+1641738.0,Kobe Brown,LAC,2024-25,2534024,Guaranteed
+1641738.0,Kobe Brown,LAC,2025-26,2654692,Team Option
+1641738.0,Kobe Brown,LAC,2026-27,4791718,Team Option
+1641738.0,Kobe Brown,LAC,2027-28,7666748,Qualifying Offer
+1641738.0,Kobe Brown,LAC,2028-29,0,Free Agent
+1628436.0,Luke Kornet,BOS,2023-24,2413304,Guaranteed
+1628436.0,Luke Kornet,BOS,2024-25,0,Free Agent
+1628436.0,Luke Kornet,BOS,2025-26,0,Free Agent
+1628436.0,Luke Kornet,BOS,2026-27,0,Free Agent
+1628436.0,Luke Kornet,BOS,2027-28,0,Free Agent
+1628436.0,Luke Kornet,BOS,2028-29,0,Free Agent
+1629723.0,John Konchar,MEM,2023-24,2400000,Guaranteed
+1629723.0,John Konchar,MEM,2024-25,6165000,Guaranteed
+1629723.0,John Konchar,MEM,2025-26,6165000,Guaranteed
+1629723.0,John Konchar,MEM,2026-27,6165000,Guaranteed
+1629723.0,John Konchar,MEM,2027-28,0,Free Agent
+1629723.0,John Konchar,MEM,2028-29,0,Free Agent
+1629656.0,Quentin Grimes,DAL,2023-24,2385720,Guaranteed
+1629656.0,Quentin Grimes,DAL,2024-25,4296682,Guaranteed
+1629656.0,Quentin Grimes,DAL,2025-26,6311825,Qualifying Offer
+1629656.0,Quentin Grimes,DAL,2026-27,0,Free Agent
+1629656.0,Quentin Grimes,DAL,2027-28,0,Free Agent
+1629656.0,Quentin Grimes,DAL,2028-29,0,Free Agent
+1631107.0,Nikola Jovic,MIA,2023-24,2352000,Guaranteed
+1631107.0,Nikola Jovic,MIA,2024-25,2464200,Guaranteed
+1631107.0,Nikola Jovic,MIA,2025-26,4445417,Team Option
+1631107.0,Nikola Jovic,MIA,2026-27,6592553,Qualifying Offer
+1631107.0,Nikola Jovic,MIA,2027-28,0,Free Agent
+1631107.0,Nikola Jovic,MIA,2028-29,0,Free Agent
+1628966.0,Keita Bates-Diop,NYK,2023-24,2346614,Guaranteed
+1628966.0,Keita Bates-Diop,NYK,2024-25,2654644,Player Option
+1628966.0,Keita Bates-Diop,NYK,2025-26,0,Free Agent
+1628966.0,Keita Bates-Diop,NYK,2026-27,0,Free Agent
+1628966.0,Keita Bates-Diop,NYK,2027-28,0,Free Agent
+1628966.0,Keita Bates-Diop,NYK,2028-29,0,Free Agent
+1629139.0,Yuta Watanabe,MEM,2023-24,2346614,Guaranteed
+1629139.0,Yuta Watanabe,MEM,2024-25,2654644,Player Option
+1629139.0,Yuta Watanabe,MEM,2025-26,0,Free Agent
+1629139.0,Yuta Watanabe,MEM,2026-27,0,Free Agent
+1629139.0,Yuta Watanabe,MEM,2027-28,0,Free Agent
+1629139.0,Yuta Watanabe,MEM,2028-29,0,Free Agent
+1629234.0,Drew Eubanks,PHX,2023-24,2346614,Guaranteed
+1629234.0,Drew Eubanks,PHX,2024-25,2654644,Player Option
+1629234.0,Drew Eubanks,PHX,2025-26,0,Free Agent
+1629234.0,Drew Eubanks,PHX,2026-27,0,Free Agent
+1629234.0,Drew Eubanks,PHX,2027-28,0,Free Agent
+1629234.0,Drew Eubanks,PHX,2028-29,0,Free Agent
+,Sviatoslav Mykhailiuk,,2023-24,2346614,Guaranteed
+,Sviatoslav Mykhailiuk,,2024-25,0,Free Agent
+,Sviatoslav Mykhailiuk,,2025-26,0,Free Agent
+,Sviatoslav Mykhailiuk,,2026-27,0,Free Agent
+,Sviatoslav Mykhailiuk,,2027-28,0,Free Agent
+,Sviatoslav Mykhailiuk,,2028-29,0,Free Agent
+,Lonnie Walker,,2023-24,2346614,Guaranteed
+,Lonnie Walker,,2024-25,0,Free Agent
+,Lonnie Walker,,2025-26,0,Free Agent
+,Lonnie Walker,,2026-27,0,Free Agent
+,Lonnie Walker,,2027-28,0,Free Agent
+,Lonnie Walker,,2028-29,0,Free Agent
+1628988.0,Aaron Holiday,HOU,2023-24,2346614,Guaranteed
+1628988.0,Aaron Holiday,HOU,2024-25,0,Free Agent
+1628988.0,Aaron Holiday,HOU,2025-26,0,Free Agent
+1628988.0,Aaron Holiday,HOU,2026-27,0,Free Agent
+1628988.0,Aaron Holiday,HOU,2027-28,0,Free Agent
+1628988.0,Aaron Holiday,HOU,2028-29,0,Free Agent
+203648.0,Thanasis Antetokounmpo,MIL,2023-24,2346614,Guaranteed
+203648.0,Thanasis Antetokounmpo,MIL,2024-25,0,Free Agent
+203648.0,Thanasis Antetokounmpo,MIL,2025-26,0,Free Agent
+203648.0,Thanasis Antetokounmpo,MIL,2026-27,0,Free Agent
+203648.0,Thanasis Antetokounmpo,MIL,2027-28,0,Free Agent
+203648.0,Thanasis Antetokounmpo,MIL,2028-29,0,Free Agent
+1628964.0,Mo Bamba,LAC,2023-24,2346614,Guaranteed
+1628964.0,Mo Bamba,LAC,2024-25,0,Free Agent
+1628964.0,Mo Bamba,LAC,2025-26,0,Free Agent
+1628964.0,Mo Bamba,LAC,2026-27,0,Free Agent
+1628964.0,Mo Bamba,LAC,2027-28,0,Free Agent
+1628964.0,Mo Bamba,LAC,2028-29,0,Free Agent
+,Patrick Baldwin,,2023-24,2337720,Guaranteed
+,Patrick Baldwin,,2024-25,2448840,Guaranteed
+,Patrick Baldwin,,2025-26,4420156,Team Option
+,Patrick Baldwin,,2026-27,6586033,Qualifying Offer
+,Patrick Baldwin,,2027-28,0,Free Agent
+,Patrick Baldwin,,2028-29,0,Free Agent
+,Harry Giles,,2023-24,2306554,Guaranteed
+,Harry Giles,,2024-25,0,Free Agent
+,Harry Giles,,2025-26,0,Free Agent
+,Harry Giles,,2026-27,0,Free Agent
+,Harry Giles,,2027-28,0,Free Agent
+,Harry Giles,,2028-29,0,Free Agent
+1630538.0,Bones Hyland,LAC,2023-24,2306400,Guaranteed
+1630538.0,Bones Hyland,LAC,2024-25,4158439,Guaranteed
+1630538.0,Bones Hyland,LAC,2025-26,6137856,Qualifying Offer
+1630538.0,Bones Hyland,LAC,2026-27,0,Free Agent
+1630538.0,Bones Hyland,LAC,2027-28,0,Free Agent
+1630538.0,Bones Hyland,LAC,2028-29,0,Free Agent
+1631212.0,Peyton Watson,DEN,2023-24,2303520,Guaranteed
+1631212.0,Peyton Watson,DEN,2024-25,2413560,Guaranteed
+1631212.0,Peyton Watson,DEN,2025-26,4356476,Team Option
+1631212.0,Peyton Watson,DEN,2026-27,6534714,Qualifying Offer
+1631212.0,Peyton Watson,DEN,2027-28,0,Free Agent
+1631212.0,Peyton Watson,DEN,2028-29,0,Free Agent
+1630560.0,Cam Thomas,BKN,2023-24,2240160,Guaranteed
+1630560.0,Cam Thomas,BKN,2024-25,4041249,Guaranteed
+1630560.0,Cam Thomas,BKN,2025-26,5993172,Qualifying Offer
+1630560.0,Cam Thomas,BKN,2026-27,0,Free Agent
+1630560.0,Cam Thomas,BKN,2027-28,0,Free Agent
+1630560.0,Cam Thomas,BKN,2028-29,0,Free Agent
+1628427.0,Vlatko Cancar,DEN,2023-24,2234359,Guaranteed
+1628427.0,Vlatko Cancar,DEN,2024-25,2346606,Team Option
+1628427.0,Vlatko Cancar,DEN,2025-26,0,Free Agent
+1628427.0,Vlatko Cancar,DEN,2026-27,0,Free Agent
+1628427.0,Vlatko Cancar,DEN,2027-28,0,Free Agent
+1628427.0,Vlatko Cancar,DEN,2028-29,0,Free Agent
+,Vince Williams Jr,,2023-24,2232308,Guaranteed
+,Vince Williams Jr,,2024-25,2120693,Guaranteed
+,Vince Williams Jr,,2025-26,2301587,Guaranteed
+,Vince Williams Jr,,2026-27,2489752,Team Option
+,Vince Williams Jr,,2027-28,0,Free Agent
+,Vince Williams Jr,,2028-29,0,Free Agent
+1630531.0,Jaden Springer,BOS,2023-24,2226240,Guaranteed
+1630531.0,Jaden Springer,BOS,2024-25,4018363,Guaranteed
+1630531.0,Jaden Springer,BOS,2025-26,5987361,Qualifying Offer
+1630531.0,Jaden Springer,BOS,2026-27,0,Free Agent
+1630531.0,Jaden Springer,BOS,2027-28,0,Free Agent
+1630531.0,Jaden Springer,BOS,2028-29,0,Free Agent
+1630549.0,Day'Ron Sharpe,BKN,2023-24,2210040,Guaranteed
+1630549.0,Day'Ron Sharpe,BKN,2024-25,3989122,Guaranteed
+1630549.0,Day'Ron Sharpe,BKN,2025-26,5983683,Qualifying Offer
+1630549.0,Day'Ron Sharpe,BKN,2026-27,0,Free Agent
+1630549.0,Day'Ron Sharpe,BKN,2027-28,0,Free Agent
+1630549.0,Day'Ron Sharpe,BKN,2028-29,0,Free Agent
+1630692.0,Jordan Goodwin,MEM,2023-24,2208045,Guaranteed
+1630692.0,Jordan Goodwin,MEM,2024-25,0,Free Agent
+1630692.0,Jordan Goodwin,MEM,2025-26,0,Free Agent
+1630692.0,Jordan Goodwin,MEM,2026-27,0,Free Agent
+1630692.0,Jordan Goodwin,MEM,2027-28,0,Free Agent
+1630692.0,Jordan Goodwin,MEM,2028-29,0,Free Agent
+,Santiago Aldama,,2023-24,2194200,Guaranteed
+,Santiago Aldama,,2024-25,3960531,Guaranteed
+,Santiago Aldama,,2025-26,5940797,Qualifying Offer
+,Santiago Aldama,,2026-27,0,Free Agent
+,Santiago Aldama,,2027-28,0,Free Agent
+,Santiago Aldama,,2028-29,0,Free Agent
+1629052.0,Oshae Brissett,BOS,2023-24,2165000,Guaranteed
+1629052.0,Oshae Brissett,BOS,2024-25,2463946,Player Option
+1629052.0,Oshae Brissett,BOS,2025-26,0,Free Agent
+1629052.0,Oshae Brissett,BOS,2026-27,0,Free Agent
+1629052.0,Oshae Brissett,BOS,2027-28,0,Free Agent
+1629052.0,Oshae Brissett,BOS,2028-29,0,Free Agent
+1629637.0,Jaxson Hayes,LAL,2023-24,2165000,Guaranteed
+1629637.0,Jaxson Hayes,LAL,2024-25,2463946,Player Option
+1629637.0,Jaxson Hayes,LAL,2025-26,0,Free Agent
+1629637.0,Jaxson Hayes,LAL,2026-27,0,Free Agent
+1629637.0,Jaxson Hayes,LAL,2027-28,0,Free Agent
+1629637.0,Jaxson Hayes,LAL,2028-29,0,Free Agent
+1629629.0,Cam Reddish,LAL,2023-24,2165000,Guaranteed
+1629629.0,Cam Reddish,LAL,2024-25,2463946,Player Option
+1629629.0,Cam Reddish,LAL,2025-26,0,Free Agent
+1629629.0,Cam Reddish,LAL,2026-27,0,Free Agent
+1629629.0,Cam Reddish,LAL,2027-28,0,Free Agent
+1629629.0,Cam Reddish,LAL,2028-29,0,Free Agent
+1629626.0,Bol Bol,PHX,2023-24,2165000,Guaranteed
+1629626.0,Bol Bol,PHX,2024-25,0,Free Agent
+1629626.0,Bol Bol,PHX,2025-26,0,Free Agent
+1629626.0,Bol Bol,PHX,2026-27,0,Free Agent
+1629626.0,Bol Bol,PHX,2027-28,0,Free Agent
+1629626.0,Bol Bol,PHX,2028-29,0,Free Agent
+1629650.0,Moses Brown,POR,2023-24,2165000,Guaranteed
+1629650.0,Moses Brown,POR,2024-25,0,Free Agent
+1629650.0,Moses Brown,POR,2025-26,0,Free Agent
+1629650.0,Moses Brown,POR,2026-27,0,Free Agent
+1629650.0,Moses Brown,POR,2027-28,0,Free Agent
+1629650.0,Moses Brown,POR,2028-29,0,Free Agent
+,Kevin Knox,,2023-24,2144320,Guaranteed
+,Kevin Knox,,2024-25,0,Free Agent
+,Kevin Knox,,2025-26,0,Free Agent
+,Kevin Knox,,2026-27,0,Free Agent
+,Kevin Knox,,2027-28,0,Free Agent
+,Kevin Knox,,2028-29,0,Free Agent
+1629614.0,Andrew Nembhard,IND,2023-24,2131905,Guaranteed
+1629614.0,Andrew Nembhard,IND,2024-25,2019699,Guaranteed
+1629614.0,Andrew Nembhard,IND,2025-26,2187451,Guaranteed
+1629614.0,Andrew Nembhard,IND,2026-27,0,Free Agent
+1629614.0,Andrew Nembhard,IND,2027-28,0,Free Agent
+1629614.0,Andrew Nembhard,IND,2028-29,0,Free Agent
+1629048.0,Goga Bitadze,ORL,2023-24,2066585,Guaranteed
+1629048.0,Goga Bitadze,ORL,2024-25,0,Free Agent
+1629048.0,Goga Bitadze,ORL,2025-26,0,Free Agent
+1629048.0,Goga Bitadze,ORL,2026-27,0,Free Agent
+1629048.0,Goga Bitadze,ORL,2027-28,0,Free Agent
+1629048.0,Goga Bitadze,ORL,2028-29,0,Free Agent
+1629677.0,Luka Samanic,UTA,2023-24,2066585,Guaranteed
+1629677.0,Luka Samanic,UTA,2024-25,0,Free Agent
+1629677.0,Luka Samanic,UTA,2025-26,0,Free Agent
+1629677.0,Luka Samanic,UTA,2026-27,0,Free Agent
+1629677.0,Luka Samanic,UTA,2027-28,0,Free Agent
+1629677.0,Luka Samanic,UTA,2028-29,0,Free Agent
+1630346.0,Matt Ryan,NOP,2023-24,2059782,Guaranteed
+1630346.0,Matt Ryan,NOP,2024-25,2196970,Guaranteed
+1630346.0,Matt Ryan,NOP,2025-26,2381501,Team Option
+1630346.0,Matt Ryan,NOP,2026-27,0,Free Agent
+1630346.0,Matt Ryan,NOP,2027-28,0,Free Agent
+1630346.0,Matt Ryan,NOP,2028-29,0,Free Agent
+1630678.0,Terry Taylor,,2023-24,2019706,Guaranteed
+1630678.0,Terry Taylor,,2024-25,2196970,Guaranteed
+1630678.0,Terry Taylor,,2025-26,0,Free Agent
+1630678.0,Terry Taylor,,2026-27,0,Free Agent
+1630678.0,Terry Taylor,,2027-28,0,Free Agent
+1630678.0,Terry Taylor,,2028-29,0,Free Agent
+1641732.0,Colby Jones,SAC,2023-24,2019706,Guaranteed
+1641732.0,Colby Jones,SAC,2024-25,2120693,Guaranteed
+1641732.0,Colby Jones,SAC,2025-26,2221677,Guaranteed
+1641732.0,Colby Jones,SAC,2026-27,2406205,Team Option
+1641732.0,Colby Jones,SAC,2027-28,0,Free Agent
+1641732.0,Colby Jones,SAC,2028-29,0,Free Agent
+1630570.0,Trendon Watford,BKN,2023-24,2019706,Guaranteed
+1630570.0,Trendon Watford,BKN,2024-25,0,Free Agent
+1630570.0,Trendon Watford,BKN,2025-26,0,Free Agent
+1630570.0,Trendon Watford,BKN,2026-27,0,Free Agent
+1630570.0,Trendon Watford,BKN,2027-28,0,Free Agent
+1630570.0,Trendon Watford,BKN,2028-29,0,Free Agent
+,Montrezl Harrell,,2023-24,2019706,Guaranteed
+,Montrezl Harrell,,2024-25,0,Free Agent
+,Montrezl Harrell,,2025-26,0,Free Agent
+,Montrezl Harrell,,2026-27,0,Free Agent
+,Montrezl Harrell,,2027-28,0,Free Agent
+,Montrezl Harrell,,2028-29,0,Free Agent
+1630625.0,Dalano Banton,POR,2023-24,2019706,Guaranteed
+1630625.0,Dalano Banton,POR,2024-25,2196970,Team Option
+1630625.0,Dalano Banton,POR,2025-26,0,Free Agent
+1630625.0,Dalano Banton,POR,2026-27,0,Free Agent
+1630625.0,Dalano Banton,POR,2027-28,0,Free Agent
+1630625.0,Dalano Banton,POR,2028-29,0,Free Agent
+1630572.0,Sandro Mamukelashvili,SAS,2023-24,2019706,Guaranteed
+1630572.0,Sandro Mamukelashvili,SAS,2024-25,0,Free Agent
+1630572.0,Sandro Mamukelashvili,SAS,2025-26,0,Free Agent
+1630572.0,Sandro Mamukelashvili,SAS,2026-27,0,Free Agent
+1630572.0,Sandro Mamukelashvili,SAS,2027-28,0,Free Agent
+1630572.0,Sandro Mamukelashvili,SAS,2028-29,0,Free Agent
+1629726.0,Garrison Mathews,ATL,2023-24,2000000,Guaranteed
+1629726.0,Garrison Mathews,ATL,2024-25,2230253,Guaranteed
+1629726.0,Garrison Mathews,ATL,2025-26,0,Free Agent
+1629726.0,Garrison Mathews,ATL,2026-27,0,Free Agent
+1629726.0,Garrison Mathews,ATL,2027-28,0,Free Agent
+1629726.0,Garrison Mathews,ATL,2028-29,0,Free Agent
+1631119.0,Jaylin Williams,OKC,2023-24,2000000,Guaranteed
+1631119.0,Jaylin Williams,OKC,2024-25,2019699,Guaranteed
+1631119.0,Jaylin Williams,OKC,2025-26,2187699,Team Option
+1631119.0,Jaylin Williams,OKC,2026-27,0,Free Agent
+1631119.0,Jaylin Williams,OKC,2027-28,0,Free Agent
+1631119.0,Jaylin Williams,OKC,2028-29,0,Free Agent
+1631216.0,Caleb Houstan,ORL,2023-24,2000000,Guaranteed
+1631216.0,Caleb Houstan,ORL,2024-25,2019699,Guaranteed
+1631216.0,Caleb Houstan,ORL,2025-26,2187451,Team Option
+1631216.0,Caleb Houstan,ORL,2026-27,0,Free Agent
+1631216.0,Caleb Houstan,ORL,2027-28,0,Free Agent
+1631216.0,Caleb Houstan,ORL,2028-29,0,Free Agent
+1630241.0,Sam Merrill,CLE,2023-24,1997238,Guaranteed
+1630241.0,Sam Merrill,CLE,2024-25,2164993,Guaranteed
+1630241.0,Sam Merrill,CLE,2025-26,0,Free Agent
+1630241.0,Sam Merrill,CLE,2026-27,0,Free Agent
+1630241.0,Sam Merrill,CLE,2027-28,0,Free Agent
+1630241.0,Sam Merrill,CLE,2028-29,0,Free Agent
+1630198.0,Isaiah Joe,OKC,2023-24,1997238,Guaranteed
+1630198.0,Isaiah Joe,OKC,2024-25,2164993,Team Option
+1630198.0,Isaiah Joe,OKC,2025-26,0,Free Agent
+1630198.0,Isaiah Joe,OKC,2026-27,0,Free Agent
+1630198.0,Isaiah Joe,OKC,2027-28,0,Free Agent
+1630198.0,Isaiah Joe,OKC,2028-29,0,Free Agent
+1630264.0,Anthony Gill,WAS,2023-24,1997238,Guaranteed
+1630264.0,Anthony Gill,WAS,2024-25,0,Free Agent
+1630264.0,Anthony Gill,WAS,2025-26,0,Free Agent
+1630264.0,Anthony Gill,WAS,2026-27,0,Free Agent
+1630264.0,Anthony Gill,WAS,2027-28,0,Free Agent
+1630264.0,Anthony Gill,WAS,2028-29,0,Free Agent
+,GG Jackson,,2023-24,1991428,Guaranteed
+,GG Jackson,,2024-25,1891857,Guaranteed
+,GG Jackson,,2025-26,2221677,Guaranteed
+,GG Jackson,,2026-27,2406205,Team Option
+,GG Jackson,,2027-28,0,Free Agent
+,GG Jackson,,2028-29,0,Free Agent
+1641871.0,Duop Reath,POR,2023-24,1951220,Guaranteed
+1641871.0,Duop Reath,POR,2024-25,2048780,Guaranteed
+1641871.0,Duop Reath,POR,2025-26,2221677,Guaranteed
+1641871.0,Duop Reath,POR,2026-27,0,Free Agent
+1641871.0,Duop Reath,POR,2027-28,0,Free Agent
+1641871.0,Duop Reath,POR,2028-29,0,Free Agent
+1630214.0,Xavier Tillman,BOS,2023-24,1930681,Guaranteed
+1630214.0,Xavier Tillman,BOS,2024-25,0,Free Agent
+1630214.0,Xavier Tillman,BOS,2025-26,0,Free Agent
+1630214.0,Xavier Tillman,BOS,2026-27,0,Free Agent
+1630214.0,Xavier Tillman,BOS,2027-28,0,Free Agent
+1630214.0,Xavier Tillman,BOS,2028-29,0,Free Agent
+1630230.0,Naji Marshall,DAL,2023-24,1930681,Guaranteed
+1630230.0,Naji Marshall,DAL,2024-25,0,Free Agent
+1630230.0,Naji Marshall,DAL,2025-26,0,Free Agent
+1630230.0,Naji Marshall,DAL,2026-27,0,Free Agent
+1630230.0,Naji Marshall,DAL,2027-28,0,Free Agent
+1630230.0,Naji Marshall,DAL,2028-29,0,Free Agent
+1630231.0,KJ Martin,PHI,2023-24,1930681,Guaranteed
+1630231.0,KJ Martin,PHI,2024-25,0,Free Agent
+1630231.0,KJ Martin,PHI,2025-26,0,Free Agent
+1630231.0,KJ Martin,PHI,2026-27,0,Free Agent
+1630231.0,KJ Martin,PHI,2027-28,0,Free Agent
+1630231.0,KJ Martin,PHI,2028-29,0,Free Agent
+1630573.0,Sam Hauser,BOS,2023-24,1927896,Guaranteed
+1630573.0,Sam Hauser,BOS,2024-25,2092344,Team Option
+1630573.0,Sam Hauser,BOS,2025-26,0,Free Agent
+1630573.0,Sam Hauser,BOS,2026-27,0,Free Agent
+1630573.0,Sam Hauser,BOS,2027-28,0,Free Agent
+1630573.0,Sam Hauser,BOS,2028-29,0,Free Agent
+1630579.0,Jericho Sims,NYK,2023-24,1927896,Guaranteed
+1630579.0,Jericho Sims,NYK,2024-25,2092344,Team Option
+1630579.0,Jericho Sims,NYK,2025-26,0,Free Agent
+1630579.0,Jericho Sims,NYK,2026-27,0,Free Agent
+1630579.0,Jericho Sims,NYK,2027-28,0,Free Agent
+1630579.0,Jericho Sims,NYK,2028-29,0,Free Agent
+1630556.0,Kessler Edwards,SAC,2023-24,1927896,Guaranteed
+1630556.0,Kessler Edwards,SAC,2024-25,0,Free Agent
+1630556.0,Kessler Edwards,SAC,2025-26,0,Free Agent
+1630556.0,Kessler Edwards,SAC,2026-27,0,Free Agent
+1630556.0,Kessler Edwards,SAC,2027-28,0,Free Agent
+1630556.0,Kessler Edwards,SAC,2028-29,0,Free Agent
+1629312.0,Haywood Highsmith,MIA,2023-24,1902137,Guaranteed
+1629312.0,Haywood Highsmith,MIA,2024-25,0,Free Agent
+1629312.0,Haywood Highsmith,MIA,2025-26,0,Free Agent
+1629312.0,Haywood Highsmith,MIA,2026-27,0,Free Agent
+1629312.0,Haywood Highsmith,MIA,2027-28,0,Free Agent
+1629312.0,Haywood Highsmith,MIA,2028-29,0,Free Agent
+1631260.0,AJ Green,MIL,2023-24,1901769,Guaranteed
+1631260.0,AJ Green,MIL,2024-25,2120693,Guaranteed
+1631260.0,AJ Green,MIL,2025-26,2301587,Guaranteed
+1631260.0,AJ Green,MIL,2026-27,0,Free Agent
+1631260.0,AJ Green,MIL,2027-28,0,Free Agent
+1631260.0,AJ Green,MIL,2028-29,0,Free Agent
+1631157.0,Ryan Rollins,MIL,2023-24,1893589,Two-Way
+1631157.0,Ryan Rollins,MIL,2024-25,1184388,Two-Way
+1631157.0,Ryan Rollins,MIL,2025-26,0,Free Agent
+1631157.0,Ryan Rollins,MIL,2026-27,0,Free Agent
+1631157.0,Ryan Rollins,MIL,2027-28,0,Free Agent
+1631157.0,Ryan Rollins,MIL,2028-29,0,Free Agent
+1630540.0,Miles McBride,NYK,2023-24,1836096,Guaranteed
+1630540.0,Miles McBride,NYK,2024-25,4710144,Guaranteed
+1630540.0,Miles McBride,NYK,2025-26,4333333,Guaranteed
+1630540.0,Miles McBride,NYK,2026-27,3956523,Guaranteed
+1630540.0,Miles McBride,NYK,2027-28,0,Free Agent
+1630540.0,Miles McBride,NYK,2028-29,0,Free Agent
+1630550.0,JT Thor,CHA,2023-24,1836096,Guaranteed
+1630550.0,JT Thor,CHA,2024-25,1988598,Team Option
+1630550.0,JT Thor,CHA,2025-26,0,Free Agent
+1630550.0,JT Thor,CHA,2026-27,0,Free Agent
+1630550.0,JT Thor,CHA,2027-28,0,Free Agent
+1630550.0,JT Thor,CHA,2028-29,0,Free Agent
+,BJ Boston,,2023-24,1836096,Guaranteed
+,BJ Boston,,2024-25,0,Free Agent
+,BJ Boston,,2025-26,0,Free Agent
+,BJ Boston,,2026-27,0,Free Agent
+,BJ Boston,,2027-28,0,Free Agent
+,BJ Boston,,2028-29,0,Free Agent
+,Isaiah Todd,,2023-24,1836096,Guaranteed
+,Isaiah Todd,,2024-25,0,Free Agent
+,Isaiah Todd,,2025-26,0,Free Agent
+,Isaiah Todd,,2026-27,0,Free Agent
+,Isaiah Todd,,2027-28,0,Free Agent
+,Isaiah Todd,,2028-29,0,Free Agent
+1630631.0,Jose Alvarado,NOP,2023-24,1836096,Guaranteed
+1630631.0,Jose Alvarado,NOP,2024-25,1988598,Team Option
+1630631.0,Jose Alvarado,NOP,2025-26,0,Free Agent
+1630631.0,Jose Alvarado,NOP,2026-27,0,Free Agent
+1630631.0,Jose Alvarado,NOP,2027-28,0,Free Agent
+1630631.0,Jose Alvarado,NOP,2028-29,0,Free Agent
+1630598.0,Aaron Wiggins,OKC,2023-24,1836096,Guaranteed
+1630598.0,Aaron Wiggins,OKC,2024-25,1988598,Team Option
+1630598.0,Aaron Wiggins,OKC,2025-26,0,Free Agent
+1630598.0,Aaron Wiggins,OKC,2026-27,0,Free Agent
+1630598.0,Aaron Wiggins,OKC,2027-28,0,Free Agent
+1630598.0,Aaron Wiggins,OKC,2028-29,0,Free Agent
+1630587.0,Isaiah Livers,,2023-24,1836096,Guaranteed
+1630587.0,Isaiah Livers,,2024-25,0,Free Agent
+1630587.0,Isaiah Livers,,2025-26,0,Free Agent
+1630587.0,Isaiah Livers,,2026-27,0,Free Agent
+1630587.0,Isaiah Livers,,2027-28,0,Free Agent
+1630587.0,Isaiah Livers,,2028-29,0,Free Agent
+1630215.0,Jared Butler,WAS,2023-24,1809782,Guaranteed
+1630215.0,Jared Butler,WAS,2024-25,2196970,Team Option
+1630215.0,Jared Butler,WAS,2025-26,2381501,Guaranteed
+1630215.0,Jared Butler,WAS,2026-27,0,Free Agent
+1630215.0,Jared Butler,WAS,2027-28,0,Free Agent
+1630215.0,Jared Butler,WAS,2028-29,0,Free Agent
+,EJ Liddell,,2023-24,1801769,Guaranteed
+,EJ Liddell,,2024-25,2120693,Guaranteed
+,EJ Liddell,,2025-26,2301587,Team Option
+,EJ Liddell,,2026-27,0,Free Agent
+,EJ Liddell,,2027-28,0,Free Agent
+,EJ Liddell,,2028-29,0,Free Agent
+1631115.0,Orlando Robinson,SAC,2023-24,1801769,Guaranteed
+1631115.0,Orlando Robinson,SAC,2024-25,2120693,Team Option
+1631115.0,Orlando Robinson,SAC,2025-26,0,Free Agent
+1631115.0,Orlando Robinson,SAC,2026-27,0,Free Agent
+1631115.0,Orlando Robinson,SAC,2027-28,0,Free Agent
+1631115.0,Orlando Robinson,SAC,2028-29,0,Free Agent
+1630696.0,Dru Smith,MIA,2023-24,1801769,Guaranteed
+1630696.0,Dru Smith,MIA,2024-25,0,Free Agent
+1630696.0,Dru Smith,MIA,2025-26,0,Free Agent
+1630696.0,Dru Smith,MIA,2026-27,0,Free Agent
+1630696.0,Dru Smith,MIA,2027-28,0,Free Agent
+1630696.0,Dru Smith,MIA,2028-29,0,Free Agent
+1631159.0,Leonard Miller,MIN,2023-24,1800000,Guaranteed
+1631159.0,Leonard Miller,MIN,2024-25,1891857,Guaranteed
+1631159.0,Leonard Miller,MIN,2025-26,2221677,Guaranteed
+1631159.0,Leonard Miller,MIN,2026-27,2406205,Team Option
+1631159.0,Leonard Miller,MIN,2027-28,0,Free Agent
+1631159.0,Leonard Miller,MIN,2028-29,0,Free Agent
+1631121.0,Bryce McGowens,POR,2023-24,1719864,Guaranteed
+1631121.0,Bryce McGowens,POR,2024-25,2019699,Guaranteed
+1631121.0,Bryce McGowens,POR,2025-26,2187699,Team Option
+1631121.0,Bryce McGowens,POR,2026-27,0,Free Agent
+1631121.0,Bryce McGowens,POR,2027-28,0,Free Agent
+1631121.0,Bryce McGowens,POR,2028-29,0,Free Agent
+1630702.0,Jaden Hardy,DAL,2023-24,1719864,Guaranteed
+1630702.0,Jaden Hardy,DAL,2024-25,2019699,Guaranteed
+1630702.0,Jaden Hardy,DAL,2025-26,0,Free Agent
+1630702.0,Jaden Hardy,DAL,2026-27,0,Free Agent
+1630702.0,Jaden Hardy,DAL,2027-28,0,Free Agent
+1630702.0,Jaden Hardy,DAL,2028-29,0,Free Agent
+,Kennedy Chandler,,2023-24,1719864,Guaranteed
+,Kennedy Chandler,,2024-25,2019699,Guaranteed
+,Kennedy Chandler,,2025-26,0,Free Agent
+,Kennedy Chandler,,2026-27,0,Free Agent
+,Kennedy Chandler,,2027-28,0,Free Agent
+,Kennedy Chandler,,2028-29,0,Free Agent
+1631169.0,Josh Minott,MIN,2023-24,1719864,Guaranteed
+1631169.0,Josh Minott,MIN,2024-25,2019699,Guaranteed
+1631169.0,Josh Minott,MIN,2025-26,2187699,Guaranteed
+1631169.0,Josh Minott,MIN,2026-27,0,Free Agent
+1631169.0,Josh Minott,MIN,2027-28,0,Free Agent
+1631169.0,Josh Minott,MIN,2028-29,0,Free Agent
+1631133.0,Jabari Walker,POR,2023-24,1719864,Guaranteed
+1631133.0,Jabari Walker,POR,2024-25,2019699,Guaranteed
+1631133.0,Jabari Walker,POR,2025-26,0,Free Agent
+1631133.0,Jabari Walker,POR,2026-27,0,Free Agent
+1631133.0,Jabari Walker,POR,2027-28,0,Free Agent
+1631133.0,Jabari Walker,POR,2028-29,0,Free Agent
+1631108.0,Max Christie,LAL,2023-24,1719864,Guaranteed
+1631108.0,Max Christie,LAL,2024-25,0,Free Agent
+1631108.0,Max Christie,LAL,2025-26,0,Free Agent
+1631108.0,Max Christie,LAL,2026-27,0,Free Agent
+1631108.0,Max Christie,LAL,2027-28,0,Free Agent
+1631108.0,Max Christie,LAL,2028-29,0,Free Agent
+1631132.0,Christian Koloko,TOR,2023-24,1719864,Guaranteed
+1631132.0,Christian Koloko,TOR,2024-25,0,Free Agent
+1631132.0,Christian Koloko,TOR,2025-26,0,Free Agent
+1631132.0,Christian Koloko,TOR,2026-27,0,Free Agent
+1631132.0,Christian Koloko,TOR,2027-28,0,Free Agent
+1631132.0,Christian Koloko,TOR,2028-29,0,Free Agent
+,Xavier Cooks,,2023-24,1719864,Guaranteed
+,Xavier Cooks,,2024-25,0,Free Agent
+,Xavier Cooks,,2025-26,0,Free Agent
+,Xavier Cooks,,2026-27,0,Free Agent
+,Xavier Cooks,,2027-28,0,Free Agent
+,Xavier Cooks,,2028-29,0,Free Agent
+1629618.0,Jalen Pickett,DEN,2023-24,1708143,Guaranteed
+1629618.0,Jalen Pickett,DEN,2024-25,1891857,Guaranteed
+1629618.0,Jalen Pickett,DEN,2025-26,2221677,Guaranteed
+1629618.0,Jalen Pickett,DEN,2026-27,2406205,Team Option
+1629618.0,Jalen Pickett,DEN,2027-28,0,Free Agent
+1629618.0,Jalen Pickett,DEN,2028-29,0,Free Agent
+1641763.0,Julian Phillips,CHI,2023-24,1600000,Guaranteed
+1641763.0,Julian Phillips,CHI,2024-25,1891857,Guaranteed
+1641763.0,Julian Phillips,CHI,2025-26,2221677,Guaranteed
+1641763.0,Julian Phillips,CHI,2026-27,2406205,Team Option
+1641763.0,Julian Phillips,CHI,2027-28,0,Free Agent
+1641763.0,Julian Phillips,CHI,2028-29,0,Free Agent
+,Craig Porter,,2023-24,1500000,Guaranteed
+,Craig Porter,,2024-25,1891857,Guaranteed
+,Craig Porter,,2025-26,2221677,Guaranteed
+,Craig Porter,,2026-27,2406205,Team Option
+,Craig Porter,,2027-28,0,Free Agent
+,Craig Porter,,2028-29,0,Free Agent
+1630647.0,Eugene Omoruyi,WAS,2023-24,1459782,Guaranteed
+1630647.0,Eugene Omoruyi,WAS,2024-25,2196970,Guaranteed
+1630647.0,Eugene Omoruyi,WAS,2025-26,0,Free Agent
+1630647.0,Eugene Omoruyi,WAS,2026-27,0,Free Agent
+1630647.0,Eugene Omoruyi,WAS,2027-28,0,Free Agent
+1630647.0,Eugene Omoruyi,WAS,2028-29,0,Free Agent
+,Ricky Council,,2023-24,1414135,Guaranteed
+,Ricky Council,,2024-25,1891857,Guaranteed
+,Ricky Council,,2025-26,2221677,Guaranteed
+,Ricky Council,,2026-27,2406205,Team Option
+,Ricky Council,,2027-28,0,Free Agent
+,Ricky Council,,2028-29,0,Free Agent
+1630592.0,Jalen Wilson,BKN,2023-24,1409782,Guaranteed
+1630592.0,Jalen Wilson,BKN,2024-25,1891857,Guaranteed
+1630592.0,Jalen Wilson,BKN,2025-26,2221677,Team Option
+1630592.0,Jalen Wilson,BKN,2026-27,0,Free Agent
+1630592.0,Jalen Wilson,BKN,2027-28,0,Free Agent
+1630592.0,Jalen Wilson,BKN,2028-29,0,Free Agent
+1629610.0,DaQuan Jeffries,NYK,2023-24,1341538,Guaranteed
+1629610.0,DaQuan Jeffries,NYK,2024-25,2463946,Team Option
+1629610.0,DaQuan Jeffries,NYK,2025-26,0,Free Agent
+1629610.0,DaQuan Jeffries,NYK,2026-27,0,Free Agent
+1629610.0,DaQuan Jeffries,NYK,2027-28,0,Free Agent
+1629610.0,DaQuan Jeffries,NYK,2028-29,0,Free Agent
+,Eric Bledsoe,,2023-24,1300000,Guaranteed
+,Eric Bledsoe,,2024-25,1300000,Guaranteed
+,Eric Bledsoe,,2025-26,0,Free Agent
+,Eric Bledsoe,,2026-27,0,Free Agent
+,Eric Bledsoe,,2027-28,0,Free Agent
+,Eric Bledsoe,,2028-29,0,Free Agent
+1630219.0,Skylar Mays,LAL,2023-24,1165280,Two-Way
+1630219.0,Skylar Mays,LAL,2024-25,0,Free Agent
+1630219.0,Skylar Mays,LAL,2025-26,0,Free Agent
+1630219.0,Skylar Mays,LAL,2026-27,0,Free Agent
+1630219.0,Skylar Mays,LAL,2027-28,0,Free Agent
+1630219.0,Skylar Mays,LAL,2028-29,0,Free Agent
+1631243.0,Mouhamed Gueye,ATL,2023-24,1119563,Guaranteed
+1631243.0,Mouhamed Gueye,ATL,2024-25,1891857,Guaranteed
+1631243.0,Mouhamed Gueye,ATL,2025-26,2221677,Team Option
+1631243.0,Mouhamed Gueye,ATL,2026-27,2406205,Team Option
+1631243.0,Mouhamed Gueye,ATL,2027-28,0,Free Agent
+1631243.0,Mouhamed Gueye,ATL,2028-29,0,Free Agent
+1641775.0,Jordan Walsh,BOS,2023-24,1119563,Guaranteed
+1641775.0,Jordan Walsh,BOS,2024-25,1891857,Guaranteed
+1641775.0,Jordan Walsh,BOS,2025-26,2221677,Team Option
+1641775.0,Jordan Walsh,BOS,2026-27,2406205,Team Option
+1641775.0,Jordan Walsh,BOS,2027-28,0,Free Agent
+1641775.0,Jordan Walsh,BOS,2028-29,0,Free Agent
+1641816.0,Hunter Tyson,DEN,2023-24,1119563,Guaranteed
+1641816.0,Hunter Tyson,DEN,2024-25,1891857,Guaranteed
+1641816.0,Hunter Tyson,DEN,2025-26,2221677,Guaranteed
+1641816.0,Hunter Tyson,DEN,2026-27,2406205,Team Option
+1641816.0,Hunter Tyson,DEN,2027-28,0,Free Agent
+1641816.0,Hunter Tyson,DEN,2028-29,0,Free Agent
+1631218.0,Trayce Jackson-Davis,GSW,2023-24,1119563,Guaranteed
+1631218.0,Trayce Jackson-Davis,GSW,2024-25,1891857,Guaranteed
+1631218.0,Trayce Jackson-Davis,GSW,2025-26,2221677,Guaranteed
+1631218.0,Trayce Jackson-Davis,GSW,2026-27,2406205,Team Option
+1631218.0,Trayce Jackson-Davis,GSW,2027-28,0,Free Agent
+1631218.0,Trayce Jackson-Davis,GSW,2028-29,0,Free Agent
+1641721.0,Maxwell Lewis,LAL,2023-24,1119563,Guaranteed
+1641721.0,Maxwell Lewis,LAL,2024-25,1891857,Guaranteed
+1641721.0,Maxwell Lewis,LAL,2025-26,2221677,Guaranteed
+1641721.0,Maxwell Lewis,LAL,2026-27,2406205,Player Option
+1641721.0,Maxwell Lewis,LAL,2027-28,0,Free Agent
+1641721.0,Maxwell Lewis,LAL,2028-29,0,Free Agent
+,Andre Jackson Jr,,2023-24,1119563,Guaranteed
+,Andre Jackson Jr,,2024-25,1891857,Guaranteed
+,Andre Jackson Jr,,2025-26,2221677,Guaranteed
+,Andre Jackson Jr,,2026-27,2406205,Team Option
+,Andre Jackson Jr,,2027-28,0,Free Agent
+,Andre Jackson Jr,,2028-29,0,Free Agent
+1641753.0,Chris Livingston,MIL,2023-24,1119563,Guaranteed
+1641753.0,Chris Livingston,MIL,2024-25,1891857,Guaranteed
+1641753.0,Chris Livingston,MIL,2025-26,2221677,Guaranteed
+1641753.0,Chris Livingston,MIL,2026-27,2406205,Team Option
+1641753.0,Chris Livingston,MIL,2027-28,0,Free Agent
+1641753.0,Chris Livingston,MIL,2028-29,0,Free Agent
+1631321.0,Sidy Cissoko,SAS,2023-24,1119563,Guaranteed
+1631321.0,Sidy Cissoko,SAS,2024-25,1891857,Guaranteed
+1631321.0,Sidy Cissoko,SAS,2025-26,2221677,Guaranteed
+1631321.0,Sidy Cissoko,SAS,2026-27,0,Free Agent
+1631321.0,Sidy Cissoko,SAS,2027-28,0,Free Agent
+1631321.0,Sidy Cissoko,SAS,2028-29,0,Free Agent
+1641739.0,Toumani Camara,POR,2023-24,1119563,Guaranteed
+1641739.0,Toumani Camara,POR,2024-25,1891857,Team Option
+1641739.0,Toumani Camara,POR,2025-26,2221677,Team Option
+1641739.0,Toumani Camara,POR,2026-27,2406205,Team Option
+1641739.0,Toumani Camara,POR,2027-28,0,Free Agent
+1641739.0,Toumani Camara,POR,2028-29,0,Free Agent
+1641712.0,Rayan Rupert,POR,2023-24,1119563,Guaranteed
+1641712.0,Rayan Rupert,POR,2024-25,1891857,Team Option
+1641712.0,Rayan Rupert,POR,2025-26,2221677,Team Option
+1641712.0,Rayan Rupert,POR,2026-27,0,Free Agent
+1641712.0,Rayan Rupert,POR,2027-28,0,Free Agent
+1641712.0,Rayan Rupert,POR,2028-29,0,Free Agent
+1629685.0,Dylan Windler,ATL,2023-24,1116288,Two-Way
+1629685.0,Dylan Windler,ATL,2024-25,0,Free Agent
+1629685.0,Dylan Windler,ATL,2025-26,0,Free Agent
+1629685.0,Dylan Windler,ATL,2026-27,0,Free Agent
+1629685.0,Dylan Windler,ATL,2027-28,0,Free Agent
+1629685.0,Dylan Windler,ATL,2028-29,0,Free Agent
+1630235.0,Trent Forrest,ATL,2023-24,1112933,Guaranteed
+1630235.0,Trent Forrest,ATL,2024-25,0,Free Agent
+1630235.0,Trent Forrest,ATL,2025-26,0,Free Agent
+1630235.0,Trent Forrest,ATL,2026-27,0,Free Agent
+1630235.0,Trent Forrest,ATL,2027-28,0,Free Agent
+1630235.0,Trent Forrest,ATL,2028-29,0,Free Agent
+1631311.0,Lester Quinones,GSW,2023-24,1108597,Guaranteed
+1631311.0,Lester Quinones,GSW,2024-25,0,Free Agent
+1631311.0,Lester Quinones,GSW,2025-26,0,Free Agent
+1631311.0,Lester Quinones,GSW,2026-27,0,Free Agent
+1631311.0,Lester Quinones,GSW,2027-28,0,Free Agent
+1631311.0,Lester Quinones,GSW,2028-29,0,Free Agent
+1631112.0,Kendall Brown,IND,2023-24,1100000,Guaranteed
+1631112.0,Kendall Brown,IND,2024-25,2120683,Guaranteed
+1631112.0,Kendall Brown,IND,2025-26,2301587,Team Option
+1631112.0,Kendall Brown,IND,2026-27,0,Free Agent
+1631112.0,Kendall Brown,IND,2027-28,0,Free Agent
+1631112.0,Kendall Brown,IND,2028-29,0,Free Agent
+1630649.0,Stanley Umude,MIL,2023-24,1098242,Guaranteed
+1630649.0,Stanley Umude,MIL,2024-25,2120693,Guaranteed
+1630649.0,Stanley Umude,MIL,2025-26,0,Free Agent
+1630649.0,Stanley Umude,MIL,2026-27,0,Free Agent
+1630649.0,Stanley Umude,MIL,2027-28,0,Free Agent
+1630649.0,Stanley Umude,MIL,2028-29,0,Free Agent
+1630611.0,Gui Santos,GSW,2023-24,1029483,Guaranteed
+1630611.0,Gui Santos,GSW,2024-25,1891857,Guaranteed
+1630611.0,Gui Santos,GSW,2025-26,2221677,Team Option
+1630611.0,Gui Santos,GSW,2026-27,0,Free Agent
+1630611.0,Gui Santos,GSW,2027-28,0,Free Agent
+1630611.0,Gui Santos,GSW,2028-29,0,Free Agent
+1631230.0,Dominick Barlow,ATL,2023-24,1015402,Guaranteed
+1631230.0,Dominick Barlow,ATL,2024-25,0,Free Agent
+1631230.0,Dominick Barlow,ATL,2025-26,0,Free Agent
+1631230.0,Dominick Barlow,ATL,2026-27,0,Free Agent
+1631230.0,Dominick Barlow,ATL,2027-28,0,Free Agent
+1631230.0,Dominick Barlow,ATL,2028-29,0,Free Agent
+1630639.0,AJ Lawson,DAL,2023-24,1000000,Guaranteed
+1630639.0,AJ Lawson,DAL,2024-25,2120693,Guaranteed
+1630639.0,AJ Lawson,DAL,2025-26,2301587,Guaranteed
+1630639.0,AJ Lawson,DAL,2026-27,2489752,Guaranteed
+1630639.0,AJ Lawson,DAL,2027-28,0,Free Agent
+1630639.0,AJ Lawson,DAL,2028-29,0,Free Agent
+,Ishmail Wainright,,2023-24,988269,Two-Way
+,Ishmail Wainright,,2024-25,0,Free Agent
+,Ishmail Wainright,,2025-26,0,Free Agent
+,Ishmail Wainright,,2026-27,0,Free Agent
+,Ishmail Wainright,,2027-28,0,Free Agent
+,Ishmail Wainright,,2028-29,0,Free Agent
+1629674.0,Neemias Queta,BOS,2023-24,891035,Guaranteed
+1629674.0,Neemias Queta,BOS,2024-25,2196970,Team Option
+1629674.0,Neemias Queta,BOS,2025-26,0,Free Agent
+1629674.0,Neemias Queta,BOS,2026-27,0,Free Agent
+1629674.0,Neemias Queta,BOS,2027-28,0,Free Agent
+1629674.0,Neemias Queta,BOS,2028-29,0,Free Agent
+1631241.0,Javon Freeman-Liberty,TOR,2023-24,849324,Guaranteed
+1631241.0,Javon Freeman-Liberty,TOR,2024-25,1891857,Guaranteed
+1631241.0,Javon Freeman-Liberty,TOR,2025-26,0,Free Agent
+1631241.0,Javon Freeman-Liberty,TOR,2026-27,0,Free Agent
+1631241.0,Javon Freeman-Liberty,TOR,2027-28,0,Free Agent
+1631241.0,Javon Freeman-Liberty,TOR,2028-29,0,Free Agent
+1630322.0,Lindy Waters III,GSW,2023-24,766095,Guaranteed
+1630322.0,Lindy Waters III,GSW,2024-25,2196970,Team Option
+1630322.0,Lindy Waters III,GSW,2025-26,0,Free Agent
+1630322.0,Lindy Waters III,GSW,2026-27,0,Free Agent
+1630322.0,Lindy Waters III,GSW,2027-28,0,Free Agent
+1630322.0,Lindy Waters III,GSW,2028-29,0,Free Agent
+1631210.0,Jacob Toppin,NYK,2023-24,759245,Two-Way
+1631210.0,Jacob Toppin,NYK,2024-25,0,Free Agent
+1631210.0,Jacob Toppin,NYK,2025-26,0,Free Agent
+1631210.0,Jacob Toppin,NYK,2026-27,0,Free Agent
+1631210.0,Jacob Toppin,NYK,2027-28,0,Free Agent
+1631210.0,Jacob Toppin,NYK,2028-29,0,Free Agent
+,Mamadi Diakite,,2023-24,710574,Guaranteed
+,Mamadi Diakite,,2024-25,2273252,Guaranteed
+,Mamadi Diakite,,2025-26,0,Free Agent
+,Mamadi Diakite,,2026-27,0,Free Agent
+,Mamadi Diakite,,2027-28,0,Free Agent
+,Mamadi Diakite,,2028-29,0,Free Agent
+,Jack White,,2023-24,703550,Guaranteed
+,Jack White,,2024-25,0,Free Agent
+,Jack White,,2025-26,0,Free Agent
+,Jack White,,2026-27,0,Free Agent
+,Jack White,,2027-28,0,Free Agent
+,Jack White,,2028-29,0,Free Agent
+,Nik Stauskas,,2023-24,702311,Guaranteed
+,Nik Stauskas,,2024-25,702311,Guaranteed
+,Nik Stauskas,,2025-26,0,Free Agent
+,Nik Stauskas,,2026-27,0,Free Agent
+,Nik Stauskas,,2027-28,0,Free Agent
+,Nik Stauskas,,2028-29,0,Free Agent
+1631367.0,Jacob Gilyard,BKN,2023-24,701336,Two-Way
+1631367.0,Jacob Gilyard,BKN,2024-25,0,Free Agent
+1631367.0,Jacob Gilyard,BKN,2025-26,0,Free Agent
+1631367.0,Jacob Gilyard,BKN,2026-27,0,Free Agent
+1631367.0,Jacob Gilyard,BKN,2027-28,0,Free Agent
+1631367.0,Jacob Gilyard,BKN,2028-29,0,Free Agent
+1630568.0,Luka Garza,MIN,2023-24,687465,Guaranteed
+1630568.0,Luka Garza,MIN,2024-25,0,Free Agent
+1630568.0,Luka Garza,MIN,2025-26,0,Free Agent
+1630568.0,Luka Garza,MIN,2026-27,0,Free Agent
+1630568.0,Luka Garza,MIN,2027-28,0,Free Agent
+1630568.0,Luka Garza,MIN,2028-29,0,Free Agent
+1631165.0,Keon Ellis,SAC,2023-24,683430,Guaranteed
+1631165.0,Keon Ellis,SAC,2024-25,2120693,Guaranteed
+1631165.0,Keon Ellis,SAC,2025-26,2301587,Team Option
+1631165.0,Keon Ellis,SAC,2026-27,0,Free Agent
+1631165.0,Keon Ellis,SAC,2027-28,0,Free Agent
+1631165.0,Keon Ellis,SAC,2028-29,0,Free Agent
+,RJ Hampton,,2023-24,680032,Guaranteed
+,RJ Hampton,,2024-25,0,Free Agent
+,RJ Hampton,,2025-26,0,Free Agent
+,RJ Hampton,,2026-27,0,Free Agent
+,RJ Hampton,,2027-28,0,Free Agent
+,RJ Hampton,,2028-29,0,Free Agent
+,TJ Warren,,2023-24,649659,Guaranteed
+,TJ Warren,,2024-25,0,Free Agent
+,TJ Warren,,2025-26,0,Free Agent
+,TJ Warren,,2026-27,0,Free Agent
+,TJ Warren,,2027-28,0,Free Agent
+,TJ Warren,,2028-29,0,Free Agent
+,Darius Bazley,,2023-24,624425,Guaranteed
+,Darius Bazley,,2024-25,2463946,Guaranteed
+,Darius Bazley,,2025-26,2781053,Guaranteed
+,Darius Bazley,,2026-27,0,Free Agent
+,Darius Bazley,,2027-28,0,Free Agent
+,Darius Bazley,,2028-29,0,Free Agent
+,Juwan Morgan,,2023-24,576230,Guaranteed
+,Juwan Morgan,,2024-25,576230,Guaranteed
+,Juwan Morgan,,2025-26,0,Free Agent
+,Juwan Morgan,,2026-27,0,Free Agent
+,Juwan Morgan,,2027-28,0,Free Agent
+,Juwan Morgan,,2028-29,0,Free Agent
+1641778.0,Leaky Black,CHA,2023-24,559782,Two-Way
+1641778.0,Leaky Black,CHA,2024-25,584388,Two-Way
+1641778.0,Leaky Black,CHA,2025-26,0,Free Agent
+1641778.0,Leaky Black,CHA,2026-27,0,Free Agent
+1641778.0,Leaky Black,CHA,2027-28,0,Free Agent
+1641778.0,Leaky Black,CHA,2028-29,0,Free Agent
+1641757.0,Jordan Miller,LAC,2023-24,559782,Two-Way
+1641757.0,Jordan Miller,LAC,2024-25,584388,Two-Way
+1641757.0,Jordan Miller,LAC,2025-26,0,Free Agent
+1641757.0,Jordan Miller,LAC,2026-27,0,Free Agent
+1641757.0,Jordan Miller,LAC,2027-28,0,Free Agent
+1641757.0,Jordan Miller,LAC,2028-29,0,Free Agent
+1641740.0,Jaylen Clark,MIN,2023-24,559782,Two-Way
+1641740.0,Jaylen Clark,MIN,2024-25,584388,Two-Way
+1641740.0,Jaylen Clark,MIN,2025-26,0,Free Agent
+1641740.0,Jaylen Clark,MIN,2026-27,0,Free Agent
+1641740.0,Jaylen Clark,MIN,2027-28,0,Free Agent
+1641740.0,Jaylen Clark,MIN,2028-29,0,Free Agent
+1641754.0,Seth Lundy,ATL,2023-24,559782,Two-Way
+1641754.0,Seth Lundy,ATL,2024-25,0,Free Agent
+1641754.0,Seth Lundy,ATL,2025-26,0,Free Agent
+1641754.0,Seth Lundy,ATL,2026-27,0,Free Agent
+1641754.0,Seth Lundy,ATL,2027-28,0,Free Agent
+1641754.0,Seth Lundy,ATL,2028-29,0,Free Agent
+1631120.0,JD Davison,BOS,2023-24,559782,Two-Way
+1631120.0,JD Davison,BOS,2024-25,0,Free Agent
+1631120.0,JD Davison,BOS,2025-26,0,Free Agent
+1631120.0,JD Davison,BOS,2026-27,0,Free Agent
+1631120.0,JD Davison,BOS,2027-28,0,Free Agent
+1631120.0,JD Davison,BOS,2028-29,0,Free Agent
+1641735.0,Amari Bailey,CHA,2023-24,559782,Two-Way
+1641735.0,Amari Bailey,CHA,2024-25,0,Free Agent
+1641735.0,Amari Bailey,CHA,2025-26,0,Free Agent
+1641735.0,Amari Bailey,CHA,2026-27,0,Free Agent
+1641735.0,Amari Bailey,CHA,2027-28,0,Free Agent
+1641735.0,Amari Bailey,CHA,2028-29,0,Free Agent
+1641766.0,Adama Sanogo,CHI,2023-24,559782,Two-Way
+1641766.0,Adama Sanogo,CHI,2024-25,0,Free Agent
+1641766.0,Adama Sanogo,CHI,2025-26,0,Free Agent
+1641766.0,Adama Sanogo,CHI,2026-27,0,Free Agent
+1641766.0,Adama Sanogo,CHI,2027-28,0,Free Agent
+1641766.0,Adama Sanogo,CHI,2028-29,0,Free Agent
+1641734.0,Emoni Bates,CLE,2023-24,559782,Two-Way
+1641734.0,Emoni Bates,CLE,2024-25,0,Free Agent
+1641734.0,Emoni Bates,CLE,2025-26,0,Free Agent
+1641734.0,Emoni Bates,CLE,2026-27,0,Free Agent
+1641734.0,Emoni Bates,CLE,2027-28,0,Free Agent
+1641734.0,Emoni Bates,CLE,2028-29,0,Free Agent
+1630600.0,Isaiah Mobley,CLE,2023-24,559782,Two-Way
+1630600.0,Isaiah Mobley,CLE,2024-25,0,Free Agent
+1630600.0,Isaiah Mobley,CLE,2025-26,0,Free Agent
+1630600.0,Isaiah Mobley,CLE,2026-27,0,Free Agent
+1630600.0,Isaiah Mobley,CLE,2027-28,0,Free Agent
+1630600.0,Isaiah Mobley,CLE,2028-29,0,Free Agent
+,Greg Brown,,2023-24,559782,Two-Way
+,Greg Brown,,2024-25,0,Free Agent
+,Greg Brown,,2025-26,0,Free Agent
+,Greg Brown,,2026-27,0,Free Agent
+,Greg Brown,,2027-28,0,Free Agent
+,Greg Brown,,2028-29,0,Free Agent
+1631221.0,Collin Gillespie,PHX,2023-24,559782,Two-Way
+1631221.0,Collin Gillespie,PHX,2024-25,0,Free Agent
+1631221.0,Collin Gillespie,PHX,2025-26,0,Free Agent
+1631221.0,Collin Gillespie,PHX,2026-27,0,Free Agent
+1631221.0,Collin Gillespie,PHX,2027-28,0,Free Agent
+1631221.0,Collin Gillespie,PHX,2028-29,0,Free Agent
+1630643.0,Jay Huff,MEM,2023-24,559782,Two-Way
+1630643.0,Jay Huff,MEM,2024-25,0,Free Agent
+1630643.0,Jay Huff,MEM,2025-26,0,Free Agent
+1630643.0,Jay Huff,MEM,2026-27,0,Free Agent
+1630643.0,Jay Huff,MEM,2027-28,0,Free Agent
+1630643.0,Jay Huff,MEM,2028-29,0,Free Agent
+1630296.0,Braxton Key,DEN,2023-24,559782,Two-Way
+1630296.0,Braxton Key,DEN,2024-25,0,Free Agent
+1630296.0,Braxton Key,DEN,2025-26,0,Free Agent
+1630296.0,Braxton Key,DEN,2026-27,0,Free Agent
+1630296.0,Braxton Key,DEN,2027-28,0,Free Agent
+1630296.0,Braxton Key,DEN,2028-29,0,Free Agent
+1630608.0,Malcolm Cazalon,,2023-24,559782,Two-Way
+1630608.0,Malcolm Cazalon,,2024-25,0,Free Agent
+1630608.0,Malcolm Cazalon,,2025-26,0,Free Agent
+1630608.0,Malcolm Cazalon,,2026-27,0,Free Agent
+1630608.0,Malcolm Cazalon,,2027-28,0,Free Agent
+1630608.0,Malcolm Cazalon,,2028-29,0,Free Agent
+1631197.0,Jared Rhoden,DET,2023-24,559782,Two-Way
+1631197.0,Jared Rhoden,DET,2024-25,0,Free Agent
+1631197.0,Jared Rhoden,DET,2025-26,0,Free Agent
+1631197.0,Jared Rhoden,DET,2026-27,0,Free Agent
+1631197.0,Jared Rhoden,DET,2027-28,0,Free Agent
+1631197.0,Jared Rhoden,DET,2028-29,0,Free Agent
+1629010.0,Jerome Robinson,GSW,2023-24,559782,Two-Way
+1629010.0,Jerome Robinson,GSW,2024-25,0,Free Agent
+1629010.0,Jerome Robinson,GSW,2025-26,0,Free Agent
+1629010.0,Jerome Robinson,GSW,2026-27,0,Free Agent
+1629010.0,Jerome Robinson,GSW,2027-28,0,Free Agent
+1629010.0,Jerome Robinson,GSW,2028-29,0,Free Agent
+1630207.0,Nate Hinton,HOU,2023-24,559782,Two-Way
+1630207.0,Nate Hinton,HOU,2024-25,0,Free Agent
+1630207.0,Nate Hinton,HOU,2025-26,0,Free Agent
+1630207.0,Nate Hinton,HOU,2026-27,0,Free Agent
+1630207.0,Nate Hinton,HOU,2027-28,0,Free Agent
+1630207.0,Nate Hinton,HOU,2028-29,0,Free Agent
+,Jermaine Samuels,,2023-24,559782,Two-Way
+,Jermaine Samuels,,2024-25,0,Free Agent
+,Jermaine Samuels,,2025-26,0,Free Agent
+,Jermaine Samuels,,2026-27,0,Free Agent
+,Jermaine Samuels,,2027-28,0,Free Agent
+,Jermaine Samuels,,2028-29,0,Free Agent
+1631466.0,Nate Williams,HOU,2023-24,559782,Two-Way
+1631466.0,Nate Williams,HOU,2024-25,0,Free Agent
+1631466.0,Nate Williams,HOU,2025-26,0,Free Agent
+1631466.0,Nate Williams,HOU,2026-27,0,Free Agent
+1631466.0,Nate Williams,HOU,2027-28,0,Free Agent
+1631466.0,Nate Williams,HOU,2028-29,0,Free Agent
+1631131.0,Oscar Tshiebwe,IND,2023-24,559782,Two-Way
+1631131.0,Oscar Tshiebwe,IND,2024-25,0,Free Agent
+1631131.0,Oscar Tshiebwe,IND,2025-26,0,Free Agent
+1631131.0,Oscar Tshiebwe,IND,2026-27,0,Free Agent
+1631131.0,Oscar Tshiebwe,IND,2027-28,0,Free Agent
+1631131.0,Oscar Tshiebwe,IND,2028-29,0,Free Agent
+1631209.0,Isaiah Wong,IND,2023-24,559782,Two-Way
+1631209.0,Isaiah Wong,IND,2024-25,0,Free Agent
+1631209.0,Isaiah Wong,IND,2025-26,0,Free Agent
+1631209.0,Isaiah Wong,IND,2026-27,0,Free Agent
+1631209.0,Isaiah Wong,IND,2027-28,0,Free Agent
+1631209.0,Isaiah Wong,IND,2028-29,0,Free Agent
+1631217.0,Moussa Diabate,CHA,2023-24,559782,Two-Way
+1631217.0,Moussa Diabate,CHA,2024-25,0,Free Agent
+1631217.0,Moussa Diabate,CHA,2025-26,0,Free Agent
+1631217.0,Moussa Diabate,CHA,2026-27,0,Free Agent
+1631217.0,Moussa Diabate,CHA,2027-28,0,Free Agent
+1631217.0,Moussa Diabate,CHA,2028-29,0,Free Agent
+1630658.0,Colin Castleton,LAL,2023-24,559782,Two-Way
+1630658.0,Colin Castleton,LAL,2024-25,0,Free Agent
+1630658.0,Colin Castleton,LAL,2025-26,0,Free Agent
+1630658.0,Colin Castleton,LAL,2026-27,0,Free Agent
+1630658.0,Colin Castleton,LAL,2027-28,0,Free Agent
+1630658.0,Colin Castleton,LAL,2028-29,0,Free Agent
+1631288.0,Jamal Cain,NOP,2023-24,559782,Two-Way
+1631288.0,Jamal Cain,NOP,2024-25,0,Free Agent
+1631288.0,Jamal Cain,NOP,2025-26,0,Free Agent
+1631288.0,Jamal Cain,NOP,2026-27,0,Free Agent
+1631288.0,Jamal Cain,NOP,2027-28,0,Free Agent
+1631288.0,Jamal Cain,NOP,2028-29,0,Free Agent
+1631306.0,Cole Swider,MIA,2023-24,559782,Two-Way
+1631306.0,Cole Swider,MIA,2024-25,0,Free Agent
+1631306.0,Cole Swider,MIA,2025-26,0,Free Agent
+1631306.0,Cole Swider,MIA,2026-27,0,Free Agent
+1631306.0,Cole Swider,MIA,2027-28,0,Free Agent
+1631306.0,Cole Swider,MIA,2028-29,0,Free Agent
+1630227.0,Daishen Nix,MIN,2023-24,559782,Two-Way
+1630227.0,Daishen Nix,MIN,2024-25,0,Free Agent
+1630227.0,Daishen Nix,MIN,2025-26,0,Free Agent
+1630227.0,Daishen Nix,MIN,2026-27,0,Free Agent
+1630227.0,Daishen Nix,MIN,2027-28,0,Free Agent
+1630227.0,Daishen Nix,MIN,2028-29,0,Free Agent
+1631220.0,Dereon Seabron,NOP,2023-24,559782,Two-Way
+1631220.0,Dereon Seabron,NOP,2024-25,0,Free Agent
+1631220.0,Dereon Seabron,NOP,2025-26,0,Free Agent
+1631220.0,Dereon Seabron,NOP,2026-27,0,Free Agent
+1631220.0,Dereon Seabron,NOP,2027-28,0,Free Agent
+1631220.0,Dereon Seabron,NOP,2028-29,0,Free Agent
+,Charlie Brown,,2023-24,559782,Two-Way
+,Charlie Brown,,2024-25,0,Free Agent
+,Charlie Brown,,2025-26,0,Free Agent
+,Charlie Brown,,2026-27,0,Free Agent
+,Charlie Brown,,2027-28,0,Free Agent
+,Charlie Brown,,2028-29,0,Free Agent
+1641749.0,Keyontae Johnson,OKC,2023-24,559782,Two-Way
+1641749.0,Keyontae Johnson,OKC,2024-25,0,Free Agent
+1641749.0,Keyontae Johnson,OKC,2025-26,0,Free Agent
+1641749.0,Keyontae Johnson,OKC,2026-27,0,Free Agent
+1641749.0,Keyontae Johnson,OKC,2027-28,0,Free Agent
+1641749.0,Keyontae Johnson,OKC,2028-29,0,Free Agent
+1630846.0,Olivier Sarr,OKC,2023-24,559782,Two-Way
+1630846.0,Olivier Sarr,OKC,2024-25,0,Free Agent
+1630846.0,Olivier Sarr,OKC,2025-26,0,Free Agent
+1630846.0,Olivier Sarr,OKC,2026-27,0,Free Agent
+1630846.0,Olivier Sarr,OKC,2027-28,0,Free Agent
+1630846.0,Olivier Sarr,OKC,2028-29,0,Free Agent
+1630284.0,Kevon Harris,ORL,2023-24,559782,Two-Way
+1630284.0,Kevon Harris,ORL,2024-25,0,Free Agent
+1630284.0,Kevon Harris,ORL,2025-26,0,Free Agent
+1630284.0,Kevon Harris,ORL,2026-27,0,Free Agent
+1630284.0,Kevon Harris,ORL,2027-28,0,Free Agent
+1630284.0,Kevon Harris,ORL,2028-29,0,Free Agent
+1630243.0,Trevelin Queen,ORL,2023-24,559782,Two-Way
+1630243.0,Trevelin Queen,ORL,2024-25,0,Free Agent
+1630243.0,Trevelin Queen,ORL,2025-26,0,Free Agent
+1630243.0,Trevelin Queen,ORL,2026-27,0,Free Agent
+1630243.0,Trevelin Queen,ORL,2027-28,0,Free Agent
+1630243.0,Trevelin Queen,ORL,2028-29,0,Free Agent
+1629678.0,Admiral Schofield,ORL,2023-24,559782,Two-Way
+1629678.0,Admiral Schofield,ORL,2024-25,0,Free Agent
+1629678.0,Admiral Schofield,ORL,2025-26,0,Free Agent
+1629678.0,Admiral Schofield,ORL,2026-27,0,Free Agent
+1629678.0,Admiral Schofield,ORL,2027-28,0,Free Agent
+1629678.0,Admiral Schofield,ORL,2028-29,0,Free Agent
+1631173.0,Terquavion Smith,PHI,2023-24,559782,Two-Way
+1631173.0,Terquavion Smith,PHI,2024-25,0,Free Agent
+1631173.0,Terquavion Smith,PHI,2025-26,0,Free Agent
+1631173.0,Terquavion Smith,PHI,2026-27,0,Free Agent
+1631173.0,Terquavion Smith,PHI,2027-28,0,Free Agent
+1631173.0,Terquavion Smith,PHI,2028-29,0,Free Agent
+1628962.0,Udoka Azubuike,PHX,2023-24,559782,Two-Way
+1628962.0,Udoka Azubuike,PHX,2024-25,0,Free Agent
+1628962.0,Udoka Azubuike,PHX,2025-26,0,Free Agent
+1628962.0,Udoka Azubuike,PHX,2026-27,0,Free Agent
+1628962.0,Udoka Azubuike,PHX,2027-28,0,Free Agent
+1628962.0,Udoka Azubuike,PHX,2028-29,0,Free Agent
+1630240.0,Saben Lee,PHX,2023-24,559782,Two-Way
+1630240.0,Saben Lee,PHX,2024-25,0,Free Agent
+1630240.0,Saben Lee,PHX,2025-26,0,Free Agent
+1630240.0,Saben Lee,PHX,2026-27,0,Free Agent
+1630240.0,Saben Lee,PHX,2027-28,0,Free Agent
+1630240.0,Saben Lee,PHX,2028-29,0,Free Agent
+1630177.0,Theo Maledon,,2023-24,559782,Two-Way
+1630177.0,Theo Maledon,,2024-25,0,Free Agent
+1630177.0,Theo Maledon,,2025-26,0,Free Agent
+1630177.0,Theo Maledon,,2026-27,0,Free Agent
+1630177.0,Theo Maledon,,2027-28,0,Free Agent
+1630177.0,Theo Maledon,,2028-29,0,Free Agent
+1631303.0,Justin Minaya,POR,2023-24,559782,Two-Way
+1631303.0,Justin Minaya,POR,2024-25,0,Free Agent
+1631303.0,Justin Minaya,POR,2025-26,0,Free Agent
+1631303.0,Justin Minaya,POR,2026-27,0,Free Agent
+1631303.0,Justin Minaya,POR,2027-28,0,Free Agent
+1631303.0,Justin Minaya,POR,2028-29,0,Free Agent
+1630259.0,Jordan Ford,SAC,2023-24,559782,Two-Way
+1630259.0,Jordan Ford,SAC,2024-25,0,Free Agent
+1630259.0,Jordan Ford,SAC,2025-26,0,Free Agent
+1630259.0,Jordan Ford,SAC,2026-27,0,Free Agent
+1630259.0,Jordan Ford,SAC,2027-28,0,Free Agent
+1630259.0,Jordan Ford,SAC,2028-29,0,Free Agent
+1630196.0,Filip Petrusev,,2023-24,559782,Guaranteed
+1630196.0,Filip Petrusev,,2024-25,0,Free Agent
+1630196.0,Filip Petrusev,,2025-26,0,Free Agent
+1630196.0,Filip Petrusev,,2026-27,0,Free Agent
+1630196.0,Filip Petrusev,,2027-28,0,Free Agent
+1630196.0,Filip Petrusev,,2028-29,0,Free Agent
+1641771.0,Jalen Slawson,SAC,2023-24,559782,Two-Way
+1641771.0,Jalen Slawson,SAC,2024-25,0,Free Agent
+1641771.0,Jalen Slawson,SAC,2025-26,0,Free Agent
+1641771.0,Jalen Slawson,SAC,2026-27,0,Free Agent
+1641771.0,Jalen Slawson,SAC,2027-28,0,Free Agent
+1641771.0,Jalen Slawson,SAC,2028-29,0,Free Agent
+1641806.0,Markquis Nowell,,2023-24,559782,Two-Way
+1641806.0,Markquis Nowell,,2024-25,0,Free Agent
+1641806.0,Markquis Nowell,,2025-26,0,Free Agent
+1641806.0,Markquis Nowell,,2026-27,0,Free Agent
+1641806.0,Markquis Nowell,,2027-28,0,Free Agent
+1641806.0,Markquis Nowell,,2028-29,0,Free Agent
+1630548.0,Johnny Juzang,UTA,2023-24,559782,Two-Way
+1630548.0,Johnny Juzang,UTA,2024-25,0,Free Agent
+1630548.0,Johnny Juzang,UTA,2025-26,0,Free Agent
+1630548.0,Johnny Juzang,UTA,2026-27,0,Free Agent
+1630548.0,Johnny Juzang,UTA,2027-28,0,Free Agent
+1630548.0,Johnny Juzang,UTA,2028-29,0,Free Agent
+1630695.0,Micah Potter,UTA,2023-24,559782,Two-Way
+1630695.0,Micah Potter,UTA,2024-25,0,Free Agent
+1630695.0,Micah Potter,UTA,2025-26,0,Free Agent
+1630695.0,Micah Potter,UTA,2026-27,0,Free Agent
+1630695.0,Micah Potter,UTA,2027-28,0,Free Agent
+1630695.0,Micah Potter,UTA,2028-29,0,Free Agent
+,Malik Fitts,,2023-24,555217,Guaranteed
+,Malik Fitts,,2024-25,555217,Guaranteed
+,Malik Fitts,,2025-26,0,Free Agent
+,Malik Fitts,,2026-27,0,Free Agent
+,Malik Fitts,,2027-28,0,Free Agent
+,Malik Fitts,,2028-29,0,Free Agent
+1629716.0,Marques Bolden,CHA,2023-24,502131,Two-Way
+1629716.0,Marques Bolden,CHA,2024-25,584388,Two-Way
+1629716.0,Marques Bolden,CHA,2025-26,0,Free Agent
+1629716.0,Marques Bolden,CHA,2026-27,0,Free Agent
+1629716.0,Marques Bolden,CHA,2027-28,0,Free Agent
+1629716.0,Marques Bolden,CHA,2028-29,0,Free Agent
+1641931.0,Onuralp Bitim,CHI,2023-24,500000,Guaranteed
+1641931.0,Onuralp Bitim,CHI,2024-25,1891857,Guaranteed
+1641931.0,Onuralp Bitim,CHI,2025-26,2221677,Guaranteed
+1641931.0,Onuralp Bitim,CHI,2026-27,0,Free Agent
+1641931.0,Onuralp Bitim,CHI,2027-28,0,Free Agent
+1641931.0,Onuralp Bitim,CHI,2028-29,0,Free Agent
+201980.0,Danny Green,,2023-24,500000,Guaranteed
+201980.0,Danny Green,,2024-25,0,Free Agent
+201980.0,Danny Green,,2025-26,0,Free Agent
+201980.0,Danny Green,,2026-27,0,Free Agent
+201980.0,Danny Green,,2027-28,0,Free Agent
+201980.0,Danny Green,,2028-29,0,Free Agent
+,Xavier Moon,,2023-24,489005,Two-Way
+,Xavier Moon,,2024-25,0,Free Agent
+,Xavier Moon,,2025-26,0,Free Agent
+,Xavier Moon,,2026-27,0,Free Agent
+,Xavier Moon,,2027-28,0,Free Agent
+,Xavier Moon,,2028-29,0,Free Agent
+,Isaiah Thomas,,2023-24,477630,Guaranteed
+,Isaiah Thomas,,2024-25,0,Free Agent
+,Isaiah Thomas,,2025-26,0,Free Agent
+,Isaiah Thomas,,2026-27,0,Free Agent
+,Isaiah Thomas,,2027-28,0,Free Agent
+,Isaiah Thomas,,2028-29,0,Free Agent
+,Ibou Badji,,2023-24,466485,Two-Way
+,Ibou Badji,,2024-25,0,Free Agent
+,Ibou Badji,,2025-26,0,Free Agent
+,Ibou Badji,,2026-27,0,Free Agent
+,Ibou Badji,,2027-28,0,Free Agent
+,Ibou Badji,,2028-29,0,Free Agent
+,Juan Toscano-Anderson,,2023-24,447931,Guaranteed
+,Juan Toscano-Anderson,,2024-25,0,Free Agent
+,Juan Toscano-Anderson,,2025-26,0,Free Agent
+,Juan Toscano-Anderson,,2026-27,0,Free Agent
+,Juan Toscano-Anderson,,2027-28,0,Free Agent
+,Juan Toscano-Anderson,,2028-29,0,Free Agent
+,Duane Washington Jr,,2023-24,443965,Two-Way
+,Duane Washington Jr,,2024-25,0,Free Agent
+,Duane Washington Jr,,2025-26,0,Free Agent
+,Duane Washington Jr,,2026-27,0,Free Agent
+,Duane Washington Jr,,2027-28,0,Free Agent
+,Duane Washington Jr,,2028-29,0,Free Agent
+,Jules Bernard,,2023-24,415011,Two-Way
+,Jules Bernard,,2024-25,0,Free Agent
+,Jules Bernard,,2025-26,0,Free Agent
+,Jules Bernard,,2026-27,0,Free Agent
+,Jules Bernard,,2027-28,0,Free Agent
+,Jules Bernard,,2028-29,0,Free Agent
+,Jontay Porter,,2023-24,411794,Two-Way
+,Jontay Porter,,2024-25,0,Free Agent
+,Jontay Porter,,2025-26,0,Free Agent
+,Jontay Porter,,2026-27,0,Free Agent
+,Jontay Porter,,2027-28,0,Free Agent
+,Jontay Porter,,2028-29,0,Free Agent
+,Jaylen Nowell,,2023-24,398160,Guaranteed
+,Jaylen Nowell,,2024-25,0,Free Agent
+,Jaylen Nowell,,2025-26,0,Free Agent
+,Jaylen Nowell,,2026-27,0,Free Agent
+,Jaylen Nowell,,2027-28,0,Free Agent
+,Jaylen Nowell,,2028-29,0,Free Agent
+,Drew Peterson,,2023-24,395708,Two-Way
+,Drew Peterson,,2024-25,0,Free Agent
+,Drew Peterson,,2025-26,0,Free Agent
+,Drew Peterson,,2026-27,0,Free Agent
+,Drew Peterson,,2027-28,0,Free Agent
+,Drew Peterson,,2028-29,0,Free Agent
+,Nathan Mensah,,2023-24,395708,Guaranteed
+,Nathan Mensah,,2024-25,0,Free Agent
+,Nathan Mensah,,2025-26,0,Free Agent
+,Nathan Mensah,,2026-27,0,Free Agent
+,Nathan Mensah,,2027-28,0,Free Agent
+,Nathan Mensah,,2028-29,0,Free Agent
+,David Duke,,2023-24,395708,Two-Way
+,David Duke,,2024-25,0,Free Agent
+,David Duke,,2025-26,0,Free Agent
+,David Duke,,2026-27,0,Free Agent
+,David Duke,,2027-28,0,Free Agent
+,David Duke,,2028-29,0,Free Agent
+,Henri Drell,,2023-24,389274,Two-Way
+,Henri Drell,,2024-25,0,Free Agent
+,Henri Drell,,2025-26,0,Free Agent
+,Henri Drell,,2026-27,0,Free Agent
+,Henri Drell,,2027-28,0,Free Agent
+,Henri Drell,,2028-29,0,Free Agent
+1641788.0,Alex Fudge,DAL,2023-24,376405,Two-Way
+1641788.0,Alex Fudge,DAL,2024-25,584388,Two-Way
+1641788.0,Alex Fudge,DAL,2025-26,0,Free Agent
+1641788.0,Alex Fudge,DAL,2026-27,0,Free Agent
+1641788.0,Alex Fudge,DAL,2027-28,0,Free Agent
+1641788.0,Alex Fudge,DAL,2028-29,0,Free Agent
+,Vit Krejci,,2023-24,369971,Two-Way
+,Vit Krejci,,2024-25,0,Free Agent
+,Vit Krejci,,2025-26,0,Free Agent
+,Vit Krejci,,2026-27,0,Free Agent
+,Vit Krejci,,2027-28,0,Free Agent
+,Vit Krejci,,2028-29,0,Free Agent
+,Brandon Williams,,2023-24,350668,Two-Way
+,Brandon Williams,,2024-25,0,Free Agent
+,Brandon Williams,,2025-26,0,Free Agent
+,Brandon Williams,,2026-27,0,Free Agent
+,Brandon Williams,,2027-28,0,Free Agent
+,Brandon Williams,,2028-29,0,Free Agent
+,Trey Jemison,,2023-24,341017,Two-Way
+,Trey Jemison,,2024-25,584388,Two-Way
+,Trey Jemison,,2025-26,0,Free Agent
+,Trey Jemison,,2026-27,0,Free Agent
+,Trey Jemison,,2027-28,0,Free Agent
+,Trey Jemison,,2028-29,0,Free Agent
+,Jason Preston,,2023-24,315280,Two-Way
+,Jason Preston,,2024-25,584388,Two-Way
+,Jason Preston,,2025-26,0,Free Agent
+,Jason Preston,,2026-27,0,Free Agent
+,Jason Preston,,2027-28,0,Free Agent
+,Jason Preston,,2028-29,0,Free Agent
+,Nerlens Noel,,2023-24,300000,Guaranteed
+,Nerlens Noel,,2024-25,0,Free Agent
+,Nerlens Noel,,2025-26,0,Free Agent
+,Nerlens Noel,,2026-27,0,Free Agent
+,Nerlens Noel,,2027-28,0,Free Agent
+,Nerlens Noel,,2028-29,0,Free Agent
+,Tosan Evbuomwan,,2023-24,295977,Two-Way
+,Tosan Evbuomwan,,2024-25,584388,Two-Way
+,Tosan Evbuomwan,,2025-26,0,Free Agent
+,Tosan Evbuomwan,,2026-27,0,Free Agent
+,Tosan Evbuomwan,,2027-28,0,Free Agent
+,Tosan Evbuomwan,,2028-29,0,Free Agent
+,Scottie Pippen Jr,,2023-24,289542,Two-Way
+,Scottie Pippen Jr,,2024-25,584388,Two-Way
+,Scottie Pippen Jr,,2025-26,0,Free Agent
+,Scottie Pippen Jr,,2026-27,0,Free Agent
+,Scottie Pippen Jr,,2027-28,0,Free Agent
+,Scottie Pippen Jr,,2028-29,0,Free Agent
+,Malcolm Hill,,2023-24,286583,Two-Way
+,Malcolm Hill,,2024-25,584388,Two-Way
+,Malcolm Hill,,2025-26,0,Free Agent
+,Malcolm Hill,,2026-27,0,Free Agent
+,Malcolm Hill,,2027-28,0,Free Agent
+,Malcolm Hill,,2028-29,0,Free Agent
+,Ashton Hagans,,2023-24,270841,Two-Way
+,Ashton Hagans,,2024-25,0,Free Agent
+,Ashton Hagans,,2025-26,0,Free Agent
+,Ashton Hagans,,2026-27,0,Free Agent
+,Ashton Hagans,,2027-28,0,Free Agent
+,Ashton Hagans,,2028-29,0,Free Agent
+,Jeff Dowtin,,2023-24,269237,Guaranteed
+,Jeff Dowtin,,2024-25,2196970,Team Option
+,Jeff Dowtin,,2025-26,0,Free Agent
+,Jeff Dowtin,,2026-27,0,Free Agent
+,Jeff Dowtin,,2027-28,0,Free Agent
+,Jeff Dowtin,,2028-29,0,Free Agent
+,Didi Louzada,,2023-24,268032,Guaranteed
+,Didi Louzada,,2024-25,268032,Guaranteed
+,Didi Louzada,,2025-26,268032,Guaranteed
+,Didi Louzada,,2026-27,268032,Guaranteed
+,Didi Louzada,,2027-28,268032,Guaranteed
+,Didi Louzada,,2028-29,0,Free Agent
+,Javonte Green,,2023-24,261293,Guaranteed
+,Javonte Green,,2024-25,0,Free Agent
+,Javonte Green,,2025-26,0,Free Agent
+,Javonte Green,,2026-27,0,Free Agent
+,Javonte Green,,2027-28,0,Free Agent
+,Javonte Green,,2028-29,0,Free Agent
+,Justin Champagnie,,2023-24,254412,Two-Way
+,Justin Champagnie,,2024-25,584388,Two-Way
+,Justin Champagnie,,2025-26,0,Free Agent
+,Justin Champagnie,,2026-27,0,Free Agent
+,Justin Champagnie,,2027-28,0,Free Agent
+,Justin Champagnie,,2028-29,0,Free Agent
+,Jaylen Martin,,2023-24,249766,Two-Way
+,Jaylen Martin,,2024-25,584388,Two-Way
+,Jaylen Martin,,2025-26,0,Free Agent
+,Jaylen Martin,,2026-27,0,Free Agent
+,Jaylen Martin,,2027-28,0,Free Agent
+,Jaylen Martin,,2028-29,0,Free Agent
+,Pete Nance,,2023-24,244503,Guaranteed
+,Pete Nance,,2024-25,0,Free Agent
+,Pete Nance,,2025-26,0,Free Agent
+,Pete Nance,,2026-27,0,Free Agent
+,Pete Nance,,2027-28,0,Free Agent
+,Pete Nance,,2028-29,0,Free Agent
+1629623.0,Lindell Wigginton,,2023-24,244502,Guaranteed
+1629623.0,Lindell Wigginton,,2024-25,0,Free Agent
+1629623.0,Lindell Wigginton,,2025-26,0,Free Agent
+1629623.0,Lindell Wigginton,,2026-27,0,Free Agent
+1629623.0,Lindell Wigginton,,2027-28,0,Free Agent
+1629623.0,Lindell Wigginton,,2028-29,0,Free Agent
+1629717.0,Armoni Brooks,,2023-24,241285,Guaranteed
+1629717.0,Armoni Brooks,,2024-25,0,Free Agent
+1629717.0,Armoni Brooks,,2025-26,0,Free Agent
+1629717.0,Armoni Brooks,,2026-27,0,Free Agent
+1629717.0,Armoni Brooks,,2027-28,0,Free Agent
+1629717.0,Armoni Brooks,,2028-29,0,Free Agent
+1641793.0,D'Moi Hodge,,2023-24,241285,Guaranteed
+1641793.0,D'Moi Hodge,,2024-25,0,Free Agent
+1641793.0,D'Moi Hodge,,2025-26,0,Free Agent
+1641793.0,D'Moi Hodge,,2026-27,0,Free Agent
+1641793.0,D'Moi Hodge,,2027-28,0,Free Agent
+1641793.0,D'Moi Hodge,,2028-29,0,Free Agent
+,Jahmi'us Ramsey,,2023-24,232150,Guaranteed
+,Jahmi'us Ramsey,,2024-25,0,Free Agent
+,Jahmi'us Ramsey,,2025-26,0,Free Agent
+,Jahmi'us Ramsey,,2026-27,0,Free Agent
+,Jahmi'us Ramsey,,2027-28,0,Free Agent
+,Jahmi'us Ramsey,,2028-29,0,Free Agent
+1641777.0,Charles Bediako,,2023-24,215548,Guaranteed
+1641777.0,Charles Bediako,,2024-25,0,Free Agent
+1641777.0,Charles Bediako,,2025-26,0,Free Agent
+1641777.0,Charles Bediako,,2026-27,0,Free Agent
+1641777.0,Charles Bediako,,2027-28,0,Free Agent
+1641777.0,Charles Bediako,,2028-29,0,Free Agent
+,Mason Jones,,2023-24,212331,Two-Way
+,Mason Jones,,2024-25,584388,Two-Way
+,Mason Jones,,2025-26,0,Free Agent
+,Mason Jones,,2026-27,0,Free Agent
+,Mason Jones,,2027-28,0,Free Agent
+,Mason Jones,,2028-29,0,Free Agent
+1641926.0,Dexter Dennis,,2023-24,212331,Guaranteed
+1641926.0,Dexter Dennis,,2024-25,0,Free Agent
+1641926.0,Dexter Dennis,,2025-26,0,Free Agent
+1641926.0,Dexter Dennis,,2026-27,0,Free Agent
+1641926.0,Dexter Dennis,,2027-28,0,Free Agent
+1641926.0,Dexter Dennis,,2028-29,0,Free Agent
+,Alondes Williams,,2023-24,212331,Two-Way
+,Alondes Williams,,2024-25,0,Free Agent
+,Alondes Williams,,2025-26,0,Free Agent
+,Alondes Williams,,2026-27,0,Free Agent
+,Alondes Williams,,2027-28,0,Free Agent
+,Alondes Williams,,2028-29,0,Free Agent
+,DeJon Jarreau,,2023-24,207100,Guaranteed
+,DeJon Jarreau,,2024-25,0,Free Agent
+,DeJon Jarreau,,2025-26,0,Free Agent
+,DeJon Jarreau,,2026-27,0,Free Agent
+,DeJon Jarreau,,2027-28,0,Free Agent
+,DeJon Jarreau,,2028-29,0,Free Agent
+,Zavier Simpson,,2023-24,207100,Guaranteed
+,Zavier Simpson,,2024-25,0,Free Agent
+,Zavier Simpson,,2025-26,0,Free Agent
+,Zavier Simpson,,2026-27,0,Free Agent
+,Zavier Simpson,,2027-28,0,Free Agent
+,Zavier Simpson,,2028-29,0,Free Agent
+,Adam Flagler,,2023-24,205897,Two-Way
+,Adam Flagler,,2024-25,584388,Two-Way
+,Adam Flagler,,2025-26,0,Free Agent
+,Adam Flagler,,2026-27,0,Free Agent
+,Adam Flagler,,2027-28,0,Free Agent
+,Adam Flagler,,2028-29,0,Free Agent
+,DJ Carton,,2023-24,205897,Two-Way
+,DJ Carton,,2024-25,584388,Two-Way
+,DJ Carton,,2025-26,0,Free Agent
+,DJ Carton,,2026-27,0,Free Agent
+,DJ Carton,,2027-28,0,Free Agent
+,DJ Carton,,2028-29,0,Free Agent
+,Mouhamadou Gueye,,2023-24,199463,Two-Way
+,Mouhamadou Gueye,,2024-25,584388,Two-Way
+,Mouhamadou Gueye,,2025-26,0,Free Agent
+,Mouhamadou Gueye,,2026-27,0,Free Agent
+,Mouhamadou Gueye,,2027-28,0,Free Agent
+,Mouhamadou Gueye,,2028-29,0,Free Agent
+,Ja'Vonte Smart,,2023-24,196245,Guaranteed
+,Ja'Vonte Smart,,2024-25,0,Free Agent
+,Ja'Vonte Smart,,2025-26,0,Free Agent
+,Ja'Vonte Smart,,2026-27,0,Free Agent
+,Ja'Vonte Smart,,2027-28,0,Free Agent
+,Ja'Vonte Smart,,2028-29,0,Free Agent
+1641936.0,Miles Norris,,2023-24,193028,Guaranteed
+1641936.0,Miles Norris,,2024-25,0,Free Agent
+1641936.0,Miles Norris,,2025-26,0,Free Agent
+1641936.0,Miles Norris,,2026-27,0,Free Agent
+1641936.0,Miles Norris,,2027-28,0,Free Agent
+1641936.0,Miles Norris,,2028-29,0,Free Agent
+1631171.0,Justin Lewis,CHI,2023-24,173725,Guaranteed
+1631171.0,Justin Lewis,CHI,2024-25,0,Free Agent
+1631171.0,Justin Lewis,CHI,2025-26,0,Free Agent
+1631171.0,Justin Lewis,CHI,2026-27,0,Free Agent
+1631171.0,Justin Lewis,CHI,2027-28,0,Free Agent
+1631171.0,Justin Lewis,CHI,2028-29,0,Free Agent
+,Jamaree Bouyea,,2023-24,170801,Guaranteed
+,Jamaree Bouyea,,2024-25,584388,Guaranteed
+,Jamaree Bouyea,,2025-26,0,Free Agent
+,Jamaree Bouyea,,2026-27,0,Free Agent
+,Jamaree Bouyea,,2027-28,0,Free Agent
+,Jamaree Bouyea,,2028-29,0,Free Agent
+,Pat Spencer,,2023-24,170508,Two-Way
+,Pat Spencer,,2024-25,584388,Two-Way
+,Pat Spencer,,2025-26,0,Free Agent
+,Pat Spencer,,2026-27,0,Free Agent
+,Pat Spencer,,2027-28,0,Free Agent
+,Pat Spencer,,2028-29,0,Free Agent
+,Buddy Boeheim,,2023-24,167291,Two-Way
+,Buddy Boeheim,,2024-25,0,Free Agent
+,Buddy Boeheim,,2025-26,0,Free Agent
+,Buddy Boeheim,,2026-27,0,Free Agent
+,Buddy Boeheim,,2027-28,0,Free Agent
+,Buddy Boeheim,,2028-29,0,Free Agent
+1641811.0,Sir'Jabari Rice,,2023-24,167291,Guaranteed
+1641811.0,Sir'Jabari Rice,,2024-25,0,Free Agent
+1641811.0,Sir'Jabari Rice,,2025-26,0,Free Agent
+1641811.0,Sir'Jabari Rice,,2026-27,0,Free Agent
+1641811.0,Sir'Jabari Rice,,2027-28,0,Free Agent
+1641811.0,Sir'Jabari Rice,,2028-29,0,Free Agent
+,Justise Winslow,,2023-24,166176,Guaranteed
+,Justise Winslow,,2024-25,0,Free Agent
+,Justise Winslow,,2025-26,0,Free Agent
+,Justise Winslow,,2026-27,0,Free Agent
+,Justise Winslow,,2027-28,0,Free Agent
+,Justise Winslow,,2028-29,0,Free Agent
+,Andrew Funk,,2023-24,160857,Two-Way
+,Andrew Funk,,2024-25,584388,Two-Way
+,Andrew Funk,,2025-26,0,Free Agent
+,Andrew Funk,,2026-27,0,Free Agent
+,Andrew Funk,,2027-28,0,Free Agent
+,Andrew Funk,,2028-29,0,Free Agent
+1630233.0,Nathan Knight,MIN,2023-24,160857,Guaranteed
+1630233.0,Nathan Knight,MIN,2024-25,0,Free Agent
+1630233.0,Nathan Knight,MIN,2025-26,0,Free Agent
+1630233.0,Nathan Knight,MIN,2026-27,0,Free Agent
+1630233.0,Nathan Knight,MIN,2027-28,0,Free Agent
+1630233.0,Nathan Knight,MIN,2028-29,0,Free Agent
+,Ron Harper Jr,,2023-24,147988,Guaranteed
+,Ron Harper Jr,,2024-25,0,Free Agent
+,Ron Harper Jr,,2025-26,0,Free Agent
+,Ron Harper Jr,,2026-27,0,Free Agent
+,Ron Harper Jr,,2027-28,0,Free Agent
+,Ron Harper Jr,,2028-29,0,Free Agent
+,John Butler,,2023-24,147988,Guaranteed
+,John Butler,,2024-25,0,Free Agent
+,John Butler,,2025-26,0,Free Agent
+,John Butler,,2026-27,0,Free Agent
+,John Butler,,2027-28,0,Free Agent
+,John Butler,,2028-29,0,Free Agent
+,Shaquille Harrison,,2023-24,145301,Guaranteed
+,Shaquille Harrison,,2024-25,0,Free Agent
+,Shaquille Harrison,,2025-26,0,Free Agent
+,Shaquille Harrison,,2026-27,0,Free Agent
+,Shaquille Harrison,,2027-28,0,Free Agent
+,Shaquille Harrison,,2028-29,0,Free Agent
+,Justin Jackson,,2023-24,145301,Guaranteed
+,Justin Jackson,,2024-25,0,Free Agent
+,Justin Jackson,,2025-26,0,Free Agent
+,Justin Jackson,,2026-27,0,Free Agent
+,Justin Jackson,,2027-28,0,Free Agent
+,Justin Jackson,,2028-29,0,Free Agent
+,Jaylin Galloway,,2023-24,141554,Two-Way
+,Jaylin Galloway,,2024-25,584388,Two-Way
+,Jaylin Galloway,,2025-26,0,Free Agent
+,Jaylin Galloway,,2026-27,0,Free Agent
+,Jaylin Galloway,,2027-28,0,Free Agent
+,Jaylin Galloway,,2028-29,0,Free Agent
+,RaiQuan Gray,,2023-24,141554,Two-Way
+,RaiQuan Gray,,2024-25,584388,Two-Way
+,RaiQuan Gray,,2025-26,0,Free Agent
+,RaiQuan Gray,,2026-27,0,Free Agent
+,RaiQuan Gray,,2027-28,0,Free Agent
+,RaiQuan Gray,,2028-29,0,Free Agent
+,Quenton Jackson,,2023-24,135120,Two-Way
+,Quenton Jackson,,2024-25,0,Free Agent
+,Quenton Jackson,,2025-26,0,Free Agent
+,Quenton Jackson,,2026-27,0,Free Agent
+,Quenton Jackson,,2027-28,0,Free Agent
+,Quenton Jackson,,2028-29,0,Free Agent
+,DJ Wilson,,2023-24,134863,Guaranteed
+,DJ Wilson,,2024-25,0,Free Agent
+,DJ Wilson,,2025-26,0,Free Agent
+,DJ Wilson,,2026-27,0,Free Agent
+,DJ Wilson,,2027-28,0,Free Agent
+,DJ Wilson,,2028-29,0,Free Agent
+,Hamidou Diallo,,2023-24,134863,Guaranteed
+,Hamidou Diallo,,2024-25,0,Free Agent
+,Hamidou Diallo,,2025-26,0,Free Agent
+,Hamidou Diallo,,2026-27,0,Free Agent
+,Hamidou Diallo,,2027-28,0,Free Agent
+,Hamidou Diallo,,2028-29,0,Free Agent
+,Matthew Hurt,,2023-24,128686,Guaranteed
+,Matthew Hurt,,2024-25,0,Free Agent
+,Matthew Hurt,,2025-26,0,Free Agent
+,Matthew Hurt,,2026-27,0,Free Agent
+,Matthew Hurt,,2027-28,0,Free Agent
+,Matthew Hurt,,2028-29,0,Free Agent
+,Maozinha Pereira,,2023-24,128685,Guaranteed
+,Maozinha Pereira,,2024-25,0,Free Agent
+,Maozinha Pereira,,2025-26,0,Free Agent
+,Maozinha Pereira,,2026-27,0,Free Agent
+,Maozinha Pereira,,2027-28,0,Free Agent
+,Maozinha Pereira,,2028-29,0,Free Agent
+,Wenyen Gabriel,,2023-24,124425,Guaranteed
+,Wenyen Gabriel,,2024-25,0,Free Agent
+,Wenyen Gabriel,,2025-26,0,Free Agent
+,Wenyen Gabriel,,2026-27,0,Free Agent
+,Wenyen Gabriel,,2027-28,0,Free Agent
+,Wenyen Gabriel,,2028-29,0,Free Agent
+,Kobi Simmons,,2023-24,120250,Guaranteed
+,Kobi Simmons,,2024-25,0,Free Agent
+,Kobi Simmons,,2025-26,0,Free Agent
+,Kobi Simmons,,2026-27,0,Free Agent
+,Kobi Simmons,,2027-28,0,Free Agent
+,Kobi Simmons,,2028-29,0,Free Agent
+,Zhaire Smith,,2023-24,116075,Guaranteed
+,Zhaire Smith,,2024-25,0,Free Agent
+,Zhaire Smith,,2025-26,0,Free Agent
+,Zhaire Smith,,2026-27,0,Free Agent
+,Zhaire Smith,,2027-28,0,Free Agent
+,Zhaire Smith,,2028-29,0,Free Agent
+,Sharife Cooper,,2023-24,103550,Guaranteed
+,Sharife Cooper,,2024-25,0,Free Agent
+,Sharife Cooper,,2025-26,0,Free Agent
+,Sharife Cooper,,2026-27,0,Free Agent
+,Sharife Cooper,,2027-28,0,Free Agent
+,Sharife Cooper,,2028-29,0,Free Agent
+,Demetrius Jackson,,2023-24,92857,Guaranteed
+,Demetrius Jackson,,2024-25,0,Free Agent
+,Demetrius Jackson,,2025-26,0,Free Agent
+,Demetrius Jackson,,2026-27,0,Free Agent
+,Demetrius Jackson,,2027-28,0,Free Agent
+,Demetrius Jackson,,2028-29,0,Free Agent
+,Malik Williams,,2023-24,77212,Guaranteed
+,Malik Williams,,2024-25,0,Free Agent
+,Malik Williams,,2025-26,0,Free Agent
+,Malik Williams,,2026-27,0,Free Agent
+,Malik Williams,,2027-28,0,Free Agent
+,Malik Williams,,2028-29,0,Free Agent
+,Taze Moore,,2023-24,70687,Guaranteed
+,Taze Moore,,2024-25,0,Free Agent
+,Taze Moore,,2025-26,0,Free Agent
+,Taze Moore,,2026-27,0,Free Agent
+,Taze Moore,,2027-28,0,Free Agent
+,Taze Moore,,2028-29,0,Free Agent
+,Timmy Allen,,2023-24,64343,Guaranteed
+,Timmy Allen,,2024-25,0,Free Agent
+,Timmy Allen,,2025-26,0,Free Agent
+,Timmy Allen,,2026-27,0,Free Agent
+,Timmy Allen,,2027-28,0,Free Agent
+,Timmy Allen,,2028-29,0,Free Agent
+,Izaiah Brockington,,2023-24,64343,Guaranteed
+,Izaiah Brockington,,2024-25,0,Free Agent
+,Izaiah Brockington,,2025-26,0,Free Agent
+,Izaiah Brockington,,2026-27,0,Free Agent
+,Izaiah Brockington,,2027-28,0,Free Agent
+,Izaiah Brockington,,2028-29,0,Free Agent
+,Jalen Crutcher,,2023-24,64343,Guaranteed
+,Jalen Crutcher,,2024-25,0,Free Agent
+,Jalen Crutcher,,2025-26,0,Free Agent
+,Jalen Crutcher,,2026-27,0,Free Agent
+,Jalen Crutcher,,2027-28,0,Free Agent
+,Jalen Crutcher,,2028-29,0,Free Agent
+,Taevion Kinsey,,2023-24,64343,Guaranteed
+,Taevion Kinsey,,2024-25,0,Free Agent
+,Taevion Kinsey,,2025-26,0,Free Agent
+,Taevion Kinsey,,2026-27,0,Free Agent
+,Taevion Kinsey,,2027-28,0,Free Agent
+,Taevion Kinsey,,2028-29,0,Free Agent
+,Edmond Sumner,,2023-24,40459,Guaranteed
+,Edmond Sumner,,2024-25,0,Free Agent
+,Edmond Sumner,,2025-26,0,Free Agent
+,Edmond Sumner,,2026-27,0,Free Agent
+,Edmond Sumner,,2027-28,0,Free Agent
+,Edmond Sumner,,2028-29,0,Free Agent
+1629232.0,Kaiser Gates,,2023-24,35389,Guaranteed
+1629232.0,Kaiser Gates,,2024-25,0,Free Agent
+1629232.0,Kaiser Gates,,2025-26,0,Free Agent
+1629232.0,Kaiser Gates,,2026-27,0,Free Agent
+1629232.0,Kaiser Gates,,2027-28,0,Free Agent
+1629232.0,Kaiser Gates,,2028-29,0,Free Agent
+,Dmytro Skapintsev,,2023-24,26322,Guaranteed
+,Dmytro Skapintsev,,2024-25,0,Free Agent
+,Dmytro Skapintsev,,2025-26,0,Free Agent
+,Dmytro Skapintsev,,2026-27,0,Free Agent
+,Dmytro Skapintsev,,2027-28,0,Free Agent
+,Dmytro Skapintsev,,2028-29,0,Free Agent
