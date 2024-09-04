@@ -32,6 +32,11 @@ NBA Free Agency is one of the most critical periods of the year for many organiz
 
 Our **objective** is to build NBA offseason dashboards to be used by GMs to evaluate potential offseason moves and initiatives for their respective teams.
 
+## Project Workflow
+
+![The technical processes for this project](./images/data_architecture.png)
+
+
 ## References
 
 Basketball-Reference was used to make this project viable, with various data sources from [depth charts](https://www.basketball-reference.com/teams/ATL/2024_depth.html), to player regular and [advanced statistics](https://www.basketball-reference.com/leagues/NBA_2024_per_game.html).
